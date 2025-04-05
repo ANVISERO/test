@@ -1,0 +1,29 @@
+<a href="?page=photoalbum"><img src="_adminfiles/button_tolist.gif" alt="Список папок" width="129" height="20" border="0"></a>
+<? 
+$id=$_GET['id'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_photofolders where id='$id'";
+$result=mysqli_query($link,$query);
+$folder_name=mysqli_result($result,0,1);
+$folder_date=mysqli_result($result,0,2);
+?>
+<form name="add" action="?page=photoalbum-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<?=$id;?>">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Название:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="name" value="<?=$folder_name;?>" class="names"></td>
+</tr>
+
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Дата:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="date" value="<?=$folder_date;?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

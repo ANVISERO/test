@@ -1,0 +1,38 @@
+<?
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+
+//Определение имени
+$query2="select * from for_temps where id='$test[$kol_del]'";
+$result2 = mysqli_query($link, $query2);
+$temp_name=mysqli_result($result2,0,1);
+
+$filefolder='templet/'.$temp_name;
+//Удаление файлов
+unlink($filefolder.'/cont.txt');
+unlink($filefolder.'/css.css');
+//Удаление каталогов
+rmdir($filefolder.'/_inc');
+rmdir($filefolder);
+
+//Удаление из базы
+$query="delete from for_temps where id='$test[$kol_del]'";
+$result = mysqli_query($link, $query);
+}
+}
+?>
+<script>
+self.location.href="?page=temps";
+</script>

@@ -1,0 +1,5 @@
+<?php
+//include($folder.'_admin/moduls/login_corporative/login.php');
+logout();
+echo("bye, bye!");
+?>

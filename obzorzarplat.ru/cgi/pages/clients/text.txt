@@ -1,0 +1,33 @@
+<a href="?page=content"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=articles-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>
+ 
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td height="20" valign="top">&nbsp;&nbsp;<strong>Клиент</strong></td>
+<td width="20" height="20" valign="top">&nbsp;</td>
+</tr>
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+$query="select * from for_clients order by title asc";
+$result=mysqli_query($link,$query);
+$chet=0;
+
+	while($row=mysqli_fetch_array($result))
+		{
+//		$chet++;
+		$status = ($row["active"]) ? 'diz_14' : 'diz_15'; ?>
+
+<tr <?=$str1?>>
+	<td align="center" class="diz_26"><img src="_adminfiles/<?=$status?>.gif"></td>
+	<td class="diz_26"><a href="?page=clients-red&id=<?=$row["id"]?>"><?=$row["title"]?></a></td>
+	<td align="center" class="diz_27"><a href="?page=clients-red&id=<?=$row["id"]?>"><img <?=$str4?> alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+
+<? } ?>
+
+</table>

@@ -1,0 +1,42 @@
+<a href="?page=temps"><img src="_adminfiles/button_tolist.gif" alt="Список шаблонов" width="129" height="20" border="0"></a>
+<?
+$id=$_GET["id"];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_temps where name='$id'";
+$result=mysqli_query($link,$query);
+$name=mysqli_result($result,0,0);
+$opis=mysqli_result($result,0,1);
+
+$filefolder='templet/'.$name;
+$cont=implode("", file($filefolder.'/cont.txt'));
+$css=implode("", file($filefolder.'/css.css'));
+?>
+
+
+<form name="del" method="post" action="?page=temps-upd">
+<input type="hidden" name="id" value='<? echo($id);?>'>
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Название:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<b><?=$name;?></b></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Описание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="text" class="names" name="opis" value="<?=$opis;?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Содержание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="cont"><?=$cont;?></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Таблица CSS:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="css"><?=$css;?></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

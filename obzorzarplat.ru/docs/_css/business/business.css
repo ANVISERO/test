@@ -1,0 +1,9 @@
+.business th{text-align:center; vertical-align:top; padding:4px; border-bottom:1px solid #e0e0e0;}
+.business td{text-align:left;  vertical-align:top; padding:4px; border-bottom:1px solid #e0e0e0; border-right:1px solid #e0e0e0;}
+.business h2{font: normal normal 400 1.2em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; border-bottom:1px solid rgb(204,204,204); padding-bottom:4px; margin-bottom:1.2em; font-weight:normal;}
+.business a.lk_h2{color:#c00;}
+.business a.lk1, .business a.lk1:visited{color:#000; border-bottom:1px solid #000; padding-bottom:1px; margin:5px; text-decoration:none;}
+.business a.lk1:hover{color:#c00; border-bottom:1px solid #c00; padding-bottom:2px; text-decoration:none;}
+.business a.lk2, .business a.lk2:visited{color:#c00; text-decoration:none;}
+.business a.lk2:hover{color:#000; text-decoration:none;}
+.business ul li{padding:4px; margin:2px;}

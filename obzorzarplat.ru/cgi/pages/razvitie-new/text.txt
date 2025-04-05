@@ -1,0 +1,14 @@
+<a href="?page=razvitie"><img src="_adminfiles/button_tolist.gif" alt="Возврат" width="129" height="20" border="0"></a>
+<form name="add" action="?page=razvitie-add" method="post" enctype="multipart/form-data">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Наименование:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="name" value=""></td>
+  </tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

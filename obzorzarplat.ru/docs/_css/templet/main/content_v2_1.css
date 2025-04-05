@@ -1,0 +1,283 @@
+.content{width:100%;}
+table{border-collapse: collapse;}
+table td{padding: 5px 10px;}
+
+#salary_graf {
+    float: left;
+    width: 25%;
+    /*padding-top:70px;*/
+    padding-top: 4px;
+}
+#salary_graf a.lk1, #salary_graf a.lk1:visited{color:#c00; text-decoration:underline; font-style:italic;}
+#salary_graf a.lk1:hover{color:#000;}
+h3{text-align:left; margin:0 4px; padding-left:10px; font-size:100%; color:#000; padding-bottom:2px;}
+
+div a.title_h3, div a.title_h3:visited{color:#808080; text-decoration:none; font-size:100%; text-align:left;}
+div a.title_h3:hover{color:#c00; text-decoration:none;}
+
+/* jquery JCarousel for sliding clients */
+.jcarousel-skin-tango .jcarousel-container {
+    background: #fff;
+    border: 1px solid silver;
+-o-border-radius:8px;
+-icab-border-radius:8px;
+-khtml-border-radius:8px;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+}
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    /*width: 245px;*/
+    padding: 20px 40px;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width:  245px;
+    height: 75px;
+}
+
+.jcarousel-skin-tango .jcarousel-item {
+    width: 75px;
+    height: 75px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+    margin-right: 10px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 43px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(http://sorgalla.com/projects/jcarousel/skins/tango/next-horizontal.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover {
+    background-position: -32px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:active {
+    background-position: -64px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:active {
+    cursor: default;
+    background-position: -96px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 43px;
+    left: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(http://sorgalla.com/projects/jcarousel/skins/tango/prev-horizontal.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover {
+    background-position: -32px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active {
+    background-position: -64px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active {
+    cursor: default;
+    background-position: -96px 0;
+}
+
+
+/**
+ * Overwrite for having a carousel with dynamic width.
+ */
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    height:75px;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width: 100%;
+}
+
+#mycarousel {height:75px;}
+#mycarousel li{position:relative; float:left; top:5px;
+   list-style:none; margin:auto 2px;}
+
+#mycarousel img{
+    border:0;
+    max-height:65px;
+    max-width: 91px;
+    height:auto;
+    width: auto;
+}
+
+/*Anything slider*/
+.anythingSlider                         { width: 921px; height: 360px; margin:0 auto; border: 1px solid silver;
+                                          border-bottom:none;
+                                         -webkit-border-top-right-radius: 5px;
+-webkit-border-top-left-radius: 5px;
+-moz-border-radius-topright: 5px;
+-moz-border-radius-topleft: 5px;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;}
+.anythingSlider .wrapper1                { width: 921px; overflow: hidden; height: 100%;
+                          position: relative; top: 0px; left:0px;}
+
+                                        /* Width below is max for Opera */
+.anythingSlider .wrapper1 ul             { width: 5526px; list-style: none; position: absolute; top: 0; left: 0;
+                          margin: 0;  height:100%;}
+.anythingSlider .wrapper1 ul li          { display: block; float: left; padding: 0px 5px;
+                          height: 100%; width: 911px; margin: 0; }
+/*
+.anythingSlider .arrow                  { display: block; height: 200px; width: 67px; background:#fff url(http://css-tricks.com/examples/AnythingSlider/images/arrows.png) no-repeat 0 0; text-indent: -9999px; position: absolute; top: 100px; cursor: pointer; }
+.anythingSlider .forward                { background-position: 0 0; right: -30px; }
+.anythingSlider .back                   { background-position: -67px 0; left: -30px; }
+.anythingSlider .forward:hover          { background-position: 0 -200px; }
+.anythingSlider .back:hover             { background-position: -67px -200px; }
+*/
+.thumbNav                               { z-index: 10; position:relative; float: right; top:10px; right:10px;
+                                          margin-bottom: -40px;}
+.thumbNav li                            { display: inline; padding:2px; margin:0 2px 0 0;}
+.thumbNav a                             { color: gray; font: 11px/18px Georgia, Serif; display: inline-block;
+                                          height:18px; width: 18px;
+                                         padding:0px; margin: 0px; background: #fff; text-align: center;
+                                         border:1px solid gray;
+                                         -webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px; }
+.thumbNav a.cur, .thumbNav a:hover      { background: #f00; color:#fff; border:1px solid #f00;}
+
+.start-stop {display:none;}
+
+/*
+  Prevents
+*/
+.anythingSlider .wrapper1 ul ul          { position: static; margin: 0; background: none;
+                          overflow: visible; width: auto; border: 0; }
+.anythingSlider .wrapper1 ul ul li       { float: none; height: auto; width: auto; background: none; }
+
+/*
+    For Specific Slides
+*/
+.anythingSlider .wrapper1 ul li ul.inline-4,.anythingSlider .wrapper1 ul li ul.inline-2{
+    width: 100%; padding: 0px; margin: 0px; height: auto;
+}
+.anythingSlider .wrapper1 ul li ul.inline-4 li{list-style-type: none; position: relative; float: left;
+            width: 25%; padding: 0px; text-align: center;}
+.anythingSlider .wrapper1 ul li ul.inline-4 li img{width:64px; height:64px;}
+.anythingSlider .wrapper1 ul li ul.inline-2 li{list-style-type: none; position: relative; float: left;
+            width: 50%; padding: 0px; margin: 0px;line-height: 16px;}
+.anythingSlider .wrapper1 ul li ul.inline-2 li img{width:20px; height:20px;}
+
+.anythingSlider .wrapper1 ul li #personal-report{
+    position: relative; float:right; width: 20%;
+    background-color: #DAE1E8;
+    -webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+    padding: 5px; margin-left: -180px;
+}
+
+#salary-on-main span.not_link{color:gray; font-size:80%;}
+#salary-on-main select.text_1{padding-left:5px; font-weight:normal; background-color:#fff; border:2px solid silver; width:400px; height:30px;}
+
+
+/* Services slide */
+#services{background: url('/_img/main/289.jpg') no-repeat 15% 100%;}
+#services dl dt{font-weight: bold;}
+#services dl a, #services dl a:visited{color:#808080;}
+#services dl a:hover{color:#f00;}
+
+/* Club Kochubey slide */
+#clubkochubey{background: url('http://clubkochubey.ru/images/logo.png') no-repeat 95% 95%;}
+#clubkochubey a, #clubkochubey a:visited{color: #2C5853;}
+#clubkochubey a:hover{color: #f00;}
+#clubkochubey img{height:100px;}
+
+.attention-image{position:relative; float: left;}
+
+#newsletter {
+    width: 921px; margin:0 auto;
+    border: 1px solid silver;
+    background:  #dcdcdc;
+    -webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-moz-border-radius-bottomright: 5px;
+-moz-border-radius-bottomleft: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+div#newsletter ul#news1{width: 721px; height:24px; margin:10px 0px;}
+div#newsletter ul#news1 li{list-style-type:none; height:20px; padding:2px;}
+div#newsletter div#news-menu{position: relative; float: right; text-align: right; width: 200px; height:24px; margin-bottom:-34px; margin-top: 10px; padding:2px 5px;}
+div#newsletter div#news-menu a, div#newsletter div#news-menu a:visited{position:relative; bottom:50%;color:#000;}
+div#newsletter div#news-menu a:hover{color:#f00;}
+div#newsletter div#news-menu a img{position: relative; top:50%;}
+
+.submit{
+    font-size:1.3em;
+    color:#fff;
+    padding:10px;
+    margin:5px;
+    text-align:center;
+    border:1px solid #9ACD32;
+    -webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+    font-weight:bold; 
+    background:#9ACD32;
+    cursor:pointer;
+}
+
+#second-line-blocks {list-style-type: none; width: 100%; color:#808080;}
+#second-line-blocks li{position: relative; float: left; width: 25%;}
+#second-line-blocks li dl{padding: 0px 5px;}
+#second-line-blocks li dl dt{color:#36638E;}
+#second-line-blocks li dl a,#second-line-blocks li dl a:visited{color:#808080;}
+#second-line-blocks li dl a:hover{color:#f00;}
+
+#consumer-basket{cursor: pointer;}
+
+#third-line-blocks {list-style-type: none; width: 100%;}
+#third-line-blocks li {position: relative; float: left;}
+#third-line-blocks li#job-search,#third-line-blocks li#comments {width: 25%;}
+#third-line-blocks li#clients {width: 50%;}
+
+#third-line-blocks li#job-search table{
+    text-align:center;width:90%;margin:0px auto;border: 0px;
+}
+#third-line-blocks li#job-search input.input-text{width: 90%;}
+
+#comments-body{width:90%; margin: 0px auto; padding:5px;
+               background-color: #98FB98; border:1px solid #98FB98;
+               -o-border-radius:8px;
+-icab-border-radius:8px;
+-khtml-border-radius:8px;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+}
+
+#comments-body a, #comments-body a:visited{color:#000;}
+#comments-body a:hover{color:#f00;}
+#comments-body img{height:100px;}
+
+.image-left{position: relative;float:left; margin:5px;}

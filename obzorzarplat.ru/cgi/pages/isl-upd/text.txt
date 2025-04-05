@@ -1,0 +1,39 @@
+<?php
+//сбор данных
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$id = $_POST['id'];
+if ($id) {
+$survey_type_id = $_POST["survey_type_id"];
+$name = $_POST["name"];
+$description = $_POST["description"];
+$price = $_POST["price"];
+$active = $_POST["active"];
+$reqions = $_POST["regions"];
+$jobs = $_POST["jobs"];
+
+mysqli_query($link,"UPDATE for_surveys SET 
+survey_type_id = '$survey_type_id',
+    name = '$name', 
+        description = '$description', 
+            price = '$price', 
+                active ='$active' WHERE id = '$id' LIMIT 1 " ,) or die(mysql_error());
+
+
+
+mysqli_query($link,"DELETE FROM for_survey_cities WHERE survey_id = '$id'");
+foreach($reqions as $rg){
+    mysqli_query($link,"insert into for_survey_cities(survey_id, city_id) VALUES('$id', '$rg')");
+}
+
+mysqli_query($link,"DELETE FROM for_survey_jobs WHERE survey_id = '$id'");
+foreach($jobs as $jb){
+    mysqli_query($link,"insert into for_survey_jobs(survey_id, job_id) VALUES('$id', '$jb')");
+}
+}
+?>
+<script>
+self.location.href='?page=isl';
+</script>

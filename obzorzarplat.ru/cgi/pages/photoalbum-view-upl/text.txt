@@ -1,0 +1,47 @@
+<?
+//Получение данных
+$id=$_POST["id"];
+$date=date('Y-m-d');
+$uploaddir="elements/photofolders/$id/";
+$uploaddir2="elements/photofolders/$id/preview/";
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+//Количество фото в папке
+$col_photo=mysqli_num_rows(mysqli_query($link,"select * from for_photofiles where folder='$id'"));
+
+//Загрузка файлов в папку
+$num=$col_photo;
+for($ii=1; $ii<=10; $ii++)
+{
+if(file_exists($_FILES['file_'.$ii] ['tmp_name']))
+{
+$num++;
+$photo= $date.'_'.$num.'.jpg';
+move_uploaded_file($_FILES['file_'.$ii] ['tmp_name'], $uploaddir . $photo);
+//Создание иконки
+copy($uploaddir.$photo, $uploaddir2.$photo);
+
+$file=$uploaddir2.$photo;
+$src_img=ImageCreateFromJpeg("$file");
+$src_width=ImagesX($src_img);
+$src_height=ImagesY($src_img);
+$height=80;
+$dest_width=$src_width/($src_height/$height);
+$dest_height="$height";
+$quality="80";
+
+$dest_img=ImageCreateTrueColor($dest_width, $dest_height);
+ImageCopyResampled($dest_img, $src_img, 0, 0, 0, 0, $dest_width, $dest_height, $src_width, $src_height);
+ImageJpeg($dest_img, $file, $quality);
+ImageDestroy($dest_img);
+
+//Запись в базу
+$result=mysqli_query($link,"insert into for_photofiles value ('$id','$photo','$num')");
+}
+}
+
+?>
+
+<script>
+self.location.href='?page=photoalbum-view&id=<?=$id;?>';
+</script>

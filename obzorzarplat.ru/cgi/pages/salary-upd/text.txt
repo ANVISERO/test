@@ -1,0 +1,75 @@
+<?
+//сбор данных
+$id=$_POST["id"];
+$date=$_POST["date"];
+$job_name=$_POST["job_name"];
+$salary_all=$_POST["salary_all"];
+$anons=stripslashes($_POST["anons"]);
+$info=stripslashes($_POST["info"]);
+$job_description=stripslashes($_POST["job_description"]);
+$salary_avg=stripslashes($_POST["salary_avg"]);
+
+if(isset($_POST["status"])){$status=1;}
+if(!isset($_POST["status"])){$status=0;}
+
+$lang=$_POST['lang'];
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="update for_salary SET `date` = '$date', `job_name` = '$job_name', `status` = '$status', `lang` = '$lang', `salary`='$salary_all' where `id`='$id'";
+$result=mysqli_query($link,$query);
+
+$filefolder='elements/salary/';
+//Обновление файлов
+
+$fullpath=$filefolder.$id.'_anons.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $anons);
+fclose ($file);
+
+$fullpath=$filefolder.$id.'_info.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $info);
+fclose ($file);
+
+$fullpath=$filefolder.$id.'_job_description.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $job_description);
+fclose ($file);
+
+$fullpath=$filefolder.$id.'_analitics.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $analitics);
+fclose ($file);
+
+$fullpath=$filefolder.$id.'_salary.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $salary_avg);
+fclose ($file);
+
+//Загрузка картинки
+if(file_exists($_FILES['small-photo'] ['tmp_name']))
+{
+
+$photo= $id.'.jpg';
+$uploaddir=$filefolder;
+move_uploaded_file($_FILES['small-photo'] ['tmp_name'], $uploaddir . $photo);
+$file=$filefolder.$id.'.jpg';
+$path_real=$file;
+$src_img=ImageCreateFromJpeg("$path_real");
+$src_width=ImagesX($src_img);
+$src_height=ImagesY($src_img);
+$dest_width="300";
+$dest_height="300";
+$quality="300";
+$dest_img=ImageCreateTrueColor($dest_width, $dest_height);
+ImageCopyResampled($dest_img, $src_img, 0, 0, 0, 0, $dest_width, $dest_height, $src_width, $src_height);
+ImageJpeg($dest_img, $file, $quality);
+ImageDestroy($dest_img);
+}
+
+?>
+<script>
+self.location.href='?page=salary';
+</script>

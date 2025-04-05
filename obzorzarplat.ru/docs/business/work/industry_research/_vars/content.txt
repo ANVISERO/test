@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="/_css/1job_lite/1job_lite.css" type="text/css">
+<div class="lite">
+<?php
+  $link = mysqli_connect($host,$user,$pass);
+  mysqli_select_db($link,$db);
+
+if(checkReport('4',)){
+
+  if(!isset($_GET["step"])){$step=1;}
+  if(isset($_GET["step"])){$step=$_GET["step"];}
+  include($folder.'_admin/moduls/reports/industry_research/industry_research-'.$step.'.php');
+}else{
+    echo('<p>Отчет недоступен.</p> <p>По вопросам продления действия договора обращайтесь к руководителю проекта - Сергею Николенко:
+            <br> телефон: +7 (812) 740 18 11
+            <br> email: <a href="mailto:tz@obzorzarplat.ru" class="lk1">tz@obzorzarplat.ru</a></p>');
+}
+?>
+</div>

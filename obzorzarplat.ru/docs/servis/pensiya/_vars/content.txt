@@ -1,0 +1,73 @@
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://jquery-ui.googlecode.com/svn/tags/latest/external/bgiframe/jquery.bgiframe.min.js" type="text/javascript"></script>
+<script src="http://jquery-ui.googlecode.com/svn/tags/latest/ui/minified/i18n/jquery-ui-i18n.min.js" type="text/javascript"></script>
+<script src="/_js/jquery.form.js" type="text/javascript"></script>
+<script src="/_js/jquery.example.js" type="text/javascript"></script>
+<script src="/_js/jquery/pension.js" type="text/javascript"></script>
+<link type="text/css" href="/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.all.css" rel="stylesheet" />
+<link rel="stylesheet" href="/_css/pension/pension.css" type="text/css">
+<div class="pension">
+<div class="img_left"><img src="/_img/services/pension/pension128x128.png" width="128" height="128" title="пенсия"></div>
+<p><b>Трудовая пенсия по старости</b> – это ежемесячная денежная выплата, назначаемая гражданам, достигшим установленного законом возраста
+и имеющих необходимый трудовой стаж, в целях компенсации им заработной платы или иного дохода,
+которые они получали в период трудовой деятельности.</p>
+<p>Право на трудовую пенсию имеют мужчины, достигшие возраста 60 лет, и женщины, достигшие возраста 55 лет.
+Трудовая пенсия по старости назначается при наличии не менее <b>пяти лет</b> страхового стажа.</p>
+<p>В страховой стаж включаются:
+        <ol>
+          <li>работа по трудовому договору; </li>
+          <li>государственная гражданская или муниципальная служба;</li>
+          <li>иная деятельность, в течение которой вы подлежали обязательному социальному страхованию на случай временной нетрудоспособности
+и в связи с материнством.</li>
+        </ol></p>
+<p>Согласно действующему пенсионному законодательству размер трудовой пенсии по старости складывается из
+<a href="#" id="strah_link" class="lk_info">страховой</a> и <a href="#" id="nakop_link" class="lk_info">накопительной</a> частей
+трудовой пенсии по старости.</p>
+
+<div class="ui-dialog-content info hide" title="Страховая часть трудовой пенсии по старости" id="strah_info">
+<h3>Страховая часть</h3>
+<p>Размер страховой части трудовой пенсии по старости определяется по формуле:</p>
+<p align="center"> <font color="#cc0000"><strong>СЧ = ПК / Т + Б</strong></font>, где</p>
+<p align="justify"><font color="#cc0000"><strong>СЧ</strong></font> -
+страховая часть трудовой пенсии по старости;<strong><br>
+<font color="#cc0000">ПК</font></strong> - сумма расчетного пенсионного капитала застрахованного лица, учтенного по состоянию на
+день, с которого указанному лицу назначается страховая часть трудовой пенсии по старости;<strong><br>
+<font color="#cc0000">Т</font> </strong>- количество месяцев ожидаемого периода выплаты трудовой пенсии по старости,
+применяемого для расчета страховой части указанной пенсии. При назначении в 2010 году он составляет 192 месяца;<strong><br>
+<font color="#cc0000">Б</font></strong> - фиксированный базовый размер страховой части трудовой пенсии по старости.</p>
+<p>По состоянию на 01.01.2010 общий фиксированный базовый размер страховой части трудовой пенсии по старости (Б) составляет
+<font color="#cc0000">2562 рубля</font> в месяц.</p>
+<p>Источник: <a href="http://www.pfrf.ru/labor_old_age_pension/" class="lk2" target="_blank">http://www.pfrf.ru/</a></p>
+</div>
+
+<div class="ui-dialog-content info hide" title="Накопительная часть трудовой пенсии по старости" id="nakop_info">
+<h3>Накопительная часть</h3>
+<p>Размер
+накопительной части трудовой пенсии по старости определяется по формуле: </p>
+<div align="center">
+<p><font color="#cc0000"> <strong>НЧ = ПН / Т</strong></font>, где</p></div>
+<p align="justify"><font color="#cc0000"><strong>НЧ</strong></font> - размер накопительной части
+трудовой пенсии<strong><br>
+<font color="#cc0000">ПН</font></strong> - сумма пенсионных накоплений
+застрахованного лица, учтенных в специальной части его индивидуального лицевого
+счета по состоянию на день, с которого ему назначается накопительная часть
+трудовой пенсии по старости;<strong><br>
+<font color="#cc0000">Т</font></strong> - количество месяцев ожидаемого
+периода выплаты трудовой пенсии по старости, применяемого для расчета страховой
+части указанной пенсии. При назначении пенсии в 2010 году - 192 месяца. </p>
+<p>Источник: <a href="http://www.pfrf.ru/labor_old_age_pension/" class="lk2" target="_blank">http://www.pfrf.ru/</a></p>
+</div>
+<h2>Приблизительный расчет будущей пенсии</h2>
+<?php
+if(!isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/services/pension/pension-form.php');
+}
+if(isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/services/pension/pension-echo.php');
+}
+?>
+
+<p>Раздел подготовлен на основе данных портала <a href="http://www.pfrf.ru/labor_old_age_pension/" class="lk2" target="_blank">http://www.pfrf.ru/</a></p>
+</div>

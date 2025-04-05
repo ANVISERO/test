@@ -1,0 +1,70 @@
+<style type="text/css">
+<!--
+p, ul, li {font-family: Verdana;}
+-->
+</style>
+
+<p>Версия на украинском языке временно находится в разработке. Приносим свои извинения за доставленные неудобства.</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+<td valign="top">
+<?
+if(!isset($_GET["step"]))
+{
+//include($folder.'_admin/moduls/zp-form.php');
+echo('
+<table width="100%" border="0">
+  <tr>
+    <td colspan="3" valign="top"><p><strong>Средняя зарплата</strong> в России составляет: </p>
+    <p><span class="grey"><img src="/_img/arr_01.gif" width="8" height="7" /></span> за II квартал 2009 года <b>23 217 рублей</b></p>
+    <p><span class="grey"><img src="/_img/arr_01.gif" width="8" height="7" /></span> за I полугодие 2009 года <b>23 487 рублей</b></p>
+    <p><span class="grey"><img src="/_img/arr_01.gif" width="8" height="7" /></span> за май 2009 года <b>23 450 рублей</b></p></td>
+    <td width="54%" colspan="3"  valign="top"><p><strong>Средняя зарплата</strong> в Санкт-Петербурге составляет:</p>      
+    <p><span class="grey"><img src="/_img/arr_01.gif" width="8" height="7" /></span> за II квартал 2009 года <b>24 176 рублей</b></p>
+    <p><span class="grey"><img src="/_img/arr_01.gif" width="8" height="7" /></span> за I полугодие 2009 года <b>24 120 рублей</b> </p>    
+    <p><span class="grey"><img src="/_img/arr_01.gif" width="8" height="7" /></span> за май 2009 года <b>27 584 рублей</b></p></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+<p>Заработные платы по должностям вы можете посмотреть ниже, выбрав должностную группу, должность и город.</p>
+');
+include($folder.'_admin/moduls/salary-form.php');
+echo('
+</td>
+<td width="200" valign="top" style="border-left:1px dashed #DBDBDB">
+');
+	
+include($folder.'_admin/moduls/resources1.php');
+
+echo('
+</td>
+');
+}
+
+if(isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/zp-find.php');
+echo('
+</td>
+<td width="200" valign="top" style="border-left:1px dashed #DBDBDB">
+');
+	
+include($folder.'_admin/moduls/resources0.php');
+
+echo('
+</td>
+');
+}
+?>
+
+</tr></table>

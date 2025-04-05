@@ -1,0 +1,4 @@
+<link href="/_css/nalog/nalog.css" rel="stylesheet" type="text/css">
+<div class="nalog">
+<?php include($folder.'_admin/moduls/services/nalog/nalog-form.php');?>
+</div>

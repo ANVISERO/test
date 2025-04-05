@@ -1,0 +1,44 @@
+<style type="text/css" title="currentStyle"> 
+	@import "http://www.obzorzarplat.ru/_css/demo_table.css";
+</style>
+<script type="text/javascript" src="http://www.obzorzarplat.ru/_js/jquery.dataTables.min.js"></script>
+<!-- script type="text/javascript" src="http://www.obzorzarplat.ru/_js/jquery/pagination-people.js"></script -->
+
+
+<a href="?page=base"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=isl-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>
+
+<table id="isls" name="isls" width="100%">
+<thead>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td valign="top"><strong>Название</strong></td>
+<td valign="top"><strong>Дата начала</strong></td>
+<td valign="top"><strong>Дата окончания</strong></td>
+<td valign="top"><strong>Стоимость</strong></td>
+<td valign="top"><strong>Показ</strong></td>
+</thead>
+<tbody>
+
+<? 
+
+$per_page=25;
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$query="select fs.id, fs.survey_type_id, fs.name, fs.description, DATE_FORMAT(fs.date_start, '%d-%m-%Y') as start_date, 
+DATE_FORMAT(fs.date_finish, '%d-%m-%Y') as finish_date, fs.price, fs.companies, fs.active FROM for_surveys fs order by fs.id desc";
+
+
+$result=mysqli_query($link,$query ) or die(mysql_error());
+while($row=mysqli_fetch_array($result))
+	{ ?>
+		<td align="center"><?=$row['id'];?></td>
+		<td><a href="?page=isl-red&id=<?=$row["id"];?>"><?=$row['name'];?></a></td>
+		<td align="center"><?=$row['start_date'];?></td>
+		<td align="center"><?=$row['finish_date'];?></td>
+		<td align="center"><?=$row['price'];?></td>
+		<td align="center"><? echo ($row['active']) ? "Да" : "Нет";?></td>
+</tr>
+<? } ?>
+    </tbody>
+</table>

@@ -1,0 +1,77 @@
+<a href="?page=people"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a><br><br>
+
+<form name="add" action="?page=people-add" method="post" enctype="multipart/form-data">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Компания:&nbsp;&nbsp;</td>
+    <td width="500" height="20" valign="top"><select name="companies" class="optlong">
+<?
+$result=mysqli_query($link,"select id, name from base_companies order by name");
+while($row=mysqli_fetch_array($result))
+		{?>
+			<option value="<?=$row['id']?>"><?=$row['name']?></option>
+<?}?>	
+</select>
+</td></tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Должность:&nbsp;&nbsp;</td>
+    <td width="500" height="20"><select name="jobs" class="optlong">
+<?
+$result=mysqli_query($link,"select id, name from base_jobs order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+			<option value="<?=$row['id']?>"><?=$row['name']?></option>
+<?}?>	
+</select>
+</td></tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Стаж:&nbsp;&nbsp;</td>
+<td width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="seniority" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Должностной оклад:&nbsp;&nbsp;</td>
+<td width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="official_salary" value=""></td>
+</tr>  
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Доплаты и надбавки:&nbsp;&nbsp;</td>
+<td width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="add_payment" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Премия:&nbsp;&nbsp;</td>
+<td width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="bonus" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Штраф:&nbsp;&nbsp;</td>
+<td width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="fine" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Периодичность выплат:&nbsp;&nbsp;</td>
+<td swidth="500" height="20"><select name="period" class="optlong">
+<?
+$result=mysqli_query($link,"select id, name from base_period order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+			<option value="<?=$row['id']?>"><?=$row['name']?></option>
+<?}
+?>	
+</select></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Метод выплаты:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><select name="payment" class="optlong">
+<?
+$result=mysqli_query($link,"select * from base_payment order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+	<option value="<?=$row['id']?>"><?=$row['name']?></option>
+<?}?>	
+</select></td>
+</tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<br>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

@@ -1,0 +1,4 @@
+AuthUserFile obzorzarplat.ru/cgi/sql/.htpasswd
+AuthType Basic
+AuthName "My Secret Folder"
+Require valid-user

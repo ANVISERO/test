@@ -1,0 +1,96 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+//Сбор данных
+$id=intval($_POST["id"]);
+$login="user".$id;
+$psw=md5($_POST["psw"]);
+$contract=$_POST["contract"];
+$company=mysqli_real_escape_string($link, $_POST["user_company"]);
+$date_start=$_POST["datepicker_start"];
+$date_finish=$_POST["datepicker_finish"];
+$tarif_id=$_POST["tarif"];
+$report_type_id=$_POST["report_type"];
+$name=mysqli_real_escape_string($link, $_POST["user_name"]);
+$email=mysqli_real_escape_string($link, $_POST["user_email"]);
+$company_id=intval($_POST["company_id"]);
+$months_of_use=intval($_POST["months_of_use"]);
+$visited="0";
+
+$levelaccess=intval($_POST["levelaccess"]);
+if(!isset($levelaccess) || $levelaccess=='0'){$levelaccess="2";}
+
+
+//запись в БД
+$user_q=mysqli_query($link,"insert into for_users_corporat (id, contract, company, login, password, date_start, date_finish, tarif_id, levelaccess,visited,months_of_use)
+                    VALUES('$id','$contract','$company','$login','$psw','$date_start','$date_finish','$tarif_id','$levelaccess',$visited,$months_of_use)");
+
+//отчеты предоставляемые пользователю не предусмотренные тарифом
+if(isset($report_type_id))
+{
+    foreach($report_type_id as $rt_id)
+    {
+        $users_corporat_report_type_q=mysqli_query($link,"insert into for_users_corporat_report_type (user_id, report_type_id)
+                                                    VALUES('$id',$rt_id)");
+    }
+}
+
+//ограничение должностей
+if(isset($company_id) && $company_id!='0'){
+    $users_corporat_jobs_q=mysqli_query($link,"insert into for_users_corporat_jobs (user_id, job_id)
+                                    SELECT '$id', job_id FROM base_company_jobs
+                                    WHERE company_id='$company_id'");
+}elseif(isset($_POST["job"])){
+    $job=$_POST["job"];
+    foreach($job as $job_id){
+         $users_corporat_jobs_q=mysqli_query($link,"insert into for_users_corporat_jobs (user_id, job_id)
+                                                    VALUES('$id',$job_id)");
+    }
+}
+
+//ограничение факторов для формирования сводного отчета
+if(isset($_POST["factor"]))
+{
+    mysqli_query($link,"delete from for_users_corporat_factors WHERE user_id='$id'");
+    $factor=$_POST["factor"];
+    foreach($factor as $factor_id)
+    {
+        mysqli_query($link,"insert into for_users_corporat_factors (user_id, factor_id)
+                                                    VALUES('$id',$factor_id)");
+    }
+}
+else
+{
+    mysqli_query($link,"delete from for_users_corporat_factors WHERE user_id='$id'");
+}
+
+//ограничение городов
+if(isset($_POST["city"]))
+{
+    mysqli_query($link,"delete from for_users_corporat_cities WHERE user_id='$id'");
+    $city=$_POST["city"];
+    foreach($city as $city_id)
+    {
+        mysqli_query($link,"insert into for_users_corporat_cities (user_id, city_id)
+                                                    VALUES('$id','$city_id')");
+    }
+}
+else
+{
+    mysqli_query($link,"delete from for_users_corporat_cities WHERE user_id='$id'");
+}
+
+mkdir('/home/zarplata/business.obzorzarplat.ru/docs/public/_report/user'.$id,0777);
+
+if(!file_exists('/home/zarplata/business.obzorzarplat.ru/docs/public/_report/user'.$id)){
+    echo 'no such directory on business.obzorzarplat.ru';
+}else{
+
+
+?>
+<script>
+self.location.href='?page=users-b2b';
+</script>
+
+<? } ?>

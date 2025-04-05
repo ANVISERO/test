@@ -1,0 +1,13 @@
+<?
+//сбор данных
+$id=implode("", file('settings/count_id'));
+countplus();
+$name=$_POST["name"];
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"insert into base_payment value ('$id','$name')");
+?>
+<script>
+self.location.href='?page=payment';
+</script>

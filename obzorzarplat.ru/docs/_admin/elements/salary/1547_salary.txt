@@ -1,0 +1,11 @@
+
+<table border='1' class='for_salary'>
+<tr>
+  <th rowspan='2'>Город</th>
+  <th colspan='3'>I квартал 2009г.</th>
+</tr>
+<tr>
+  <th>25 процентиль, руб.</th>
+  <th>Среднее значение, руб.</th>
+  <th>75 процентиль, руб.</th>
+</tr><tr><td>Санкт-Петербург</td><td>30 517</td><td>35 857</td><td>40 000</td></tr><tr><td>Великий Новгород</td><td>6 643</td><td>16 201</td><td>21 650</td></tr></table>

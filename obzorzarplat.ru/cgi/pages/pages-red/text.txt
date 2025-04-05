@@ -1,0 +1,90 @@
+<form name="add" action="?page=pages-upd" method="post" enctype="multipart/form-data" style="margin:0px; padding:0px">
+<a href="?page=pages"><img src="_adminfiles/button_tolist.gif" alt="Список страниц" width="129" height="20" border="0"></a>
+<input type="image" src="_adminfiles/button_save.gif">
+<? 
+//Сбор
+$url=$_GET["id"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result2=mysqli_query($link,"select * from for_pages where url='$url'");
+$status=mysqli_result($result2,0,1);
+if($status==0){$chec='checked';}
+if($status==1){$chec='';}
+$filefolder='../'.$url.'_vars/';
+
+$temp=implode("", file($filefolder.'temp.txt'));
+$zag=implode("", file($filefolder.'zag.txt'));
+$zag_graf=implode("", file($filefolder.'zag_graf.txt'));
+$title=implode("", file($filefolder.'title.txt'));
+$keywords=implode("", file($filefolder.'key.txt'));
+$deskription=implode("", file($filefolder.'des.txt'));
+$content=implode("", file($filefolder.'content.txt'));
+?>
+
+
+<input type="hidden" name="url" value="<?=$url;?>">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+ 
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">URL:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<b><?=$url;?></b></td>
+  </tr>
+ 
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Заголовок:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="text" class="names" value="<?=$zag;?>" name="zag"></td>
+  </tr>
+  
+   
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Шаблон:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<select class="optlong" name="temp">
+<?
+$query2="select * from for_temps order by name";
+$result2=mysqli_query($link,$query2);
+while($row=mysqli_fetch_array($result2))
+{
+$sel='';if($row["name"]==$temp){$sel='selected';}
+echo('<option '.$sel.'>'.$row["name"].'</option>');
+$sel='';
+}
+?>	
+</select></td>
+  </tr>
+  
+        <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Содержание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="content"><?=$content;?></textarea></td>
+  </tr>  
+
+
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">title:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea name="title" class="anons" style="height:50px"><?=$title;?></textarea></td>
+  </tr>  
+     <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">keywords:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="keywords" style="height:50px"><?=$keywords;?></textarea></td>
+  </tr>   
+     <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">deskription:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="deskription" style="height:50px"><?=$deskription;?></textarea></td>
+  </tr>  
+  
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Графичный заголовок:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="text" class="names" value="<?=$zag_graf;?>" name="zag_graf"></td>
+  </tr>   
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Показывать в карте сайта:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input name="status" type="checkbox" <?=$chec;?>></td>
+  </tr>        
+
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

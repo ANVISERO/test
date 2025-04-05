@@ -1,0 +1,12 @@
+<?
+//сбор данных
+$id=$_POST["id"];
+$name=$_POST["name"];
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"update base_evolution SET `name` = '$name' where `id`='$id'");
+?>
+<script>
+self.location.href='?page=razvitie';
+</script>

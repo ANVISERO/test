@@ -1,0 +1,5 @@
+If you are interested in purchasing new volume of our survey, you may ask any question to the team of "Obzorzarplat.ru" on our web-site or by office phones, as well as via order form filling.
+
+<?	
+include($folder.'_admin/moduls/contacts-echo-eng.php');
+?>

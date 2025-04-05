@@ -1,0 +1,25 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/var/www/obzorzarplat.ru/stat
+1=/var/www/obzorzarplat.ru/cgi/moduls
+2=/var/www/obzorzarplat.ru/cgi
+3=/var/www/obzorzarplat.ru/conf
+4=/var/www/obzorzarplat.ru/docs/1
+5=/var/www/obzorzarplat.ru/docs
+6=/var/www/obzorzarplat.ru/errordocs
+7=/var/www/obzorzarplat.ru/logs/php
+8=/var/www/obzorzarplat.ru/logs
+9=/var/www/obzorzarplat.ru
+10=/var
+11=/var/www/clubkochubey.ru/cgi
+12=/var/www/clubkochubey.ru/conf
+13=/var/www/clubkochubey.ru/docs
+14=/var/www/clubkochubey.ru
+15=/var/www
+16=/var/www/help.obzorzarplat.ru/conf
+17=/var/www/help.obzorzarplat.ru
+
+[Dir Hist New Left Panel]
+0=/var/www/obzorzarplat.ru

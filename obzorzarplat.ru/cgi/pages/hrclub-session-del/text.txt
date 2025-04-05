@@ -1,0 +1,46 @@
+<?
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+//Удаление из базы
+$query1="delete from for_hrclub_session where id='$test[$kol_del]'";
+$result1 = mysqli_query($link, $query1);
+
+$query2="delete from for_hrclub_speakers where id='$test[$kol_del]'";
+$result2 = mysqli_query($link, $query2);
+
+$filefolder='elements/hrclub-session/'.$test[$kol_del];
+
+//Удаление файлов
+$url_file=$filefolder.'_an.txt';
+unlink($url_file);
+
+$url_file=$filefolder.'_protocol.txt';
+unlink($url_file);
+
+$url_file=$filefolder.'_place.txt';
+unlink($url_file);
+
+$url_file=$filefolder.'.jpg';
+unlink($url_file);
+
+//Удаление каталога
+$url_dir=$filefolder.'/';
+rmdir($url_dir);
+}
+}
+?>
+<script>
+self.location.href="?page=hrclub-session";
+</script>

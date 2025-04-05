@@ -1,0 +1,21 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+<td valign="top">
+<?
+if(!isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/zp-form-eng.php');
+}
+if(isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/zp-find-eng.php');
+}
+?>
+
+</td>
+<td width="200" valign="top" style="border-left:1px dashed #DBDBDB">
+<?	
+include($folder.'_admin/moduls/resources0-eng.php');
+?>
+</td>
+</tr></table>

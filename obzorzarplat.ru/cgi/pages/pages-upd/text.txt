@@ -1,0 +1,54 @@
+<?
+//—бор данных
+$url=$_POST['url'];
+$zag=$_POST['zag'];
+$temp=$_POST['temp'];
+$content=stripslashes($_POST['content']);
+$title=stripslashes($_POST['title']);
+$keywords=stripslashes($_POST['keywords']);
+$deskription=stripslashes($_POST['deskription']);
+$zag_graf=$_POST['zag_graf'];
+if(isset($_POST['status'])){$status=0;}
+if(!isset($_POST['status'])){$status=1;}
+
+$filefolder='../'.$url.'_vars/';
+
+//обновление файлов
+$file=fopen($filefolder.'/zag.txt',"w+");
+fputs($file, $zag);
+fclose($file);
+
+$file=fopen($filefolder.'/temp.txt',"w+");
+fputs($file, $temp);
+fclose($file);
+
+$file=fopen($filefolder.'/content.txt',"w+");
+fputs($file, $content);
+fclose($file);
+
+$file=fopen($filefolder.'/title.txt',"w+");
+fputs($file, $title);
+fclose($file);
+
+$file=fopen($filefolder.'/key.txt',"w+");
+fputs($file, $keywords);
+fclose($file);
+
+$file=fopen($filefolder.'/des.txt',"w+");
+fputs($file, $deskription);
+fclose($file);
+
+$file=fopen($filefolder.'/zag_graf.txt',"w+");
+fputs($file, $zag_graf);
+fclose($file);
+
+//ќбновление в базе
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"update for_pages SET `status` = '$status' where `url`='$url'");
+
+?>
+
+<script>
+self.location.href='?page=pages';
+</script>

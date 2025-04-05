@@ -1,0 +1,63 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=news">Новости</a></td>
+  </tr>
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=events">События</a></td>
+  </tr>
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=articles">Статьи</a></td>
+  </tr>
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=novinki">Новинки</a></td>
+  </tr>
+    <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=lider_prod">Лидер продаж недели</a></td>
+  </tr>
+      <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=category">Товары: категории</a></td>
+  </tr>
+      <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=goods">Товары</a></td>
+  </tr>
+      <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=files">Файлы для скачивания</a></td>
+  </tr>
+
+
+      <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=contacts">Контактные лица</a></td>
+  </tr>
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=photoalbum">Фотоальбом</a></td>
+  </tr>
+
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=servis-center">Сервисные центры</a></td>
+  </tr>
+
+  
+   <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=forum_topics">Форум: разделы</a></td>
+  </tr> 
+  
+    <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_24">&nbsp;</td>
+    <td class="diz_25"><a href="?page=forum_users">Форум: пользователи</a></td>
+  </tr>
+</table>
+<br><br>
+<a href="?page=index"><img src="_adminfiles/diz_24.gif" width="119" height="20" border="0"></a>

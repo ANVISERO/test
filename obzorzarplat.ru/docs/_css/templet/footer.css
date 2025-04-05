@@ -1,0 +1,16 @@
+#footer {
+    clear: both;
+	bottom: 0;
+	width: 100%;
+        margin-bottom: 5px;
+        border-top:1px solid silver;
+	color: #666;
+	left:0;
+	line-height: 1.5em;
+}
+#footer p {
+	padding: 10px;
+	font-size: 8pt;
+}
+#footer a.lk1, #footer a.lk1:visited{color:gray; text-decoration:none; border-bottom:1px dashed gray; margin-bottom:2px;}
+#footer a.lk1:hover{color:#c00; text-decoration:none; border-bottom:1px dashed #c00; margin-bottom:2px;}

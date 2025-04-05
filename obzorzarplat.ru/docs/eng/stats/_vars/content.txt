@@ -1,0 +1,3 @@
+<?	
+include($folder.'_admin/moduls/articles-echo_eng.php');
+?>

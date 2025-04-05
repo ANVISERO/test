@@ -1,0 +1,245 @@
+.content{width:100%;}
+#tariffs_pics {
+    float: left;
+    width: 26%;
+    /*padding-top: 4px;*/
+}
+
+/*table.tariffs{ height:128px; }*/
+table.tariffs{width:100%; border:0;}
+table.tariffs td{text-align:center; vertical-align:middle; width:25%;}
+table.tariffs td a img, table.tariffs td a:visited img{border:0; height:auto; margin:4px; text-decoration:none; width:100%; max-width:127px;}
+table.tariffs td a, table.tariffs td a:visited{color:#c00;font-size:0.8em; text-decoration:none;}
+table.tariffs td a:hover{color:#000;}
+
+
+#service a img, #service a:visited img{width:10%; height:auto; margin:4px; text-decoration:none;}
+
+#salary_graf {
+    float: left;
+    width: 25%;
+    /*padding-top:70px;*/
+    padding-top: 4px;
+}
+#salary_graf a.lk1, #salary_graf a.lk1:visited{color:#c00; text-decoration:underline; font-style:italic;}
+#salary_graf a.lk1:hover{color:#000;}
+h3{text-align:left; margin:0 4px; padding-left:10px; font-size:100%; color:#808080; border-bottom:1px solid #808080; padding-bottom:2px;}
+
+div a.title_h3, div a.title_h3:visited{color:#808080; text-decoration:none; font-size:100%; text-align:left;}
+div a.title_h3:hover{color:#c00; text-decoration:none;}
+
+#chart1{font-size:80%;}
+
+/* jquery JCarousel for sliding clients */
+.jcarousel-skin-tango .jcarousel-container {
+    background: #fff;
+    border-left: 1px solid #808080;
+border-right: 1px solid #808080;
+border-bottom: 1px solid #808080;
+-o-border-radius:0px 0px 8px 8px;
+-icab-border-radius: 0px 0px 8px 8px;
+-khtml-border-radius: 0px 0px 8px 8px;
+-moz-border-radius: 0px 0px 8px 8px;
+-webkit-border-radius: 0px 0px 8px 8px;
+border-radius: 0px 0px 8px 8px;
+}
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    /*width: 245px;*/
+    padding: 20px 40px;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width:  245px;
+    height: 75px;
+}
+
+.jcarousel-skin-tango .jcarousel-item {
+    width: 75px;
+    height: 75px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+    margin-right: 10px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 43px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(http://sorgalla.com/projects/jcarousel/skins/tango/next-horizontal.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover {
+    background-position: -32px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:active {
+    background-position: -64px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:active {
+    cursor: default;
+    background-position: -96px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 43px;
+    left: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(http://sorgalla.com/projects/jcarousel/skins/tango/prev-horizontal.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover {
+    background-position: -32px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active {
+    background-position: -64px 0;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active {
+    cursor: default;
+    background-position: -96px 0;
+}
+
+
+/**
+ * Overwrite for having a carousel with dynamic width.
+ */
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    width: 90%;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width: 100%;
+}
+
+#mycarousel {height:75px;}
+#mycarousel li{display:block; position:relative; float:left; list-style:none; margin:0px 10px;}
+
+#mycarousel img{
+    border:0;
+    max-height:65px;
+    height:auto;
+    width: auto;
+}
+
+/*Anything slider*/
+.anythingSlider                         { width: 920px; height: 350px; margin:0 auto;
+                                          border-right: 1px solid silver;
+                                          border-left: 1px solid silver;
+                                         -webkit-border-top-right-radius: 10px;
+-webkit-border-top-left-radius: 10px;
+-moz-border-radius-topright: 10px;
+-moz-border-radius-topleft: 10px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;}
+.anythingSlider .wrapper1                { width: 920px; overflow: auto; height: 340px; margin:0 auto 15px;
+                                        position: relative; top: 0; left: 0;}
+
+                                        /* Width below is max for Opera */
+.anythingSlider .wrapper1 ul             { width: 32700px; list-style: none;
+                                           position: absolute; top: 0; left: 0; margin: 0; }
+.anythingSlider .wrapper1 ul li          { display: block; float: left; padding: 0 5px;  margin: 0;
+                                        height: 340px; width: 910px; }
+/*
+.anythingSlider .arrow                  { display: block; height: 200px; width: 67px; background:#fff url(http://css-tricks.com/examples/AnythingSlider/images/arrows.png) no-repeat 0 0; text-indent: -9999px; position: absolute; top: 100px; cursor: pointer; }
+.anythingSlider .forward                { background-position: 0 0; right: -30px; }
+.anythingSlider .back                   { background-position: -67px 0; left: -30px; }
+.anythingSlider .forward:hover          { background-position: 0 -200px; }
+.anythingSlider .back:hover             { background-position: -67px -200px; }
+*/
+.thumbNav                               { z-index: 10; position:relative; top:0px; text-align:left;
+                                         width: 920px;}
+.thumbNav ul                            {width:100%; padding:0px; margin: 0px;}
+.thumbNav li                            { position: relative;
+                                         float: left;
+                                         list-style-type: none;
+                                         width:25%;
+                                         padding:0px;
+                                         margin:0px;
+}
+.thumbNav a                             { color: #fff; font-size: 11px;
+                                         display: block; width:100%;
+                                         padding:10px 0px;
+                                         margin: 0px;text-align: center;
+                                         background-color: #36638E;;
+                                          -webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-moz-border-radius-topleft: 10px;
+-moz-border-radius-topright: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+                                         /*border:1px solid gray; */
+
+}
+.thumbNav a.cur, .thumbNav a:hover      { color:#fff; background-color: #000;}
+.thumbNav li.arrow                      { display:none;}
+
+
+.start-stop {display:none;}
+
+/*
+  Prevents
+*/
+.anythingSlider .wrapper1 ul ul          { position: static; margin: 0; background: none; overflow: visible; width: auto; border: 0; }
+.anythingSlider .wrapper1 ul ul li       { float: none; height: auto; width: auto; background: none; }
+
+/*
+    For Specific Slides
+*/
+.textSlide                              { padding: 10px 30px; }
+.textSlide h3                           { font: 20px Georgia, Serif; }
+.textSlide h4                           { text-transform: uppercase; font: 15px Georgia, Serif; margin: 10px 0; }
+.textSlide ul                           { list-style: disc; margin: 0 0 0 25px; }
+.textSlide ul li                        { display: list-item; }
+
+#quoteSlide                             { padding: 30px; }
+#quoteSlide blockquote                  { font: italic 24px/1.5 Georgia, Serif; text-align: center; color: #444; margin: 0 0 10px 0; }
+#quoteSlide p                           { text-align: center; }
+
+#newsletter {
+    width: 920px; margin:0 auto;
+    border: 1px solid silver;
+    background:  #eee;
+    -webkit-border-bottom-right-radius: 10px;
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-radius-bottomright: 10px;
+-moz-border-radius-bottomleft: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+div#newsletter ul#news1 li{list-style-type:none; height:20px; padding:2px;}
+.submit{
+    font-size:1.3em;
+    color:#fff;
+    padding:10px;
+    margin:5px;
+    text-align:center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-weight:bold;
+    background:#9ACD32;
+    cursor:pointer;
+}

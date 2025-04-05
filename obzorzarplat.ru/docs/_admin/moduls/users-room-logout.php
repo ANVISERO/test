@@ -1,0 +1,9 @@
+<?
+$user_ip=$_SERVER['REMOTE_ADDR'];
+$date=date("Y-m-d");
+$file_del=$folder.'_admin/elements/users/enter/'.$date.'/'.$user_ip.'.txt';
+unlink($file_del);
+?>
+<script>
+self.location.href='/users/';
+</script>

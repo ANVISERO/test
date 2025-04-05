@@ -1,0 +1,18 @@
+<?
+//сбор данных
+$userpass_id=$_POST["id"];
+$userpass_name=$_POST["name"];
+$userpass_login=$_POST["login"];
+$userpass_pass=$_POST["pass"];
+$userpass_tarif=$_POST["tarif"];
+
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="update for_user_logout SET `name` = '$userpass_name', `login` = '$userpass_login', `pass` = '$userpass_pass', `tarif` = '$userpass_tarif' where `id`='$userpass_id'";
+$result=mysqli_query($link,$query);
+?>
+<script>
+self.location.href='?page=userpass';
+</script>

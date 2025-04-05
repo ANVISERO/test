@@ -1,0 +1,178 @@
+<script language="JavaScript">
+<!--
+function colorchange(id)
+{
+    eval('document.getElementById("'+id+'").style.color = "#cc0000"');
+}
+
+function colorchangeback(id)
+{
+   eval('document.getElementById("'+id+'").style.color = "#990000"');
+}
+//  -->
+</script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/zp/" class="link_3" id="h1" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Your Salary</a>	</td>
+  </tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td>Here you can learn out your official's mean,75-th and 25percentiles, and also full salary.</td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/servis/otchet/" class="link_3" id="h2" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Your Personal Salary Report</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>Using our services, You can get full information not only about quantity, but also about structure of your compensations.</td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/lgot/" class="link_3" id="h3" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">State Allowance</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>Learn what allowances can be given to You by the government and what does it depend on</td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/gosgarant/" class="link_3" id="h4" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Government guaranties and compensations</a>	
+     </td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>
+      If You are going to a business trip, if you combine job and studies, take a blood test and so on You have a right to get some guaranties and compensations. Find out what guaranties and compensations You can get.
+    </td>
+</tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/nalog/" class="link_3" id="h5" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Personal income tax payment àllowance.</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>
+  Do You want to compensate apart of inputs that You made when built house, into Your studies or treatment (Yours or Your children’s) by getting back tax on profits? Find out here how to do it!
+    </td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/pensiya/" class="link_3" id="h6" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Your pension</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>Try to calculate Your future pension.</td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/work/" class="link_3" id="h7" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Job Search</a>	</td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/speed/" class="link_3" id="h8" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">How fast do You earn money?</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>
+      Compare Your salary with the salary of celebrities.
+    </td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/bigmak/" class="link_3" id="h9" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">How many Big Mac’s did I earn?</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>
+      Do You want to know how many Big Mac’s, camera, snowboards do you earn every second and how much do you have to work until You will have vacations? Push here! 
+    </td>
+  </tr>
+
+<tr>
+  <td colspan="2" height="15"> </td>
+</tr>
+
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/million/" class="link_3" id="h10" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">When Will You Become a Millioner?</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td>
+      Learn, how many years do You need to earn one mln.
+    </td>
+  </tr>
+
+</table>

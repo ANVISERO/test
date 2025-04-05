@@ -1,0 +1,19 @@
+#leftcol {
+float: left;
+margin-right: 4.5%;
+padding: 0px 0px 0px 20px;
+position: relative;
+width: 22%;
+}
+
+#leftcol ul {
+	padding: 0;
+	margin: 4px 4px 4px 20px;
+	list-style: none;
+}
+#leftcol li{padding: 5px 0px;}
+#leftcol li a, #leftcol li a:visited{color:#363636; text-decoration: underline;}
+#leftcol li a:hover{color:#f00;}
+
+#leftcol .business_body ul li a, #leftcol li .business_body ul li a:visited {text-decoration:none;}
+#leftcol .business_body ul li a:hover {color:#f00;}

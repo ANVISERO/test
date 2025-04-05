@@ -1,0 +1,79 @@
+<? $id=$_GET["id"];?>
+<a href="?page=category"><img src="_adminfiles/button_tolist.gif" alt="Список категорий" width="129" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=category-goods&id=<? echo($id);?>"><img src="_adminfiles/button_addelement.gif" alt="Добавить товары в категорию" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_aplay.gif" alt="Применить изменения" width="167" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+
+<form name="del" method="post" action="?page=category-goods-del">
+<input type="hidden" name="id" value="<? echo($id);?>">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" align="center" valign="top">&nbsp;</td>
+<td width="20" height="20" align="center" valign="top">&nbsp;</td>
+<td width="380" height="20" valign="top">&nbsp;&nbsp;<strong>Наименование</strong></td>
+<td width="58" height="20" valign="top">&nbsp;&nbsp;<strong>Поз-я</strong></td>
+<td width="100" height="20" valign="top">&nbsp;&nbsp;<strong>Цена</strong></td>
+<td width="70" height="20" valign="top">&nbsp;&nbsp;<strong>Кол-во</strong></td>
+<td width="20" height="20" valign="top">&nbsp;</td>
+</tr>
+<?
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_category where id='$id'";
+$result=mysqli_query($link,$query);
+$name=mysqli_result($result,0,3);
+echo('Категория: <b>'.$name.'</b><br><br>');
+$filter='select * from for_cat'.$id.' order by pos';
+//Вывод товаров в этой категории
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="$filter";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+
+$goods_pos=$row["pos"];
+//Определение характеристик товара
+$goods_id=$row["id"];
+$query2="select * from for_goods where id='$goods_id'";
+$result2=mysqli_query($link,$query2);
+$goods_name=mysqli_result($result2,0,2);
+$goods_price=mysqli_result($result2,0,3);
+$goods_col=mysqli_result($result2,0,6);
+
+if(file_exists('elements/goods/'.$row["id"].'/small-photo-1.jpg')){$photo='<img src="/_admin/_adminfiles/ico_photo.gif" width="14" height="12">';}
+if(!file_exists('elements/goods/'.$row["id"].'/small-photo-1.jpg')){$photo='&nbsp;';}
+
+$chet++;
+echo('
+<tr '.$str1.'>
+<td class="diz_26" align="center"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td class="diz_26" align="center">'.$photo.'</td>
+<td class="diz_26"><a href="?page=goods-red&id='.$row["id"].'&cat='.$id.'">'.$goods_name.'</a></td>
+<td class="diz_26">&nbsp;&nbsp;<input type="hidden" name="pos_id_'.$chet.'" value="'.$row["id"].'"><input type="text" name="pos_'.$chet.'" value="'.$goods_pos.'" class="namessmall"></td>
+<td class="diz_26">&nbsp;&nbsp;<input type="text" name="price_'.$chet.'" value="'.$goods_price.'" class="names" style="width:80px"></td>
+<td class="diz_26">&nbsp;&nbsp;<input type="text" name="col_'.$chet.'" value="'.$goods_col.'" class="names" style="width:50px"></td>
+<td class="diz_27" align="center"><a href="?page=goods-red&id='.$row["id"].'&cat='.$id.'"><img '.$str4.' alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+
+
+}
+?>
+
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

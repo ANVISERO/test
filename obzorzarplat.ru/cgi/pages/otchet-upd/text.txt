@@ -1,0 +1,21 @@
+<?
+//сбор данных
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$id=$_POST["id"];
+$name=$_POST["name"];
+$opis=$_POST["opis"];
+$price=$_POST["price"];
+$pricesale=$_POST["pricesale"];
+$info=$_POST["info"];
+$pos=$_POST["pos"];
+$status=$_POST["status"];
+$demo=$_POST["demo"];
+
+//запись в базу
+$result=mysqli_query($link,"update base_otchet_type SET `name` = '$name', `opis` = '$opis', `price` = '$price', `pricesale` = '$pricesale', `info` = '$info', `pos` = '$pos', `status` = '$status', `demo` = '$demo' where `id`='$id'");
+?>
+<script>
+self.location.href='?page=otchet';
+</script>

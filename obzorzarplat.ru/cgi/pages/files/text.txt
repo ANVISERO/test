@@ -1,0 +1,60 @@
+<a href="?page=elements"><img src="_adminfiles/button_back.gif" alt="Элементы" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=files-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a  onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+
+<form name="del" method="post" action="?page=files-delete">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" align="center" valign="top">&nbsp;</td>
+<td width="25" height="20" align="center" valign="top"><b>Ico</b></td>
+<td width="303" height="20" valign="top">&nbsp;&nbsp;<b>Название</b></td>
+<td width="200" height="20" valign="top">&nbsp;&nbsp;<b>Файл</b></td>
+<td width="50" height="20" valign="top">&nbsp;&nbsp;<b>Размер</b></td>
+<td width="50" height="20" valign="top">&nbsp;&nbsp;<b>Скачен</b></td>
+<td width="20" height="20" align="center" valign="top">&nbsp;</td>
+</tr>
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str2='onMouseOver="this.src='.$kov.'_adminfiles/ico_add_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_add.gif'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+
+$query="select * from for_files order by name";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+$chet++;
+$file_ico='ico_'.$row["ext"].'.gif';
+if(file_exists('_adminfiles/icons/'.$file_ico)){$ico_name=$file_ico;}
+if(!file_exists('_adminfiles/icons/'.$file_ico)){$ico_name='ico_all.gif';}
+$file_file=$row["file"];
+
+$file_size=round((filesize('elements/downloads/'.$file_file)/1000000),4);
+echo('
+<tr '.$str1.'>
+<td align="center" class="diz_26"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+
+<td align="center" class="diz_26"><a style="padding-left:0px" href="?page=files-red&id='.$row["id"].'"><img src="_adminfiles/icons/'.$ico_name.'" alt="Номер файла: '.$row["id"].'" width="16" height="16" border="0"></a></td>
+
+<td class="diz_26">&nbsp;&nbsp;<a style="padding-left:0px" href="?page=files-red&id='.$row["id"].'">'.$row["name"].'</a></td>
+<td class="diz_26">&nbsp;&nbsp;<a style="padding-left:0px" href="?page=files-red&id='.$row["id"].'">'.$file_file.'</a></td>
+<td class="diz_26">&nbsp;&nbsp;'.$file_size.'</td>
+<td class="diz_26">&nbsp;&nbsp;'.$row["down"].'</td>
+<td align="center" class="diz_27"><a href="?page=files-red&id='.$row["id"].'"><img '.$str4.' alt="Редактировать файл" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+}
+?>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

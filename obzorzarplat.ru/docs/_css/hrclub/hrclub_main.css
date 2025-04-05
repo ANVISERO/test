@@ -1,0 +1,8 @@
+.hrclub_main{margin: 0 auto; /* center for now */
+width: 100%; /* ems so it will grow */
+background: url(/_img/main/sbbody-r.gif) no-repeat bottom right;
+font-size: 100%;}
+.hrclub_main h2{font: normal normal 400 1em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; font-weight:normal;}
+.hrclub_main p{padding-bottom:10px;}
+.hrclub_main a, .hrclub_main a:visited{color:#000; font-style:italic; font-size:12px; text-decoration:underline;}
+.hrclub_main a:hover{color:#c00;}

@@ -1,0 +1,4 @@
+Order Allow,Deny
+Deny from all
+ErrorDocument 403 http://www.obzorzarplat.ru/noaccess
+

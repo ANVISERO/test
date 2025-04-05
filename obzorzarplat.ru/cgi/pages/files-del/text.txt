@@ -1,0 +1,32 @@
+<?
+$id=$_POST["id"];
+$kol=$_POST["kol"];
+//Получение имени папки
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+$query="select * from for_folders where id='$id'";
+$result = mysqli_query($link, $query);
+$folder=mysqli_result($result,0,1);
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+//Получение имени удаляемого файла
+$test[$kol_del]=$_POST["$name"];
+//Полный путь к файлу
+$delurl='../'.$folder.'/'.$test[$kol_del];
+//Удаление файла
+unlink($delurl);
+}
+}
+
+
+?>
+
+<script>
+self.location.href='?page=folder-select&id=<? echo($id);?>';
+</script>

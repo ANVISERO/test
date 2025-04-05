@@ -1,0 +1,67 @@
+<input type="button" class="but" value="Возврат" onClick="self.location.href='?page=otchet'">
+<?
+$id=$_GET['id'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$name=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,1);
+$opis=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,2);
+$price=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,3);
+$pricesale=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,4);
+$info=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,5);
+$pos=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,6);
+$status=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,7);
+$demo=mysqli_result(mysqli_query($link,"select * from base_otchet_type where id='$id'"),0,8);
+
+$sta_1=$sta_2='';
+if($status==1){$sta_1='checked';$sta_2='';}
+if($status==0){$sta_1='';$sta_2='checked';}
+?>
+
+<form name="add" action="?page=otchet-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<?=$id;?>">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Наименование:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="name" value="<?=$name;?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Описание:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="opis"><?=$opis;?></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Цена:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="price" value="<?=$price;?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Цена со скидкой:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="pricesale" value="<?=$pricesale;?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Информация:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:250px" name="info"><?=$info;?></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Позиция для списка:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="pos" value="<?=$pos;?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20">
+<label><input type="radio" name="status" value="1" <?=$sta_1;?>>Включить</label><br>
+<label><input type="radio" name="status" value="0" <?=$sta_2;?>>Выключить</label>
+</td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Демо файл:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="demo" value="<?=$demo;?>"></td>
+</tr>
+
+
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="submit" class="but" value="Сохранить">
+</form>

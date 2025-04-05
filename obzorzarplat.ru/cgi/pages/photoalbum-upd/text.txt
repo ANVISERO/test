@@ -1,0 +1,15 @@
+<?
+//сбор данных
+$id=$_POST["id"];
+$date=$_POST["date"];
+$name=$_POST["name"];
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="update for_photofolders SET `name` = '$name', `date` = '$date' where `id` = '$id'";
+$result=mysqli_query($link,$query);
+?>
+<script>
+self.location.href='?page=photoalbum';
+</script>

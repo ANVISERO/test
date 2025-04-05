@@ -1,0 +1,14 @@
+<?
+//сбор данных
+$id=implode("", file('settings/count_id'));
+countplus();
+$name=$_POST["name"];
+$type=$_POST["type"];
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"insert into base_department value ('$id','$type','$name')");
+?>
+<script>
+self.location.href='?page=otrasli';
+</script>

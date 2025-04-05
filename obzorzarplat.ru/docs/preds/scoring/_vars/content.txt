@@ -1,0 +1,29 @@
+<link href="/_css/tabs/tabtastic.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/_js/tabs/addclasskillclass.js"></script>
+<script type="text/javascript" src="/_js/tabs/attachevent.js"></script>
+<script type="text/javascript" src="/_js/tabs/addcss.js"></script>
+<script type="text/javascript" src="/_js/tabs/tabtastic.js"></script>
+
+<link rel="stylesheet" href="/_css/1job_profi/1job_profi.css" type="text/css">
+<div class="profi">
+<h2>Скоринговая система на основе Обзора заработных плат</h2>
+
+<ul>
+    <li>Должностная группа: <em>Автосервис / АЗС</em></li>
+    <li>Должность: <em>Автоэлектрик</em></li>
+    <li>Город: <em>Санкт-Петербург</em></li>
+    <li>Размер среднемесячного дохода с учетом удержаний, указанный клиентом в анкете, либо подтвержденный справкой в свободной форме:<em>______</em></li>
+</ul>
+
+<h2>После ввода имеющейся информации в пустое поле, скоринговая система выдает отчет в следующей форме:</h2>
+
+    <h3>В случае, если доход не подтвержден:</h3>
+
+
+<img src="/_img/scoring_result_1.jpg">
+
+<h3>В случае, если доход подтвержден:</h3>
+
+<img src="/_img/scoring_result_2.jpg">
+
+</div>

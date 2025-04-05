@@ -1,0 +1,29 @@
+<?
+//Сбор переменных и загрузка файла
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+if(file_exists($_FILES['files'] ['tmp_name']))
+{
+$uploaddir='elements/downloads/';
+move_uploaded_file($_FILES['files'] ['tmp_name'], $uploaddir . $_FILES['files'] ['name']);
+
+
+$file_name=$_POST["name"];
+$file_date=$_POST["date"];
+$file_file=$_FILES['files'] ['name'];
+$file_ext=substr($file_file,-3);
+
+if(mysqli_num_rows(mysqli_query($link,"select * from for_files where file='$file_file'",))==0)
+{
+//Запись в базу
+$file_id=implode("", file('settings/count_id'));
+countplus();
+$result=mysqli_query($link,"insert into for_files value ('$file_id','$file_date','$file_name','$file_file','$file_ext','0')");
+}
+}
+
+?>
+<script>
+self.location.href='?page=files';
+</script>

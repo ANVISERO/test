@@ -1,0 +1,18 @@
+/* ================================================================
+This copyright notice must be kept untouched in the stylesheet at
+all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.stunicholls.com/menu/jquery-menutree.html
+Copyright (c) 2005-2008 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any
+way to fit your requirements.
+=================================================================== */
+
+#nav, #nav ul {padding:0; margin:0; list-style:none; background:#fff; font-weight:bold;}
+#nav ul li{background: url(/_img/arrows/arrow_black.png) no-repeat 0px 8px; margin-bottom: 0.5em; padding: 4px 4px 4px 16px; border:0px;}
+#nav li ul li{padding-bottom:5px; margin-top:4px;}
+#nav li ul li a, #nav li ul li a:visited {font-weight: normal; color:#000; text-decoration:none; vertical-align: baseline;}
+#nav li ul li a:hover {font-weight: normal; color:#c00; text-decoration:none; border-bottom:1px solid #c00;}
+#nav li ul li a {padding-left:0;}
+#nav li {padding-bottom:5px; color:#c00; border-bottom:1px solid #e0e0e0; text-align:left; font-weight:bold; cursor:pointer; margin-bottom:4px;}

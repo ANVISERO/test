@@ -1,0 +1,28 @@
+<?php
+$root=$_SERVER['DOCUMENT_ROOT'];
+$host=implode("", file($root.'/_admin/settings/mysql_host'));
+$db=implode("", file($root.'/_admin/settings/mysql_db'));
+$user=implode("", file($root.'/_admin/settings/mysql_user'));
+$pass=implode("", file($root.'/_admin/settings/mysql_pass'));
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$order_url=$_GET['d'];
+$test_url=mysql_num_rows(mysqli_query($link,"select id from base_userorders where url='$order_url'"));
+
+echo('
+<input type="button" value="Закрыть" onClick="window.close();">
+<input type="button" value="Печать" onClick="">
+<hr>
+');
+
+if($test_url<>0)
+{
+$order_id=mysqli_result(mysqli_query($link,"select id from base_userorders where url='$order_url'"),0,0);
+$order_html=$root.'/_orders/report_express_'.$order_id.'.txt';
+include($order_html);
+}
+else
+{echo('Такой отчет не существует!');}
+?>
+

@@ -1,0 +1,49 @@
+<?
+$id=$_GET["id"];
+?>
+<a href="?page=folders"><img src="_adminfiles/button_tolist.gif" alt="Список папок" width="129" height="20" border="0"></a>
+<a href="?page=folder-upload&id=<? echo($id);?>"><img src="_adminfiles/button_upload.gif" alt="Загрузить файлы в папку" width="97" height="20" border="0"></a>
+<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+<br>
+<br>
+
+
+<form name="del" method="post" action="?page=files-del">
+<input type="hidden" name="id" value="<? echo($id);?>">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20" height="20" valign="top">&nbsp;</td>
+    <td width="648" valign="top" >&nbsp;&nbsp;<strong>Имя файла:</strong></td>
+  </tr>
+  
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+//Вывод содержимого папки
+$query="select * from for_folders where id='$id'";
+$result = mysqli_query($link, $query);
+$folder_name=mysqli_result($result,0,1);
+echo('Папка: <b>'.$folder_name.'</b><br><br>');
+$dir=opendir("../$folder_name/");
+$chet=0;
+while($file=readdir($dir))
+{
+$chet++;
+echo('
+<tr>
+<td height="20" class="diz_26"><input type="checkbox" name="test_'.$chet.'" value="'.$file.'"></td>
+<td class="diz_27">&nbsp;&nbsp;'.$file.'</td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

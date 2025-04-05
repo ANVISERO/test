@@ -1,0 +1,11 @@
+
+<table border='1' class='for_salary'>
+<tr>
+  <th rowspan='2'>Город</th>
+  <th colspan='3'>I квартал 2009г.</th>
+</tr>
+<tr>
+  <th>25 процентиль, руб.</th>
+  <th>Среднее значение, руб.</th>
+  <th>75 процентиль, руб.</th>
+</tr><tr><td>Санкт-Петербург</td><td>21 219</td><td>22 339</td><td>23 458</td></tr></table>

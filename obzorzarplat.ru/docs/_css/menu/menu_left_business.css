@@ -1,0 +1,14 @@
+.menu_left_business a.lk1, .menu_left_business a.lk1:visited {text-decoration:none; font-weight:bold; color:#c00; text-decoration:none;}
+.menu_left_business a.lk1:hover {font-weight: bold; color:#000; text-decoration:none; border-bottom:1px solid #000;}
+.menu_left_business a.lk2, .menu_left_business a.lk2:visited {text-decoration:none; font-weight:normal; color:#000; text-decoration:none; border-bottom:1px solid #000;}
+.menu_left_business a.lk2:hover {font-weight: normal; color:#c00; text-decoration:none; border-bottom:1px solid #c00;}
+.menu_left_business ol li{padding-bottom:5px;}
+
+#nav_business, #nav_business ul {padding:0; margin:0; list-style:none; background:#fff; font-weight:bold;}
+#nav_business ul li{background: url(/_img/arrows/arrow_black.png) no-repeat 0px 8px; margin-bottom: 0.5em; padding: 4px 4px 4px 16px; border:0px;}
+#nav_business li ul li{padding-bottom:5px; margin-top:4px;}
+#nav_business li ul li a {padding-left:0;}
+#nav_business li {padding-bottom:5px; color:#c00; border-bottom:1px solid #e0e0e0; text-align:left; font-weight:bold; cursor:pointer; margin-bottom:4px;}
+
+.business_body ul li a, .business_body ul li a:visited {font-weight: normal; color:#000; text-decoration:none; vertical-align: baseline;}
+.business_body ul li a:hover {font-weight: normal; color:#c00; text-decoration:none; border-bottom:1px solid #c00;}

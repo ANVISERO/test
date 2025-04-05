@@ -1,0 +1,253 @@
+<a href="?page=stats"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>&nbsp;&nbsp;
+<?
+$d[1]="01";$d[2]="02";$d[3]="03";$d[4]="04";$d[5]="05";$d[6]="06";$d[7]="07";$d[8]="08";$d[9]="09";$d[10]="10";
+$d[11]="11";$d[12]="12";$d[13]="13";$d[14]="14";$d[15]="15";$d[16]="16";$d[17]="17";$d[18]="18";$d[19]="19";$d[20]="20";
+$d[21]="21";$d[22]="22";$d[23]="23";$d[24]="24";$d[25]="25";$d[26]="26";$d[27]="27";$d[28]="28";$d[29]="29";$d[30]="30";$d[31]="31";
+
+$m[1]='янв';$m[2]='фев';$m[3]='мар';$m[4]='апр';$m[5]='май';$m[6]='июн';$m[7]='июл';$m[8]='авг';$m[9]='сен';$m[10]='окт';$m[11]='ноя';$m[12]='дек';
+
+$m2['янв']=1;
+$m2['фев']=2;
+$m2['мар']=3;
+$m2['апр']=4;
+$m2['май']=5;
+$m2['июн']=6;
+$m2['июл']=7;
+$m2['авг']=8;
+$m2['сен']=9;
+$m2['окт']=10;
+$m2['ноя']=11;
+$m2['дек']=12;
+
+$today=getdate();
+$today_day=$today["mday"];
+$today_mon=$today["mon"];
+$today_year=$today["year"];
+
+if(isset($_POST["day_st"])){$day_st=$_POST["day_st"];}
+if(!isset($_POST["day_st"])){$day_st=1;}
+if(isset($_POST["mon_st"])){$mon_st=$_POST["mon_st"];}
+if(!isset($_POST["mon_st"])){$mon_st=$m[$today_mon];}
+if(isset($_POST["year_st"])){$year_st=$_POST["year_st"];}
+if(!isset($_POST["year_st"])){$year_st=$today_year;}
+if(isset($_POST["day_fin"])){$day_fin=$_POST["day_fin"];}
+if(!isset($_POST["day_fin"])){$day_fin=$today_day;}
+if(isset($_POST["mon_fin"])){$mon_fin=$_POST["mon_fin"];}
+if(!isset($_POST["mon_fin"])){$mon_fin=$m[$today_mon];}
+if(isset($_POST["year_fin"])){$year_fin=$_POST["year_fin"];}
+if(!isset($_POST["year_fin"])){$year_fin=$today_year;}
+
+//Проверки
+$date_today=mktime(0,0,0,$today_mon,$today_day,$today_year);
+$date_start=mktime(0,0,0,$m2[$mon_st],$day_st,$year_st);
+$date_finish=mktime(0,0,0,$m2[$mon_fin],$day_fin,$year_fin);
+if($date_finish>$date_today)
+{
+$date_finish=$date_today;
+$day_fin=$today_day;
+$mon_fin=$m[$today_mon];
+}
+if($date_finish<$date_start)
+{
+$date_start=$date_finish;
+$day_st=$day_fin;
+$mon_st=$mon_fin;
+$year_st=$year_fin;
+}
+
+$razn=floor(($date_finish-$date_start)/86400)+1;
+
+
+$date_start2=$year_st.'-'.sprintf("%'02d",$m2[$mon_st]).'-'.sprintf("%'02d",$day_st);
+?>
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200" valign="top">
+	
+	
+<form name="diap" id="diap" action="?page=stat" method="post">
+<br><br>
+Плавающий диапазон:
+
+<table width="188" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="30" height="20" align="right">&nbsp;</td>
+    <td width="46" height="20"><strong>День</strong></td>
+    <td width="56" height="20"><strong>Месяц</strong></td>
+    <td width="56" height="20"><strong>Год</strong></td>
+  </tr>
+  <tr>
+    <td width="30" height="20" align="right"><strong>с:&nbsp;</strong></td>
+    <td width="46" height="20">
+	
+<select name="day_st" style="width:46px" class="sel">
+<? for($ii=1; $ii<=31; $ii++)
+{
+if($ii==$day_st){$str="selected";}
+if($ii<>$day_st){$str="";}
+echo('<option '.$str.'>'.$ii.'</option>');
+}?>
+</select></td>
+    <td width="56" height="20">
+	
+<select name="mon_st" style="width:56px" class="sel">
+<? for($ii=1; $ii<=12; $ii++)
+{
+if($m[$ii]==$mon_st){$str="selected";}
+if($m[$ii]<>$mon_st){$str="";}
+echo('<option '.$str.'>'.$m[$ii].'</option>');
+}?>
+</select></td>
+<td width="56" height="20">
+	
+<select name="year_st" style="width:56px" class="sel">
+<? for($ii=2007; $ii<=$today_year; $ii++)
+{
+if($ii==$year_st){$str="selected";}
+if($ii<>$year_st){$str="";}
+echo('<option '.$str.'>'.$ii.'</option>');
+}
+?>
+</select></td>
+  </tr>
+  <tr>
+    <td width="30" height="20" align="right"><strong>по:&nbsp;</strong></td>
+    <td width="46" height="20">
+	
+<select name="day_fin" style="width:46px" class="sel">
+
+<? for($ii=1; $ii<=31; $ii++)
+{
+if($ii==$day_fin){$str="selected";}
+if($ii<>$day_fin){$str="";}
+echo('<option '.$str.'>'.$ii.'</option>');
+}?>
+</select>	</td>
+    <td width="56" height="20">
+<select name="mon_fin" style="width:56px" class="sel">
+<? for($ii=1; $ii<=12; $ii++)
+{
+if($m[$ii]==$mon_fin){$str="selected";}
+if($m[$ii]<>$mon_fin){$str="";}
+echo('<option '.$str.'>'.$m[$ii].'</option>');
+}?>
+</select>	</td>
+    <td width="56" height="20">
+	
+<select name="year_fin" style="width:56px" class="sel">
+<? for($ii=2007; $ii<=$today_year; $ii++)
+{
+if($ii==$year_fin){$str="selected";}
+if($ii<>$year_fin){$str="";}
+echo('<option '.$str.'>'.$ii.'</option>');
+}
+?>
+</select>	</td>
+  </tr>
+  <tr>
+    <td width="30" align="right">&nbsp;</td>
+    <td width="46">&nbsp;</td>
+    <td width="56">&nbsp;</td>
+    <td width="56">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="30" align="right">&nbsp;</td>
+    <td colspan="3">
+	
+<input type="image" src="_adminfiles/button_statview.gif">
+	
+	</td>
+    </tr>
+</table>
+</form>
+Кол-во дней в запросе: <?=$razn;?>
+	
+	</td>
+    <td width="468" valign="top">
+<center>	
+Диапазон: <? echo($day_st.'.'.$mon_st.'.'.$year_st.' - '.$day_fin.'.'.$mon_fin.'.'.$year_fin);?>	
+</center>
+<br><br>	
+<table width="468" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100" height="20" align="left">&nbsp;&nbsp;<strong>Дата</strong></td>
+    <td width="184" height="20" align="left">&nbsp;&nbsp;<strong>Всего страниц</strong></td>
+    <td width="184" height="20" align="left">&nbsp;&nbsp;<strong>Уникальных IP</strong></td>
+  </tr>
+
+<? 
+//Вывод диапазона.
+
+$sum_kol_page=0;
+$sum_kol_user=0;
+
+
+for($ii=1; $ii<=$razn; $ii++)
+{
+$tec_date=date("Y-m-d",$date_start);
+
+//Чтение фала
+$name_file='_adminfiles/statlogs/'.$tec_date.'.log';
+if(file_exists($name_file))
+{
+$name=file($name_file);
+$kol_page=count($name);
+
+foreach($name as $key=>$value)
+{
+$arr=split("#",$value);
+$ip[$key]=$arr[1];
+}
+
+$kol_user=0;
+$all="";
+for($jj=0; $jj<=$kol_page-1; $jj++)
+{
+if(!eregi($ip[$jj],$all))
+{
+$all.=$ip[$jj].'-'; $kol_user+=1;
+}
+}
+$sum_kol_page+=$kol_page;
+$sum_kol_user+=$kol_user;
+} 
+else
+{
+$kol_page=0;
+$kol_user=0;
+}
+
+echo('
+  <tr>
+    <td align="left" height="17" class="diz_26">&nbsp;&nbsp;'.$tec_date.'</td>
+    <td align="left" height="17" class="diz_26">&nbsp;&nbsp;'.$kol_page.'</td>
+    <td align="left" height="17" class="diz_27">&nbsp;&nbsp;'.$kol_user.'</td>
+  </tr>
+');
+$date_start+=86400;
+} 
+
+ 
+?> 
+
+  <tr>
+    <td width="100" height="20" align="left" bgcolor="#eeeeee" class="diz_26">&nbsp;&nbsp;<strong>сумма:</strong></td>
+    <td width="184" height="20" align="left" bgcolor="#eeeeee" class="diz_26">&nbsp;&nbsp;<font style="color:#cc0000; font-size:12px; font-weight:bold"><? echo($sum_kol_page)?></font></td>
+    <td width="184" height="20" align="left" bgcolor="#eeeeee" class="diz_27">&nbsp;&nbsp;<font style="color:#cc0000; font-size:12px; font-weight:bold"><? echo($sum_kol_user)?></font></td>
+  </tr>
+  
+   <tr>
+    <td class="diz_28">&nbsp;</td>
+    <td class="diz_28">&nbsp;</td>
+    <td class="diz_28">&nbsp;</td>
+  </tr> 
+  
+</table>
+	
+	</td>
+  </tr>
+</table>
+
+
+
+

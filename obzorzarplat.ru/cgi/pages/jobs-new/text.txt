@@ -1,0 +1,103 @@
+<input type="button" class="but" value="Возврат" onClick="self.location.href='?page=jobs'">
+<form name="add" action="?page=jobs-add" method="post" enctype="multipart/form-data" onSubmit="return testform();">
+<h2>Описание по данным портала obzorzarplat.ru</h2>
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Должностная группа:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"select * from base_jtype order by name");
+while($row=mysqli_fetch_array($result))
+{
+echo('<input type="checkbox" name="jtype['.$row["id"].']" value="'.$row["id"].'">'.$row["name"].'</br>');
+}
+?>
+	</td>
+  </tr>
+
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Группа должности:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+<select name="jobs_groups">
+<?php
+$slk='';
+$result=mysqli_query($link,"select * from base_jobs_groups order by name");
+while($row=mysqli_fetch_array($result))
+{
+    $jobs_group_id=$row["id"];
+    if(mysqli_num_rows(mysqli_query ( $link, "select * from base_jobs where id='$id' AND jobs_group_id='$jobs_group_id'" ))==1){$slk="selected";}
+    echo('<option value="'.$row["id"].'" '.$slk.'>'.$row["name"].'</option>');
+    $slk='';
+}
+?>
+</select>
+	</td>
+  </tr>
+
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Наименование:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="name" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Наименование в род. падеже (<em>заработная плата менеджера</em>):&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="name_partitive" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Другое название:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="other_name" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Подчиняется:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="conform" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Подчиненные:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="subordinate" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Цель:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="purpose"></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Задачи:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="mission"></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Функции:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="func"></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Требования к опыту и квалификации:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="experience"></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Стоимость экспресс отчета (смс номер)</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="express_cost" value=""><br><a href="http://www.a1agregator.ru/main/abonent/4846/7781">http://www.a1agregator.ru/main/abonent/4846/7781</a> => номер: 7781</td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Стоимость индивидуального отчета (смс номер)</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="indiv_cost" value=""><br><a href="http://www.a1agregator.ru/main/abonent/4846/7781">http://www.a1agregator.ru/main/abonent/4846/7781</a> => номер: 7781</td>
+</tr>
+<tr>
+<th>Коэффициент:</th>
+<td><input type="checkbox" class="anons" name="not_use_coef" <? echo ($not_use_coef) ? "checked" : "";?>>Не использовать коэффициент регионов</td>
+</tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+    <br>
+    <h2>Описание по ЕКТС</h2>
+    <textarea class="anons" style="width:100%; height:200px" name="ekts"></textarea>
+<input type="submit" class="but" value="Сохранить">
+</form>
+<script>
+function testform()
+{
+if (document.add.name.value==""){window.alert('Наименование должности не указано');return false;}
+}
+</script>

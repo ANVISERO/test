@@ -1,0 +1,44 @@
+<?
+//сбор данных
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$id=implode("", file('settings/count_id'));
+countplus();
+
+$companies=$_POST["companies"];
+$companies_id=mysqli_result(mysqli_query($link,"select * from base_companies where name='$companies'"),0,0);
+$region_id=mysqli_result(mysqli_query($link,"select * from base_companies where name='$companies'"),0,9);
+$jobs=$_POST["jobs"];
+$period=$_POST["period"];
+$payment=$_POST["payment"];
+
+$jobs_id=mysqli_result(mysqli_query($link,"select * from base_jobs where name='$jobs'"),0,0);
+$period_id=mysqli_result(mysqli_query($link,"select * from base_period where name='$period'"),0,0);
+$payment_id=mysqli_result(mysqli_query($link,"select * from base_payment where name='$payment'"),0,0);
+
+
+$seniority=$_POST["seniority"];
+$official_salary=$_POST["official_salary"];
+$add_payment=$_POST["add_payment"];
+$bonus=$_POST["bonus"];
+$fine=$_POST["fine"];
+
+
+//запись в базу
+$result=mysqli_query($link,"insert into base_people value ('$id','$companies_id','$jobs_id','$seniority','$official_salary','$add_payment','$bonus','$fine','$region_id','$period_id','$payment_id')");
+
+//Запись в базу должностей
+$col_people=mysqli_result(mysqli_query($link,"select * from base_jobs where id='$jobs_id'"),0,10);
+$sum_zp=mysqli_result(mysqli_query($link,"select * from base_jobs where id='$jobs_id'"),0,11);
+
+$col_people=$col_people+1;
+$sum_zp=$sum_zp+$official_salary;
+$result2=mysqli_query($link,"update base_jobs SET `col_people` = '$col_people', `sum_zp` = '$sum_zp' where id='$jobs_id'");
+
+
+?>
+<script>
+self.location.href='?page=people';
+</script>

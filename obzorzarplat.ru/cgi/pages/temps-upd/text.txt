@@ -1,0 +1,30 @@
+<?
+//сбор данных
+$name=$_POST['id'];
+$opis=$_POST['opis'];
+$cont=stripslashes($_POST['cont']);
+$css=stripslashes($_POST['css']);
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="update for_temps SET `opis` = '$opis' where `name`='$name'";
+$result=mysqli_query($link,$query);
+
+
+$filefolder='templet/'.$name;
+//Обновление файлов
+$fullpath=$filefolder.'/cont.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $cont);
+fclose ($file);
+
+$fullpath=$filefolder.'/css.css';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $css);
+fclose ($file);
+
+?>
+<script>
+self.location.href='?page=temps';
+</script>

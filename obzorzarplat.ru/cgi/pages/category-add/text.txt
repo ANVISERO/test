@@ -1,0 +1,41 @@
+<?
+//Сбор данных
+$id=date("ymdHis");
+
+if(isset($_POST["root"]))
+{
+$root=$_POST["root"];
+//Определение имени корневого и глубины текущего
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_category where name='$root'";
+$result=mysqli_query($link,$query);
+$ur_root=mysqli_result($result,0,1);
+if(!isset($ur_root)){$ur=0;}
+if(isset($ur_root)){$ur=$ur_root+1;}
+}
+
+if(!isset($_POST["root"])){
+$root='';
+$ur=0;
+}
+$name=$_POST["name"];
+$pos=$_POST["pos"];
+//Запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query2="insert into for_category value ('$id','$ur','$root','$name','$pos')";
+$result2=mysqli_query($link,$query2);
+
+//Создаем таблицу для товаров
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query3="CREATE TABLE `for_cat$id` (
+`id` TEXT NOT NULL ,
+`pos` INT NOT NULL 
+)";
+$result3=mysqli_query($link,$query3);
+?>
+<script>
+self.location.href="?page=category";
+</script>

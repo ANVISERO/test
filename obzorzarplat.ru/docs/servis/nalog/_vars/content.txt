@@ -1,0 +1,9 @@
+<link href="/_css/nalog/nalog.css" rel="stylesheet" type="text/css">
+<div class="nalog">
+<?php
+if(!isset($_GET["step"]))
+{include($folder.'_admin/moduls/services/nalog/nalog-form.php');}
+if(isset($_GET["step"]))
+{include($folder.'_admin/moduls/services/nalog/nalog-echo.php');}
+?>
+</div>

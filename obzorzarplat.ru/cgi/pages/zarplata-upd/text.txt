@@ -1,0 +1,107 @@
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$date_today=date("d-m-Y (H:i)");
+
+$page_url='isl/zarplata/';
+
+/**************Таблица 1. Средняя заработная плата по Санкт-Петербургу по отраслям.***************/
+$page_content='
+<h2 class="salary">Средняя заработная плата по отраслям в Санкт-Петербурге.</h2>
+<table width="100%" class="average_salary">
+<tr>
+  <th colspan="2" width="60%">Отрасль компании</th>
+  <th width="40%">Средняя заработная плата, руб.</th>
+</tr>
+';
+
+$ii=1;
+$jj=1;
+$color=1;
+
+$tab_01_summ_type=0; //кол-во людей, работающих в отрасли одного типа
+
+$result=mysqli_query($link,"select * from base_department where status=1");
+while($row=mysqli_fetch_array($result))
+{
+$dept_id=$row['id'];
+$type_id=$row['type_id'];
+$type_name=$row['name'];
+
+$tab_01_query[$ii]=mysqli_query($link,"SELECT * FROM base_people AS p WHERE p.company_id in(select company_id from base_company_department where department_id='$dept_id') and region_id=1");
+
+while($row1=mysqli_fetch_array($tab_01_query[$ii])){
+$salary[$ii]+=$row1["official_salary"]+$row1["add_payment"]+$row1["bonus"]+$row1["premium"];
+}
+
+$col_people[$ii]=mysqli_num_rows($tab_01_query[$ii]);
+
+$tab_01[$ii]=$salary[$ii]/$col_people[$ii];
+if($tab_01[$ii]==0){
+  $tab_01[$ii]="-";
+}else{
+  $tab_01[$ii]=number_format($tab_01[$ii],2,","," ");
+}
+
+$page_content.='
+<tr class="salary_'.$color.'">
+  <td class="salary_left" width="30%">'.$type_name.'</td>
+  <td></td>
+  <td class="salary_right" width="40%">'.$tab_01[$ii].'</td>
+</tr>
+';
+
+$color=1-$color;
+
+$result2=mysqli_query($link,"select * from base_department where type_id='$type_id' AND status<>1");
+while($row2=mysqli_fetch_array($result2))
+{
+$dept2_id=$row2['id'];
+$dept_name=$row2['name'];
+
+$tab_01_1_query[$ii]=mysqli_query($link,"SELECT * FROM base_people AS p WHERE p.company_id in(select company_id from base_company_department where department_id='$dept2_id') and region_id=1");
+
+while($row3=mysqli_fetch_array($tab_01_1_query[$ii])){
+  $salary3[$ii]+=$row3["official_salary"]+$row3["add_payment"]+$row3["bonus"]+$row3["premium"];
+}
+
+$col_people3[$ii]=mysqli_num_rows($tab_01_1_query[$ii]);
+
+$tab_01_1[$ii]=$salary3[$ii]/$col_people3[$ii];
+if($tab_01_1[$ii]==0){
+  $tab_01_1[$ii]="-";
+}else{
+  $tab_01_1[$ii]=number_format($tab_01_1[$ii],2,","," ");
+}
+
+$page_content.='
+<tr class="salary_'.$color.'">
+  <td></td>
+  <td width="30%" class="salary_left"><i>'.$dept_name.'</i></td>
+  <td width="40%" class="salary_right" align="center">'.$tab_01_1[$ii].'</td>
+</tr>
+';
+$color=1-$color;
+$ii++;
+}
+
+$ii++;
+}
+
+$page_content.='
+</table>
+';
+
+//echo $page_content;
+
+//Обновление файла
+$fullpath='../'.$page_url.'_vars/content.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $page_content);
+fclose ($file);
+$page_url='http://www.obzorzarplat.ru/isl/zarplata/';
+?>
+
+Путь к странице: <a href="<?=$page_url?>" target="_blank"><b><?=$page_url;?></b></a><br><br>
+Страница создана!

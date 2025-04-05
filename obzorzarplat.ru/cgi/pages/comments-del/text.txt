@@ -1,0 +1,14 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db);
+
+$test=$_POST["test"];
+
+foreach($test as $id)
+{
+    $delete_comment_q=mysqli_query($link,"delete from for_comments where id='$id'");
+}
+?>
+<script>
+self.location.href='?page=comments';
+</script>

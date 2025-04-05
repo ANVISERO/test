@@ -1,0 +1,49 @@
+<a href="?page=events"><img src="_adminfiles/button_tolist.gif" alt="Список событий" width="129" height="20" border="0"></a>
+
+<? $date=date("Y.m.d");?>
+<form name="add" action="?page=events-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дата:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="date" value="<? echo($date);?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Заголовок:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="zag" value=""></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Раздел:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<select class="opt" name="raz">
+<option>Car-Audio</option>
+<option>Home-Audio</option>
+<option>Moto</option>
+</select></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анонс:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="anons"></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Содержание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="opis"></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="status" checked="checked"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Фото:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="file" type="file" name="small-photo"></td>
+  </tr>
+  
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+
+</table>
+
+
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

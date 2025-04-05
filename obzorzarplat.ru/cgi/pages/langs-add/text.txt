@@ -1,0 +1,29 @@
+<?
+//сбор данных
+$langs_id=$_POST["id"];
+$langs_name=$_POST["name"];
+$langs_url=$_POST["url"];
+$langs_pos=$_POST["pos"];
+$langs_col_temps=$_POST["col_temps"];
+
+$langs_temps='';
+for($jj=1; $jj<=$langs_col_temps; $jj++)
+{
+$chek_name='temp_'.$jj;
+	if(isset($_POST["$chek_name"]))
+	{
+	$langs_temps.=$_POST["$chek_name"].',';
+	}
+}
+$langs_temps=substr($langs_temps,0,-1);
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="insert into for_langs value ('$langs_id','$langs_name','$langs_url','$langs_temps','$langs_pos')";
+$result=mysqli_query($link,$query);
+?>
+
+<script>
+self.location.href='?page=langs';
+</script>

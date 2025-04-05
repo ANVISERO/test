@@ -1,0 +1,129 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+//phpinfo();
+//Сбор данных
+
+$id=intval($_POST["user_id"]);
+
+//echo $id;
+
+$psw_new=md5($_POST["psw_new"]);
+$psw_new_check=$_POST["psw_new_check"];
+$contract=$_POST["contract"];
+$company=mysqli_real_escape_string($link, $_POST["user_company"]);
+$date_start=$_POST["datepicker_start"];
+$date_finish=$_POST["datepicker_finish"];
+$tarif_id=$_POST["tarif"];
+$report_type_id=$_POST["report_type"];
+$name=mysqli_real_escape_string($link, $_POST["user_name"]);
+$email=mysqli_real_escape_string($link, $_POST["user_email"]);
+$company_id=intval($_POST["company_id"]);
+$req_captcha=intval($_POST["set_req_captcha"]);
+$req_cp=intval($_POST["set_req_cp"]);
+
+$levelaccess=intval($_POST["levelaccess"]);
+if(isset($levelaccess) && $levelaccess!='0'){$level=", levelaccess='$levelaccess'";}
+else{$level="";}
+
+if($psw_new_check==1){$psw=", password='$psw_new'";}
+else{$psw="";}
+
+//запись в БД
+$user_q=mysqli_query($link,"update for_users_corporat SET date_start='$date_start', date_finish='$date_finish', tarif_id='$tarif_id', contract='$contract', company='$company', req_captcha='$req_captcha', req_cp='$req_cp',
+    name='$name', email='$email' ".$psw.$level."
+    WHERE id='$id'");
+
+
+//отчеты предоставляемые пользователю не предусмотренные тарифом
+if(isset($report_type_id))
+{
+    $users_corporat_report_type_old_q=mysqli_query($link,"delete from for_users_corporat_report_type WHERE user_id='$id'");
+    foreach($report_type_id as $rt_id)
+    {
+        $users_corporat_report_type_q=mysqli_query($link,"insert into for_users_corporat_report_type (user_id, report_type_id)
+                                                    VALUES('$id',$rt_id)");
+    }
+}
+else
+{
+    $users_corporat_report_type_old_q=mysqli_query($link,"delete from for_users_corporat_report_type WHERE user_id='$id'");
+}
+
+//ограничение факторов для формирования сводного отчета
+if(isset($_POST["factor"]))
+{
+    mysqli_query($link,"delete from for_users_corporat_factors WHERE user_id='$id'");
+    $factor=$_POST["factor"];
+    foreach($factor as $factor_id)
+    {
+        mysqli_query($link,"insert into for_users_corporat_factors (user_id, factor_id)
+                                                    VALUES('$id',$factor_id)");
+    }
+}
+else
+{
+    mysqli_query($link,"delete from for_users_corporat_factors WHERE user_id='$id'");
+}
+
+//ограничение городов
+if(isset($_POST["city"]))
+{
+    mysqli_query($link,"delete from for_users_corporat_cities WHERE user_id='$id'");
+    $city=$_POST["city"];
+    foreach($city as $city_id)
+    {
+        mysqli_query($link,"insert into for_users_corporat_cities (user_id, city_id)
+                                                    VALUES('$id','$city_id')");
+    }
+}
+else
+{
+    mysqli_query($link,"delete from for_users_corporat_cities WHERE user_id='$id'");
+}
+
+//ограничение должностей
+
+//echo $company_id;
+
+
+if(isset($company_id) && $company_id!='0'){
+    $users_corporat_jobs_old_q=mysqli_query($link,"delete from for_users_corporat_jobs WHERE user_id='$id'");
+    $users_corporat_jobs_q=mysqli_query($link,"insert into for_users_corporat_jobs (user_id, job_id)
+                                    SELECT '$id', job_id FROM base_company_jobs
+                                    WHERE company_id='$company_id'");
+}elseif(isset($_POST["job"]))
+{
+    $users_corporat_jobs_old_q=mysqli_query($link,"delete from for_users_corporat_jobs WHERE user_id='$id'") or die(mysql_error());
+    $job=$_POST["job"];
+    
+    $ins_query = "insert into for_users_corporat_jobs (user_id, job_id) VALUES ";
+    foreach($job as $job_id)
+    {
+	  $ins_query .= "('$id','$job_id'),";
+//        $users_corporat_jobs_q=mysqli_query($link,"insert into for_users_corporat_jobs (user_id, job_id) VALUES('$id','$job_id')") or die(mysql_error());
+//    if ($job_id > 2000) echo "insert into for_users_corporat_jobs (user_id, job_id) VALUES('$id','$job_id') <br>";
+    }
+    $ins_query=rtrim($ins_query, ",");
+    $users_corporat_jobs_q=mysqli_query($link,$ins_query) or die(mysql_error());
+//    echo $ins_query;
+}
+else
+{
+    $users_corporat_jobs_old_q=mysqli_query($link,"delete from for_users_corporat_jobs WHERE user_id='$id'") or die(mysql_error());;
+}
+
+//sleep(2);
+
+//hack
+if ($id == 1) {
+    $query = "insert into for_users_corporat_jobs (user_id, job_id) (SELECT 1, id FROM base_jobs)";
+    mysqli_query($link,$query) or die (mysql_error());
+}
+
+?>
+
+<script>
+self.location.href='?page=users-b2b';
+</script>

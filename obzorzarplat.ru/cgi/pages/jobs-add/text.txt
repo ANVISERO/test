@@ -1,0 +1,59 @@
+<?php
+//сбор данных
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+
+//$id=implode("", file('settings/count_id'));
+//countplus();
+$jobs_group_id=$_POST["jobs_groups"];
+$name=$_POST["name"];
+$name_partitive=$_POST["name_partitive"];
+$jtype=$_POST["jtype"];
+//$jtype_id=mysqli_result(mysqli_query($link,"select * from base_jtype where name='$jtype'"),0,0);
+$other_name=$_POST["other_name"];
+$conform=$_POST["conform"];
+$subordinate=$_POST["subordinate"];
+$purpose=$_POST["purpose"];
+$mission=$_POST["mission"];
+$func=$_POST["func"];
+$experience=$_POST["experience"];
+$ekts=$_POST["ekts"];
+$col_people=0;
+$sum_zp=0;
+$pos = (empty($_POST["pos"])) ? 0 : $_POST["pos"];
+$express_cost=$_POST["express_cost"];
+$indiv_cost=$_POST["indiv_cost"];
+$not_use_coef = (isset($_POST["not_use_coef"])) ? 1 : 0;
+
+
+
+//Проверка
+//echo "select * from base_jobs where name ='$name'";
+$test_q = mysqli_query ($link, "select * from base_jobs where name ='$name'" ) or die(mysqli_error($link));
+$test = mysqli_num_rows( $test_q );
+
+if($test==0){
+//запись в базу
+    $result = mysqli_query( $link,"insert into base_jobs(jobs_group_id ,name, other_name, conform, subordinate, purpose, mission, func, experience, col_people, sum_zp, pos, name_partitive) value ('$jobs_group_id','$name','$other_name','$conform','$subordinate','$purpose','$mission','$func','$experience','$col_people','$sum_zp','$pos','$name_partitive')") or die(mysqli_error($link));
+    $job_id = mysqli_result( mysqli_query( $link, "select id from base_jobs where name='$name'"),0,0);
+    mysqli_query($link,"insert into job_cost(job_id,express_cost,indiv_cost,not_use_coef) values('$job_id','$express_cost','$indiv_cost', '$not_use_coef')") or die(mysqli_error());
+
+foreach($jtype as $jt){
+    mysqli_query($link,"insert into base_job_types(job_id,jtype_id) VALUES('$job_id','$jt')");
+}
+
+//описание по ЕКТС
+$filefolder='elements/job_description/';
+
+//Создание файлов
+$fullpath=$filefolder.$job_id.'_ekts.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $ekts);
+fclose ($file);
+}
+?>
+<script>
+self.location.href='?page=jobs';
+</script>

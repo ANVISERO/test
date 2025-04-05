@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+/* общий контейнер */
+body{
+	width:1000px;
+	width: expression((document.documentElement.clientWidth)<1000?'1000px':'auto');
+	height:100%;
+}
+
+#header .logoup{
+	margin-right:-7.3em;
+}
+#logo{
+	height:6.7em;
+	background-image: url(../images/logo_.gif);
+}
+#header #logo a{
+	padding:5.1em 0 0em 7.63em;
+}
+#header .rightbuttons {
+	width: 22em;
+}
+#header .contract {
+	width:59.2%;
+}
+#header .rightarea {
+	float:none;
+	position:relative;
+	left:0;
+}
+.boxx{
+	width:98%;
+}
+.listing{
+	width:98%;
+}
+.boxxie6{
+	width:140%;
+}
+.width100{
+	width: 96% !important;
+}
+.boxSQ table.inp{
+	width:90%;
+}
+.width70{
+	width:40%;
+}
+.breaklines {
+	width: 680px;
+}
+.tab2{
+	width:40%;
+}
+.boxx .one_third.middle div.normalize{
+	width:260px;
+}
+.cf{
+	width:99%;
+}
+.host_box_bg, .email_box_bg, .subd_box_bg, .dom_box_bg, .quotes_box_bg, .mess_box_bg {
+	height:65px;
+}
+.boxSQ div {
+	width:90%;
+}
+.fltrght {
+	margin:0 !important;
+}
+.boxx .one_third .button {
+	margin:0;
+}
+.button input {
+	font-size:9px;
+}
+.messerr .messages, #messerr .messages, .messerr .errors, #messerr .errors, .error_message, .note, .info{
+	zoom:1;
+}
+.icof {
+	height:30px;
+}
+.messerr, #messerr{
+	width:98%;
+}
+.rgreen {
+	background-color:#E0FFD1 !important;
+}
+.messerr .messages, #messerr .messages, .rgreen{
+	border-color: #E0FFD1 !important;
+}
+.messerr .errors, #messerr .errors, .rred{
+	border-color: #FAE9E9 !important;
+	background-color:#FAE9E9 !important;
+}
+.alert, .alert1{
+	height:36px;
+}
+#footer{
+	bottom:0;
+}
+.ie6tablefix{
+	width:100%;
+	overflow-x:auto;
+}

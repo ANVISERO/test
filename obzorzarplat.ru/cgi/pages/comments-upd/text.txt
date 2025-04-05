@@ -1,0 +1,16 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+//Сбор данных
+$id=intval($_POST["id"]);
+$user_id=intval($_POST["user_id"]);
+$comment=$_POST["comment"];
+$date=$_POST["datepicker"];
+
+//запись в БД
+$user_q=mysqli_query($link,"UPDATE for_comments SET user_id='$user_id', comment='$comment', date='$date' WHERE id='$id'");
+?>
+<script>
+self.location.href='?page=comments';
+</script>

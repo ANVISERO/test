@@ -1,0 +1,51 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$comment_id=$_GET["id"];
+$comment=mysqli_result(mysqli_query($link,"select comment from for_comments where id='$comment_id'"),0,0);
+$date=mysqli_result(mysqli_query($link,"select date from for_comments where id='$comment_id'"),0,0);
+$user_q=mysqli_query($link,"select * from for_users where id=(SELECT user_id from for_comments WHERE id='$comment_id')");
+while($row=mysqli_fetch_array($user_q))
+{
+    $user_id=$row["id"];
+    $user_fam=$row["fam"];
+    $user_name=$row["name"];
+}
+?>
+<link type="text/css" href="/_css/calendar/smoothness/jquery-ui-1.7.2.custom.css" rel="stylesheet" />
+<script type="text/javascript" src="/_js/jquery-ui-1.7.2.custom/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/_js/jquery-ui-1.7.2.custom/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript">
+$(function(){
+  $("#datepicker").datepicker({
+    changeMonth: true,
+    changeYear: true,
+    dateFormat: "yy-mm-dd"
+  });
+});
+</script>
+<a href="?page=comments-b2b"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>
+<input type="image" src="_adminfiles/button_save.gif" onClick="red.submit();">
+<form name="red" action="?page=comments-upd" method="post" enctype="multipart/form-data" onSubmit="return testform();">
+<input type="hidden" name="id" value="<?php echo($comment_id);?>">
+<p>Пользователь:</p>
+	<select name="user_id">
+	<option value="0">---Выбрать---</option>
+        <?php
+        $user_q=mysqli_query($link,"select * from for_users where levelaccess in(1,2,3) order by fam");
+
+        $selected="";
+        while($row=mysqli_fetch_array($user_q))
+        {
+            if($row["id"]==$user_id){$selected="selected";}
+            echo("<option value=".$row["id"]." ".$selected.">".$row["fam"]." ".$row["name"]."</option>");
+            $selected="";
+        }
+        ?>
+	</select>
+
+<p><label for="comment">Отзыв:</label></p>
+<textarea name="comment" rows="10" cols="100"><?php echo($comment);?></textarea>
+<p><label for="datepicker_start">Дата:</label> <div class="ui-datepicker"><input name="datepicker" id="datepicker" type="text" value="<?php echo($date);?>" /></div></p>
+</form>

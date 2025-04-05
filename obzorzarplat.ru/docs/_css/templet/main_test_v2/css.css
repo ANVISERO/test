@@ -1,0 +1,42 @@
+body{margin: 0 auto; /*это чтоб центрировать контент при превышении max-width*/
+  min-width:1260px;
+  max-width: 1920px;
+  padding:0;
+  width:100%;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+background: #FFFFFF; color:#000;}
+p, ul li, ol li{font-size:1em; line-height:1.5em; margin:0; padding:5px 0;}
+h1{font-size:120%; text-align:center; padding:4px; margin:0; color:#000;}
+h3{font-size:110%; color: #000; padding: 4px; text-align:center}
+
+a, a:visited{color:#cc0000; text-decoration:none;}
+hr{border:1px solid #e8e8e8; background:#e8e8e8;}
+img{border:0; padding:2px; margin:4px;}
+
+input.text{font-size:14px; font-weight:normal; background-color:#fff; height:16px; font-family:verdana; border:2px solid silver; width:100px;}
+select.text{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+input.but1{height:30px; font-size:13px; font-weight:bold; text-align:center; background-color:#E0E0E0;  font-family:verdana; border:1px solid gray; cursor:pointer; color:#000; padding:2px 4px;}
+
+ul {margin: 10px; padding: 0;}
+
+hr.divider{
+color: #c00;
+background-color: #c00;
+height: 5px;
+}
+
+.mainBody{padding:5px; height:100%; min-height:530px;}
+
+#mainContent {
+    margin: 5px;
+    height:100%;
+    min-height:550px;
+}
+
+.clearfloat {
+   clear:both;
+   height:0;
+   font-size: 1px;
+   line-height: 0px;
+}

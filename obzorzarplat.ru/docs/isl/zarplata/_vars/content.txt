@@ -1,0 +1,57 @@
+
+<h2 class="salary">Средняя заработная плата по отраслям в Санкт-Петербурге.</h2>
+<table width="100%" class="average_salary">
+<tr>
+  <th colspan="2" width="60%">Отрасль компании</th>
+  <th width="40%">Средняя заработная плата, руб.</th>
+</tr>
+
+<tr class="salary_1">
+  <td class="salary_left" width="30%">ТПН (товары потребительского назначения)</td>
+  <td></td>
+  <td class="salary_right" width="40%">nan</td>
+</tr>
+
+<tr class="salary_0">
+  <td></td>
+  <td width="30%" class="salary_left"><i>Хозяйственные товары</i></td>
+  <td width="40%" class="salary_right" align="center">25 876,92</td>
+</tr>
+
+<tr class="salary_1">
+  <td></td>
+  <td width="30%" class="salary_left"><i>Технически сложные товары</i></td>
+  <td width="40%" class="salary_right" align="center">nan</td>
+</tr>
+
+<tr class="salary_0">
+  <td></td>
+  <td width="30%" class="salary_left"><i>Продукты питания</i></td>
+  <td width="40%" class="salary_right" align="center">nan</td>
+</tr>
+
+<tr class="salary_1">
+  <td></td>
+  <td width="30%" class="salary_left"><i>Бытовая химия и предметы личной гигиены</i></td>
+  <td width="40%" class="salary_right" align="center">26 742,86</td>
+</tr>
+
+<tr class="salary_0">
+  <td class="salary_left" width="30%">ТПП (товары промышленного назначения)</td>
+  <td></td>
+  <td class="salary_right" width="40%">60 000,00</td>
+</tr>
+
+<tr class="salary_1">
+  <td class="salary_left" width="30%">Инфраструктурное обеспечение рынка</td>
+  <td></td>
+  <td class="salary_right" width="40%">28 173,40</td>
+</tr>
+
+<tr class="salary_0">
+  <td></td>
+  <td width="30%" class="salary_left"><i>логистические услуги</i></td>
+  <td width="40%" class="salary_right" align="center">12 775,68</td>
+</tr>
+
+</table>

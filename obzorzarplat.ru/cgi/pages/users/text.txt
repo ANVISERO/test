@@ -1,0 +1,50 @@
+<link href="_adminfiles/temps/users.css" rel="stylesheet" type="text/css" />
+<a href="?page=content"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=users-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='pointer'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+<div class="users">
+<p><em>Обычные пользователи</em></p>
+<form name="del" method="post" action="?page=users-del">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th></th>
+<th>Фамилия</th>
+<th>Имя</th>
+<th>Компания</th>
+<th>&nbsp;</th>
+</tr>
+
+
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+$query="select * from for_users where levelaccess in(1,2,3) order by fam";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+$chet++;
+
+echo('
+<tr>
+<td align="center" class="diz_26"><input type="checkbox" name="test[]" value="'.$row["id"].'"></td>
+<td class="diz_26"><a href="?page=users-red&id='.$row["id"].'">'.stripslashes($row["fam"]).'</a></td>
+<td class="diz_26"><a href="?page=users-red&id='.$row["id"].'">'.stripslashes($row["name"]).'</a></td>
+<td class="diz_26"><a href="?page=users-red&id='.$row["id"].'">'.stripslashes($row["company"]).'</a></td>
+<td align="center" class="diz_27"><a href="?page=users-red&id='.$row["id"].'"><img '.$str4.' alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<?php echo($chet);?>">
+</form>
+</div>

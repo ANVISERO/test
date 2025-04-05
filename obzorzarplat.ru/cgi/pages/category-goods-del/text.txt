@@ -1,0 +1,52 @@
+<?
+$id=$_POST["id"];
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+$pos='pos_'.$ii;
+$col_tov='col_'.$ii;
+$price_tov='price_'.$ii;
+
+$pos_id='pos_id_'.$ii;
+
+
+$id_pos_id[$ii]=$_POST["$pos_id"];
+//Обновление в таблице сортировки
+$id_pos[$ii]=$_POST["$pos"];
+
+
+$query2="update for_cat$id SET `pos` = '$id_pos[$ii]' where id='$id_pos_id[$ii]'";
+$result2 = mysqli_query($link, $query2);
+
+//Обновление цен
+$new_col[$ii]=$_POST["$col_tov"];
+$new_price[$ii]=$_POST["$price_tov"];
+$query3="update for_goods SET `price` = '$new_price[$ii]', `col` = '$new_col[$ii]' where id='$id_pos_id[$ii]'";
+$result3=mysqli_query($link, $query3);
+
+
+
+//Удаление отмеченных позиций
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+
+$query="delete from for_cat$id where id='$test[$kol_del]'";
+$result = mysqli_query($link, $query);
+}
+
+
+
+
+}
+?>
+<script>
+self.location.href="?page=category-select&id=<? echo($id);?>";
+</script>

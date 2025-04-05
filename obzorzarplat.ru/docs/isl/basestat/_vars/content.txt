@@ -1,0 +1,173 @@
+<style type="text/css">
+<!--
+.style2 {
+	font-size: 16px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.style4 {font-size: 14px}
+.style5 {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style6 {
+	font-size: 12px;
+	font-style: italic;
+}
+.style8 {font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; }
+.style12 {
+	font-size: 10px;
+	font-style: italic;
+}
+.style15 {color: #000000}
+.style17 {font-size: 12px}
+.style18 {font-size:16px; font-weight:bold; text-align:center; color:#fff; text-decoration:none;}
+.style19 {color: #FF0000}
+.style20 {font-size: 12px; font-weight: bold; color: #FF0000; }
+-->
+</style>
+<table width="990" height="138" border="0" bordercolor="#FFFFFF">
+  <tr bordercolor="#FFFFFF">
+    <td width="481" bgcolor="#FFFFFF"><div align="center">
+      <strong><span class="style2">----------------<span class="style4">Российская Федерация</span>----------------</span></strong>
+      <p>&nbsp;</p>
+    </div></td>
+    <td width="493"><div align="center"><strong><span class="style2">-------------------<span class="style4">Санкт-Петербург</span>-------------------<span class="style4"></span></span></strong></div></td>
+  </tr> 
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Население:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Численность населения: </span><span class="style6"> <br>
+         146 млн 520 тысяч человек (2016 год)</span></li>
+        <li class="style19"><span class="style8">Миграция (прибывшие</span>)<span class="style8">: </span><span class="style6"> <br>
+          4 млн. 625 тысяч человек (2015 год)</span></li>
+        <li class="style19"><span class="style8">Миграция (выбывшие</span>)<span class="style8">: </span><span class="style6"> <br>
+          4 млн. 355 тысяч человек (2015 год)</span></li>
+    </ul></td>
+    <td><p><span class="style5">Население:</span> </p>
+      <ul>
+        <li><span class="style8">Численность населения: </span><span class="style6"> <br>
+   5 млн. 191 тысяч человек (2016 год)</span></li>
+        <li><span class="style8">Миграция (прибывшие</span>)<span class="style8">: </span><span class="style6"> <br>
+    237 тысяч человек
+(2015 год)</span></li>
+        <li><span class="style8">Миграция (выбывшие</span>)<span class="style8">: </span><span class="style6"> <br>
+    211,8 тысяч человек</span></li>
+    </ul></td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Труд:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Численность экономически активного населения:</span><span class="style6"> <br>
+         75,8 млн. человек (2016 год)</span></li>
+        <li class="style19"><span class="style8">Безработица</span><span class="style6">:  <br>
+  4,4 млн. человек или 5,8% экономически
+активного населения (2016 год)</span></li>
+    </ul></td>
+    <td><p><span class="style5">Труд:</span> </p>
+      <ul>
+        <li><span class="style8">Численность экономически активного населения:</span><span class="style6"> <br>
+              <span class="style15">2885,1 тысяч человек (2014 год)</span></span></li>
+        <li><span class="style8">Безработица</span><span class="style6">: </span><span class="style6"> <br>
+   39 тысяч человек или 1,35%<br>
+экономически активного населения (2014 год)</span></li>
+    </ul></td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Уровень жизни населения:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Среднемесячная начисленная заработная плата <br>
+          одного работника (номинальная)</span><span class="style6">:  <br>
+          32122 рублей (2016 год)</span></li>
+        <li class="style19"><span class="style8">Индекс потребительской уверенности*</span><span class="style6">:  <br>
+  -26% (III квартал 2015 года)</span></li>
+        <li><span class="style8">Величина прожиточного минимума</span><span class="style6">: </span><span class="style6"> <br>
+          9452 рублей (IV квартал 2015 года)</span></li>
+         <li><span class="style8">Стоимость минимального набора продуктов питания</span><span class="style6">: </span><span class="style6"> <br>
+         3517 рубля (2015 год)</span></li>
+    </ul></td>
+    <td align="left" valign="top"><p><span class="style5">Уровень жизни населения:</span> </p>
+      <ul>
+        <li><span class="style8">Среднемесячная начисленная заработная плата <br>
+    одного работника (номинальная) в Санкт-Петербурге</span><span class="style6">: </span><span class="style6"> <br>
+    43 479 рублей (2016 год)</span><span class="style6"> (2011г.)</span></li>
+        <li><span class="style8">o	Величина прожиточного минимума в Санкт-Петербурге: </span><span class="style6">: </span><span class="style6"> <br>
+    10 019,4 рубля (III квартал 2015г.)</span></li>
+	<li><span class="style8">Стоимость минимального набора продуктов питания в Санкт-Петербурге: </span><span class="style6">: </span><span class="style6"> <br>
+         4222,55 рублей (2016 год)</span></li>
+    </ul></td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style5">Производство:</span> </p>
+      <ul>
+        <li><span class="style8">Индекс промышленного производства <br>
+    (в % к соответствующему периоду предыдущего года)</span><span class="style6">: </span><span class="style6"> <br>
+    97,3 % (январь 2016 года)</span></li>
+     </ul></td>
+    <td align="left" valign="top"><p><span class="style5">Производство:</span> </p>
+      <ul>
+        <li><span class="style8">Индекс промышленного производства <br>
+    (в % к соответствующему периоду предыдущего года)</span><span class="style6">: </span><span class="style6"> <br>
+    100,5 % (январь 2016 года)</span></li>
+    </ul></td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Торговля и услуги населению:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Оборот розничной торговли</span><span class="style6">:  <br>
+  2 125,1 млрд рублей (2016 год)</span></li>
+      </ul></td>
+    <td><p><span class="style5">Торговля и услуги населению:</span> </p>
+      <ul>
+        <li><span class="style8">Оборот розничной торговли в Санкт-Петербурге:</span><span class="style6">: </span><span class="style6"> <br>
+    945 млрд. рублей (2016 год)</span></li>
+            </ul></td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Цены:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Индекс потребительских цен<br>
+        </span><span class="style6"> 100,6% (февраль 2016 год)</span></li>
+            </ul></td>
+    <td><p><span class="style5">Цены:</span> </p>
+      <ul>
+        <li><span class="style8">Индекс потребительских цен Санкт-Петербурга:<br>
+        </span><span class="style6"> 100,6 % (февраль 2016 год)</span></li>
+            </ul></td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style5">Основные социальные гарантии:</span> </p>
+      <ul>
+        <li><span class="style8">Минимальный размер оплаты труда</span><span class="style6">: </span><span class="style6"> <br>
+   6 204 рубля (2016 год)</span></li>
+        <li><span class="style8">Средний размер назначенных пенсий</span><span class="style6">: </span><span class="style6"> <br>
+   11 166 рублей (2016 год)</span></li>
+        <li><span class="style8">Минимальный размер стипендии студентам (учащимся): <br>
+государственных, муниципальных ВУЗов</span><span class="style6">: </span><span class="style6"> <br>
+    11 166 рублей (2016 год)</span></li>
+        <li><span class="style8">Ежемесячное пособие на период отпуска по <br>
+уходу за ребенком в возрасте до 1,5 лет</span><span class="style6">: </span><span class="style6"> <br>
+    - 2 718,35 рублейв месяц (за 1-го ребенка);<br> - 5 436,67 рублей в месяц (за 2-го ребенка и последующих).</span></li>
+    </ul></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Валовой внутренний продукт:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Валовой внутренний продукт (в текущих ценах) </span><span class="style6">:  <br>
+  80 412,5 млрд. рублей (за 2015 год) </span></li>
+          </ul></td>
+    <td><p>&nbsp;</p>    </td>
+  </tr>
+  <tr bordercolor="#FFFFFF">
+    <td><p><span class="style20">Внешнеэкономическая деятельность:</span> </p>
+      <ul>
+        <li class="style19"><span class="style8">Внешнеторговый оборот</span><span class="style6">:  <br>
+  в январе 2016г. составил (в фактически действовавших ценах) 26,7млрд.долларов США, в том числе экспорт - 17,6 млрд.долларов  (что на 37,8% ниже относительно января 2015г.),	в том числе импорт –9,1 млрд. долларов  (что на 20,1% ниже относительно января 2015г.).</span></li>
+
+    </ul></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p><span class="style8">* <span class="style12">Обобщающий (композитный) индекс - индекс потребительской уверенности - рассчитывается как среднее арифметическое значение пяти частных индексов: произошедших и ожидаемых изменений личного материального положения, произошедших и ожидаемых изменений экономической ситуации в России, благоприятности условий для крупных покупок.</span>.</span></p>
+<p><span class="style8">** <span class="style12">В материалах использованы данные, опубликованные на сайте Федеральной службы государственной статистики. </span></span> <br>
+</p>

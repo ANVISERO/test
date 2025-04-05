@@ -1,0 +1,23 @@
+<?
+//Сбор переменных
+$id=$_POST["id"];
+$root=$_POST["root"];
+$name=$_POST["name"];
+$pos=$_POST["pos"];
+
+//Выявление уровня корня
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_category where name='$root'";
+$result=mysqli_query($link,$query);
+$ur_root=mysqli_result($result,0,1);
+
+$ur=$ur_root+1;
+
+//Обновление в базе
+$query2="update for_category SET `root` = '$root', `ur` = '$ur', `name` = '$name', `pos` = '$pos' where `id`='$id'";
+$result2=mysqli_query($link,$query2);
+?>
+<script>
+self.location.href='?page=category';
+</script>

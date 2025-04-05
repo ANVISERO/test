@@ -1,0 +1,1 @@
+<?php include($folder.'_admin/moduls/news/news-echo.php'); ?>

@@ -1,0 +1,57 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$userpass_id=$_GET["id"];
+$userpass_name=mysqli_result(mysqli_query($link,"select name from for_user_logout where id='$userpass_id'"),0,0);
+$userpass_login=mysqli_result(mysqli_query($link,"select login from for_user_logout where id='$userpass_id'"),0,0);
+$userpass_pass=mysqli_result(mysqli_query($link,"select pass from for_user_logout where id='$userpass_id'"),0,0);
+$userpass_tarif=mysqli_result(mysqli_query($link,"select tarif from for_user_logout where id='$userpass_id'"),0,0);
+
+
+?>
+<a href="?page=userpass"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>
+<input type="image" src="_adminfiles/button_save.gif" onClick="add.submit();">
+
+<form name="add" action="?page=userpass-upd" method="post" enctype="multipart/form-data" onSubmit="return testform();">
+<input type="hidden" name="id" value="<?=$userpass_id;?>">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">ID:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><b><?=$userpass_id;?></b></td>
+  </tr>
+ <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Имя:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><input class="names" type="text" name="name" value="<?=$userpass_name;?>"></td>
+  </tr>
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Логин:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><input class="names" type="text" name="login" value="<?=$userpass_login;?>"></td>
+  </tr> 
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Пароль:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><input class="names" type="text" name="pass" value="<?=$userpass_pass;?>"></td>
+  </tr>   
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Тариф:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><select name="tarif">
+	<option value="0">---Выбрать---</option>
+	<option value="1" <? if($userpass_tarif==1){echo('selected');}?>>Лайт</option>
+	<option value="2" <? if($userpass_tarif==2){echo('selected');}?>>Стандарт</option>
+	<option value="3" <? if($userpass_tarif==3){echo('selected');}?>>Профи</option>		
+	</select></td>
+  </tr> 
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td class="diz_28">&nbsp;</td>
+  </tr>
+  </table>
+</form>
+<script>
+function testform()
+{
+if(document.add.name.value==""){window.alert('Имя не указано!'); return false;}
+if(document.add.login.value==""){window.alert('Логин не указан!'); return false;}
+if(document.add.pass.value==""){window.alert('Пароль не указан!'); return false;}
+}
+</script>

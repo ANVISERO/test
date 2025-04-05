@@ -1,0 +1,19 @@
+<?
+//сбор данных
+$id=date("ymdHis");
+$date=$_POST["date"];
+$name=$_POST["name"];
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="insert into for_photofolders value ('$id','$name','$date')";
+$result=mysqli_query($link,$query);
+
+//Создание папки
+mkdir("elements/photofolders/$id/", 0700);
+mkdir("elements/photofolders/$id/preview/", 0700);
+?>
+<script>
+self.location.href='?page=photoalbum';
+</script>

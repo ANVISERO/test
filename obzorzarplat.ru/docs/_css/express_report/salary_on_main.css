@@ -1,0 +1,11 @@
+.salary_on_main{border:0px; width:90%; margin:2px 2px; padding:2px; font-size:100%;}
+.salary_on_main a.lk1, .salary_on_main a.lk1:visited{color:#c00; text-decoration:none; border-bottom:1px dashed #c00;}
+.salary_on_main a.lk1:hover{color:#000; text-decoration:none; border-bottom:1px dashed #000;}
+.salary_on_main a.lk2, .salary_on_main a.lk2:visited{color:#000; text-decoration:none; border-bottom:1px solid #000; padding-bottom:2px; font-weight:bold;}
+.salary_on_main a.lk2:hover{color:#c00; text-decoration:none; border-bottom:1px solid #c00; font-weight: bold;}
+.salary_on_main span.not_link{color:gray; font-size:80%;}
+.salary_on_main input.submit_button{font-size:110%; font-weight:bold; text-align:center; background: #333 url(/_img/main/bg_menu.jpg) 0 -32px repeat-x;  font-family:verdana; cursor:pointer; color:#fff; padding:0.4em 1em;}
+.salary_on_main input.no_submit_button{font-size:110%; font-weight:bold; text-align:center; background: #333 url(/_img/main/bg_menu.jpg) repeat-x; cursor:pointer; color:#fff; padding:0.4em 1em;}
+.salary_on_main select.text_1{font-size:0.9em; padding-left:5px; font-weight:normal; background-color:#fff; font-family:verdana; border:2px solid silver; width:400px; height:30px;}
+.salary_on_main table td{padding-top:4px;}
+.error_length{width:100%; padding:10px;}

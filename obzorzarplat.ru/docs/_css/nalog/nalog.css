@@ -1,0 +1,17 @@
+.img_left{float: left; position:relative;}
+.img_left img{border:0;}
+.nalog input.example{color:rgb(204,204,204); font-weight:normal; font-style:italic; font-size:12px;}
+.nalog td, .nalog th{text-align:center; vertical-align:top; padding:4px; border-bottom:1px solid #e0e0e0;}
+.nalog td.subtitle{text-align:left;}
+.nalog input.text{font-size:18px; font-weight:normal; padding:4px; font-family:verdana; border:2px solid #c0c0c0; width:400px; height:25px;}
+.nalog input.text_tbl{font-size:16px; font-weight:normal; padding:4px; margin:5px 0px; font-family:verdana; border:1px solid #808080; width:200px; height:20px;}
+.nalog h2{font: normal normal 400 1.2em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; border-bottom:1px solid rgb(204,204,204); padding-bottom:4px; margin-bottom:1.2em; font-weight:normal;}
+.nalog a.lk_h2{color:#c00;}
+.nalog a.lk_info, .nalog a.lk_info:visited{color:#000; border-bottom:1px dashed #000; padding-bottom:2px; text-decoration:none;}
+.nalog a.lk_info:hover{color:#c00; border-bottom:1px solid #c00; padding-bottom:2px; text-decoration:none;}
+.nalog a.lk_nav, .nalog a.lk_nav:visited{color:#000; text-decoration:none; font-weight:bold;}
+.nalog a.lk_nav:hover{color:#c00; text-decoration:none; font-weight:bold;}
+.info a.lk2, .info a.lk2:visited, .nalog a.lk2, .nalog a.lk2:visited{color:#808080; border-bottom:1px dashed #808080; padding-bottom:2px; text-decoration:none;}
+.info a.lk2:hover, .nalog a.lk2:hover{color:#c00; border-bottom:1px dashed #c00; padding-bottom:2px; text-decoration:none;}
+.info h3{font-size:14px; font-weight:bold; text-align:left;}
+.info ul li, .nalog ul li{padding:5px; font-size:13px;}

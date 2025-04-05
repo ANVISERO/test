@@ -1,0 +1,45 @@
+<a href="?page=base"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=regions-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td valign="top">&nbsp;&nbsp;<strong>Наименование</strong></td>
+<td valign="top">&nbsp;&nbsp;<strong>Коэф.</strong></td>
+<td valign="top" align="center">&nbsp;&nbsp;<strong>Коэф. в экспресс отчете</strong></td>
+<td valign="top" align="center">&nbsp;&nbsp;<strong>Коэф. в сводном экспресс отчете</strong></td>
+<td width="20" valign="top">&nbsp;</td>
+</tr>
+
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+$query="select br.id, br.name, brc.coefficient, br.fake_express, br.fake_summary from base_regions br LEFT JOIN base_region_coefficients brc on (br.id = brc.city_id)  order by br.name";
+$result=mysqli_query($link,$query);
+while($row=mysqli_fetch_array($result))
+{
+$fake_ex = ($row["fake_express"]) ? "Да" : "Нет";
+$fake_sm = ($row["fake_summary"]) ? "Да" : "Нет";
+echo('
+<tr '.$str1.'>
+<td height="20" align="center" class="diz_26"><img src="_adminfiles/diz_14.gif"></td>
+<td class="diz_26"><a href="?page=regions-red&id='.$row["id"].'">'.$row["name"].'</a></td>
+<td class="diz_26"><a href="?page=regions-red&id='.$row["id"].'">'.$row["coefficient"].'</a></td>
+<td class="diz_26">'.$fake_ex.'</a></td>
+<td class="diz_26">'.$fake_sm.'</a></td>
+<td align="center" class="diz_27"><a href="?page=regions-red&id='.$row["id"].'"><img '.$str4.' alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+

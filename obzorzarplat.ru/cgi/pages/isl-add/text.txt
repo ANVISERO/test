@@ -1,0 +1,31 @@
+<?php
+//сбор данных
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+
+$survey_type_id = $_POST["survey_type_id"];
+$name = $_POST["name"];
+$description = $_POST["description"];
+$price = $_POST["price"];
+$active = $_POST["active"];
+$reqions = $_POST["regions"];
+$jobs = $_POST["jobs"];
+
+mysqli_query($link,"INSERT into for_surveys(survey_type_id, name, description, price, active) VALUES ('$survey_type_id', '$name', '$description', '$price', '$active')" ,) or die(mysql_error());
+$last_id = mysql_insert_id();
+
+
+foreach($reqions as $rg){
+    mysqli_query($link,"insert into for_survey_cities(survey_id, city_id) VALUES('$last_id', '$rg')", ) or die(mysql_error());
+}
+
+foreach($jobs as $jb){
+    mysqli_query($link,"insert into for_survey_jobs(survey_id, job_id) VALUES('$last_id', '$jb')", ) or die(mysql_error());
+}
+
+?>
+<script>
+//self.location.href='?page=isl';
+</script>

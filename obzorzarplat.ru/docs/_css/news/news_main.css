@@ -1,0 +1,20 @@
+.news{margin: 0 auto; /* center for now */
+width: 100%; /* ems so it will grow */
+background: url(/_img/main/sbbody-r.gif) no-repeat bottom right;
+font-size: 100%;}
+.news ul#all_news {
+overflow: hidden;
+padding: 2px;
+height: 218px; /*border-left:3px solid #ff5a00;*/
+}
+.news ul#all_news li {
+clear: left;
+list-style: none;
+overflow: hidden;
+height: 214px;
+}
+.news a.link1, .news a.link1:visited{font-size:13px; font-style:normal; text-decoration:none; color:#000; font-weight:bold;}
+.news a.link1:hover{text-decoration:none; color: #c00;}
+.news a.link2, .news a.link2:visited{color:#000; font-weight:normal; text-decoration:none;font-size:13px;}
+.news a.link3, .news a.link3:visited{color:#000; font-style:italic; font-size:12px; text-decoration:underline;}
+.news a.link3:hover{color:#c00;}

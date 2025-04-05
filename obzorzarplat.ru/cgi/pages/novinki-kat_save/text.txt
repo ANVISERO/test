@@ -1,0 +1,20 @@
+<?
+for($ii=1; $ii<=10;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+//Запись в файл
+$test[$ii]=$_POST["$name"];
+
+$fullpath='settings/novinki-kat_'.$ii;
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $test[$ii]);
+fclose ($file);
+}
+}
+?>
+<script>
+self.location.href="?page=novinki-kat";
+</script>

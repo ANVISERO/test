@@ -1,0 +1,81 @@
+<link href="../_css/datatables/datatables.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.sprymedia.co.uk/dataTables/media/js/jquery.dataTables.js"></script>
+
+<input type="button" class="but" value="Возврат" onclick="self.location.href='?page=base'">
+<style type="text/css">
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * DataTables display
+ */
+table.display {
+	margin: 0 auto;
+	width: 100%;
+        font-family: "Trebuchet MS", Tahoma, Verdana, sans-serif;
+}
+
+table.display thead th {
+	padding: 3px 10px;
+	border-bottom: 1px solid black;
+	font-weight: bold;
+	cursor: pointer;
+	* cursor: hand;
+}
+
+table.display tfoot th {
+	padding: 3px 10px;
+	border-top: 1px solid black;
+	font-weight: bold;
+}
+
+table.display tr.heading2 td {
+	border-bottom: 1px solid #aaa;
+}
+
+table.display td {
+	padding: 3px 10px;
+}
+
+table.display td.center {
+	text-align: center;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * DataTables row classes
+ */
+table.display tr.odd {
+	background-color: #ddd;
+}
+
+table.display tr.even {
+	background-color: #eeffee;
+}
+
+table.display tr.oddC {
+	background-color: #ddddff;
+}
+
+table.display tr.evenC {
+	background-color: #eeeeff;
+}
+
+table.display tr.oddX {
+	background-color: #ffdddd;
+}
+
+table.display tr.evenX {
+	background-color: #ffeeee;
+}
+
+table.display tr.oddU {
+	background-color: #ddd;
+}
+
+table.display tr.evenU {
+	background-color: #eee;
+}
+</style>
+<div class="job_statistics">
+<?php include('../_admin/moduls/statistics/jobs/job_statistics.php');?>
+</div>

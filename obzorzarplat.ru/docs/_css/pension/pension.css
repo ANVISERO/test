@@ -1,0 +1,11 @@
+.img_left{float: left; position:relative;}
+.img_left img{border:0;}
+.pension h2{font: normal normal 400 1.2em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; border-bottom:1px solid rgb(204,204,204); padding-bottom:4px; margin-bottom:1.2em; font-weight:normal;}
+.pension input.text, .pension select.text{font-size:14px; font-weight:normal; background-color:#fff; font-family:verdana; border:2px solid #c0c0c0; padding-left:2px; width:450px; height:30px;}
+.pension input.example{color:rgb(204,204,204); font-weight:normal; font-style:italic; font-size:14px;}
+.pension a.lk_info, .pension a.lk_info:visited{color:#c00; border-bottom:1px dashed #c00; padding-bottom:2px; text-decoration:none;}
+.pension a.lk_info:hover{color:#000; border-bottom:1px solid #000; padding-bottom:2px; text-decoration:none;}
+.info a.lk2, .info a.lk2:visited, .pension a.lk2, .pension a.lk2:visited{color:#808080; border-bottom:1px dashed #808080; padding-bottom:2px; text-decoration:none;}
+.info a.lk2:hover, .pension a.lk2:hover{color:#c00; border-bottom:1px dashed #c00; padding-bottom:2px; text-decoration:none;}
+.info h3{font-size:14px; font-weight:bold; text-align:left;}
+.info ul li, .nalog ul li{padding:5px; font-size:13px;}

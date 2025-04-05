@@ -1,0 +1,17 @@
+<?
+//сбор данных
+//$id=implode("", file('settings/count_id'));
+//countplus();
+$name=$_POST["name"];
+$coef=$_POST["coef"];
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"insert into base_regions(`name`) value ('$name')") or die(mysqli_error($link));
+$new_id = mysqli_insert_id($link);
+//echo $new_id;
+if ($coef) mysqli_query($link,"INSERT INTO base_region_coefficients (city_id, coefficient) VALUES ('$new_id', '$coef')") or die(mysqli_error($link));
+?>
+<script>
+self.location.href='?page=regions';
+</script>

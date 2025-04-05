@@ -1,0 +1,124 @@
+<?xml version ='1.0' encoding ='UTF-8' ?>
+<definitions name='Salary'
+ targetNamespace='http://obzorzarplat.ru/Salary'
+ xmlns:tns='http://obzorzarplat.ru/Salary'
+ xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/'
+ xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+ xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/'
+ xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/'
+ xmlns='http://schemas.xmlsoap.org/wsdl/'>
+<types>
+  <schema elementFormDefault="qualified" 
+  targetNamespace="http://session.itso"
+  xmlns="http://www.w3.org/2001/XMLSchema"
+  xmlns:apachesoap="http://xml.apache.org/xml-soap"
+  xmlns:impl="http://session.itso"
+  xmlns:intf="http://session.itso"
+  xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+
+<element name="getSalaryResponse">
+    <complexType>
+        <sequence>
+            <element name="salaryMin" type="xsd:float"/>
+            <element name="salaryMax" type="xsd:float"/>
+            <element name="salaryAvr" type="xsd:float"/>
+        </sequence>
+    </complexType>
+</element>
+
+<element name="getSalary">
+    <complexType>
+        <sequence>
+            <element name="job" type="xsd:int"/>
+            <element name="city" type="xsd:int"/>
+        </sequence>
+    </complexType>
+</element>
+
+</schema>
+</types>
+
+<message name='getSalaryRequest'>
+ <part element="intf:getSalary" name="parameters"/>
+</message>
+<message name='getSalaryResponse'>
+ <part element="intf:getSalaryResponse" name="parameters"/>
+</message>
+
+<message name='getJobNameRequest'>
+ <part name="job" type="xsd:int" />
+</message>
+<message name='getJobNameResponse'>
+ <part name="jobName" type="xsd:string" />
+</message>
+
+<message name='getCityNameRequest'>
+ <part name="city" type="xsd:int" />
+</message>
+<message name='getCityNameResponse'>
+ <part name="cityName" type="xsd:string" />
+</message>
+
+<portType name='SalaryPortType'>
+ <operation name='getSalary'>
+  <input message='tns:getSalaryRequest'/>
+  <output message='tns:getSalaryResponse'/>
+ </operation>
+
+ <operation name='getJobName'>
+  <input message='tns:getJobNameRequest' name='getJobNameRequest'/>
+  <output message='tns:getJobNameResponse' name='getJobNameResponse'/>
+ </operation>
+
+  <operation name='getCityName'>
+  <input message='tns:getCityNameRequest' name='getCityNameRequest'/>
+  <output message='tns:getCityNameResponse' name='getCityNameResponse'/>
+ </operation>
+</portType>
+
+<binding name='SalaryBinding' type='tns:SalaryPortType'>
+ <soap:binding style='rpc'
+  transport='http://schemas.xmlsoap.org/soap/http'/>
+ <operation name='getSalary'>
+  <soap:operation soapAction='urn:xmethods-delayed-quotes#getSalary'/>
+  <input>
+   <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+  </input>
+  <output>
+   <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+  </output>
+ </operation>
+
+  <operation name='getJobName'>
+  <soap:operation soapAction='urn:xmethods-delayed-quotes#getJobName'/>
+  <input name="getJobNameRequest">
+   <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+  </input>
+  <output name='getJobNameResponse'>
+   <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+  </output>
+ </operation>
+
+   <operation name='getCityName'>
+  <soap:operation soapAction='urn:xmethods-delayed-quotes#getCityName'/>
+  <input name="getCityNameRequest">
+   <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+  </input>
+  <output name='getCityNameResponse'>
+   <soap:body use='encoded' namespace='urn:xmethods-delayed-quotes'
+    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/>
+  </output>
+ </operation>
+</binding>
+
+<service name='SalaryService'>
+ <port name='SalaryPort' binding='SalaryBinding'>
+  <soap:address location='http://obzorzarplat.ru/zp_soap/zp_soap_server.php'/>
+ </port>
+</service>
+</definitions> 

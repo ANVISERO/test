@@ -1,0 +1,23 @@
+<style type="text/css">
+<!--
+.style2 {font-size:16px; font-weight:bold; text-align:center; color:#fff; text-decoration:none;}
+-->
+</style>
+<table width="100%" border="0" cellpadding="6" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+      <td colspan="2" valign="top"><?
+if(!isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/million-form.php');
+}
+if(isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/million-echo.php');
+}
+?></td>
+    <td width="4" rowspan="4" valign="top" style="border-left:1px dashed #DBDBDB">
+    
+
+    </td>
+  </tr>
+</table>

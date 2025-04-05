@@ -1,0 +1,99 @@
+<a href="?page=goods"><img src="_adminfiles/button_tolist.gif" alt="Список товаров" width="129" height="20" border="0"></a>
+
+<? $date=date("d.m.Y");?>
+<form name="add" action="?page=goods-add" method="post" enctype="multipart/form-data">
+
+
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Наименование товара:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="name" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Цена:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="price" value="0" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Анонс:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<textarea class="anons" name="anons"></textarea></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Описание:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<textarea name="opis" class="opis"></textarea></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение&nbsp;&nbsp;<br>(130 х 130 px):&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="small-photo-1" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение&nbsp;&nbsp;<br>(500 х 500 px):&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="large-photo-1" class="file"></td>
+</tr>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif"><br><br>
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Кол-во на складе:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="col" value="1" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Опубликовано:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="checkbox" name="status" checked="checked"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Цена со скидкой:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="pricesale" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Артикул:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="articul" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 1-1:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="dop-photo-1-1" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 1-2:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="dop-photo-1-2" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 1-3:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="dop-photo-1-3" class="file"></td>
+</tr>
+
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 2&nbsp;&nbsp;<br>(130 х 130 px):&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="small-photo-2" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 2&nbsp;&nbsp;<br>(500 х 500 px):&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="large-photo-2" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 2-1:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="dop-photo-2-1" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 2-2:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="dop-photo-2-2" class="file"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Изображение 2-3:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="file" name="dop-photo-2-3" class="file"></td>
+</tr>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="pos" value="0">
+<input type="hidden" name="date" value="<? echo($date);?>">
+<br>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

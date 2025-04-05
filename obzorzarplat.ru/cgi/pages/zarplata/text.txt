@@ -1,0 +1,7 @@
+<a href="?page=content"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>
+
+<? $page_url='http://www.obzorzarplat.ru/isl/zarplata/';?>
+<br><br>
+Путь к странице: <a href="<?=$page_url?>" target="_blank"><b><?=$page_url;?></b></a>
+<br><br>
+<a href="?page=zarplata-upd">Сформировать страницу</a>

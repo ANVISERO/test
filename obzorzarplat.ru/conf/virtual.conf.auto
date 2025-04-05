@@ -1,0 +1,76 @@
+# ### IP-based Virtual Host 
+<VirtualHost 212.193.229.75:80>
+ServerName obzorzarplat.ru
+ServerAdmin postmaster@obzorzarplat.ru
+DocumentRoot /home/zarplata/obzorzarplat.ru/docs
+ErrorDocument 401 /errordocs/401.html
+ErrorDocument 403 /errordocs/403.html
+ErrorDocument 404 /errordocs/404.html
+ErrorDocument 500 /errordocs/500.html
+ServerAlias www.obzorzarplat.ru
+ServerAlias www.obzor-zarplat.ru
+ServerAlias obzor-zarplat.ru
+ServerAlias xn--80aabyazqclhc1a.su
+ServerAlias www.xn--80aabyazqclhc1a.su
+ServerAlias zarplata.nichost.ru
+ServerAlias www.zarplata.nichost.ru
+Port 80
+ServerAlias xn--80aabyazqclhc1a.xn--p1ai
+<IfModule mod_alias.c>
+Alias /errordocs /home/zarplata/obzorzarplat.ru/errordocs
+ScriptAlias /cgi-bin/ /home/zarplata/obzorzarplat.ru/cgi/
+</IfModule>
+<IfModule mod_log_config.c>
+ErrorLog /home/zarplata/obzorzarplat.ru/logs/error_log
+CustomLog /home/zarplata/obzorzarplat.ru/logs/access_log combined
+</IfModule>
+<IfModule mod_mime.c>
+AddType application/x-httpd-php .php .phtml .html .htm
+AddHandler cgi-script .cgi
+AddType text/html .shtml .html .htm
+AddHandler server-parsed .shtml .html .htm
+</IfModule>
+<IfModule mod_charset.c>
+CharsetPriority windows-1251 koi8-r ISO-8859-5 ibm866
+CharsetDefault windows-1251
+CharsetSourceEnc windows-1251
+</IfModule>
+<IfModule mod_dir.c>
+DirectoryIndex index.html index.php index.shtml index.htm
+</IfModule>
+<Directory /home/zarplata/obzorzarplat.ru/docs>
+Options Indexes FollowSymLinks Includes
+AllowOverride AuthConfig FileInfo Indexes Limit Options
+<IfModule mod_access.c>
+Order allow,deny
+Allow from all
+</IfModule>
+</Directory>
+<Directory /home/zarplata/obzorzarplat.ru/errordocs>
+AllowOverride None
+Options IncludesNoExec FollowSymLinks
+<IfModule mod_mime.c>
+AddType text/html .shtml .html .htm
+AddHandler server-parsed .shtml .html .htm
+</IfModule>
+</Directory>
+<Directory /home/zarplata/obzorzarplat.ru/cgi>
+Options None
+AllowOverride AuthConfig FileInfo Indexes Limit Options
+Options Indexes FollowSymLinks Includes
+AllowOverride AuthConfig FileInfo Indexes Limit Options
+<IfModule mod_access.c>
+Order allow,deny
+Allow from all
+</IfModule>
+</Directory>
+<IfModule mod_php5.c>
+php_value include_path ".:/home/zarplata/obzorzarplat.ru/php"
+</IfModule>
+<Directory /home/zarplata/obzorzarplat.ru/docs/_admin>
+<IfModule mod_auth.c>
+</IfModule>
+<IfModule mod_access.c>
+</IfModule>
+</Directory>
+</VirtualHost>

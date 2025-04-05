@@ -1,0 +1,4 @@
+<link href="/_css/job_description/job_description_view.css" rel="stylesheet" type="text/css" />
+<div class="job_description_view">
+  <?php include($folder.'_admin/moduls/services/job_description/job_description_view.php');?>
+</div>

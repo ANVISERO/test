@@ -1,0 +1,9 @@
+.structura table{border-collapse:collapse;}
+.structura th{text-align:center; vertical-align:top; padding:6px; margin:0; border:1px solid #e0e0e0; font-weight:bold;}
+.structura td{vertical-align:top; padding:4px; margin:0; border:1px solid #e0e0e0; font-size:0.9em; width:50%}
+.structura td img{width:90%; border:0;}
+.structura td.subtitle{vertical-align:middle; padding:4px 4px 4px 50px; border-bottom:1px solid #e0e0e0; border-right:1px solid #e0e0e0; font-size:0.9em; font-style:italic;}
+.structura h2{font: normal normal 400 1em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; border-bottom:1px solid rgb(204,204,204); padding-bottom:4px; margin-bottom:1.2em; font-weight:normal;}
+.structura p.table_title{text-align:right; font-style:italic;}
+.structura p.img_title{text-align:center; font-style:italic;}
+.structura p.attention{font-size:1.1em;}

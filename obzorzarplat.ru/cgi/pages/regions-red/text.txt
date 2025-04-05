@@ -1,0 +1,34 @@
+<a href="?page=regions"><img src="_adminfiles/button_tolist.gif" alt="Возврат" width="129" height="20" border="0"></a>
+<?
+$id=$_GET['id'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result = mysqli_query($link,"select br.id, br.name, brc.coefficient, br.fake_express, br.fake_summary from base_regions br LEFT JOIN base_region_coefficients brc on (br.id = brc.city_id) WHERE br.id='$id'");
+$result = mysqli_fetch_array($result);
+?>
+<form name="add" action="?page=regions-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<?=$id;?>">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Наименование:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="name" value="<?=$result['name'];?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Коэф.:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="coef" value="<?=$result['coefficient'];?>"></td>
+  </tr>
+ <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Коэф. в экспресс отчете:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="radio" name="fake_ex" value="1" <? echo ($result['fake_express']) ? "checked" : ""?>>Да <input type="radio" name="fake_ex" value="0" <? echo (!$result['fake_express']) ? "checked" : ""?>> Нет </td>
+  </tr>
+ <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26"> Коэф. в сводном экспресс отчете:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="radio" name="fake_sm" value="1" <? echo ($result['fake_summary']) ? "checked" : ""?>>Да <input type="radio" name="fake_sm" value="0" <? echo (!$result['fake_summary']) ? "checked" : ""?>> Нет</td>
+  </tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

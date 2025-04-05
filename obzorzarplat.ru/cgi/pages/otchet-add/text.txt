@@ -1,0 +1,23 @@
+<?
+//сбор данных
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$id=implode("", file('settings/count_id'));
+countplus();
+$name=$_POST['name'];
+$opis=$_POST['opis'];
+$price=$_POST['price'];
+$pricesale=$_POST['pricesale'];
+$info=$_POST['info'];
+$pos=$_POST['pos'];
+$status=$_POST['status'];
+$demo=$_POST['demo'];
+//запись в базу
+$result=mysqli_query($link,"insert into base_otchet_type value ('$id','$name','$opis','$price','$pricesale','$info','$pos','$status','demo')");
+
+?>
+<script>
+self.location.href='?page=otchet';
+</script>

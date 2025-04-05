@@ -1,0 +1,50 @@
+<?
+$folder_id=$_GET['id'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$folder_name=mysqli_result(mysqli_query($link,"select * from for_photofolders where id='$folder_id'"),0,1);
+?>
+
+<a href="?page=photoalbum"><img src="_adminfiles/button_back.gif" alt="Список папок" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=photoalbum-view-new&id=<?=$folder_id;?>"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+
+<br><br>Папка : <b><?=$folder_name;?></b>
+
+<form name="del" method="post" action="?page=photoalbum-view-del">
+<input type="hidden" name="id" value="<? echo($folder_id);?>">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20" height="20" valign="top">&nbsp;</td>
+    <td width="200" valign="top" >&nbsp;&nbsp;<strong>Имя файла:</strong></td>
+	<td width="448" valign="top" >&nbsp;&nbsp;<strong>Изображение:</strong></td>
+	<td width="70" valign="top">&nbsp;&nbsp;<strong>Позиция:</strong></td>
+  </tr>
+  
+<?
+//Вывод содержимого папки
+
+$result=mysqli_query($link,"select * from for_photofiles where folder='$folder_id' order by pos");
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+echo('
+<tr>
+<td height="20" class="diz_26"><input type="checkbox" name="test_'.$chet.'" value="'.$row['name'].'"></td>
+<td class="diz_26">&nbsp;&nbsp;'.$row['name'].'</td>
+<td class="diz_26">&nbsp;&nbsp;<img width="40" src="elements/photofolders/'.$folder_id.'/preview/'.$row['name'].'"></td>
+<td class="diz_27">&nbsp;&nbsp;<input type="text" name="pos_'.$chet.'" value="'.$row['pos'].'"  class="names" style="width:50px;"></td>
+</tr>
+');
+$chet++;
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

@@ -1,0 +1,94 @@
+<a href="?page=articles"><img src="_adminfiles/button_tolist.gif" alt="Список статей" width="129" height="20" border="0"></a>
+
+<?
+//сбор данных
+$id=$_GET["id"];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$date=mysqli_result(mysqli_query($link,"select date from for_articles where id='$id'"),0,0);
+$zag=mysqli_result(mysqli_query($link,"select zag from for_articles where id='$id'"),0,0);
+$status=mysqli_result(mysqli_query($link,"select status from for_articles where id='$id'"),0,0);
+$lang=mysqli_result(mysqli_query($link,"select lang from for_articles where id='$id'"),0,0);
+$source=mysqli_result(mysqli_query($link,"select source from for_articles where id='$id'"),0,0);
+$section_id=mysqli_result(mysqli_query($link,"select section_id from for_articles where id='$id'"),0,0);
+
+
+if($status==1){$str_4='checked';}if($status==0){$str_4='';}
+if($lang==0){$str_5='checked'; $str_6='';}if($lang==1){$str_5=''; $str_6='checked';}
+
+
+$filefolder='elements/articles/'.$id;
+$anons=implode("", file($filefolder.'_an.txt'));
+$autor=implode("", file($filefolder.'_autor.txt'));
+$opis=implode("", file($filefolder.'_op.txt'));
+
+?>
+<form name="upd" action="?page=articles-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<? echo($id);?>">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дата:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="date" value='<? echo($date);?>'></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Заголовок:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="zag" value='<? echo($zag);?>'></td>
+  </tr>
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Язык:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<label><input type="radio" name="lang" value="0" <?=$str_5;?>>Русский</label>
+<label><input type="radio" name="lang" value="1" <?=$str_6;?>>English</label>
+</td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анонс:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="anons"><? echo($anons);?></textarea></td>
+  </tr>
+  
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Авторы:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="autor" style="height:100px"><? echo($autor);?></textarea></td>
+  </tr>  
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Источник:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="source" style="height:100px"><? echo($source);?></textarea></td>
+  </tr>   
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Содержание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="opis"><? echo($opis);?></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="status" <? echo($str_4);?>></td>
+  </tr>
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано в разделе:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<select name="section">
+      <?
+      $section_q=mysqli_query($link,"select * from for_section");
+      
+      $ch="";
+      while($row=mysqli_fetch_array($section_q)){
+        if($row["id"]==$section_id){$ch="selected";}
+        echo('<option value='.$row["id"].' '.$ch.'>'.$row["title"].'</option>');
+        
+        $ch="";
+      }
+      ?>
+    </select>
+    </td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26"><img src="<? echo($filefolder);?>.jpg" width="50" height="50" vspace="5">&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;Изображение для списка (80 х 80 px):<br>&nbsp;&nbsp;<input class="file" type="file" name="small-photo"></td>
+  </tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

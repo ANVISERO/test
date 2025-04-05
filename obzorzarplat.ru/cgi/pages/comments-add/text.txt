@@ -1,0 +1,15 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+//Сбор данных
+$user_id=intval($_POST["user_id"]);
+$comment=$_POST["comment"];
+$date=$_POST["datepicker"];
+
+//запись в БД
+$user_q=mysqli_query($link,"insert into for_comments (user_id, comment, date) VALUES('$user_id', '$comment', '$date')");
+?>
+<script>
+self.location.href='?page=comments';
+</script>

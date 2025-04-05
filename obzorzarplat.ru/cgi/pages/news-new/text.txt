@@ -1,0 +1,65 @@
+<a href="?page=news"><img src="_adminfiles/button_tolist.gif" alt="Список новостей" width="129" height="20" border="0"></a>
+
+<? $date=date("Y.m.d");?>
+<form name="add" action="?page=news-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дата:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="date" value="<? echo($date);?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Заголовок:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="zag" value=""></td>
+  </tr>
+  
+      <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Язык:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<label><input type="radio" name="lang" value="0" checked="checked">Русский</label>
+<label><input type="radio" name="lang" value="1">English</label>
+</td>
+  </tr> 
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анонс:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="anons" rows="10" cols="50"></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Содержание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="opis" rows="10" cols="50"></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="status" checked="checked"></td>
+  </tr>
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Категория новостей:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+    <?
+    
+    $link = mysqli_connect($host,$user,$pass);
+    mysqli_select_db($link,$db);
+    
+   $list_q=mysqli_query($link,"select * from for_news_category");
+    while($row=mysqli_fetch_array($list_q)){
+       echo('<input type="radio" name="category" value="'.$row["id"].'">&nbsp;&nbsp;'.$row["title"].'<br>');
+    }
+    
+    ?>
+    </td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Фото:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="file" type="file" name="small-photo"></td>
+  </tr>
+  
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+
+</table>
+
+
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

@@ -1,0 +1,18 @@
+<?
+//сбор данных
+$id=date('ymdHis');
+$sity=$_POST['sity'];
+$comp=$_POST['comp'];
+$adress=$_POST['adress'];
+$phone=$_POST['phone'];
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="insert into for_serviscenter value ('$id','$sity','$comp','$adress','$phone')";
+$result=mysqli_query($link,$query);
+
+?>
+<script>
+self.location.href='?page=servis-center';
+</script>

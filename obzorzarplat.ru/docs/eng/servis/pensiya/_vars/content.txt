@@ -1,0 +1,36 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+<td valign="top">
+<?
+if(!isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/pensiya-form-eng.php');
+}
+if(isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/pensiya-echo-eng.php');
+}
+?>
+
+</td>
+<td width="200" valign="top" style="border-left:1px dashed #DBDBDB">
+
+<table width="200" height="100" border="0" cellpadding="0" cellspacing="0"><tr>
+<td valign="top" class="blok_1" style="padding:10px">
+
+<font style="font-size:10px; font-weight:bold; font-style:normal; text-decoration:none; color:#494949">
+
+<p>Право на трудовую пенсию по старости имеют:</p></font>
+
+<font style="font-size:10px; font-weight:normal; font-style:normal; text-decoration:none; color:#494949">
+<p>Мужчины в возрасте 60 лет при страховом стаже не менее 5 лет.</p>
+
+<p>Женщины в возрасте 55 лет при страховом стаже не менее 5 лет.</p>
+
+<p>Отдельные категории граждан имеют право на досрочное назначение трудовой пенсии при условиях, предусмотренных законодательством.</p>
+</font>
+</td>
+</tr></table>
+
+</td>
+</tr></table>

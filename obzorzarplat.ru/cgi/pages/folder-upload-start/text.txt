@@ -1,0 +1,26 @@
+<?
+//Получение данных
+$id=$_POST["id"];
+//Вывод имени папки
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+$query="select * from for_folders where id='$id'";
+$result = mysqli_query($link, $query);
+$folder_name=mysqli_result($result,0,1);
+
+//Загрузка файлов в папку
+$uploaddir='../'.$folder_name.'/';
+
+for($ii=1; $ii<=10; $ii++)
+{
+if(file_exists($_FILES['file_'.$ii] ['tmp_name']))
+{
+$filename=$_FILES['file_'.$ii] ['name'];
+move_uploaded_file($_FILES['file_'.$ii] ['tmp_name'], $uploaddir . $filename);
+}
+}
+?>
+
+<script>
+self.location.href='?page=folder-select&id=<? echo($id);?>';
+</script>

@@ -1,0 +1,19 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db);
+
+$test=$_POST["test"];
+
+foreach($test as $id)
+{
+    $delete_user_q=mysqli_query($link,"delete from for_users_corporat where id='$id'");
+    $delete_users_reports_q=mysqli_query($link,"delete from for_users_corporat_reports where user_id='$id'");
+    $delete_users_report_types_q=mysqli_query($link,"delete from for_users_corporat_report_type where user_id='$id'");
+    $delete_users_jobs_q=mysqli_query($link,"delete from for_users_corporat_jobs where user_id='$id'");
+    rmdir('/home/zarplata/business.obzorzarplat.ru/docs/public/_report/user'.$id);
+}
+
+?>
+<script>
+self.location.href='?page=users-b2b';
+</script>

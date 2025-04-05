@@ -1,0 +1,98 @@
+<b>Основные таблицы</b>
+<br><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=people">Анкеты</a></td>
+  </tr> 
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_24">&nbsp;</td>
+    <td class="diz_25"><a href="?page=jobs">Должности</a></td>
+  </tr>
+</table>
+<br>
+<b>Дополнительные таблицы</b>
+<br><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=otrasli-type">Типы отраслей</a></td>
+  </tr> 
+
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=otrasli">Отрасли</a></td>
+  </tr> 
+ <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=sfera-type">Типы сфер деятельности</a></td>
+  </tr> 
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=sfera">Сферы деятельности</a></td>
+  </tr>
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=kapital">Происхождение капитала</a></td>
+  </tr>
+ <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=razvitie">Стадии развития</a></td>
+  </tr>
+ <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=regions">Города</a></td>
+  </tr>
+
+ <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=companies">Компании</a></td>
+  </tr>
+
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=jtype">Функциональные типы должностей</a></td>
+  </tr>
+  
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=period">Периодичность выплат</a></td>
+  </tr>
+
+
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_24">&nbsp;</td>
+    <td class="diz_25"><a href="?page=payment">Методы выплат</a></td>
+  </tr>
+  
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_24">&nbsp;</td>
+    <td class="diz_25"><a href="?page=services">Услуги ИП</a></td>
+  </tr>
+  
+  
+</table>
+<br>
+<b>Другие таблицы</b>
+<br><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=otchet">Отчеты - тарифы</a></td>
+  </tr> 
+
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=users">Пользователи</a></td>
+  </tr> 
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_21">&nbsp;</td>
+    <td class="diz_23"><a href="?page=terms">Словарь терминов</a></td>
+  </tr> 
+
+<tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_24">&nbsp;</td>
+    <td class="diz_25"><a href="?page=catalog">Каталог сайтов</a></td>
+  </tr>
+</table>
+

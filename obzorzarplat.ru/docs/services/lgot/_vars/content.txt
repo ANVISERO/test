@@ -1,0 +1,49 @@
+<style type="text/css">
+<!--
+.style3 {font-size:16px; font-weight:bold; text-align:center; color:#fff; text-decoration:none;}
+-->
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td colspan="2" valign="top"><?
+if(!isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/lgot-form.php');
+}
+if(isset($_GET["step"]))
+{
+include($folder.'_admin/moduls/lgot-echo.php');
+}
+?>
+</td>
+</tr>
+  <tr bgcolor="#990000">
+<td colspan="2" valign="top"><div align="center"><strong><a href="/servis/" class="style3">СЕРВИСЫ</a></strong>
+</div></td>
+
+</tr>
+  <tr>
+    <td valign="top"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/servis/zp/" target="_blank"><img src="/_img/zp_pic.jpg" border="0" width="136" height="100"></a> <br>
+          <a href="/servis/zp/" target="_blank"  class="link_4">Сравните Вашу зарплату с рыночными значениями.</a></p>
+    </div></td>
+    <td valign="top"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/servis/pensiya/" target="_blank"><img src="/_img/pension_pic.jpg" border="0" width="150" height="100"></a> <br>
+          <a href="/servis/pensiya/" target="_blank"  class="link_4">Узнайте размер Вашей будущей пенсии.</a></p>
+    </div></td>
+  </tr>
+  <tr>
+    <td valign="top"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/servis/million/" target="_blank"><img src="/_img/million_pic.jpg" border="0" width="160" height="100"></a> <br>
+          <a href="/servis/million/" target="_blank" class="link_4">Когда вы станете миллионером?</a></p>
+    </div></td>
+    <td valign="top"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/servis/nalog/" target="_blank"><img src="/_img/nalog_mini.jpg" border="0" width="150" height="84"></a> <br>
+          <a href="/servis/nalog/" target="_blank" class="link_4">Льготы, связанные с уплатой НДФЛ.</a></p>
+    </div></td>
+  </tr>
+</table>

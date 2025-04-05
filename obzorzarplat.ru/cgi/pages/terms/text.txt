@@ -1,0 +1,150 @@
+<h1>Словарь терминов</h1>
+<a href="?page=base"><img src="_adminfiles/button_back.gif" alt="Все элементы" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=terms-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+
+<form name="del" method="post" action="?page=terms-del">
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+if(!isset($_GET['str'])){$str='0-9';}
+if(isset($_GET['str'])){$str=$_GET['str'];}
+if($str=='0-9'){$select="select * from for_terms where 
+			name LIKE '0%' OR 
+			name LIKE '1%' OR 
+			name LIKE '2%' OR 
+			name LIKE '3%' OR 
+			name LIKE '4%' OR 
+			name LIKE '5%' OR 
+			name LIKE '6%' OR 
+			name LIKE '7%' OR 
+			name LIKE '8%' OR 
+			name LIKE '9%' order by name";}
+if($str<>'0-9'){$select="select * from for_terms where name LIKE '$str%' order by name";}
+
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str2='onMouseOver="this.src='.$kov.'_adminfiles/ico_add_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_add.gif'.$kov.'"';
+$str3='onMouseOver="this.src='.$kov.'_adminfiles/ico_view_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_view.gif'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+
+$col_elements=mysqli_result(mysqli_query($link,"select COUNT(*) from for_terms"),0,0);
+echo('Элементов в таблице: <b>'.$col_elements.'</b>, Страница <b>'.$str.'</b>');
+$buk = array(
+			1 => '0-9',
+			2 => 'А',
+			3 => 'Б',
+			4 => 'В',
+			5 => 'Г',
+			6 => 'Д',
+			7 => 'Е',
+			8 => 'Ё',
+			9 => 'Ж',
+			10 => 'З',
+			11 => 'И',
+			12 => 'Й',
+			13 => 'К',
+			14 => 'Л',
+			15 => 'М',
+			16 => 'Н',
+			17 => 'О',
+			18 => 'П',
+			19 => 'Р',
+			20 => 'С',
+			21 => 'Т',
+			22 => 'У',
+			23 => 'Ф',
+			24 => 'Х',
+			25 => 'Ц',
+			26 => 'Ч',
+			27 => 'Ш',
+			28 => 'Щ',
+			29 => 'Э',
+			30 => 'Ю',
+			31 => 'Я'
+			);
+$buk_eng= array(
+				1 => 'A',
+				2 => 'B',
+				3 => 'C',
+				4 => 'D',
+				5 => 'E',
+				6 => 'F',
+				7 => 'G',
+				8 => 'H',
+				9 => 'I',
+				10 => 'J',
+				11 => 'K',
+				12 => 'L',
+				13 => 'M',
+				14 => 'N',
+				15 => 'O',
+				16 => 'P',
+				17 => 'Q',
+				18 => 'R',
+				19 => 'S',
+				20 => 'T',
+				21 => 'U',
+				22 => 'V',
+				23 => 'W',
+				24 => 'X',
+				25 => 'Y',
+				26 => 'Z'
+				);
+echo('<hr><center>рус:');
+for($jj=1; $jj<=count($buk); $jj++)
+{
+	if($buk[$jj]==$str)
+	{echo('[<b>'.$buk[$jj].'</b>]');}
+	if($buk[$jj]<>$str)
+	{echo('[<a href="?page=terms&str='.$buk[$jj].'">'.$buk[$jj].'</a>]');}
+}
+echo('<br><br>eng:');
+for($jj=1; $jj<=count($buk_eng); $jj++)
+{
+	if($buk_eng[$jj]==$str)
+	{echo('[<b>'.$buk_eng[$jj].'</b>]');}
+	if($buk_eng[$jj]<>$str)
+	{echo('[<a href="?page=terms&str='.$buk_eng[$jj].'">'.$buk_eng[$jj].'</a>]');}
+}
+
+echo('</center><hr>');
+
+$result=mysqli_query($link,$select);
+echo('
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="20" valign="top">&nbsp;</td>
+<td width="200" valign="top">&nbsp;&nbsp;<strong>Термин</strong></td>
+<td valign="top">&nbsp;&nbsp;<strong>Значение</strong></td>
+<td width="20" valign="top">&nbsp;</td>
+</tr>
+');
+
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+$chet++;
+echo('
+<tr '.$str1.'>
+<td align="center" class="diz_26" valign="top"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td class="diz_26" valign="top"><a href="?page=terms-red&id='.$row["id"].'&str='.$str.'">'.$row["name"].'</a></td>
+<td class="diz_26" valign="top"><a href="?page=terms-red&id='.$row["id"].'&str='.$str.'">'.$row["value"].'</a></td>
+<td align="center" class="diz_27" valign="top"><a href="?page=terms-red&id='.$row["id"].'&str='.$str.'"><img '.$str4.' alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+}
+
+echo('
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+');
+?>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>
+
+

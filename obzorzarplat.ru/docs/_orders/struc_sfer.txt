@@ -1,0 +1,55 @@
+<table width="100%" class="line" cellspacing="0" cellpadding="5">
+<tr class="struct" bgcolor="#c0c0c0">
+<td width="33%" colspan=2 align="center">Сфера деятельности компании</td>
+<td width="33%" align="center">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor="#e0e0e0">
+  <td width="33%">Строительство</td>
+  <td></td>
+  <td width="33%" align="center">3.71%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">Производство</td>
+  <td></td>
+  <td width="33%" align="center">29.27%</td>
+</tr>
+
+<tr bgcolor="#e0e0e0">
+  <td width="33%">Высокие технологии</td>
+  <td></td>
+  <td width="33%" align="center">1.22%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">Торговля</td>
+  <td></td>
+  <td width="33%" align="center">80.09%</td>
+</tr>
+
+<tr bgcolor="#e0e0e0">
+  <td></td>
+  <td width="33%"><i>Оптово-розничная и мелкооптовая торговля</i></td>
+  <td width="33%" align="center">7.18%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td></td>
+  <td width="33%"><i>Розничная торговля</i></td>
+  <td width="33%" align="center">72.16%</td>
+</tr>
+
+<tr bgcolor="#e0e0e0">
+  <td></td>
+  <td width="33%"><i>Оптовая торговля</i></td>
+  <td width="33%" align="center">23.75%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">Услуги</td>
+  <td></td>
+  <td width="33%" align="center">9.37%</td>
+</tr>
+
+</table>

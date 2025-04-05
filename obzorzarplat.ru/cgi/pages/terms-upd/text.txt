@@ -1,0 +1,13 @@
+<h1>Словарь терминов :: Редактирование</h1>
+<?
+$id=$_POST['id'];
+$str=$_POST['str'];
+$name=$_POST['name'];
+$value=$_POST['value'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"update for_terms SET `name` = '$name', `value` = '$value' where `id`='$id'");
+?>
+<script>
+self.location.href='?page=terms&str=<?=$str;?>';
+</script>

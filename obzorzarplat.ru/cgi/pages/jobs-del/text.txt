@@ -1,0 +1,34 @@
+<?php
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+//Удаление из базы
+$query="delete from base_jobs where id='$test[$kol_del]'";
+$result = mysqli_query($link, $query);
+
+//delete from base_job_types
+mysqli_query($link,"delete from base_job_types where job_id='$test[$kol_del]'");
+
+//delete ekts description
+$filefolder='elements/job_description/'.$test[$kol_del];
+
+//Удаление файлов
+$url_file=$filefolder.'_ekts.txt';
+unlink($url_file);
+}
+}
+?>
+<script>
+self.location.href="?page=jobs";
+</script>

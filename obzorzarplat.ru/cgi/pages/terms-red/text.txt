@@ -1,0 +1,30 @@
+<h1>Словарь терминов :: Редактирование</h1>
+<?
+$id=$_GET['id'];
+$str=$_GET['str'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$term_name=mysqli_result(mysqli_query($link,"select * from for_terms where id='$id'"),0,1);
+$term_value=mysqli_result(mysqli_query($link,"select * from for_terms where id='$id'"),0,2);
+?>
+<a href="?page=terms&str=<?=$str;?>"><img src="_adminfiles/button_tolist.gif" alt="Возврат" width="129" height="20" border="0"></a>
+<form name="del" method="post" action="?page=terms-upd">
+<input type="hidden" name="id" value="<?=$id;?>">
+<input type="hidden" name="str" value="<?=$str;?>">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Термин:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20"><input class="names" type="text" name="name" value="<?=$term_name;?>"></td>
+  </tr>
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Значение:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+	<textarea name="value" class="anons" style="width:100%; height:200px"><?=$term_value;?></textarea></td>
+  </tr> 
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

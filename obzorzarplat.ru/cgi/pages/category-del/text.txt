@@ -1,0 +1,31 @@
+<?
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+
+
+//Удаление из базы
+$query="delete from for_category where id='$test[$kol_del]'";
+$result = mysqli_query($link, $query);
+
+//Удаление таблицы
+$table_name='for_cat'.$test[$kol_del];
+$query2="drop table `$table_name`";
+$result2 = mysqli_query($link, $query2);
+}
+}
+?>
+<script>
+self.location.href="?page=category";
+</script>

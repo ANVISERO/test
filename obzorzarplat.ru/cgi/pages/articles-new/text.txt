@@ -1,0 +1,74 @@
+<a href="?page=articles"><img src="_adminfiles/button_tolist.gif" alt="Список статей" width="129" height="20" border="0"></a>
+
+<? $date=date("Y.m.d");?>
+<form name="add" action="?page=articles-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дата:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="date" value="<? echo($date);?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Заголовок:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="zag" value=""></td>
+  </tr>
+     <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Язык:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<label><input type="radio" name="lang" value="0" checked="checked">Русский</label>
+<label><input type="radio" name="lang" value="1">English</label>
+</td>
+  </tr> 
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анонс:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="anons"></textarea></td>
+  </tr>
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Авторы:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="autor" style="height:100px"></textarea></td>
+  </tr> 
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Источник:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="source" style="height:100px"></textarea></td>
+  </tr>   
+   
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Содержание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="opis"></textarea></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="status" checked="checked"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано в разделе сайта:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<select name="section">
+     <?
+      $link = mysqli_connect($host,$user,$pass);
+      mysqli_select_db($link,$db);
+      
+      $section_q=mysqli_query($link,"select * from for_section");
+      
+      while($row=mysqli_fetch_array($section_q)){
+        echo('<option value='.$row["id"].'>'.$row["title"].'</option>');
+      }
+     ?>
+    </select>
+    </td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Фото:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="file" type="file" name="small-photo"></td>
+  </tr>
+ 
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+
+</table>
+
+
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

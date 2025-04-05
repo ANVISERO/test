@@ -1,0 +1,83 @@
+<?
+//Получение данных
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$url_1=$_POST['url'];
+$url_2=$_POST['url_add'];
+$url=$url_1.$url_2.'/';
+
+//Проверка
+$test_page=mysqli_num_rows(mysqli_query($link,"select * from for_pages where url='$url'"));
+if($test_page<>0)
+{
+echo('Такая страница уже существует!!<br><br><a href="?page=pages"><img src="_adminfiles/button_tolist.gif" alt="Список страниц" width="129" height="20" border="0"></a');
+}
+else
+{
+$zag=$_POST['zag'];
+$zag_graf=$_POST['zag_graf'];
+$temp=$_POST['temp'];
+$content=stripslashes($_POST['content']);
+$title=stripslashes($_POST['title']);
+$key=stripslashes($_POST['keywords']);
+$des=stripslashes($_POST['deskription']);
+if(isset($_POST['status'])){$status=0;}
+if(!isset($_POST['status'])){$status=1;}
+
+$page_folder='';
+for($hh=2; $hh<=count(split("/",$url)); $hh++)
+{
+$page_folder.='../';
+}
+
+//Запись в базу
+
+$result=mysqli_query($link,"insert into for_pages value ('$url','$status')");
+
+//Создание файлов и папок
+$filefolder='../'.$url;
+mkdir($filefolder);
+mkdir($filefolder.'_vars');
+
+$file=fopen($filefolder.'_vars/zag.txt',"w+");
+fputs($file, $zag);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/temp.txt',"w+");
+fputs($file, $temp);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/content.txt',"w+");
+fputs($file, $content);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/title.txt',"w+");
+fputs($file, $title);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/key.txt',"w+");
+fputs($file, $key);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/des.txt',"w+");
+fputs($file, $des);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/zag_graf.txt',"w+");
+fputs($file, $zag_graf);
+fclose($file);
+
+$file=fopen($filefolder.'_vars/folder.txt',"w+");
+fputs($file, $page_folder);
+fclose($file);
+
+//Копируем шаблон
+copy('sql/index.php', $filefolder.'index.php');
+echo('
+<script>
+self.location.href="?page=pages";
+</script>
+');
+}
+?>

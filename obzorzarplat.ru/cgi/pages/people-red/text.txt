@@ -1,0 +1,240 @@
+<a href="?page=people"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a><br><br>
+<?
+if(isset($_GET['id'])){
+	
+	$id=intval($_GET['id']);
+	$people_q = "SELECT bp.id, bp.company_id, bp.job_id, bp.seniority, bp.official_salary, bp.add_payment, bp.bonus, bp.fine, bp.compensation,
+	 bp.premium, bp.period_id, bp.payment_id, bp.region_id, bp.date, bp.premium_quarterly,
+     bp.premium_annual, bp.number, bp.real_name, bp.section_id, bp.group_id
+	 FROM base_people bp WHERE id = '$id' LIMIT 1";
+	$people = mysqli_query($link,$people_q) or die(mysql_error());
+	$people = mysqli_fetch_array($people);
+	?>
+<form name="people-upd" id="people-upd" action="" method="post" enctype="multipart/form-data">
+
+<input type="hidden" name="id" value="<?=$people['id']?>">
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td colspan="2" align="center"><b>Основные данные</b></td>
+</tr>
+ <tr>
+    <td width="168" height="20" align="right" valign="middle" nowrap="">Компания:</td>
+    <td width="500" height="20" valign="top"><select name="companies" class="optlong">
+<?
+$result=mysqli_query($link,"select id, name from base_companies order by name");
+while($row=mysqli_fetch_array($result))
+		{?>
+			<option value="<?=$row['id']?>"<?echo ($row['id'] == $people['company_id']) ? " selected" :""?>><?=$row['name']?></option>
+<?}?>	
+</select>
+	</td>
+</tr>
+<tr>
+    <td width="168" height="20" align="right" valign="middle">Должность:</td>
+    <td width="500" height="20"><select name="jobs" class="optlong">
+<?
+$result=mysqli_query($link,"select id, name from base_jobs order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+			<option value="<?=$row['id']?>"<?echo ($row['id'] == $people['job_id']) ? " selected" :""?>><?=substr($row['name'], 0, 107)?></option>
+<?}?>	
+</select>
+</td>
+</tr>
+
+<tr>
+    <td width="168" height="20" align="right" valign="middle">Регион:</td>
+    <td width="500" height="20"><select name="region" class="optlong">
+<?
+$result=mysqli_query($link,"select id, name from base_regions order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+			<option value="<?=$row['id']?>"<?echo ($row['id'] == $people['region_id']) ? " selected" :""?>><?=$row['name']?></option>
+<?}?>	
+</select>
+</td>
+</tr>
+
+<tr>
+<td width="168" height="20" align="right" valign="middle">Стаж:</td>
+<td width="500" height="20"><input class="names" type="text" name="seniority" value="<?=$people['seniority']?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Должностной оклад:</td>
+<td width="500" height="20"><input class="names" type="text" name="official_salary" value="<?=$people['official_salary']?>"></td>
+</tr>  
+<tr>
+<td width="168" height="20" align="right" valign="middle">Премия:</td>
+<td width="500" height="20"><input class="names" type="text" name="premium" value="<?=$people['premium']?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Компенсации:</td>
+<td width="500" height="20"><input class="names" type="text" name="compensation" value="<?=$people['compensation']?>"></td>
+</tr>
+
+<tr>
+<td width="168" height="20" align="right" valign="middle">Доплаты и надбавки:</td>
+<td width="500" height="20"><input class="names" type="text" name="add_payment" value="<?=$people['add_payment']?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Бонус:</td>
+<td width="500" height="20"><input class="names" type="text" name="bonus" value="<?=$people['bonus']?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Штраф:</td>
+<td width="500" height="20"><input class="names" type="text" name="fine" value="<?=$people['fine']?>"></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Периодичность выплат:</td>
+<td swidth="500" height="20"><select name="period" class="optlong">
+<option value="0" selected>Не выбрано
+<?
+$result=mysqli_query($link,"select id, name from base_period order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+			<option value="<?=$row['id']?>"<?echo ($row['id'] == $people['period_id']) ? " selected" :""?>><?=$row['name']?></option>
+<?}
+?>	
+</select></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Метод выплаты:</td>
+<td class="diz_27" width="500" height="20"><select name="payment" class="optlong">
+<option value="0" selected>Не выбрано
+<?
+$result=mysqli_query($link,"select * from base_payment order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+	<option value="<?=$row['id']?>"<?echo ($row['id'] == $people['period_id']) ? " selected" :""?>><?=$row['name']?></option>
+<?}?>	
+</select></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle">Отдел:</td>
+<td swidth="500" height="20"><select name="section" class="optlong">
+<option value="0" selected>Не выбрано
+<?
+$result=mysqli_query($link,"select id, name from base_sections order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+			<option value="<?=$row['id']?>"<?echo ($row['id'] == $people['section_id']) ? " selected" :""?>><?=$row['name']?></option>
+<? } ?>	
+</select></td>
+</tr>
+</table><br>
+
+<p align="left"><input type="submit" class="submit" value="Сохранить"></p>
+
+<p align="left"><b>Премии</b></p>
+<?
+$p_types = mysqli_query($link,"SELECT id, title FROM base_premium_types") or die(mysql_error());
+ while($row = mysqli_fetch_array($p_types)) {
+ 	$type_id = $row['id'];
+ 	$premium_titles = mysqli_query($link,"SELECT id, title FROM base_premium_titles WHERE type_id = '$type_id'") or die(mysql_error());
+?>
+<p>
+<a class="link-h3" href=""><?=$row['id']?>. <?=$row['title']?></a><br>
+<div style="display: none;">
+<table>
+<? while($rw = mysqli_fetch_array($premium_titles)) {
+		$title_id = $rw['id'];
+		$premiums = mysqli_query($link,"SELECT id, subtitle FROM base_premiums WHERE title_id = '$title_id'") or die(mysql_error());
+	?>
+	<tr>
+		<td width="50%"><b><?=$rw['title']?></b></td>
+	</tr>
+		<? while($r = mysqli_fetch_array($premiums)) {
+			$chckd = 0;
+			$premium_id = $r['id'];
+			$ch = mysqli_query($link,"SELECT id from base_people_premiums WHERE people_id = '$id' AND premium_title_id = '$title_id' AND premium_id = '$premium_id'") or die(mysql_error());
+			$chckd = (mysqli_num_rows($ch)) ? "checked" : "";
+			?>
+			<tr>
+				<td width="50%"><input name="premium_id[]" id="premium_id[]" type="checkbox" value="<? echo $title_id."_".$premium_id?>" <?=$chckd?>/><?=$r['subtitle']?></td>
+			</tr>	
+		<?}?>
+
+<? }?>	
+</table>
+</div>	
+</p>
+<? } ?>
+
+<!-- Компенсации --->
+
+<p align="left"><b>Компенсации</b></p>
+ 
+<?
+// WHERE active = 1 AND people = 1
+$c_types = mysqli_query($link,"SELECT id, type FROM base_compensation_types") or die(mysql_error());
+ while($row = mysqli_fetch_array($c_types)) {
+ 	$type_id = $row['id'];
+ 	$compensations = mysqli_query($link,"SELECT id, title FROM base_compensations WHERE type_id = '$type_id'") or die(mysql_error());
+	?>
+
+<p>
+<a class="link-h3" href=""><?=$row['id']?>. <?=$row['type']?></a><br>
+<div style="display: none;">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<? while($rw = mysqli_fetch_array($compensations)) {
+	$has_politics = 0;
+	$compensation_id = $rw['id'];
+	$compensations_politics = mysqli_query($link,"SELECT id, title FROM base_compensation_politics WHERE compensation_id = '$compensation_id'") or die(mysql_error());
+	$has_politics = mysqli_num_rows($compensations_politics);
+	 $ch = 0;
+	 $chckd = "";
+	 $ch_q = mysqli_query($link,"SELECT compensation_id, sum, politics_id FROM base_people_compensations WHERE people_id = '$id' AND compensation_id = '$compensation_id'");
+	 $ch = mysqli_num_rows($ch_q);
+	 if ($ch) {
+	 	$chckd = "checked";	
+		$c = mysqli_fetch_array($ch_q);
+	 } else {
+	 	$c['sum'] = 0;
+	 }
+	?>
+<tr>
+	<td width="50%"><input name="compensation_id[]" id="compensation_id[]" type="checkbox" value="<?=$rw['id']?>" <?=$chckd?>/><b><?=$rw['title']?></b></td>
+</tr>
+<tr>	
+	<td><? if ($has_politics) {?>
+			<table>
+			<?while ($r = mysqli_fetch_array($compensations_politics)) {
+				$pol_id = $r['id'];
+				$ch2 = 0;
+				$chckd2= 0;
+				$ch_q2 = mysqli_query($link,"SELECT compensation_id, sum, politics_id FROM base_people_compensations WHERE people_id = '$id' AND compensation_id = '$compensation_id' AND politics_id = '$pol_id'");
+				$ch2 = mysqli_num_rows($ch_q2);
+				$chckd2 = ($ch2) ? "checked" : "";
+				$_c = mysqli_fetch_array($ch_q2);
+				?>
+			<tr>
+			<td><input name="compensations_<?=$rw['id']?>_politics_id[]" id="compensations_<?=$rw['id']?>_politics_id[]" type="checkbox" value="<?=$r['id']?>" <?=$chckd2?>/><?=$r['title']?></td>		
+			<td><input type="Text" name="compensations_<?=$rw['id']?>_politics_<?=$r['id']?>_sum" value="<?=$_c['sum']?>"></td>
+			</tr>
+			
+				
+			<?}?>	</table>
+		<?} else {?>
+			<input type="Text" name="compensations_<?=$rw['id']?>_sum" value="<?=$c['sum']?>">
+		<? } ?>
+		</td>
+</tr>	
+<?}?>	
+
+</table> 	
+</div>
+</p>
+
+ <?}
+?>
+
+
+ <p align="left"><input type="submit" class="submit" value="Сохранить"></p>
+</form>
+<? } ?>
+<script type="text/javascript" src="/_js/lib/jquery.form.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.metadata.min.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.tableFormSynch.documented.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.bgiframe.js"></script>
+<script type="text/javascript" src="/_js/jquery/peoples-save.js"></script>

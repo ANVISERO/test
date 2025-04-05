@@ -1,0 +1,21 @@
+<?
+//Сбор данных
+$id=date("ymdHis");
+$name=$_POST["name"];
+$opis=$_POST["opis"];
+
+
+//Запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="insert into for_folders value ('$id','$name','$opis')";
+$result=mysqli_query($link,$query);
+
+//Создаем папку
+$folder='../'.$name;
+mkdir($folder,0700);
+
+?>
+<script>
+self.location.href="?page=folders";
+</script>

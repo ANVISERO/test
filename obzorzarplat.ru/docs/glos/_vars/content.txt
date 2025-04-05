@@ -1,0 +1,36 @@
+<? include($folder.'_admin/moduls/terms.php');?>
+<style type="text/css">
+<!--
+.style18 a, a:visited{font-size:12px; font-weight:bold; text-align:center; color:#fff; text-decoration:none;}
+-->
+</style>
+
+<table width="100%" border="0,5">
+  <tr bgcolor="#990000">
+    <td colspan="2"><div align="center">
+        <p><strong><a href="http://obzorzarplat.ru/servis/" class="style18">СЕРВИСЫ</a></strong> </p>
+    </div></td>
+  </tr>
+  <tr>
+    <td><div align="center">
+        <p>&nbsp;</p>
+        <p><a href="http://obzorzarplat.ru/servis/zp/"><img src="/_img/zp_pic.jpg" border="0" width="136" height="100"></a> <br>
+            <a href="http://obzorzarplat.ru/servis/zp/" class="link_4">Сравните Вашу зарплату с рыночными значениями</a></p>
+    </div></td>
+    <td width="475"><div align="center">
+        <p>&nbsp;</p>
+        <p><a href="http://obzorzarplat.ru/servis/pensiya/"><img src="/_img/pension_pic.jpg" border="0" width="150" height="100"></a> <br>
+            <a href="http://obzorzarplat.ru/servis/pensiya/" class="link_4">Узнайте размер Вашей будущей пенсии</a></p>
+    </div></td>
+  </tr>
+  <tr>
+    <td><p>&nbsp;</p>
+        <p align="center"><a href="http://obzorzarplat.ru/servis/lgot/"><img src="/_img/lgot_pic.jpg" border="0" width="67" height="100"></a> <br>
+          <a href="http://obzorzarplat.ru/servis/lgot/" class="link_4">Узнайте размер государственных пособий, которые Вы можете получить</a></p></td>
+    <td><div align="center">
+        <p>&nbsp;</p>
+        <p><a href="/servis/gosgarant/"><img src="/_img/gosg_mini.jpg" border="0" width="151" height="100"></a> <br>
+            <a href="/servis/gosgarant/" class="link_4">Государственные гарантии и компенсации</a></p>
+    </div></td>
+  </tr>
+</table>

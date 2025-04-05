@@ -1,0 +1,52 @@
+<?
+$id=$_GET["id"];
+?>
+
+<a href="?page=category"><img src="_adminfiles/button_tolist.gif" alt="Все категории" width="129" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=category-select&id=<? echo($id);?>"><img src="_adminfiles/button_back.gif" alt="Вернуться в категорию" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="add.submit();"><img style="cursor:hand" src="_adminfiles/button_addlist.gif" alt="Добавить отмеченные" width="171" height="20" border="0"></a>
+<br><br>
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_category where id='$id'";
+$result=mysqli_query($link,$query);
+$cat_name=mysqli_result($result,0,3);
+echo('Категория: <b>'.$cat_name.'</b>');
+?>
+
+<form name="add" method="post" action="?page=category-goods-add">
+<input type="hidden" name="id" value="<? echo($id);?>">
+
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td width="648" height="20" valign="top">&nbsp;&nbsp;<strong>Наименование товара</strong></td>
+</tr>
+
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$query="select * from for_goods order by name";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+$chet++;
+echo('
+<tr>
+<td class="diz_26" height="20"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td class="diz_27">&nbsp;&nbsp;'.$row["name"].'</td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

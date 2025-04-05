@@ -1,0 +1,95 @@
+<script type="text/javascript" src="/_js/lists.js"></script>
+
+<a href="?page=salary"><img src="_adminfiles/button_tolist.gif" alt="Список должностей" width="129" height="20" border="0"></a>
+
+<? $date=date("Y.m.d");?>
+<form name="add" action="?page=salary-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дата:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="date" value="<? echo($date);?>"></td>
+  </tr>
+  
+  <!--Должностная группа-->
+  <tr>
+    <td width="40%" align="right">Выберите должностную группу</td>
+    <td width="60%">
+      <select name="jtype" class="text_1" onChange="getJob(this.value,1)">
+        <option value="">--- Выбрать ---</option>
+        <?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"select * from base_jtype order by name");
+$ch="";
+while($row=mysqli_fetch_array($result))
+{
+echo('<option value="'.$row["id"].'" '.$ch.'>'.$row["name"].'</option>');
+$ch="";
+}
+?>	
+      </select>
+    </td>
+  </tr>
+
+<!--Должность-->
+  <tr>
+    <td align="right">Выберите должность</td>
+    <td>
+    <div id='jobdiv'>
+      <select name='job' class="text_1">
+        <option value="">--- Выбрать ---</option>
+      </select>
+</div>
+<div id="loading_job" style="display:none">  
+     <img src="/_img/loader.gif" width="16" height="16" align="absmiddle">&nbsp;Загрузка...  
+</div>
+    </td>
+  </tr>
+  
+     <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Язык:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<label><input type="radio" name="lang" value="0" checked="checked">Русский</label>
+<label><input type="radio" name="lang" value="1">English</label>
+</td>
+  </tr> 
+  
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анонс:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="anons"></textarea></td>
+  </tr>
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дополнительная информация по должности:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="info"></textarea></td>
+  </tr>
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Описание должности:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="job_description" style="height:100px"></textarea></td>
+  </tr> 
+
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анализ данных:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="opis" name="analitics" style="height:100px"></textarea></td>
+  </tr> 
+
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="status" checked="checked"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Фото:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="file" type="file" name="small-photo"></td>
+  </tr>
+ 
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+
+</table>
+
+
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

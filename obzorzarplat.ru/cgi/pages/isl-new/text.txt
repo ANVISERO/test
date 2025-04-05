@@ -1,0 +1,111 @@
+<?php 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+?>
+
+<input type="button" class="but" value="Возврат" onClick="self.location.href='?page=isl'">
+<form name="add" action="?page=isl-add" method="post" enctype="multipart/form-data" onSubmit="return testform();">
+<h2>Описание по данным портала obzorzarplat.ru</h2>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td width="10%" height="20" align="right" valign="middle" class="diz_26">Наименование:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="90%" height="20"><input class="names" type="text" name="name" value="" size="70"></td>
+</tr>
+
+<tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Тип отчета:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+<select name="survey_type_id">
+<?php
+$result=mysqli_query($link,"select * from for_survey_types order by name");
+while($row=mysqli_fetch_array($result))
+{?>
+    <option value="<?=$row['id']?>"><?=$row['name']?>
+<?}
+?>
+</select>
+	</td>
+  </tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Описание:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="description"></textarea></td>
+</tr>
+
+<tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Стоиомость:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="700" height="20"><input class="names" type="text" name="price" value="" size="30"></td>
+</tr>
+<tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Показ:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+<select name="active">
+   <option value="1" selected>Да
+   <option value="2">Нет
+</select>
+	</td>
+  </tr>
+<tr>
+    <td height="20" align="right" valign="middle" class="diz_26">Регионы:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><div style="float: left; width: 320px; margin: 5 5 5 5px;">
+<?php
+$result=mysqli_query($link,"select id, name from base_regions order by name");
+$iCnt = 1;
+while($row=mysqli_fetch_array($result))
+{?>
+    <input type="checkbox" name="regions[<?=$row["id"]?>]" value="<?=$row["id"]?>="><?=$row["name"]?><br>
+
+<? 
+if ($iCnt % 35 == 0) {?></div><div style="float: left; width: 320px; margin: 5 5 5 5px;"><?}
+$iCnt++;} ?>
+	</div></td>
+  </tr>
+
+
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Должности:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20"><div class="mainJobs" id="mainJobs">
+<?php
+$result=mysqli_query($link,"select id, name from base_jtype order by name");
+$iCnt = 0;
+while($row=mysqli_fetch_array($result))
+{ 
+  //  echo "select id, name from base_jobs WHERE jobs_group_id = '".$row['id']."' order by name";
+    $res=mysqli_query($link,"select id, name from base_jobs WHERE id in (SELECT job_id FROM base_job_types WHERE jtype_id = '".$row['id']."') order by name", ) or die(mysql_error());
+?>
+    <div>
+    <a class="a-click" style="cursor: pointer; font-size: 14px;"><?=$row["name"]?></a>
+    <div class="body"><?while($rw=mysqli_fetch_array($res)){?>
+             <input type="checkbox" name="jobs[<?=$rw["id"]?>]" value="<?=$rw["id"]?>"><?=$rw["name"]?><br>
+        <?}?>
+    </div></div>
+<?    
+$iCnt++;}
+?>
+	</div></td>
+  </tr>
+
+
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="submit" class="but" value="Сохранить">
+</form>
+
+<script>
+$(document).ready(function(){
+       	$("#mainJobs div.body").hide();
+
+        $("#mainJobs a.a-click").click(function(){
+             //alert($(this).next('div.body'));
+            $(this).next('div.body').slideToggle(400);
+            return false;
+        })
+
+});
+function testform()
+{
+if (document.add.name.value==""){window.alert('Наименование исследования не указано');return false;}
+}
+</script>

@@ -1,0 +1,22 @@
+<script type="text/javascript" src="/_js/tabs/addclasskillclass.js"></script>
+<script type="text/javascript" src="/_js/tabs/attachevent.js"></script>
+<script type="text/javascript" src="/_js/tabs/addcss.js"></script>
+<script type="text/javascript" src="/_js/tabs/tabtastic.js"></script>
+<link href="/_css/tabs/tabtastic.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="<?php echo($folder);?>_css/1job_profi/1job_profi.css" type="text/css">
+<div class="profi">
+<?php
+  $link = mysqli_connect($host,$user,$pass);
+  mysqli_select_db($link,$db);
+
+if(checkReport('1',)){
+  if(!isset($_GET["step"])){$step=1;}
+  if(isset($_GET["step"])){$step=$_GET["step"];}
+  include($folder.'_admin/moduls/reports/1job-profi/1job-profi-'.$step.'.php');
+}else{
+      echo('<p>Отчет недоступен.</p> <p>По вопросам продления действия договора обращайтесь к руководителю проекта - Сергею Николенко:
+            <br> телефон: +7 (812) 740 18 11
+            <br> email: <a href="mailto:tz@obzorzarplat.ru" class="lk1">tz@obzorzarplat.ru</a></p>');
+}
+?>
+</div>

@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Узнай свою зарплату! Обзоры зарплат в режиме он-лайн.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+<meta name="keywords" content="Обзор зарплат" />
+<meta name="description" content="Обзор зарплат" />
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link href="<?php echo($css);?>" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/_js/jquery-ui-1.7.2.custom/development-bundle/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="/_js/jquery-ui-1.7.2.custom/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/_js/jquery.corner.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".btn-slide").click(function(){
+		$("#site_map").slideToggle("slow");
+		$(this).toggleClass("active");
+                return false;
+	});
+
+});
+</script>
+
+<!--[if IE]>
+		<link href="/_css/ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if lt IE 7]>
+		<link href="/_css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if lte IE 5.5000]>
+		<link href="/_css/ie55.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+</head>
+
+<body>
+
+<div id="header">
+  <div id="site_map">
+     <div>
+         <h3>Для индивидуальных пользователей</h3>
+         <h4>О зарплате &raquo;</h4>
+         <ul>
+            <li><a href="/servis/otchet/" class="lk3">Персональный отчет о заработной плате</a></li>
+            <li><a href="/servis/zp/" class="lk3">Экспресс отчет о заработной плате</a></li>
+            <li><a href="/servis/job_description/" class="lk3">Должностные инструкции</a></li>
+            <li><a href="/servis/pensiya/" class="lk3">Расчет будущей пенсии</a></li>
+            <li><a href="/work/" class="lk3">Поиск работы</a></li>
+         </ul>
+         <h4>Государственные льготы &raquo;</h4>
+         <ul>
+            <li><a href="/servis/lgot/" class="lk3">Государственные пособия</a></li>
+            <li><a href="/servis/gosgarant/" class="lk3">Государственные гарантии и компенсации</a></li>
+            <li><a href="/servis/nalog/" class="lk3">Льготы по НДФЛ</a></li>
+         </ul>
+         <h4>Развлечения &raquo;</h4>
+         <ul>
+            <li><a href="/servis/million/" class="lk3">Когда вы станете миллионером?</a></li>
+            <li><a href="/servis/bigmak/" class="lk3">Сколько Биг-Маков я уже заработал?</a></li>
+            <li><a href="/servis/speed/" class="lk3">С какой скоростью я зарабатываю?</a></li>
+         </ul>
+     </div>
+          <div>
+         <h3>Для бизнес партнеров</h3>
+         <ul>
+             <li><a href="/preds/" class="lk3">О системе &raquo;</a></li>
+         </ul>
+         <h4>Тарифы &raquo;</h4>
+         <ul>
+            <li><a href="/preds/tarif_standart/" class="lk3">Тариф &laquo;Стандарт&raquo;</a></li>
+            <li><a href="/preds/tarif_profi/" class="lk3">Тариф &laquo;Профи&raquo;</a></li>
+            <li><a href="/preds/tarif_unlimited/" class="lk3">Тариф &laquo;Лайт Безлимитный&raquo;</a></li>
+            <li><a href="/preds/tarif_lite/" class="lk3">Тариф &laquo;Лайт&raquo;</a></li>
+            <!--<li><a href="#" class="lk3">Тариф &laquo;Индивидуальный&raquo;</a></li>-->
+          </ul>
+          <h4>Отчеты &raquo;</h4>
+          <ul>
+            <li><a href="/preds/1job-profi/" class="lk3">Аналитический обзор заработных плат</a></li>
+            <li><a href="/preds/1job-lite/" class="lk3">Упрощенный обзор заработных плат</a></li>
+            <li><a href="/preds/summary/" class="lk3">Сводный аналитический отчет</a></li>
+          </ul>
+         <ul>
+             <li><a href="/business/login/" class="lk2">Вход для партнеров &raquo;</a></li>
+             <li><a href="/preds/accessing/" class="lk2">Подключение &raquo;</a></li>
+             <li><a href="/preds/demo/" class="lk3">Демо-доступ &raquo;</a></li>
+             <li><a href="/preds/discount/" class="lk3">Скидки, специальные предложения &raquo;</a></li>
+         </ul>
+     </div>
+     <div>
+        <h3>О компании</h3>
+        <ul>
+            <li><a href="/about/" class="lk3">О компании</a></li>
+            <li><a href="/comments/" class="lk3">Отзывы</a></li>
+            <li><a href="/contacts/" class="lk3">Контакты</a></li>
+            <li><a href="http://help.obzorzarplat.ru/" class="lk3">Служба технической поддержки</a></li>
+        </ul>
+         <h3>Исследования</h3>
+        <ul>
+            <li><a href="/isl/metod/" class="lk3">Методология исследования</a></li>
+            <li><a href="/isl/struktura/" class="lk3">Структура выборки</a></li>
+            <li><a href="/isl/basestat/" class="lk3">Экономические показатели</a></li>
+            <li><a href="/stats/" class="lk3">Статьи</a></li>
+            <li><a href="/glos/" class="lk3">Глоссарий</a></li>
+        </ul>
+        <h3>Петербургский Кадровый клуб &laquo;Кочубей&raquo;</h3>
+        <ul>
+            <li><a href="/hrclub/" class="lk3">О Клубе "Кочубей"</a></li>
+            <li><a href="/hrclub/estimated_meeting/" class="lk3">Анонсы готовящихся заседаний</a></li>
+            <li><a href="/hrclub/archive/" class="lk3">Архив заседаний</a></li>
+            <li><a href="/hrclub/conference/" class="lk3">Конференция</a></li>
+        </ul>
+<p align="right"><a href="/map/" class="btn-slide lk2">Закрыть</a></p>
+     </div>
+
+</div><!--end site_map-->
+<div class="slide">
+<!--icons -->
+<a href="/"><img onmouseover="this.src='/_img/ico_home_s.gif'" onmouseout="this.src='/_img/ico_home.gif'" src="/_img/ico_home.gif" width="17" height="17" border="0" alt="Главная" title="главная"></a>
+<a href="/search/"><img onmouseover="this.src='/_img/ico_search_s.gif'" onmouseout="this.src='/_img/ico_search.gif'" src="/_img/ico_search.gif" width="17" height="17" border="0" alt="Поиск" title="Поиск"></a>
+<div id="slide_inside"><a href="/map/" class="btn-slide"><img onmouseover="this.src='/_img/ico_map_s.gif'" onmouseout="this.src='/_img/ico_map.gif'" src="/_img/ico_map.gif" width="17" height="17" alt="Карта сайта" title="карта сайта"></a></div>
+<a href="/contacts/"><img onmouseover="this.src='/_img/ico_contacts_s.gif'" onmouseout="this.src='/_img/ico_contacts.gif'" src="/_img/ico_contacts.gif" width="17" height="17" border="0" alt="Контакты" title="Контакты"></a>
+<!--end icons -->
+</div>
+
+<div class="menu_right">
+        <a href="/about/" class="lk1">О нас</a> | <a href="/contacts/" class="lk1">Контакты</a> | <a href="/preds/accessing/" class="lk1">Подключение</a> |
+<?php
+ if ($_SESSION['logged_in']== FALSE)
+ {
+     echo('<a href="/business/login/" class="lk2">Вход для партнеров&raquo;</a>');
+ }
+ else
+ {
+     echo('<a href="/business/logout/" class="lk2">Выход&raquo;</a>');
+ }
+  ?>
+      </div>
+<div style="clear:both;"></div>
+<div width="100%">
+<a href="http://obzorzarplat.ru"><img alt="Обзор зарплат" src="/_img/logo_ru.jpg" width="290" height="55" border="0" /></a>
+<span style="float:right; font-weight:bold; font-size:16px; padding:10px;">8 (812) 740 18 11<br>Звоните нам!</span>
+</div>
+</div>
+<div style="clear:both;"></div>
+
+  <div class="topmenu">
+        <span><a href="/">Главная</a></span>
+        <span><a href="/comments/" class="lk3">Отзывы</a></span>
+        <span><a href="/preds/">Решения</a></span>
+        <span><a href="/preds/tariffs/">Тарифы</a></span>
+        <span><a href="/servis/">Сервисы</a></span>
+        <span><a href="/servis/zp/">Зарплата</a></span>
+        <span><a href="/servis/job_description/">Должностные инструкции</a></span>
+        <span><a href="/hrclub/">Клуб &laquo;Кочубей&raquo;</a></span>
+        <span><a href="/isl/">Исследования</a></span>
+        <span><a href="/glos/">Глоссарий</a></span>
+    </div>
+<div style="border-bottom:5px solid silver; width:100%; padding:0; margin:0;"></div>
+
+  <!-- end header -->
+
+<div id="sidebar">
+ 		<?php
+     include($folder.'_admin/moduls/menu/menu_left_hrclub.php');
+  ?>
+</div> <!-- end sidebar -->
+
+ <div id="mainContent">
+ <div class="navibar">
+<p>Вы здесь: <?php include($folder.'_admin/moduls/navibar.php');?></p><hr>
+</div>
+<div class="mainBody">
+<h1><?php echo($title_raz);?> &raquo;</h1>
+<?php include($content);?>
+</div>
+ </div> <!-- end mainContent -->
+ <br class="clearfloat" />
+
+  <div id="footer">
+    <p>Все права защищены и охраняются законом<br />
+      &copy; ООО &laquo;Ант-Менеджмент&raquo; 1996-2009</p>
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9382339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lte IE 6]> <div style="text-align: center; height: 1.5em; width: 100%;"><a href="http://enoughie6.com/" style="color: white; display: block; padding: 0.25em 0; background-color: gray; font-size: 1em; height: 1.5em; line-height: 1em; width: 100%;">Ваш браузер IE6 устарел за 8 лет. Вам необходимо обновить его.</a></div><![endif]-->
+  </div> <!-- end footer -->
+
+</body>
+</html>

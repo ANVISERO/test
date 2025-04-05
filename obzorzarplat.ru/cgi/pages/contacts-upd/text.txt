@@ -1,0 +1,27 @@
+<?
+//—бор переменных
+$id=$_POST["id"];
+$name=$_POST["name"];
+$phone=$_POST["phone"];
+$fax=$_POST["fax"];
+$mail=$_POST["mail"];
+$icq=$_POST["icq"];
+$skype=$_POST["skype"];
+$adress=$_POST["adress"];
+$dol=$_POST["dol"];
+$quest=$_POST["quest"];
+if(isset($_POST["view"])){$view=0;}
+if(!isset($_POST["view"])){$view=1;}
+
+
+
+//ќбновление в базе
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query2="update for_contacts SET `name` = '$name', `phone` = '$phone', `mail` = '$mail', `icq` = '$icq', `skype` = '$skype', `adress` = '$adress', `dol` = '$dol', `quest` = '$quest', `fax` = '$fax', `view` = '$view' where `id`='$id'";
+$result2=mysqli_query($link,$query2);
+?>
+
+<script>
+self.location.href='?page=contacts';
+</script>

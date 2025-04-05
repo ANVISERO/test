@@ -1,0 +1,32 @@
+<?
+$url=$_SERVER['HTTP_HOST'];
+$id=$_GET["id"];
+//Определяем параметры папки
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_folders where id='$id'";
+$result=mysqli_query($link,$query);
+$name=mysqli_result($result,0,1);
+$opis=mysqli_result($result,0,2);
+?>
+<a href="?page=folders"><img src="_adminfiles/button_tolist.gif" alt="Список папок" width="129" height="20" border="0"></a>
+<form name="add" action="?page=folder-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<? echo($id);?>">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="middle" class="diz_26">Имя папки:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">
+	&nbsp;&nbsp;www.<? echo($url);?>/<b><? echo($name);?></b></td>
+  </tr>
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Описание:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="opis"><? echo($opis);?></textarea></td>
+  </tr> 
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+  </table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

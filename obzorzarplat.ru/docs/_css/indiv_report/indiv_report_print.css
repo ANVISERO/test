@@ -1,0 +1,61 @@
+body{margin-top:70px;}
+.indiv{border:0px; width:100%; font-family: Verdana; font-size:13px;}
+.indiv h1{font-size:16px; font-weight:bold; text-align:center;}
+.indiv h2{font-size:14px; font-style:italic; color: #c00; border-bottom: 3px solid #DBDBDB; padding: 4px 4px 4px 4px; font-weight:bold; background:none;}
+.indiv p{padding:4px;}
+.indiv p.table_title{text-align:right; font-style:italic;}
+.indiv ul{padding:4px; margin:4px;}
+.indiv ul li{padding:2px; margin:4px;}
+
+.indiv table{border-collapse:collapse; border:0;}
+.indiv table td{padding:5px;}
+.indiv table th{font-weight:bold; font-size:13px; text-align:center; background:none;}
+
+.indiv table.data{border-collapse:collapse; width:100%;}
+.indiv table.data td{padding:5px; border:1px solid #DBDBDB;}
+.indiv table.data td.title{background-color:#DBDBDB; border:2px solid silver;}
+.indiv table.data td.title_none{border:0;}
+.indiv table.data th{font-weight:bold; font-size:13px; text-align:left; background:none; border:1px solid #DBDBDB;}
+
+.indiv table.job_descript{border-collapse:collapse; border:1px solid #DBDBDB; width:100%;}
+.indiv table.job_descript td{padding:5px;}
+.indiv table.job_descript th{font-weight:normal; font-style:italic; font-size:13px; text-align:left; background:none;}
+
+.indiv table.salary{border-collapse:collapse; border:1px solid gray; width:100%;}
+.indiv table.salary tr.gray{background-color:#e0e0e0;}
+.indiv table.salary td{padding:5px; text-align:center;}
+.indiv table.salary td.left{padding:5px; text-align:left;}
+.indiv table.salary th{font-weight:bold; font-size:13px; text-align:center; background:none;}
+
+.indiv a.lk1, .indiv a.lk1:visited{color:#c00; text-decoration:underline; font-weight:bold;}
+.indiv a.lk1:hover{color:#000; text-decoration:underline; font-weight:bold;}
+
+.indiv h3.attention{padding:4px; margin:-4px; color:#000; font-weight:bold; border-bottom:1px solid silver; font-size:14px; text-align:center;}
+.block_attention {border:3px solid silver; padding:0; margin:auto; position:relative; float:right; width:25%;}
+
+.indiv span.explanation{padding:4px; color:gray; border-bottom:2px solid gray; font-weight:bold;font-size:16px;}
+
+.clear{clear:both;}
+
+.indiv span.title_tab{padding:4px; margin:0; color:#000; background-color:#DBDBDB; border:1px solid silver;}
+.buttons{position:fixed; top:0; padding-top:2px; padding:0; width:100%; background-color:#fff; z-index:10;}
+.buttons hr{background-color:#e0e0e0; height:3px; border:1px solid #e0e0e0; padding:0; margin:0;}
+
+.right_menu{position:absolute; top:0; right:5px; vertical-align:middle; padding:5px;}
+.right_menu a{padding:6px;}
+
+a.lk2, a.lk2:visited{text-decoration:none; border-bottom:1px dashed #000; color:#000; font-weight:bold;}
+a.lk2:hover{text-decoration:none; border-bottom:1px dashed #c00; color:#c00; font-weight:bold;}
+
+.up{text-align:right; width:100%; padding:5px; margin:2px;}
+a.contents, a.contents:visited{padding-top:60px;}
+
+@media print {
+.right_menu{display:none;}
+.buttons{position:absolute; top:0; padding:0;}
+.indiv h3.attention{padding:4px; margin:-2px; color:#000; font-weight:bold; border-bottom:1px solid silver; font-size:14px; text-align:left;}
+.block_attention {border:1px solid silver; padding:0; margin:auto; width:100%;}
+.indiv table.salary thead {display:table-header-group;}
+.indiv table.salary tbody {display:table-row-group;}
+.up{display:none;}
+}

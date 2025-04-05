@@ -1,0 +1,7 @@
+.menu_left_isl a.lk1, .menu_left_isl a.lk1:visited {text-decoration:none; font-weight:bold; color:#c00; text-decoration:none; font-size:0.9em;}
+.menu_left_isl a.lk1:hover {font-weight: bold; color:#000; text-decoration:none; border-bottom:1px solid #000;}
+#nav_isl, #nav_isl ul {padding:0; margin:0; list-style:none; background:#fff; font-weight:bold;}
+#nav_isl ul li{background: url(/_img/arrows/arrow_black.png) no-repeat 0px 8px; margin-bottom: 0.5em; padding: 4px 4px 4px 16px; border:0px;}
+#nav_isl li ul li{padding-bottom:5px; margin-top:4px;}
+#nav_isl li ul li a {padding-left:0;}
+#nav_isl li{padding-bottom:5px; color:#c00; border-bottom:1px solid #e0e0e0; text-align:left; font-weight:bold; cursor:pointer; margin-bottom:4px;}

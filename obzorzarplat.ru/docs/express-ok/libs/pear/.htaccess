@@ -1,0 +1,5 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /home/zarplata/obzorzarplat.ru/docs/_admin/lib/.htpasswd
+AuthGroupFile /dev/null
+require valid-user

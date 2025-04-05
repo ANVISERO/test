@@ -1,0 +1,15 @@
+<?
+//—бор переменных
+$id=$_POST["id"];
+$opis=$_POST["opis"];
+
+//ќбновление в базе
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="update for_folders SET `opis` = '$opis' where `id`='$id'";
+$result=mysqli_query($link,$query);
+?>
+
+<script>
+self.location.href='?page=folders';
+</script>

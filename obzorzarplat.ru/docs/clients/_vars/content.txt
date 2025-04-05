@@ -1,0 +1,30 @@
+<p>Среди наших Клиентов крупнейшие предприятия Северо-Западного региона и России </p>
+<style type="text/css">
+<!--
+#clients{list-style-type:none;}
+#clients li{display:block; position:relative; float:left; padding:5px; margin:2px; width:30%; min-width:150px; height:280px;}
+#clients li span{width:150px; height:180px; display:block; text-align:center; vertical-align:middle;}
+#clients li div img{height:auto; width:150px; border:0;}
+-->
+</style>
+<ul id="clients">
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+mysqli_query($link,"set names cp1251");
+
+$client_q=mysqli_query($link,"select * from for_clients order by title");
+
+while($client=mysqli_fetch_array($client_q)){
+  $client_title=$client["title"];
+  $client_opis=$client["opis"];
+  $client_logo=$client["logo"];
+?>
+
+<li><span><img src="/_img/<?php echo $client_logo;?>"></span>
+<p><b><?php echo $client_title;?></b>
+<br><?php echo $client_opis;?></p>
+</li>
+
+<? } ?>
+</ul>

@@ -1,0 +1,4 @@
+<?php include($folder.'_admin/moduls/business/register.php');?>
+<script>
+self.location.href='/business/profile/';
+</script>

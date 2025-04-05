@@ -1,0 +1,51 @@
+<?
+//сбор данных
+$id=implode("", file('settings/count_id'));
+countplus();
+$name=$_POST["name"]; //имя спикера
+$surname=$_POST["surname"]; //фамилия спикера
+$job=$_POST["job"]; //должность
+$info=stripslashes($_POST["info"]); //информация о спикере
+
+if(isset($_POST["status"])){$status=1;}
+if(!isset($_POST["status"])){$status=0;}
+$lang=$_POST['lang'];
+
+//запись в базу
+$query="insert into for_hrclub value ('$id','$name','$surname','$job','$lang','$status')";
+$result=mysqli_query($link,$query);
+
+$filefolder='elements/hrclub/';
+
+//Создание файлов
+
+$fullpath=$filefolder.$id.'_info.txt';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $info);
+fclose ($file);
+
+//Загрузка картинки
+if(file_exists($_FILES['small-photo'] ['tmp_name']))
+{
+
+$photo= $id.'.jpg';
+$uploaddir=$filefolder;
+move_uploaded_file($_FILES['small-photo'] ['tmp_name'], $uploaddir . $photo);
+$file=$filefolder.$id.'.jpg';
+$path_real=$file;
+$src_img=ImageCreateFromJpeg("$path_real");
+$src_width=ImagesX($src_img);
+$src_height=ImagesY($src_img);
+$dest_width="200";
+$dest_height="200";
+$quality="200";
+$dest_img=ImageCreateTrueColor($dest_width, $dest_height);
+ImageCopyResampled($dest_img, $src_img, 0, 0, 0, 0, $dest_width, $dest_height, $src_width, $src_height);
+ImageJpeg($dest_img, $file, $quality);
+ImageDestroy($dest_img);
+}
+
+?>
+<script>
+self.location.href='?page=hrclub';
+</script>

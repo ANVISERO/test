@@ -1,0 +1,45 @@
+<link type="text/css" href="/_css/express_report/salary.css" rel="stylesheet" />
+<link type="text/css" href="/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.all.css" rel="stylesheet" />
+
+<div class="salary">
+    <div class="img_left"><img src="/_img/services/express/express128x128.png" width="128" height="128" alt="Экспресс отчет"></div>
+    <div class="descript">
+    <p>Средняя заработная плата для различных должностей в городах России (Санкт-Петербурге, Москве, Новгороде, Екатеринбурге и других)
+        исчисляется на основе данных портала obzorzarplat.ru</p>
+    <p>Напоминаем, что мы используем только <b>фактические данные</b>, полученные нами непосредственно от компаний-участниц исследования
+        (подробнее о процессе сбора данных можно прочитать <a href="/isl/metod/" class="lk2">здесь »</a>)</p>
+    </div>
+    <div class="clear"></div>
+    <p align="right"><i>Таблица 1. Средняя заработная плата в 2010 году по данным портала <b>obzorzarplat.ru</b></i>.</p>
+<table width="100%" border="0" class="salary_data">
+  <tr>
+    <th></th>
+    <th>Средняя зарплата в <em>России (руб/мес.)</em></th>
+    <th>Средняя зарплата в <em>Санкт-Петербурге (руб/мес.)</em></th>
+  </tr>
+  <tr>
+    <td>I квартал</td>
+    <td align="center"><b>28 242 рублей</b></td>
+    <td align="center"><b>31 753 рублей</b></td>
+  </tr>
+  <tr>
+    <td>II квартал</td>
+    <td align="center"><b>27 374 рублей</b></td>
+    <td align="center"><b>30 760 рублей</b></td>
+  </tr>
+  <tr>
+    <td>III квартал</td>
+    <td align="center"><b>28 607 рублей</b></td>
+    <td align="center"><b>29 624 рублей</b></td>
+  </tr>
+
+</table>
+<br>
+<h2>Формирование экспресс отчета о заработной плате</h2>
+<p>Заработные платы по должностям вы можете посмотреть ниже, выбрав должностную группу, должность и город. В отчете Вы получите значения
+    заработной платы и должностного оклада, а также описание должности.</p>
+
+<?php
+include($folder.'_admin/moduls/express_report/salary-form.php');
+?>
+</div>

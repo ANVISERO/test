@@ -1,0 +1,1 @@
+<? include($folder.'/_admin/moduls/registration/registration.php'); ?>

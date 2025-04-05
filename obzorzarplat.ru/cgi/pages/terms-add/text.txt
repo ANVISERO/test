@@ -1,0 +1,21 @@
+<h1>Словарь терминов :: Добавление</h1>
+<?
+//сбор данных
+$id=implode("", file('settings/count_id'));countplus();
+$name=$_POST['name'];
+$value=$_POST['value'];
+
+$str=strtoupper(substr($name,0,1));
+if($str=='0' or $str=='1' or $str=='2' or $str=='3' or $str=='4' or $str=='5' or $str=='6' or $str=='7' or $str=='8' or $str=='9')
+{$str='0-9';}
+
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="insert into for_terms value ('$id','$name','$value','','')";
+$result=mysqli_query($link,$query);
+?>
+<script>
+self.location.href='?page=terms&str=<?=$str;?>';
+</script>

@@ -1,0 +1,45 @@
+<a href="?page=servis-center"><img src="_adminfiles/button_tolist.gif" alt="Список сервисных центров" width="129" height="20" border="0"></a>
+
+<?
+//сбор данных
+$id=$_GET["id"];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_serviscenter where id='$id'";
+$result=mysqli_query($link,$query);
+
+$sity=mysqli_result($result,0,1);
+$comp=mysqli_result($result,0,2);
+$adress=mysqli_result($result,0,3);
+$phone=mysqli_result($result,0,4);
+
+
+?>
+<form name="upd" action="?page=servis-center-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value='<? echo($id);?>'>
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Город:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="sity" value="<?=$sity;?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Компания:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="comp" value="<?=$comp;?>"></td>
+  </tr>
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Адрес:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="adress" value="<?=$adress;?>"></td>
+  </tr> 
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Телефон:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="phone" value="<?=$phone;?>"></td>
+  </tr>   
+  
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

@@ -1,0 +1,28 @@
+<?
+$id=$_POST["id"];
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db);
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+//Добавление в базу
+$query="insert into for_cat$id value ('$test[$kol_del]','0')";
+$result = mysqli_query($link, $query);
+}
+}
+
+
+
+?>
+<script>
+self.location.href="?page=category-select&id=<? echo($id);?>";
+</script>

@@ -1,0 +1,33 @@
+<?php
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+//Удаление из базы
+$filefolder='elements/news/';
+
+$query="delete from for_news where id='$test[$kol_del]'";
+$result = mysqli_query($link, $query);
+//Удаление файлов
+$url_file=$filefolder.$test[$kol_del].'_an.txt';
+unlink($url_file);
+$url_file=$filefolder.$test[$kol_del].'_op.txt';
+unlink($url_file);
+$url_file=$filefolder.$test[$kol_del].'.jpg';
+unlink($url_file);
+}
+}
+?>
+<script>
+self.location.href="?page=news";
+</script>

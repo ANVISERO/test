@@ -1,0 +1,57 @@
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$langs_id=mysqli_result(mysqli_query($link,"select max(id) from for_langs"),0,0) + 1;
+?>
+<a href="?page=langs"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>
+<input type="image" src="_adminfiles/button_save.gif" onClick="add.submit();">
+
+<form name="add" action="?page=langs-add" method="post" enctype="multipart/form-data" onSubmit="return testform();">
+<input type="hidden" name="id" value="<?=$langs_id;?>">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">ID:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><b><?=$langs_id;?></b></td>
+  </tr>
+ <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Имя:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><input class="names" type="text" name="name" value=""></td>
+  </tr>
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">URL:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><input class="names" type="text" name="url" value=""></td>
+  </tr> 
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Шаблоны:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20">
+	<?
+	$temp_query=mysqli_query($link,"select name, opis from for_temps");
+	$temp_schet=0;
+	while($row=mysqli_fetch_array($temp_query))
+	{
+	$temp_schet++;
+	echo('<input name="temp_'.$temp_schet.'" type="checkbox" value="'.$row["name"].'" />'. $row["name"].' (<em>'.$row["opis"].'</em>)<br>');
+	}
+	?>
+	<input type="hidden" name="col_temps" value="<?=$temp_schet;?>">
+</td>
+  </tr>   
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Позиция в списке:&nbsp;&nbsp;</td>
+    <td class="diz_27" height="20"><input class="names" type="text" name="pos" value=""></td>
+  </tr>  
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td class="diz_28">&nbsp;</td>
+  </tr>
+  </table>
+</form>
+<script>
+function testform()
+{
+if(document.add.name.value==""){window.alert('Имя не указано!'); return false;}
+}
+</script>
+
+

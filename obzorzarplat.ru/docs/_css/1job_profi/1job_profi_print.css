@@ -1,0 +1,27 @@
+/* 
+    Document   : summary
+    Created on : 20.08.2009, 13:12:06
+    Author     : ANT
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.profi{border:0px; width:100%; font-family: Verdana;}
+.profi h3{font-size:14px; font-style:italic; color: #c00; border-bottom: 1px solid #DBDBDB; padding: 4px 4px 4px 4px; font-weight:bold; background:none;}
+.profi h4{font-size:13px;}
+
+.profi p.table_title{text-align:right; font-style:italic;}
+
+.profi table{border-collapse:collapse; border:1px solid #DBDBDB; width:100%;}
+.profi table td{padding:5px;}
+.profi table th{font-weight:bold; font-size:13px; text-align:center; background:none;}
+.profi table tr.X1_0{border-top:1px solid #DBDBDB; background:none;}
+.profi table tr.X1_1{border-top:1px solid #DBDBDB; background:none;}
+.profi table td.X1_left{font-weight:normal; font-size:12px; text-align:left; padding-left:4px;}
+.profi table td.X1_right{font-weight:normal; font-size:12px; text-align:center;}
+
+.profi table.data{border-collapse:collapse; width:100%;}
+.profi table.data td{padding:5px; border:1px solid #DBDBDB;}
+.profi table.data td.title{background-color:#DBDBDB; border:2px solid silver;}
+.profi table.data td.title_none{border:1px solid #fff;}
+.profi table.data th{font-weight:bold; font-size:13px; text-align:left; background:none; border:1px solid #DBDBDB;}

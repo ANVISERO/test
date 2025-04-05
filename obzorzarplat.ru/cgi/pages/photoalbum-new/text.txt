@@ -1,0 +1,21 @@
+<a href="?page=photoalbum"><img src="_adminfiles/button_tolist.gif" alt="Список папок" width="129" height="20" border="0"></a>
+
+<? $date=date("Y-m-d");?>
+<form name="add" action="?page=photoalbum-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Название:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="name" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Дата:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="date" value="<?=$date;?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

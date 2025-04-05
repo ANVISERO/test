@@ -1,0 +1,51 @@
+	     <!--content -->
+         <style type="text/css">
+<!--
+.style2 {font-size:16px; font-weight:bold; text-align:center; color:#000; text-decoration:none;}
+.style3 {
+	color: #000000;
+	font-weight: bold;
+}
+a.style18, a.style18:visited {font-size:16px; font-weight:bold; text-align:center; color:#fff; text-decoration:none;}
+
+.links{width:100%; list-style-type:none; text-align:center;}
+.links li{display:inline; width:300px; padding:0 10px 0 10px;}
+-->
+       </style>
+  <noindex>Благодарим Вас за проявленный интерес к разделу со свободным доступом к базам данных по заработной плате. Мы ценим Ваш интерес к нашей работе и надеемся, что наша работа действительно полезна для Вас как профессионалов и для Вашего бизнеса .</p>
+	 <p>Возможно, Вам нужно воспользоваться корпоративным доступ к обширным базам данных нашего портала. Мы прилагаем все усилия, чтобы наши корпоративные пользователи получали мгновенный доступ к необходимой информации для принятия решений.</p>
+	 <p>Посмотрите возможности для <a href="/preds/" class="link_4">корпоративных пользователей</a></p>
+	 <p>Если Ваша компания хочет получить корпоративный доступ к базам данных по заработным платам и компенсациям Вы можете связаться с нами по e-mail <a href='mailto:tz@obzorzarplat.ru'>tz@obzorzarplat.ru</a> либо по телефону (812) 740 18 11</p>
+
+<ul class="links">
+<li><input type="button" class="but_pension" onClick="self.location.href='/'" value="&laquo; На главную" /></li>
+<li><input type="button" class="but_pension" onClick="self.location.href='/servis/'" value="Сервисы &raquo;" /></li>
+</ul>
+
+	 <table width="100%" border="0">
+  <tr>
+    <td colspan="3" bgcolor="#990000"><div align="center">
+      <p><strong><a href="/isl/" class="style18">Исследования и аналитика</a></strong> </p>
+      </div></td>
+  </tr>
+  <tr>
+    <td width="475"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/stats/"><img src="/_img/articles.jpg" border="0" width="198" height="100"></a> <br>
+          <a href="/stats/" class="link_4">Статьи и аналитические материалы</a></p>
+    </div></td>
+    <td width="475"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/isl/struktura/"><img src="/_img/structure_mini.GIF" border="0" width="252" height="100"></a> <br>
+          <a href="/isl/struktura/" class="link_4">Структура выборки исследования</a></p>
+    </div></td>
+    <td width="475"><div align="center">
+      <p>&nbsp;</p>
+      <p><a href="/preds/"><img src="/_img/copr_mini.jpg" border="0" width="151" height="100"></a> <br>
+        <a href="/preds/" class="link_4">&#1055;&#1086;&#1076;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080;&#1077; &#1076;&#1083;&#1103; &#1082;&#1086;&#1088;&#1087;&#1086;&#1088;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1093; &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081; </a></p>
+    </div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</noindex>
+	<!--end content -->

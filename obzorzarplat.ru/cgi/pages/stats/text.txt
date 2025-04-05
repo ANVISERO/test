@@ -1,0 +1,6 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr onMouseOver="this.style.background='#F4F4F4'" onMouseOut="this.style.background='#FFFFFF'">
+    <td width="20" class="diz_24">&nbsp;</td>
+    <td class="diz_25"><a href="?page=stat">Статистика посещений</a></td>
+  </tr>
+</table>

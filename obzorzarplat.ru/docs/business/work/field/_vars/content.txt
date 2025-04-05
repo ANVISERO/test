@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="/_css/summary/summary.css" type="text/css">
+<div class="summary">
+<?php
+  $link = mysqli_connect($host,$user,$pass);
+  mysqli_select_db($link,$db);
+
+if(checkReport('4',)){
+  if(!isset($_GET["step"])){$step=1;}
+  if(isset($_GET["step"])){$step=$_GET["step"];}
+  include($folder.'_admin/moduls/reports/field/field-'.$step.'.php');
+}else{
+    echo('<p>Отчет недоступен.</p> <p>По вопросам продления действия договора обращайтесь к руководителю проекта - Сергею Николенко:
+            <br> телефон: +7 (812) 740 18 11
+            <br> email: <a href="mailto:tz@obzorzarplat.ru" class="lk1">tz@obzorzarplat.ru</a></p>');
+}
+?>
+</div>

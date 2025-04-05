@@ -1,0 +1,429 @@
+<p><b>1. Структура выборки в зависимости от отрасли компании</b></p>
+<table width="100%" class="line">
+<tr bgcolor="#c0c0c0">
+<td width="33%" colspan=2 align="center" class="head">Отрасль компании</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td width="33%">ТПН (товары потребительского назначения)</td>
+  <td></td>
+  <td align="center" width="33%">78.94%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td></td>
+  <td width="33%"><i>Хозяйственные товары</i></td>
+  <td align="center" width="33%">55.47%</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td></td>
+  <td width="33%"><i>Технически сложные товары</i></td>
+  <td align="center" width="33%">8.72%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td></td>
+  <td width="33%"><i>Продукты питания</i></td>
+  <td align="center" width="33%">53.74%</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td></td>
+  <td width="33%"><i>Бытовая химия и предметы личной гигиены</i></td>
+  <td align="center" width="33%">1.11%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">ТПП (товары промышленного назначения)</td>
+  <td></td>
+  <td align="center" width="33%">9.96%</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td width="33%">Инфраструктурное обеспечение рынка</td>
+  <td></td>
+  <td align="center" width="33%">5.76%</td>
+</tr>
+
+</table>
+
+<p>*Сумма значений в графе «Процент от общего числа сотрудников» не составляет 100%
+поскольку одина компания может функционировать в
+нескольких отраслях одновременно.</p>
+<hr><p><b>2. Структура выборки в зависимости от сферы деятельности компании</b></p>
+<table width="100%" class="line">
+<tr bgcolor="#c0c0c0">
+<td width="33%" colspan=2 align="center" class="head">Сфера деятельности компании</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td width="33%">Строительство</td>
+  <td></td>
+  <td width="33%" align="center">4.33%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">Производство</td>
+  <td></td>
+  <td width="33%" align="center">17.51%</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td width="33%">Высокие технологии</td>
+  <td></td>
+  <td width="33%" align="center">1.43%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">Торговля</td>
+  <td></td>
+  <td width="33%" align="center">80.69%</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td></td>
+  <td width="33%"><i>Оптово-розничная и мелкооптовая торговля</i></td>
+  <td width="33%" align="center">8.35%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td></td>
+  <td width="33%"><i>Розничная торговля</i></td>
+  <td width="33%" align="center">75.42%</td>
+</tr>
+
+<tr bgcolor="#d3d3d3">
+  <td></td>
+  <td width="33%"><i>Оптовая торговля</i></td>
+  <td width="33%" align="center">27.34%</td>
+</tr>
+
+<tr bgcolor="#c0c0c0">
+  <td width="33%">Услуги</td>
+  <td></td>
+  <td width="33%" align="center">10.75%</td>
+</tr>
+
+</table>
+
+<p>*Сумма значений в графе «Процент от общего числа сотрудников» не составляет 100%
+поскольку одина компания может функционировать в
+нескольких сферах деятельности одновременно.</p>
+
+<hr><p><b>3. Структура выборки в зависимости от коэффициента текучести кадров компании.</b></p>
+<table width="100%" class="line">
+<tr bgcolor="#c0c0c0">
+<td width="33%" align="center" class="head">Коэффициент текучести</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>до 8%</td>
+<td align="center">51.71%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>от 9% до 15%</td>
+<td align="center">12.93%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>от 16% до 30%</td>
+<td align="center">27.86%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>от 31% до 50%</td>
+<td align="center">3.8%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>от 51% до 75%</td>
+<td align="center">1.63%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>свыше 75%</td>
+<td align="center">2.07%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>Всего</td>
+<td align="center">100%</td>
+</tr>
+
+</table>
+
+<center><p><em>Структура выборки в зависимости от коэффициента текучести кадров компании.</em></p>
+<table class="grafik">
+  <tr>
+    <td width="230" align="right" class="white">&nbsp;</td>
+    <td align="left" class="white"><img src="/_img/lineika.gif"></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">до 8%</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="78.565" align="absmiddle"><font style="font-weight:normal"> 51.71 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 9% до 15%</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="20.395" align="absmiddle"><font style="font-weight:normal"> 12.93 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 16% до 30%</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="42.79" align="absmiddle"><font style="font-weight:normal"> 27.86 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 31% до 50%</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="6.7" align="absmiddle"><font style="font-weight:normal"> 3.8 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 51% до 75%</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="3.445" align="absmiddle"><font style="font-weight:normal"> 1.63 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">свыше 75%</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="4.105" align="absmiddle"><font style="font-weight:normal"> 2.07 %</font></td>
+  </tr> 
+</table></center>
+<hr><p><b>4. Структура выборки в зависимости от возраста компании.</b></p>
+<table width="100%" class="line">
+<tr bgcolor="#c0c0c0">
+<td width="33%" align="center" class="head">Возраст компании</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>До 2 лет</td>
+<td align="center">0.81%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>От 2 до 5 лет</td>
+<td align="center">25.69%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>От 5 до 10 лет</td>
+<td align="center">20.13%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>Более 10 лет</td>
+<td align="center">53.37%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>Всего</td>
+<td align="center">100%</td>
+</tr>
+
+</table>
+
+<center><p><em>Структура выборки в зависимости от возраста компании.</em></p>
+<table class="grafik">
+  <tr>
+    <td width="230" align="right" class="white">&nbsp;</td>
+    <td align="left" class="white"><img src="/_img/lineika.gif"></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">До 2 лет</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="2.215" align="absmiddle"><font style="font-weight:normal"> 0.81 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">От 2 до 5 лет</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="39.535" align="absmiddle"><font style="font-weight:normal"> 25.69 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">От 5 до 10 лет</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="31.195" align="absmiddle"><font style="font-weight:normal"> 20.13 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">Более 10 лет</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="81.055" align="absmiddle"><font style="font-weight:normal"> 53.37 %</font></td>
+  </tr> 
+</table></center>
+<hr><p><b>5. Структура выборки в зависимости от размера штата компании</b></p>
+<table width="100%" class="line">
+ <tr bgcolor="#c0c0c0">
+  <td wdth="33%" align="center" class="head">Общий штат компании</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>до 50 человек</td>
+<td align="center">2.94%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>от 51 до 100 человек</td>
+<td align="center">4.95%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>от 101 до 200 человек</td>
+<td align="center">9.4%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>от 201 до 500 человек</td>
+<td align="center">10.65%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>от 501 до 1000 человек</td>
+<td align="center">37.03%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>более 1000 человек</td>
+<td align="center">35.04%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>Всего</td>
+<td align="center">100%</td>
+</tr>
+
+</table>
+
+<center><p><em>Структура выборки в зависимости от возраста компании.</em></p>
+<table class="grafik">
+  <tr>
+    <td width="230" align="right" class="white">&nbsp;</td>
+    <td align="left" class="white"><img src="/_img/lineika.gif"></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">до 50 человек</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="5.41" align="absmiddle"><font style="font-weight:normal"> 2.94 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 51 до 100 человек</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="8.425" align="absmiddle"><font style="font-weight:normal"> 4.95 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 101 до 200 человек</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="15.1" align="absmiddle"><font style="font-weight:normal"> 9.4 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 201 до 500 человек</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="16.975" align="absmiddle"><font style="font-weight:normal"> 10.65 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">от 501 до 1000 человек</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="56.545" align="absmiddle"><font style="font-weight:normal"> 37.03 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">более 1000 человек</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="53.56" align="absmiddle"><font style="font-weight:normal"> 35.04 %</font></td>
+  </tr> 
+</table></center>
+<hr><p><b>6. Структура выборки в зависимости от динамичности развития компании</b></p>
+<table width="100%" class="line">
+<tr bgcolor="#c0c0c0">
+<td width="33%" align="center" class="head">Степень динамичности развития компании</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>Рождение</td>
+<td align="center">0.83%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>Рост</td>
+<td align="center">63.78%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>Зрелость</td>
+<td align="center">33.33%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>Угасание</td>
+<td align="center">2.07%</td>
+</tr>
+
+<tr bgcolor=#d3d3d3><td>Всего</td>
+<td align="center">100%</td>
+</tr>
+
+</table>
+
+<center><p><em>Структура выборки в зависимости от динамичности развития компании</em></p>
+<table class="grafik">
+  <tr>
+    <td width="230" align="right" class="white">&nbsp;</td>
+    <td align="left" class="white"><img src="/_img/lineika.gif"></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">Рождение</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="2.245" align="absmiddle"><font style="font-weight:normal"> 0.83 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">Рост</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="96.67" align="absmiddle"><font style="font-weight:normal"> 63.78 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">Зрелость</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="50.995" align="absmiddle"><font style="font-weight:normal"> 33.33 %</font></td>
+  </tr> 
+
+  <tr>
+    <td width="230" align="right">Угасание</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="4.105" align="absmiddle"><font style="font-weight:normal"> 2.07 %</font></td>
+  </tr> 
+</table></center><hr><p><b>7. Структура выборки в зависимости от величины среднемесячного оборота компании</b></p>
+
+<br>
+<table width="100%" class="line">
+<tr bgcolor="#c0c0c0">
+<td width="33%" align="center" class="head">Среднемесячный оборот компании за год</td>
+<td width="33%" align="center" class="head">Процент от общего числа сотрудников</td>
+</tr>
+<tr bgcolor="#d3d3d3"><td>До 200 000$/мес</td>
+<td align="center">0.76%</td>
+</tr>
+<tr bgcolor="#c0c0c0"><td>От 200 000 до 500 000$/мес</td>
+<td align="center">5.64%</td>
+</tr>
+<tr bgcolor="#d3d3d3"><td>От 500 000 до 1 000 000$/мес</td>
+<td align="center">12.24%</td>
+</tr>
+<tr bgcolor="#c0c0c0"><td>От 1 000 000 до 5 000 000$/мес</td>
+<td align="center">22.58%</td>
+</tr>
+<tr bgcolor="#d3d3d3">
+<td>Более 5 000 000$/мес</td>
+  <td align="center">58.79%</td>
+</tr>
+<tr bgcolor="#c0c0c0">
+<td>Всего</td>
+  <td align="center">100%</td>
+</tr>
+</table>
+
+<center><p><em>Структура выборки в зависимости от величины среднемесячного оборота компании</em></p>
+<table class="grafik">
+  <tr>
+    <td width="230" align="right" class="white">&nbsp;</td>
+    <td align="left" class="white"><img src="/_img/lineika.gif"></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">До 200 000$/мес</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="2.14" align="absmiddle"><font style="font-weight:normal"> 0.76 %</font></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">От 200 000 до 500 000$/мес</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="9.46" align="absmiddle"><font style="font-weight:normal"> 5.64 %</font></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">От 500 000 до 1 000 000$/мес</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="19.36" align="absmiddle"><font style="font-weight:normal"> 12.24 %</font></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">От 1 000 000 до 5 000 000$/мес</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="34.87" align="absmiddle"><font style="font-weight:normal"> 22.58 %</font></td>
+  </tr>
+  <tr>
+    <td width="230" align="right">Более 5 000 000$/мес</td>
+    <td align="left"><img src="/_img/r2_dot.gif" height="10" width="89.185" align="absmiddle"><font style="font-weight:normal"> 58.79 %</font></td>
+  </tr>
+</table>
+</center>
+<br><br>Последнее обновление данных: <b>27-11-2008 (17:53)</b>

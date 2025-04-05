@@ -1,0 +1,24 @@
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$folder_id=$_POST['id'];
+$col_photos=$_POST['kol']-1;
+
+for($jj=0; $jj<=$col_photos; $jj++)
+{
+$name='test_'.$jj;
+  if(isset($_POST[$name]))
+  {
+  $del_photo=$_POST[$name];
+  //Удаление из базы
+  $result=mysqli_query($link,"delete from for_photofiles where folder='$folder_id' and name='$del_photo'");
+  //Удаление файлов
+   unlink('elements/photofolders/'.$folder_id.'/'.$del_photo);
+   unlink('elements/photofolders/'.$folder_id.'/preview/'.$del_photo);
+  }
+}
+?>
+<script>
+self.location.href='?page=photoalbum-view&id=<?=$folder_id;?>';
+</script>

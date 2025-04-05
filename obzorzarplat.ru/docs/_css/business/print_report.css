@@ -1,0 +1,11 @@
+body{margin-top:70px; font-size:12px;}
+.buttons{position:fixed; top:0; padding-top:2px; padding:0; width:100%; background-color:#fff; z-index:10;}
+.buttons hr{background-color:#e0e0e0; height:3px; border:1px solid #e0e0e0; padding:0; margin:0;}
+
+.right_menu{position:absolute; top:0; right:5px; vertical-align:middle; padding:5px;}
+.right_menu a{padding:6px;}
+
+@media print {
+.right_menu{display:none;}
+.buttons{position:absolute; top:0; padding:0;}
+}

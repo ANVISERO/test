@@ -1,0 +1,36 @@
+<a href="?page=category"><img src="_adminfiles/button_tolist.gif" alt="Список категорий" width="129" height="20" border="0"></a>
+
+<? $date=date("d.m.Y");?>
+<form name="add" action="?page=category-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Корневой раздел:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<select name="root" class="optlong">
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_category order by name";
+$result=mysqli_query($link,$query);
+while($row=mysqli_fetch_array($result))
+{
+echo('<option>'.$row["name"].'</option>');
+}
+?>
+</select></td>
+</tr>
+<tr>
+<td class="diz_26" height="20" align="right" valign="top">Название:&nbsp;&nbsp;</td>
+<td class="diz_27" valign="top">&nbsp;&nbsp;<input type="text" name="name" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" height="20" align="right" valign="top">Позиция:&nbsp;&nbsp;</td>
+<td class="diz_27" valign="top">&nbsp;&nbsp;<input type="text" name="pos" value="1" class="namessmall"></td>
+</tr>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

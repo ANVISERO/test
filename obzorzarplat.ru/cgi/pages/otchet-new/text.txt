@@ -1,0 +1,44 @@
+<input type="button" class="but" value="Возврат" onClick="self.location.href='?page=otchet'">
+<form name="add" action="?page=otchet-add" method="post" enctype="multipart/form-data">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Наименование:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="name" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Описание:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:150px" name="opis"></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Цена:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="price" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Цена со скидкой:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="pricesale" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Информация:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><textarea  class="anons" style="width:100%; height:250px" name="info"></textarea></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Позиция для списка:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="pos" value=""></td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20">
+<input name="status" type="checkbox" value="" checked="checked">
+</td>
+</tr>
+<tr>
+<td width="168" height="20" align="right" valign="middle" class="diz_26">Демо файл:&nbsp;&nbsp;</td>
+<td class="diz_27" width="500" height="20"><input class="names" type="text" name="demo" value=""></td>
+</tr>
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+</table>
+<input type="submit" class="but" value="Сохранить">
+</form>

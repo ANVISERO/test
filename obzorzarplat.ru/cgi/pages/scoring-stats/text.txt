@@ -1,0 +1,51 @@
+<style type="text/css" title="currentStyle"> 
+    @import "http://www.obzorzarplat.ru/_css/demo_table.css";
+</style>
+<script type="text/javascript" src="http://www.obzorzarplat.ru/_js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="http://www.obzorzarplat.ru/_js/jquery/pagination-scoring-stats.js"></script>
+
+
+<a href="?page=base"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>
+
+<table id="peoples" name="peoples" width="100%">
+<thead>
+<td valign="top" width="5%"><strong>ID пользователя</strong></td>
+<td valign="top"><strong>Пользователь</strong></td>
+<td valign="top" width="35%"><strong>Должность</strong></td>
+<td valign="top"><strong>Город</strong></td>
+<td valign="top"><strong>Зарплата</strong></td>
+<td valign="top"><strong>90 процентиль</strong></td>
+<td valign="top"><strong>Результат</strong></td>
+<th>Дата отчета</th>
+</thead>
+<tbody>
+
+<? 
+
+$per_page=35;
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$query="select csr.id, csr.user_id, DATE_FORMAT(csr.date, '%d-%m-%Y') as report_date, csr.salary, csr.score, csr.percentile_90, bj.name as job_name, 
+    br.name as city_name, fuc.company
+ FROM zarplata_banks.for_users_corporat_scoring_reports csr
+ LEFT JOIN for_users_corporat fuc on (csr.user_id = fuc.id)
+ LEFT JOIN base_jobs bj on (csr.job_id = bj.id) 
+ LEFT JOIN base_regions br on (csr.city_id = br.id) 
+ order by csr.id desc limit $per_page";
+$result=mysqli_query($link,$query ) or die(mysql_error());
+while($row=mysqli_fetch_array($result))
+	{ ?>
+		<td align="center"><?=$row['user_id'];?></td>
+		<td>><?=$row['company'];?></a></td>
+		<td align="center"><?=$row['job_name'];?></td>
+		<td align="center"><?=$row['city_name'];?></td>
+		<td align="center"><?=$row['salary'];?></td>
+		<td align="center"><?=$row['percentile90'];?></td>
+		<td align="center"><? echo ($row['score']) ? "Да" : "Нет"?></td>
+		<td align="center"><?=$row['report_date'];?></td>
+</tr>
+<? } ?>
+    </tbody>
+</table>

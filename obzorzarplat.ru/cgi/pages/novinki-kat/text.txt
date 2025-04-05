@@ -1,0 +1,29 @@
+<a href="?page=settings"><img src="_adminfiles/button_back.gif" alt="Все настройки" width="105" height="20" border="0"></a>
+<form name="del" method="post" action="?page=novinki-kat_save">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" align="center" valign="top"><strong>№</strong></td>
+<td width="648" height="20" valign="top">&nbsp;&nbsp;<strong>Категория</strong></td>
+</tr>
+
+
+<? 
+for($ii=1; $ii<=10; $ii++)
+{
+$id=implode("", file('settings/novinki-kat_'.$ii));
+echo('
+<tr>
+<td class="diz_26" height="20" align="center">'.sprintf("%'02d",$ii).'</td>
+<td class="diz_27">&nbsp;&nbsp;<input class="diz_22" type="text" name="test_'.$ii.'" value='.$id.'></td>
+</tr>
+');
+}
+?>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

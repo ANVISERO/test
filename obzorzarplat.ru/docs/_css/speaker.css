@@ -1,0 +1,6 @@
+.speaker h3.tit3{font-size:16px; text-align:center; font-weight:bold;}
+.photo{padding:2px; margin:2px; float:left;}
+.info p{padding:2px;}
+.comp p{padding:2px 0 0 2px; clear:both;}
+.speaker a.lk1, .partners a.lk1:visited{text-decoration:none; border-bottom:1px dashed #000; color:#000; font-weight:bold;}
+.speaker a.lk1:hover{text-decoration:none; border-bottom:1px dashed #c00; color:#c00; font-weight:bold;}

@@ -1,0 +1,42 @@
+<?
+$kol=$_POST["kol"];
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+
+//Проверка пустая ли папка
+$folder_id=$test[$kol_del];
+$query2="select * from for_folders where id='$folder_id'";
+$result2 = mysqli_query($link, $query2);
+$folder_name=mysqli_result($result2,0,1);
+
+$dir=opendir("../$folder_name/");
+while($file=readdir($dir))
+{
+echo("$file Удалить<br>");
+}
+
+//Удаление из базы
+//$query="delete from for_folders where id='$test[$kol_del]'";
+//$result = mysqli_query($link, $query);
+
+//Удаление папки, если она пустая
+
+}
+}
+?>
+
+<!--
+<script>
+self.location.href="?page=folders";
+</script>-->

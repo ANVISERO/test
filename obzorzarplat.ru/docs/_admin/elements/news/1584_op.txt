@@ -1,0 +1,49 @@
+<style type="text/css">
+<!--
+.style1 {	font-size: 18px;
+	font-weight: bold;
+}
+.style3 {font-size: 18px; font-weight: bold; color: #999999; }
+.style8 {color: #333333}
+.style7 {color: #000000}
+.style9 {color: #000000; font-weight: bold;}
+-->
+</style>
+ <p align="left" class="style3"><img src="/_img/hrclub_logo.jpg" width="674" height="129"></p>
+<p>18 ноября 2009 года  в 19.00 в зале Блюз состоится совместное заседание Петербургского профессионального кадрового клуба  <strong><a href="http://obzorzarplat.ru/hrclub/" target="_blanc" class="link_4">&laquo;Кочубей&raquo;</a></strong> <span class="style7"><span class="style7">и</span><span class="style9"> <a href="http://salesmanagerclub.ru" target="_blank" class="link_4">&laquo;Sales Manager Club&raquo;</a></span></span><strong>. </strong></p>
+<p>Тема заседания – &laquo;<strong>Длинный или короткий поводок. Управление персоналом</strong>&raquo;.</p>
+<p>Место проведения:  <em>Sokos Hotel Palace Bridge (В.О. Биржевой пер.4, зал Блюз)</em></p>
+<p align="left">Партнеры заседания: </p>
+
+<p class="style8">Партнеры заседания: </p>
+    <p><span class="style8"><img src="/_img/Sokos%20Hotels%20-OG-PB-Vas.jpg" width="244" height="45" border="0"></span>
+    <p><span class="style8"><a href="http://www.ant-management.spb.ru/" target="_blank"><img src="http://www.ant-management.spb.ru/images/logo.gif" width="244" height="54" border="0"></a></span>          <p><span class="style8"><a href="http://obzorzarplat.ru" target="_blank"><img src="http://obzorzarplat.ru/_img/logo_ru.jpg" width="244" height="54" border="0"></a></span>     
+<p>На заседании выступят:
+<p align="left"><em>Модератор</em>: </p>
+<p class="style8"><strong>Анастасия Романова</strong>, генеральный директор компании &laquo;Зиновьев сервис&raquo;.</p>
+<p><em>Среди выступающих будут</em>: 
+ <p class="style8"><strong>Александр Отти</strong>, директор представительства в Санкт-Петербурге компании &laquo;Bene&raquo;.</p>
+    <p class="style8"><strong>Дмитрий Ермилов</strong>, директор по развитию бизнеса в Северо-Западном регионе компании &laquo;3M&raquo;.</p>
+    <p class="style8"><strong>&#1040;&#1085;&#1085;&#1072; &#1051;&#1099;&#1095;&#1072;&#1075;&#1080;&#1085;&#1072;</strong>, &#1088;&#1091;&#1082;&#1086;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; &#1087;&#1086; &#1086;&#1073;&#1091;&#1095;&#1077;&#1085;&#1080;&#1102; &#1082;&#1086;&#1084;&#1087;&#1072;&#1085;&#1080;&#1080; &quot;Sun Microsystems&quot; &#1087;&#1086; &#1056;&#1086;&#1089;&#1089;&#1080;&#1080; &#1080; &#1057;&#1053;&#1043;.</p>
+    <p class="style8"><span class="style7">Планируется обсудить: </span></p>
+    <ol>
+      <li>Свобода vs. Эффективность. Тождество или противоречие? </li>
+      <li>Как определить границы свободы сотрудника?</li>
+      <li>Инструменты управления человеком в рамках выбранных границ. </li>
+    </ol>
+    <p>О соорганизаторах:</p>
+       <p><strong>Sales Manager Club</strong> – некоммерческое объединение руководителей в области продаж и развития бизнеса компаний Санкт-Петербурга.
+ <p>Подробнее: <a href="http://salesmanagerclub.ru" target="_blank" class="link_4">http://salesmanagerclub.ru</a></p>
+    <p>Стоимость участия – 500 рублей с персоны. </p>
+    <p align="left">Начало регистрации участников 18:30 – 19:00<br>
+Начало мероприятия 19.00.<br>
+
+Окончание 21.00</p>
+    <hr>
+    <h2>Регистрация на заседание</h2>
+    <p>Вы можете зарегистрироваься на заседание профессионального кадрового клуба &laquo;Кочубей&raquo;. Заполните поля ниже:</p>
+    <p><span class="registration">
+      <? include($folder.'/_admin/moduls/forms/hrclub/meeting.php');?>
+    </span></p>
+    <p align="left">Получить более подробную информацию и зарегистрироваться можно у администратора Клуба Екатерины Петровой: 740 18 11; +7 (921) 372 42 22; <a href='mailto:kate@ant-management.spb.ru'>kate@ant-management.spb.ru</a></p>
+ 

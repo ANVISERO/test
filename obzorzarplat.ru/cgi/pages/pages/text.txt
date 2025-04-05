@@ -1,0 +1,28 @@
+<a href="?page=content"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$result=mysqli_query($link,"select * from for_pages order by url");
+
+while($row=mysqli_fetch_array($result))
+{
+$pageurl=$row["url"];
+$pageier=count(preg_split("/\//",$pageurl));
+$pagename= (is_file($folder.$pageurl.'_vars/zag.txt')) ? implode("", file($folder.$pageurl.'_vars/zag.txt')) : '';
+echo('
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>');
+$img_page_3='&nbsp;';
+for($kk=2; $kk<=$pageier; $kk++)
+{
+if($kk==$pageier){$img_page_3='<img src="/_admin/_adminfiles/ico_page_3.gif">';}
+echo('<td align="right" width="26" height="25" style=" background-image:url(/_admin/_adminfiles/ico_page_2.gif); background-position:right; background-repeat:repeat-y ">'.$img_page_3.'</td>
+');
+$img_page_3='&nbsp;';
+}
+$img_page_4='<img src="/_admin/_adminfiles/ico_page.gif" width="26" height="15" align="absmiddle">';
+if($pageurl==''){$img_page_4='<img src="/_admin/_adminfiles/ico_page_4.gif" align="absmiddle">';}
+echo('<td height="25">'.$img_page_4.' <a href="?page=pages-new&id='.$pageurl.'"><img src="/_admin/_adminfiles/ico_page_5.gif" alt="Создать дочернюю страницу" align="absmiddle" border=0></a> <a title="Редактировать" href="?page=pages-red&id='.$pageurl.'" class="link_3">'.$pagename.'</a></td></tr></table>');
+}
+
+?>

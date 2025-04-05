@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_admin
+Disallow: /services/zp/?step=2
+Disallow: /register
+Sitemap: http://obzorzarplat.ru/sitemap.xml

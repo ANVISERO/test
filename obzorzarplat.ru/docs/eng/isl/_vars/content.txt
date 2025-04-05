@@ -1,0 +1,36 @@
+<script language="JavaScript">
+<!--
+function colorchange(id)
+{
+    eval('document.getElementById("'+id+'").style.color = "#cc0000"');
+}
+
+function colorchangeback(id)
+{
+   eval('document.getElementById("'+id+'").style.color = "#990000"');
+}
+//  -->
+</script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/isl/metod/" class="link_3"  id="h1" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Methodology</a>	</td>
+  </tr>
+<tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/isl/struktura/" class="link_3"  id="h2" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">General informaion of participants</a>	</td>
+  </tr>
+
+<tr>
+    <td width="30"> </td>
+    <td height="30">
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="http://obzorzarplat.ru/stats/" class="link_3"  id="h2" onMouseover="colorchange(this.id)" onMouseout="colorchangeback(this.id)">Articles</a>	</td>
+  </tr>
+
+</table>

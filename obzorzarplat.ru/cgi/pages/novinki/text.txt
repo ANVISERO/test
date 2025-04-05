@@ -1,0 +1,48 @@
+<a href="?page=elements"><img src="_adminfiles/button_back.gif" alt="Все элементы" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=novinki-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+<br><br>
+
+
+<form name="del" method="post" action="?page=novinki-del">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td width="100" height="20" valign="top">&nbsp;&nbsp;<strong>Раздел</strong></td>
+<td width="548" height="20" valign="top">&nbsp;&nbsp;<strong>Наименование</strong></td>
+</tr>
+
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$query="select * from for_novinki order by raz";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+//Поиск названия товара в базе
+$id=$row["id"];
+$query2="select * from for_goods where id='$id'";
+$result2=mysqli_query($link,$query2);
+$goods_name=mysqli_result($result2,0,2);
+
+$chet++;
+echo('
+<tr '.$str1.'>
+<td align="center" class="diz_26"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td class="diz_26">&nbsp;&nbsp;'.$row["raz"].'</td>
+<td class="diz_27">&nbsp;&nbsp;'.$goods_name.'</td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td width="20" class="diz_28">&nbsp;</td>
+<td width="100" class="diz_28">&nbsp;</td>
+<td width="548" class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

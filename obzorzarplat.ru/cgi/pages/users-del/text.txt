@@ -1,0 +1,16 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db);
+
+$test=$_POST["test"];
+
+foreach($test as $id)
+{
+    $delete_user=mysqli_query($link,"delete from for_users where id='$id'");
+    $delete_users_comments=mysqli_query($link,"delete from for_comments where user_id='$id'");
+}
+
+?>
+<script>
+self.location.href='?page=users';
+</script>

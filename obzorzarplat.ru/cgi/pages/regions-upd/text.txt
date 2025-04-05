@@ -1,0 +1,17 @@
+<?
+//сбор данных
+$id=$_POST["id"];
+$name=$_POST["name"];
+$coef=$_POST["coef"];
+$fake_ex=$_POST["fake_ex"];
+$fake_sm=$_POST["fake_sm"];
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$result=mysqli_query($link,"update base_regions SET `name` = '$name', fake_express = '$fake_ex', fake_summary = '$fake_sm' where `id`='$id'");
+$result=mysqli_query($link,"INSERT INTO base_region_coefficients (city_id, coefficient) VALUES ('$id', '$coef') ON DUPLICATE KEY UPDATE coefficient='$coef';");
+?>
+
+<script>
+self.location.href='?page=regions';
+</script>

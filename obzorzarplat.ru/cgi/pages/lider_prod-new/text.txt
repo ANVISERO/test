@@ -1,0 +1,41 @@
+<a href="?page=lider_prod"><img src="_adminfiles/button_tolist.gif" alt="Лидер продаж" width="129" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="add.submit();"><img style="cursor:hand" src="_adminfiles/button_ust.gif" alt="Установить отмеченный" width="129" height="20" border="0"></a>
+<br><br>
+
+
+<form name="add" method="post" action="?page=lider_prod-add">
+Дата: <input type="text" name="date" class="names" value="<? echo(date("Y.m.d"));?>">
+<br><br>
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td width="648" height="20" valign="top">&nbsp;&nbsp;<strong>Наименование товара</strong></td>
+</tr>
+
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+$query="select * from for_goods order by name";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+$chet++;
+echo('
+<tr>
+<td class="diz_26" width="20"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td class="diz_27">&nbsp;&nbsp;'.$row["name"].'</td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

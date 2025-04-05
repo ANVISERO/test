@@ -1,0 +1,51 @@
+<a href="?page=contacts"><img src="_adminfiles/button_tolist.gif" alt="Список контактов" width="129" height="20" border="0"></a>
+<form name="add" action="?page=contacts-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Имя:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="name" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Телефон:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="phone" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Факс:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="fax" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Адрес E-mail:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="mail" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">ICQ:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="icq" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Skype:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="skype" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Адрес:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="adress" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Должность:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="dol" value="" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Решаемые вопросы:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="quest" value="" class="names"></td>
+</tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Опубликовано:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="checkbox" name="view"></td>
+</tr>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

@@ -1,0 +1,21 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+<td valign="top">
+<?
+include($folder.'_admin/moduls/speed-form-ua.php');
+?>
+
+</td>
+<td width="200" valign="top" style="border-left:1px dashed #DBDBDB">
+
+<table width="200" height="100" border="0" cellpadding="0" cellspacing="0"><tr>
+<td valign="top" class="blok_1" style="padding:10px">
+<font style="font-size:10px; font-weight:bold; font-style:normal; text-decoration:none; color:#494949">Приєднуйтеся до клубу знавців «Моей зарплати». Вступивши в клуб знавців, Ви зможете отримати розширену інформацію по заробітній платі, а також розсилку новин про зміни заробітної плати.</font>
+<br><br>
+<center><input type="button" class="but" value="Реєстрація" onClick="self.location.href='/register/'"></center>
+
+</td>
+</tr></table>
+
+</td>
+</tr></table>

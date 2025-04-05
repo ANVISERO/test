@@ -1,0 +1,18 @@
+<?
+//сбор данных
+$id=$_POST["id"];
+$sity=$_POST["sity"];
+$comp=$_POST["comp"];
+$adress=$_POST["adress"];
+$phone=$_POST["phone"];
+
+//запись в базу
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="update for_serviscenter SET `sity` = '$sity', `comp` = '$comp', `adress` = '$adress', `phone` = '$phone' where `id`='$id'";
+$result=mysqli_query($link,$query);
+
+?>
+<script>
+self.location.href='?page=servis-center';
+</script>

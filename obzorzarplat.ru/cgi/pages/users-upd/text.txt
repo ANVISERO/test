@@ -1,0 +1,45 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+//Сбор данных
+$id=intval($_POST["id"]);
+$login=$_POST["login"];
+$psw_new_check=$_POST["psw_new_check"];
+$psw_new=md5($_POST["psw_new"]);
+$name=mysqli_real_escape_string($link, $_POST["name"]);
+$fam=mysqli_real_escape_string($link, $_POST["fam"]);
+$otch=mysqli_real_escape_string($link, $_POST["otch"]);
+$birth=$_POST["birth"];
+$sex=$_POST["sex"];
+$country=$_POST["country"];
+$city=$_POST["city"];
+$phone=$_POST["phone"];
+$company=mysqli_real_escape_string($link, $_POST["company"]);
+$job=mysqli_real_escape_string($link, $_POST["job"]);
+$icq=$_POST["icq"];
+$web=$_POST["web"];
+$skype=$_POST["skype"];
+$status=$_POST["status"];
+$date_register=$_POST["date_register"];
+$pic=mysqli_real_escape_string($link, $_POST["pic"]);
+
+//запись в БД
+if($psw_new_check==1)
+{
+$user_q=mysqli_query($link,"UPDATE for_users SET log='$login', pas='$psw_new',name='$name',fam='$fam', otch='$otch', birth='$birth',
+                                                    sex='$sex', country='$country', city='$city', phone='$phone', company='$company', job='$job',
+                                                    icq='$icq', web='$web', skype='$skype', status='$status', date='$date_register', pic='$pic'
+                     WHERE id='$id'");
+}
+else
+{
+$user_q=mysqli_query($link,"UPDATE for_users SET log='$login', name='$name',fam='$fam', otch='$otch', birth='$birth',
+                                                    sex='$sex', country='$country', city='$city', phone='$phone', company='$company', job='$job',
+                                                    icq='$icq', web='$web', skype='$skype', status='$status', date='$date_register', pic='$pic'
+                     WHERE id='$id'");
+}
+?>
+<script>
+self.location.href='?page=users';
+</script>

@@ -1,0 +1,4 @@
+.users-b2b {width:100%;}
+.users-b2b table th{font-weight:bold; text-align:center; vertical-align:top; padding:4px;}
+.users-b2b table tr.warning{background-color: #fcc;}
+.users-b2b table tr.demo{background-color: #cfc;}

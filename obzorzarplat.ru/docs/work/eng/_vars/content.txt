@@ -1,0 +1,10 @@
+<center><b>Найдите работу для себя!</b></center>
+<br>
+<?	
+include($folder.'_admin/moduls/sites-echo.php');
+?>
+
+
+
+
+

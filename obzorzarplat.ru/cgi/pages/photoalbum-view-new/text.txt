@@ -1,0 +1,37 @@
+<? $folder_id=$_GET["id"];?>
+<a href="?page=photoalbum"><img src="_adminfiles/button_tolist.gif" alt="Назад" width="129" height="20" border="0"></a>
+<br><br>
+
+<?
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+//Вывод имени папки
+$folder_name=mysqli_result(mysqli_query($link,"select * from for_photofolders where id='$folder_id'"),0,1);
+echo('Папка: <b>'.$folder_name.'</b><br><br>');
+?>
+
+<form name="upload" id="upload" action="?page=photoalbum-view-upl" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<? echo($folder_id);?>">
+
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<?
+for($ii=1; $ii<=10; $ii++)
+{
+echo('
+<tr>
+<td class="diz_26" width="20" height="20" align="center">'.sprintf("%'02d",$ii).'</td>
+<td class="diz_27" width="648">&nbsp;&nbsp;<input type="file" name="file_'.$ii.'" class="file"></td>
+</tr>
+');
+}
+?>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+
+<input type="image" src="_adminfiles/button_upload.gif">
+</form>

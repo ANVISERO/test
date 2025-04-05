@@ -1,0 +1,25 @@
+body{margin:0; margin-top:20px; padding:0; font-size:11px; font-family:Verdana; background-color:#EEEEEE; background-image:url(/_img/bg_main.gif);}
+
+a.link_1{ color:#cc0000; font-size:10px; text-decoration:none}
+a.link_2{ color:#cc0000; font-size:10px; text-decoration:none; font-weight:bold}
+a.link_2:hover{ text-decoration:underline}
+h1.title{font-family:verdana; font-size:14px; padding:0px; margin:0px}
+td.page{ border:1px solid #505151; background-color:#fff; background-image:url(/_img/bg_page.gif)}
+td.head{ background-color:#fff; background-image:url(/_img/g_dot_1.gif); background-position:bottom; background-repeat:repeat-x}
+td.reclame{border:1px solid #DBDBDB}
+td.bottom_menu{background-color:#fff; border-bottom:1px solid #505151}
+td.b_menu{background-image:url(/_img/bg_menu.gif);}
+td.b_menu a{ text-decoration:none; color:#494949; text-transform: lowercase; font-size:10px; padding-left:4px; padding-right:4px; font-weight:bold}
+td.b_menu a:hover{color:#DD1011}
+td.grey{font-size:10px; color:#515151}
+
+input.text{font-size:10px; font-weight:normal; background-color:#FFE8E8; height:13px; font-family:verdana; border:1px solid #E0E0E0}
+select.text{font-size:10px; font-weight:normal; background-color:#FFE8E8; height:13px; font-family:verdana; border:1px solid #E0E0E0}
+input.but{font-size:10px; font-weight:bold; background-color:#E0E0E0;  font-family:verdana; border:1px solid #E0E0E0; cursor:hand; color:#515151}
+
+td.center{background-color:#fff; border:1px solid #DBDBDB; padding:10px}
+td.center2{padding:0px}
+td.bottom{ font-size:10px; color:#979696}
+td.bottom a{font-size:10px; color:#979696; text-decoration:none}
+td.bottom a:hover{ text-decoration:underline; color:#666}
+td.blok_1{background-color:#eee; border:1px solid #DBDBDB}

@@ -1,0 +1,57 @@
+<?
+$teklog=$_POST['teklog'];
+$tekpas=$_POST['tekpas'];
+
+$newlog=$_POST['newlog'];
+$newpas1=$_POST['newpas1'];
+$newpas2=$_POST['newpas2'];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$filter="select * from for_login where log='$teklog'";
+$filter2="update for_login set `log` = '$newlog', `pas` = '$newpas1' where log='$teklog'";
+
+	
+	if(($newpas1=='') or ($newpas2=='') or ($teklog=='') or ($tekpas=='') or ($newlog==''))
+		{
+		echo('Не все поля заполнены<br><br><a href="?page=chpass"><< Повторить попытку</a>');
+		}
+		else
+		{
+			if($newpas1<>$newpas2)
+			{
+			echo('Пароли не совпадают<br><br><a href="?page=chpass"><< Повторить попытку</a>');
+			}
+			else
+				{
+				$query="$filter";
+				$result=mysqli_query($link,$query);
+				if(mysqli_num_rows($result)==0)
+					{
+					echo('Указан неверный текущий логин<br><br><a href="?page=chpass"><< Повторить попытку</a>');
+					}
+					else
+					{
+					$test_pass=mysqli_result($result,0,1);
+					if($test_pass<>$tekpas)
+					{
+					echo('Указан неверный текущий пароль<br><br><a href="?page=chpass"><< Повторить попытку</a>');
+					}
+						else
+						{
+						$query2="$filter2";	
+						$result2=mysqli_query($link,$query2);
+						echo('Смена пароля прошла успешно!');
+						}
+					
+					
+					}
+			}
+		
+		}
+		
+		
+
+?>
+
+
+

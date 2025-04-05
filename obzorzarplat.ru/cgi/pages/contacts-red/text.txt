@@ -1,0 +1,75 @@
+<a href="?page=contacts"><img src="_adminfiles/button_tolist.gif" alt="Список контактов" width="129" height="20" border="0"></a>
+
+<?
+//сбор данных
+$id=$_GET["id"];
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="select * from for_contacts where id='$id'";
+$result=mysqli_query($link,$query);
+
+$name=mysqli_result($result,0,1);
+$phone=mysqli_result($result,0,2);
+$mail=mysqli_result($result,0,3);
+$icq=mysqli_result($result,0,4);
+$skype=mysqli_result($result,0,5);
+$adress=mysqli_result($result,0,6);
+$dol=mysqli_result($result,0,7);
+$quest=mysqli_result($result,0,8);
+$fax=mysqli_result($result,0,9);
+$view=mysqli_result($result,0,10);
+if($view==0){$str_4='checked';}if($view==1){$str_4='';}
+?>
+<form name="upd" action="?page=contacts-upd" method="post" enctype="multipart/form-data">
+<input type="hidden" name="id" value="<? echo($id);?>">
+
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Имя:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="name" value="<? echo($name);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Телефон:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="phone" value="<? echo($phone);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Факс:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="fax" value="<? echo($fax);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Адрес E-mail:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="mail" value="<? echo($mail);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">ICQ:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="icq" value="<? echo($icq);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Skype:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="skype" value="<? echo($skype);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Адрес:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="adress" value="<? echo($adress);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Должность:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="dol" value="<? echo($dol);?>" class="names"></td>
+</tr>
+<tr>
+<td class="diz_26" width="150" height="20" align="right" valign="top">Решаемые вопросы:&nbsp;&nbsp;</td>
+<td class="diz_27" width="518" valign="top">&nbsp;&nbsp;<input type="text" name="quest" value="<? echo($quest);?>" class="names"></td>
+</tr>
+  <tr>
+    <td  align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="view" <? echo($str_4);?>></td>
+  </tr>
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

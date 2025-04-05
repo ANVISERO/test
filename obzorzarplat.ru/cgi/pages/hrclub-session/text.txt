@@ -1,0 +1,53 @@
+<a href="?page=content"><img src="_adminfiles/button_back.gif" alt="Возврат" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=hrclub-session-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+<form name="del" method="post" action="?page=hrclub-session-del">
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td width="100" height="20" valign="top">&nbsp;&nbsp;<strong>Дата</strong></td>
+<td height="20" valign="top">&nbsp;&nbsp;<strong>Заголовок</strong></td>
+<td width="50" height="20" valign="top"><strong>Язык</strong></td>
+<td width="20" height="20" valign="top">&nbsp;</td>
+</tr>
+
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+$query="select * from for_hrclub_session order by date desc";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+$chet++;
+$lang_id=$row['lang'];
+if($lang_id==0){$lang='Рус';}
+if($lang_id==1){$lang='Eng';}
+
+echo('
+<tr '.$str1.'>
+<td align="center" class="diz_26"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td align="center" class="diz_26"><img src="_adminfiles/'.$status.'.gif"></td>
+<td class="diz_26"><a href="?page=hrclub-session-red&id='.$row["id"].'">'.$row["date"].'</a></td>
+<td class="diz_26"><a href="?page=hrclub-session-red&id='.$row["id"].'">'.$row["zag"].'</a></td>
+<td class="diz_26"><a href="?page=hrclub-session-red&id='.$row["id"].'">'.$lang.'</a></td>
+<td align="center" class="diz_27"><a href="?page=hrclub-session-red&id='.$row["id"].'"><img '.$str4.' alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+<td class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

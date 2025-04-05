@@ -1,0 +1,33 @@
+<?
+//Получение данных
+$host=$_POST["host"];
+$db=$_POST["db"];
+$user=$_POST["user"];
+$pass=$_POST["pass"];
+
+//Запись в файлы
+$fullpath='settings/mysql_host';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $host);
+fclose ($file);
+
+$fullpath='settings/mysql_db';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $db);
+fclose ($file);
+
+$fullpath='settings/mysql_user';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $user);
+fclose ($file);
+
+$fullpath='settings/mysql_pass';
+$file = fopen ("$fullpath","w+");
+fputs ( $file, $pass);
+fclose ($file);
+
+
+?>
+<script>
+self.location.href="?page=mysql";
+</script>

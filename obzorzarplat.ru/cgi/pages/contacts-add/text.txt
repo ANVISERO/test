@@ -1,0 +1,29 @@
+<?
+//Сбор данных
+
+//$id=implode("", file('settings/count_id'));
+//countplus();
+$name=$_POST["name"];
+$phone=$_POST["phone"];
+$fax=$_POST["fax"];
+$mail=$_POST["mail"];
+$icq=$_POST["icq"];
+$skype=$_POST["skype"];
+$adress=$_POST["adress"];
+$dol=$_POST["dol"];
+$quest=$_POST["quest"];
+
+if(isset($_POST["view"])){$view=0;}
+if(!isset($_POST["view"])){$view=1;}
+
+//Запись в базу
+
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$query="insert into for_contacts value (null,'$name','$phone','$mail','$icq','$skype','$adress','$dol','$quest','$fax','$view')";
+$result=mysqli_query($link,$query);
+
+?>
+<script>
+self.location.href='?page=contacts';
+</script>

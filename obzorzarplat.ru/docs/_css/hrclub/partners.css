@@ -1,0 +1,17 @@
+.information{height:100%; min-height:180px; width:100%;}
+.photo{padding:2px; margin:2px; float:left; position:relative; max-width:100%;}
+.information .photo img{height:auto; max-width:100%;}
+
+.partners h1{font: normal normal 400 1.5em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#000; text-align:left; padding-bottom:4px; margin-bottom:1.2em; font-weight:normal; border:0;}
+.partners h2{font: normal normal 400 1.2em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; border-bottom:1px solid rgb(204,204,204); padding-bottom:4px; margin-bottom:1.2em; font-weight:normal;}
+.partners p{padding-bottom:10px;}
+.partners a.lk1, .partners a.lk1:visited{color:#000; font-style:italic; font-size:13px; text-decoration:none; border-bottom:1px dashed #000; padding-bottom:2px;}
+.partners a.lk1:hover{color:#c00; border-bottom:1px dashed #c00;}
+.partners a ,.partners a:visited{text-decoration:none; border:none;}
+.partners a.title_h2, .partners a.title_h2:visited{font: normal normal 400 1.2em/normal 'Lucida Grande', 'Trebuchet MS', Verdana, sans-serif; color:#c00; text-align:left; padding-bottom:4px; margin-bottom:1.2em; font-weight:normal;}
+.partners a.title_h2:hover{color:#000;}
+.partners ul.big_links li{padding:5px;}
+.partners ul.big_links li a, .partners ul.big_links li a:visited{font-size:1.2em; color:#c00; text-decoration:none; padding-bottom:4px; margin:4px;}
+.partners ul.big_links li a:hover{color:#000; text-decoration:none;}
+.partners table td{vertical-align:top;}
+.partners ul li{padding-bottom:4px;}

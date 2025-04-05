@@ -1,0 +1,6 @@
+<?php
+include($folder.'../cgi/moduls/reports/funcs.php');
+if(!isset($_GET["step"])){$step=1;}
+        if(isset($_GET["step"])){$step=$_GET["step"];}
+        include($folder.'../cgi/moduls/reports/1job-lite/1job-lite-'.$step.'.php');
+?>

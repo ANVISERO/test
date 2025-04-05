@@ -1,0 +1,33 @@
+<?php
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+
+//Сбор данных
+$id=intval($_POST["id"]);
+$login=$_POST["login"];
+$psw=md5($_POST["psw"]);
+$name=mysqli_real_escape_string($link, $_POST["name"]);
+$fam=mysqli_real_escape_string($link, $_POST["fam"]);
+$otch=mysqli_real_escape_string($link, $_POST["otch"]);
+$birth=$_POST["birth"];
+$sex=$_POST["sex"];
+$country=$_POST["country"];
+$city=$_POST["city"];
+$phone=$_POST["phone"];
+$company=mysqli_real_escape_string($link, $_POST["company"]);
+$job=mysqli_real_escape_string($link, $_POST["job"]);
+$icq=$_POST["icq"];
+$web=$_POST["web"];
+$skype=$_POST["skype"];
+$status=$_POST["status"];
+$date_register=$_POST["date_register"];
+$pic=mysqli_real_escape_string($link, $_POST["pic"]);
+
+//запись в БД
+$user_q=mysqli_query($link,"insert into for_users VALUES('$id', '$login','$psw','$name','$fam', '$otch', '$birth',
+                                                    '$sex', '$country', '$city', '$phone', '$company', '$job',
+                                                    '$icq', '$web', '$skype', '$status', '3', '0', '$date_register','$pic')");
+?>
+<script>
+self.location.href='?page=users';
+</script>

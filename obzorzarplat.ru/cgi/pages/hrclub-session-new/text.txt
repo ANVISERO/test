@@ -1,0 +1,97 @@
+<a href="?page=hrclub"><img src="_adminfiles/button_tolist.gif" alt="Список заседаний" width="129" height="20" border="0"></a>
+
+<form name="add" action="?page=hrclub-session-add" method="post" enctype="multipart/form-data">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Дата:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="date" value="<? echo($date);?>"></td>
+  </tr>
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Тема заседания:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input class="names" type="text" name="zag" value=""></td>
+  </tr>
+     <tr>
+     
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Язык:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<label><input type="radio" name="lang" value="0" checked="checked">Русский</label>
+<label><input type="radio" name="lang" value="1">English</label>
+</td>
+  </tr> 
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Анонс:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="anons"></textarea></td>
+  </tr>
+  
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Протокол:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="info"></textarea></td>
+  </tr>
+  
+      <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Место проведения:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<textarea class="anons" name="place"></textarea></td>
+  </tr>
+  
+  <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Спикер 1:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;
+      <select class="file" type="file" name="speaker1">
+      <option value="">---Выбрать---</option>
+        <?
+      $link = mysqli_connect($host,$user,$pass);
+      mysqli_select_db($link,$db);
+      
+       $speakers_q=mysqli_query($link,"select * from for_hrclub order by surname", ); 
+       
+       while($row=mysqli_fetch_array($speakers_q)){
+        echo('
+       <option value='.$row["id"].'>'.$row["surname"].' '.$row["name"].'</option> 
+        ');
+       }
+        ?>
+      </select>
+    
+    </td>
+  </tr>
+  
+    <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Спикер 2:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;
+      <select class="file" type="file" name="speaker2">
+      <option value="">---Выбрать---</option>
+        <?
+      $link = mysqli_connect($host,$user,$pass);
+      mysqli_select_db($link,$db);
+      
+       $speakers_q=mysqli_query($link,"select * from for_hrclub order by surname", ); 
+       
+       while($row=mysqli_fetch_array($speakers_q)){
+        echo('
+       <option value='.$row["id"].'>'.$row["surname"].' '.$row["name"].'</option> 
+        ');
+       }
+        ?>
+      </select>
+    
+    </td>
+  </tr>
+ 
+   <tr>
+    <td width="168" height="20" align="right" valign="top" class="diz_26">Опубликовано:&nbsp;&nbsp;</td>
+    <td class="diz_27" width="500" height="20">&nbsp;&nbsp;<input type="checkbox" name="status" checked="checked"></td>
+  </tr>
+ 
+  <tr>
+    <td width="168" class="diz_28">&nbsp;</td>
+    <td width="500" class="diz_28">&nbsp;</td>
+  </tr>
+
+</table>
+
+
+<input type="image" src="_adminfiles/button_save.gif">
+</form>

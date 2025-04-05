@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:none;
+}
+#header{
+	background:#FFFFFF url(../images/content_bg.gif) repeat-y scroll 0 0;
+}
+table{
+	font-size:9pt;
+}
+#header .headcont {
+	height:6.7em;
+}
+#header .contract {
+	width: 35em;
+}
+#sidebar {
+	width: 19.4em;
+}
+#sidebar .center {
+	text-align:center;
+}
+#sidebar .boxSQtop {
+	text-align:left;
+}
+.boxx .one_third .simple table {
+	width:80%;
+}
+.listing{
+	/*width:58%;*/
+}
+.boxxie6{
+	width:98%;
+}
+.listingie55{
+	width:70%;
+}
+.alert, .alert1{
+	height:36px;
+}
+#footer{
+	position:relative;
+}

@@ -1,0 +1,54 @@
+<a href="?page=elements"><img src="_adminfiles/button_back.gif" alt="Все элементы" width="105" height="20" border="0"></a>&nbsp;&nbsp;<a href="?page=goods-new"><img src="_adminfiles/button_addelement.gif" alt="Добавить элемент" width="150" height="20" border="0"></a>&nbsp;&nbsp;<a onClick="del.submit();"><img onMouseOver="this.style.cursor='hand'" src="_adminfiles/button_del.gif" alt="Удалить отмеченные" width="168" height="20" border="0"></a>
+<form name="del" method="post" action="?page=goods-del">
+
+<table width="668" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20" height="20" valign="top">&nbsp;</td>
+<td width="428" height="20" valign="top">&nbsp;&nbsp;<strong>Наименование</strong></td>
+<td width="100" height="20" valign="top">&nbsp;&nbsp;<strong>Цена</strong></td>
+<td width="50" height="20" valign="top">&nbsp;&nbsp;<strong>Кол-во</strong></td>
+<td width="50" height="20" valign="top">&nbsp;</td>
+<td width="20" height="20" valign="top">&nbsp;</td>
+</tr>
+
+
+<? 
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link,$db);
+$kov="'";
+$str1='onMouseOver="this.style.background='.$kov.'#F4F4F4'.$kov.'" onMouseOut="this.style.background='.$kov.'#FFFFFF'.$kov.'"';
+$str2='onMouseOver="this.src='.$kov.'_adminfiles/ico_add_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_add.gif'.$kov.'"';
+$str3='onMouseOver="this.src='.$kov.'_adminfiles/ico_view_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_view.gif'.$kov.'"';
+$str4='onMouseOver="this.src='.$kov.'_adminfiles/ico_edit_s.gif'.$kov.'" onMouseOut="this.src='.$kov.'_adminfiles/ico_edit.gif'.$kov.'"';
+
+$query="select * from for_goods order by name";
+$result=mysqli_query($link,$query);
+$chet=0;
+while($row=mysqli_fetch_array($result))
+{
+if(file_exists('elements/goods/'.$row["id"].'/small-photo-1.jpg')){$photo='<img src="/_admin/_adminfiles/ico_photo.gif" width="14" height="12">';}
+if(!file_exists('elements/goods/'.$row["id"].'/small-photo-1.jpg')){$photo='';}
+$chet++;
+echo('
+<tr '.$str1.'>
+<td align="center" class="diz_26" height="20"><input type="checkbox" name="test_'.$chet.'" value="'.$row["id"].'"></td>
+<td class="diz_26"><a href="?page=goods-red&id='.$row["id"].'">'.$row["name"].'</a></td>
+<td class="diz_26">&nbsp;&nbsp;'.$row["price"].'</td>
+<td class="diz_26">&nbsp;&nbsp;'.$row["col"].'</td>
+<td class="diz_26">&nbsp;&nbsp;'.$photo.'</td>
+<td align="center" class="diz_27"><a href="?page=goods-red&id='.$row["id"].'"><img '.$str4.' alt="Редактировать" src="_adminfiles/ico_edit.gif" width="14" height="12" border="0"></a></td>
+</tr>
+');
+}
+?>
+
+<tr>
+<td width="20" class="diz_28">&nbsp;</td>
+<td width="428" class="diz_28">&nbsp;</td>
+<td width="100" class="diz_28">&nbsp;</td>
+<td width="100" class="diz_28">&nbsp;</td>
+<td width="20" class="diz_28">&nbsp;</td>
+</tr>
+</table>
+<input type="hidden" name="kol" value="<? echo($chet);?>">
+</form>

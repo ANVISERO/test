@@ -1,0 +1,35 @@
+<table width="100%" class="line" cellspacing="0" cellpadding="5">
+ <tr class="struct" bgcolor=#c0c0c0>
+  <td wdth="33%" align="center">Общий штат компании</td>
+<td width="33%" align="center">Процент от общего числа сотрудников</td>
+</tr>
+
+<tr bgcolor=#e0e0e0><td>до 50 человек</td>
+<td align="center">2.67%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>от 51 до 100 человек</td>
+<td align="center">4.36%</td>
+</tr>
+
+<tr bgcolor=#e0e0e0><td>от 101 до 200 человек</td>
+<td align="center">13.26%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>от 201 до 500 человек</td>
+<td align="center">5.44%</td>
+</tr>
+
+<tr bgcolor=#e0e0e0><td>от 501 до 1000 человек</td>
+<td align="center">38.31%</td>
+</tr>
+
+<tr bgcolor=#c0c0c0><td>более 1000 человек</td>
+<td align="center">35.96%</td>
+</tr>
+
+<tr bgcolor=#e0e0e0><td>Всего</td>
+<td align="center">100%</td>
+</tr>
+
+</table>

@@ -1,0 +1,3 @@
+<?	
+include($folder.'_admin/moduls/search-eng.php');
+?>

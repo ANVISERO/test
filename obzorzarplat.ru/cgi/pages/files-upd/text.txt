@@ -1,0 +1,15 @@
+<?
+//Сбор переменных и загрузка файла
+$link = mysqli_connect($host,$user,$pass);
+mysqli_select_db($link, $db); 
+
+$file_id=$_POST['id'];
+$file_name=$_POST['name'];
+$file_date=$_POST['date'];
+//Запись в базу
+$result=mysqli_query($link,"update for_files SET `date` = '$file_date', `name` = '$file_name' where `id`='$file_id'");
+
+?>
+<script>
+self.location.href='?page=files';
+</script>
