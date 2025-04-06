@@ -1,0 +1,60 @@
+body{margin-top:70px; font-size:12px;}
+.buttons{position:fixed; top:0; padding-top:2px; padding:0; width:100%; background-color:#fff; z-index:10;}
+.buttons hr{background-color:#e0e0e0; height:3px; border:1px solid #e0e0e0; padding:0; margin:0;}
+
+.right_menu{position:absolute; top:0; right:5px; vertical-align:middle; padding:5px;}
+.right_menu a{padding:6px;}
+
+@media print {
+.right_menu{display:none;}
+.buttons{position:absolute; top:0; padding:0;}
+}
+
+table.business th{text-align:center; font-weight: bold; vertical-align:top; border-bottom:1px solid #e0e0e0;border-top:1px solid #e0e0e0;}
+table.business td{text-align:center;  vertical-align:top; padding:5px 2px; border-bottom:1px solid #e0e0e0;}
+table.business td.left{text-align: left;}
+
+p.img_name{text-align: center; font-style: italic;}
+p.table_name{text-align: right; font-style: italic;}
+
+.profi{border:0px; width:100%; font-family: Verdana;}
+.profi h3{font-size:14px; font-style:italic; color: #c00; border-bottom: 1px solid #DBDBDB; padding: 4px 4px 4px 4px; font-weight:bold; background:none;}
+.profi h4{font-size:13px;}
+
+.profi p.table_title{text-align:right; font-style:italic;}
+
+.profi table{border-collapse:collapse; border:1px solid #DBDBDB; width:100%;}
+.profi table td{padding:5px;}
+.profi table th{font-weight:bold; font-size:13px; text-align:center; background:none;}
+.profi table tr.X1_0{border-top:1px solid #DBDBDB; background:none;}
+.profi table tr.X1_1{border-top:1px solid #DBDBDB; background:none;}
+.profi table td.X1_left{font-weight:normal; font-size:12px; text-align:left; padding-left:4px;}
+.profi table td.X1_right{font-weight:normal; font-size:12px; text-align:center;}
+
+.profi table.data{border-collapse:collapse; width:100%;}
+.profi table.data td{padding:5px; border:1px solid #DBDBDB;}
+.profi table.data td.title{background-color:#DBDBDB; border:2px solid silver;}
+.profi table.data td.title_none{border:1px solid #fff;}
+.profi table.data th{font-weight:bold; font-size:13px; text-align:left; background:none; border:1px solid #DBDBDB;}
+
+.print{border:0px; width:100%; font-family: Verdana;}
+.print h2{font-weight:bold; font-size:16px; text-align:center; color:#000; padding:2px;}
+.print h3{font-size:14px; font-style:italic;padding: 4px 4px 4px 4px; font-weight:bold; background:none;}
+.print h4{font-size:13px;}
+.print a.job, .print a.job:visited{text-align:left; padding-left:4px; text-decoration:none; color:#000; }
+.print a.job:hover{text-decoration:underline; color:#000;}
+
+.print table{width:100%; border-collapse:collapse; border:none;}
+.print table.business th{text-align:center; font-weight: bold; vertical-align:top; border:1px solid #e0e0e0;}
+.print table.business td{text-align:center;  vertical-align:top; padding:5px 2px; border:1px solid #e0e0e0;}
+.print table.business td.left{text-align: left;}
+
+.print table.data td, .print table.data th{padding:5px; border:1px solid #DBDBDB;}
+.print table.data td.title{background-color:#DBDBDB; border:2px solid silver;}
+.print table.data td.title_none{border-top:1px solid #fff; border-right:1px solid #fff;}
+
+.print table.job_description td{text-align:left; border-bottom:1px dashed #B1CBE4; vertical-align:top;}
+
+@media print {
+.buttons{display:none;}
+}

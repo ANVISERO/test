@@ -1,0 +1,188 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>13 770</td>
+<td>15 131</td>
+<td>15 075</td>
+<td>15 131</td>
+<td>15 131</td>
+<td>15 899</td>
+<td>2009-02-01</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>16 667</td>
+<td>19 294</td>
+<td>22 356</td>
+<td>24 368</td>
+<td>24 368</td>
+<td>24 368</td>
+<td>2009-12-05</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></th>
+<td>8 715</td>
+<td>9 576</td>
+<td>9 540</td>
+<td>9 576</td>
+<td>9 576</td>
+<td>10 062</td>
+<td>2009-02-01</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></th>
+<td>15 287</td>
+<td>16 899</td>
+<td>20 831</td>
+<td>22 989</td>
+<td>22 989</td>
+<td>22 989</td>
+<td>2009-12-05</td>
+</tr>
+</table>
+
+<h3>3.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>8 715</td>
+<td>9 576</td>
+<td>9 540</td>
+<td>9 576</td>
+<td>9 576</td>
+<td>10 062</td>
+<td>2009-02-01</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>11 494</td>
+<td>12 644</td>
+<td>12 455</td>
+<td>12 644</td>
+<td>12 644</td>
+<td>13 793</td>
+<td>2009-12-05</td>
+</tr>
+</table>
+
+<h3>4.	Среднемесячные значения премиальной части компенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2009-02-01</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>1 494</td>
+<td>3 247</td>
+<td>7 888</td>
+<td>10 345</td>
+<td>10 345</td>
+<td>10 345</td>
+<td>2009-12-05</td>
+</tr>
+</table>
+
+<h3>5.	Среднемесячные значения бонусной части копенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2009-02-01</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>2 295</td>
+<td>4 092</td>
+<td>5 712</td>
+<td>5 105</td>
+<td>6 732</td>
+<td>8 863</td>
+<td>2009-12-05</td>
+</tr>
+</table>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 11.02.2011)</p>
+</div>

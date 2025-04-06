@@ -1,0 +1,102 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Выборгский район (Ленинградская область)</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>22 978</td>
+<td>23 253</td>
+<td>26 841</td>
+<td>26 998</td>
+<td>30 321</td>
+<td>30 982</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>78 127</td>
+<td>85 032</td>
+<td>93 286</td>
+<td>94 101</td>
+<td>99 218</td>
+<td>107 628</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>20 230</td>
+<td>21 621</td>
+<td>25 231</td>
+<td>25 631</td>
+<td>28 519</td>
+<td>28 534</td>
+<td>октябрь 2010</td>
+</tr>
+</table>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></th>
+<td>22 528</td>
+<td>22 808</td>
+<td>26 384</td>
+<td>26 538</td>
+<td>29 853</td>
+<td>30 512</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></th>
+<td>77 746</td>
+<td>84 617</td>
+<td>92 830</td>
+<td>93 641</td>
+<td>98 733</td>
+<td>107 102</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></th>
+<td>19 770</td>
+<td>21 205</td>
+<td>24 773</td>
+<td>25 154</td>
+<td>28 059</td>
+<td>28 075</td>
+<td>октябрь 2010</td>
+</tr>
+</table>
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 24.12.2010)</p>
+</div>

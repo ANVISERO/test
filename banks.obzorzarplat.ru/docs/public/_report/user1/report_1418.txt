@@ -1,0 +1,82 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Всеволожский район (Ленинградская область)</p>
+<p>Штат компании: от 501 до 1000 человек</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1645&lang=0" target="_blank" class="job">Слесарь по контрольно-измерительным приборам и автоматике </a></td>
+<td>22 805</td>
+<td>24 178</td>
+<td>27 455</td>
+<td>27 743</td>
+<td>29 755</td>
+<td>32 127</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>25 872</td>
+<td>27 430</td>
+<td>31 147</td>
+<td>31 474</td>
+<td>33 756</td>
+<td>36 447</td>
+<td>октябрь 2010</td>
+</tr>
+</table>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1645&lang=0" target="_blank" class="job">Слесарь по контрольно-измерительным приборам и автоматике </a></th>
+<td>21 284</td>
+<td>22 566</td>
+<td>25 623</td>
+<td>25 893</td>
+<td>27 770</td>
+<td>29 984</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></th>
+<td>24 304</td>
+<td>25 767</td>
+<td>29 259</td>
+<td>29 566</td>
+<td>31 710</td>
+<td>34 238</td>
+<td>октябрь 2010</td>
+</tr>
+</table>
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 02.12.2010)</p>
+</div>

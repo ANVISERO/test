@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Киев</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>21 060</td>
+<td>22 392</td>
+<td>25 146</td>
+<td>25 228</td>
+<td>27 411</td>
+<td>29 149</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>17 691</td>
+<td>19 155</td>
+<td>22 256</td>
+<td>21 138</td>
+<td>25 814</td>
+<td>27 447</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>18 352</td>
+<td>19 091</td>
+<td>21 819</td>
+<td>23 462</td>
+<td>23 519</td>
+<td>24 830</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>31 924</td>
+<td>34 755</td>
+<td>41 550</td>
+<td>40 356</td>
+<td>47 878</td>
+<td>52 500</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>32 665</td>
+<td>33 770</td>
+<td>38 326</td>
+<td>37 597</td>
+<td>42 804</td>
+<td>45 134</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>20 850</td>
+<td>22 106</td>
+<td>25 102</td>
+<td>25 366</td>
+<td>27 205</td>
+<td>29 373</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>18 765</td>
+<td>19 895</td>
+<td>22 591</td>
+<td>22 829</td>
+<td>24 484</td>
+<td>26 436</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>8 455</td>
+<td>8 672</td>
+<td>10 928</td>
+<td>10 569</td>
+<td>12 683</td>
+<td>13 643</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>23 078</td>
+<td>23 666</td>
+<td>25 585</td>
+<td>24 482</td>
+<td>26 976</td>
+<td>31 062</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>21 928</td>
+<td>25 606</td>
+<td>29 212</td>
+<td>31 512</td>
+<td>33 821</td>
+<td>35 041</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>15 187</td>
+<td>17 536</td>
+<td>20 476</td>
+<td>20 564</td>
+<td>25 122</td>
+<td>25 366</td>
+<td>1 квартал 2010</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>21 060</td>
+<td>22 392</td>
+<td>25 146</td>
+<td>25 228</td>
+<td>27 411</td>
+<td>29 149</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>17 691</td>
+<td>19 155</td>
+<td>22 256</td>
+<td>21 138</td>
+<td>25 814</td>
+<td>27 447</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>18 352</td>
+<td>19 091</td>
+<td>21 819</td>
+<td>23 462</td>
+<td>23 519</td>
+<td>24 830</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>31 924</td>
+<td>34 755</td>
+<td>41 550</td>
+<td>40 356</td>
+<td>47 878</td>
+<td>52 500</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>32 665</td>
+<td>33 770</td>
+<td>38 326</td>
+<td>37 597</td>
+<td>42 804</td>
+<td>45 134</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>20 850</td>
+<td>22 106</td>
+<td>25 102</td>
+<td>25 366</td>
+<td>27 205</td>
+<td>29 373</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>18 765</td>
+<td>19 895</td>
+<td>22 591</td>
+<td>22 829</td>
+<td>24 484</td>
+<td>26 436</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>8 455</td>
+<td>8 672</td>
+<td>10 928</td>
+<td>10 569</td>
+<td>12 683</td>
+<td>13 643</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>31 327</td>
+<td>31 857</td>
+<td>35 960</td>
+<td>32 991</td>
+<td>40 517</td>
+<td>44 014</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>21 928</td>
+<td>25 606</td>
+<td>29 212</td>
+<td>31 512</td>
+<td>33 821</td>
+<td>35 041</td>
+<td>1 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>15 187</td>
+<td>17 536</td>
+<td>20 476</td>
+<td>20 564</td>
+<td>25 122</td>
+<td>25 366</td>
+<td>1 квартал 2010</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 21.02.2011)</p>
+</div>

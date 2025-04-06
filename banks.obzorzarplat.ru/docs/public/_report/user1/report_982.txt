@@ -1,0 +1,123 @@
+
+<link href="/_css/summary/summary_print.css" rel="stylesheet" type="text/css">
+<div class="summary">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Штат компании: от 101 до 200 человек</p>
+
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<p align="right"><em>Таблица 1.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+  <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td class="X1_right">23 529</td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">26 357</td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">28 552</td>
+<td class="X1_right">май 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td class="X1_right">12 892</td>
+<td class="X1_right">14 943</td>
+<td class="X1_right">17 827</td>
+<td class="X1_right">15 862</td>
+<td class="X1_right">18 391</td>
+<td class="X1_right">53 784</td>
+<td class="X1_right">май 2010</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1480&lang=0" target="_blank" class="job">Делопроизводитель склада</a></td>
+<td class="X1_right">15 862</td>
+<td class="X1_right">21 839</td>
+<td class="X1_right">22 750</td>
+<td class="X1_right">21 839</td>
+<td class="X1_right">24 138</td>
+<td class="X1_right">34 483</td>
+<td class="X1_right">май 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td class="X1_right">10 601</td>
+<td class="X1_right">18 414</td>
+<td class="X1_right">21 396</td>
+<td class="X1_right">22 414</td>
+<td class="X1_right">23 975</td>
+<td class="X1_right">64 756</td>
+<td class="X1_right">май 2010</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+<br>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<p align="right"><em>Таблица 2.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+   <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td class="X1_right">23 529</td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">26 357</td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">28 552</td>
+<td class="X1_right">май 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td class="X1_right">9 040</td>
+<td class="X1_right">13 218</td>
+<td class="X1_right">17 196</td>
+<td class="X1_right">15 862</td>
+<td class="X1_right">18 391</td>
+<td class="X1_right">53 784</td>
+<td class="X1_right">май 2010</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1480&lang=0" target="_blank" class="job">Делопроизводитель склада</a></td>
+<td class="X1_right">15 862</td>
+<td class="X1_right">21 839</td>
+<td class="X1_right">22 750</td>
+<td class="X1_right">21 839</td>
+<td class="X1_right">24 138</td>
+<td class="X1_right">34 483</td>
+<td class="X1_right">май 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td class="X1_right">6 575</td>
+<td class="X1_right">18 039</td>
+<td class="X1_right">20 163</td>
+<td class="X1_right">21 690</td>
+<td class="X1_right">21 839</td>
+<td class="X1_right">64 756</td>
+<td class="X1_right">май 2010</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+</div>

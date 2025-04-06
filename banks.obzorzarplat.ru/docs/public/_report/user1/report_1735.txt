@@ -1,0 +1,538 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Омск</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>24 167</td>
+<td>25 079</td>
+<td>28 355</td>
+<td>28 782</td>
+<td>30 820</td>
+<td>32 419</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>23 813</td>
+<td>24 911</td>
+<td>27 939</td>
+<td>29 148</td>
+<td>29 401</td>
+<td>31 363</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>25 178</td>
+<td>26 459</td>
+<td>30 533</td>
+<td>29 456</td>
+<td>32 937</td>
+<td>38 399</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>33 114</td>
+<td>35 918</td>
+<td>39 199</td>
+<td>39 485</td>
+<td>41 965</td>
+<td>44 607</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>28 827</td>
+<td>32 375</td>
+<td>40 796</td>
+<td>41 025</td>
+<td>49 855</td>
+<td>52 031</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>19 691</td>
+<td>21 052</td>
+<td>22 897</td>
+<td>23 056</td>
+<td>24 700</td>
+<td>25 609</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>26 228</td>
+<td>28 610</td>
+<td>30 773</td>
+<td>31 150</td>
+<td>32 643</td>
+<td>34 544</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>15 030</td>
+<td>15 623</td>
+<td>20 467</td>
+<td>20 159</td>
+<td>25 005</td>
+<td>25 025</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>26 220</td>
+<td>27 791</td>
+<td>31 705</td>
+<td>28 457</td>
+<td>35 026</td>
+<td>39 201</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>24 493</td>
+<td>25 603</td>
+<td>29 831</td>
+<td>30 123</td>
+<td>33 629</td>
+<td>35 622</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></th>
+<td>24 167</td>
+<td>25 079</td>
+<td>28 355</td>
+<td>28 782</td>
+<td>30 820</td>
+<td>32 419</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></th>
+<td>23 813</td>
+<td>24 911</td>
+<td>27 939</td>
+<td>29 148</td>
+<td>29 401</td>
+<td>31 363</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></th>
+<td>25 178</td>
+<td>26 459</td>
+<td>30 533</td>
+<td>29 456</td>
+<td>32 937</td>
+<td>38 399</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></th>
+<td>33 114</td>
+<td>35 918</td>
+<td>39 199</td>
+<td>39 485</td>
+<td>41 965</td>
+<td>44 607</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></th>
+<td>28 827</td>
+<td>32 375</td>
+<td>40 796</td>
+<td>41 025</td>
+<td>49 855</td>
+<td>52 031</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></th>
+<td>19 691</td>
+<td>21 052</td>
+<td>22 897</td>
+<td>23 056</td>
+<td>24 700</td>
+<td>25 609</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></th>
+<td>26 228</td>
+<td>28 610</td>
+<td>30 773</td>
+<td>31 150</td>
+<td>32 643</td>
+<td>34 544</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></th>
+<td>15 030</td>
+<td>15 623</td>
+<td>20 467</td>
+<td>20 159</td>
+<td>25 005</td>
+<td>25 025</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></th>
+<td>26 220</td>
+<td>27 791</td>
+<td>31 705</td>
+<td>28 457</td>
+<td>35 026</td>
+<td>39 201</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></th>
+<td>24 493</td>
+<td>25 603</td>
+<td>29 831</td>
+<td>30 123</td>
+<td>33 629</td>
+<td>35 622</td>
+</tr>
+</table>
+
+<h3>3.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>24 167</td>
+<td>25 079</td>
+<td>28 355</td>
+<td>28 782</td>
+<td>30 820</td>
+<td>32 419</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>23 813</td>
+<td>24 911</td>
+<td>27 939</td>
+<td>29 148</td>
+<td>29 401</td>
+<td>31 363</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>25 178</td>
+<td>26 459</td>
+<td>30 533</td>
+<td>29 456</td>
+<td>32 937</td>
+<td>38 399</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>33 114</td>
+<td>35 918</td>
+<td>39 199</td>
+<td>39 485</td>
+<td>41 965</td>
+<td>44 607</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>28 827</td>
+<td>32 375</td>
+<td>40 796</td>
+<td>41 025</td>
+<td>49 855</td>
+<td>52 031</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>19 691</td>
+<td>21 052</td>
+<td>22 897</td>
+<td>23 056</td>
+<td>24 700</td>
+<td>25 609</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>26 228</td>
+<td>28 610</td>
+<td>30 773</td>
+<td>31 150</td>
+<td>32 643</td>
+<td>34 544</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>15 030</td>
+<td>15 623</td>
+<td>20 467</td>
+<td>20 159</td>
+<td>25 005</td>
+<td>25 025</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>26 220</td>
+<td>27 791</td>
+<td>31 705</td>
+<td>28 457</td>
+<td>35 026</td>
+<td>39 201</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>24 493</td>
+<td>25 603</td>
+<td>29 831</td>
+<td>30 123</td>
+<td>33 629</td>
+<td>35 622</td>
+</tr>
+</table>
+
+<h3>4.	Среднемесячные значения премиальной части компенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+
+<h3>5.	Среднемесячные значения бонусной части копенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 25.02.2011)</p>
+</div>

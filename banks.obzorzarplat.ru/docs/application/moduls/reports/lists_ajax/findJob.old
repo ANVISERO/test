@@ -1,0 +1,60 @@
+<?php
+header("Content-Type: text/html; charset=utf-8");
+
+$jtype_id=intval($_GET['jtype_id']);
+
+//вычисляем id пользователя
+$session_id=mysql_real_escape_string($_COOKIE["user_number"]);
+$user_id=mysql_result(mysql_query("SELECT user_id FROM for_users_corporat_login WHERE session_id='".$session_id."'",$link),0,0);
+
+//проверяем, есть ли ограничение по должностям
+$blocked=mysql_num_rows(mysql_query("select id from for_users_corporat_jobs where user_id='".$user_id."'",$link));
+
+if($blocked!==0){
+    $q_job_block="AND id IN(SELECT job_id FROM for_users_corporat_jobs where user_id='$user_id')";
+}
+else{
+    $q_job_block="";
+}
+
+$q_jobs=mysql_query("SELECT id,name from base_jobs WHERE id in(select job_id from base_job_types
+where jtype_id='$jtype_id') AND id in(select distinct job_id FROM base_company_jobs) ".$q_job_block." order by name",$link);
+?>
+
+<select name='job' class="text_1" id="job">
+
+  <option value="">--- Выбрать ---</option>
+  <?php
+while($row=mysql_fetch_array($q_jobs)){
+  echo('
+  <option value="'.$row["id"].'">'.$row["name"].'</option>
+  ');
+  }
+  ?>
+  
+</select>
+
+<script type="text/javascript">
+    $('#job').change(function(){
+        $("#citydiv").empty().html("<img src=/_img/loader.gif> Загрузка...");
+                    $.ajax({
+                            url: "/work/scoring/findCities/",
+                            data: {job_id:this.value},
+                            dataType: "html",
+                            success:function(data){
+                                $("#citydiv").html(data)},
+                            error: function(){alert("error")}
+                            });
+/*
+                      $("#job_description_div").empty().html("<img src=/_img/loader.gif> Загрузка...");
+                      $.ajax({
+                          url: "/work/scoring/findJobDescription/",
+                            data: {job_id:this.value},
+                            dataType: "html",
+                            success:function(data){
+                                $("#job_description_div").html(data)},
+                            error: function(){alert("error job description")}
+                      })
+                      */
+    });
+</script>

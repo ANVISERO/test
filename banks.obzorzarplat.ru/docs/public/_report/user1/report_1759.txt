@@ -1,0 +1,408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Сфера деятельности компании: Общественное питание</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1388&lang=0" target="_blank" class="job">Администратор</a></td>
+<td>16 402</td>
+<td>18 000</td>
+<td>20 907</td>
+<td>20 000</td>
+<td>24 500</td>
+<td>26 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>9 042</td>
+<td>9 587</td>
+<td>10 886</td>
+<td>11 000</td>
+<td>11 798</td>
+<td>12 738</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>12 450</td>
+<td>15 000</td>
+<td>17 772</td>
+<td>15 000</td>
+<td>20 000</td>
+<td>30 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>11 000</td>
+<td>13 000</td>
+<td>14 797</td>
+<td>15 000</td>
+<td>15 000</td>
+<td>21 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1328&lang=0" target="_blank" class="job">Кондитер</a></td>
+<td>16 540</td>
+<td>18 000</td>
+<td>19 027</td>
+<td>19 000</td>
+<td>20 000</td>
+<td>21 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>8 220</td>
+<td>8 715</td>
+<td>9 896</td>
+<td>10 000</td>
+<td>10 725</td>
+<td>11 580</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1936&lang=0" target="_blank" class="job">Мойщица</a></td>
+<td>10 000</td>
+<td>10 000</td>
+<td>11 430</td>
+<td>11 500</td>
+<td>12 000</td>
+<td>13 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>7 500</td>
+<td>9 500</td>
+<td>10 907</td>
+<td>10 000</td>
+<td>12 000</td>
+<td>15 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1330&lang=0" target="_blank" class="job">Пекарь</a></td>
+<td>14 400</td>
+<td>16 750</td>
+<td>17 619</td>
+<td>18 000</td>
+<td>20 000</td>
+<td>20 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>10 000</td>
+<td>10 000</td>
+<td>14 847</td>
+<td>17 000</td>
+<td>18 500</td>
+<td>19 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>10 000</td>
+<td>12 500</td>
+<td>16 517</td>
+<td>15 500</td>
+<td>19 875</td>
+<td>21 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>10 000</td>
+<td>10 000</td>
+<td>14 353</td>
+<td>15 000</td>
+<td>18 000</td>
+<td>20 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>9 500</td>
+<td>10 000</td>
+<td>11 101</td>
+<td>10 000</td>
+<td>12 000</td>
+<td>13 500</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>17 615</td>
+<td>19 250</td>
+<td>21 569</td>
+<td>21 000</td>
+<td>25 000</td>
+<td>25 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>10 000</td>
+<td>11 722</td>
+<td>13 784</td>
+<td>14 000</td>
+<td>16 000</td>
+<td>17 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>21 742</td>
+<td>23 000</td>
+<td>26 766</td>
+<td>25 000</td>
+<td>29 693</td>
+<td>36 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>19 000</td>
+<td>22 500</td>
+<td>32 089</td>
+<td>34 458</td>
+<td>37 018</td>
+<td>50 000</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1388&lang=0" target="_blank" class="job">Администратор</a></td>
+<td>20 497</td>
+<td>22 270</td>
+<td>25 955</td>
+<td>26 437</td>
+<td>29 050</td>
+<td>31 510</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>12 794</td>
+<td>13 564</td>
+<td>15 402</td>
+<td>15 564</td>
+<td>16 692</td>
+<td>18 023</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>15 000</td>
+<td>17 000</td>
+<td>21 666</td>
+<td>20 000</td>
+<td>26 000</td>
+<td>33 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>14 430</td>
+<td>16 515</td>
+<td>18 987</td>
+<td>18 500</td>
+<td>20 500</td>
+<td>24 735</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1328&lang=0" target="_blank" class="job">Кондитер</a></td>
+<td>20 150</td>
+<td>21 090</td>
+<td>22 764</td>
+<td>22 250</td>
+<td>24 500</td>
+<td>26 500</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>24 660</td>
+<td>26 145</td>
+<td>29 688</td>
+<td>30 000</td>
+<td>32 175</td>
+<td>34 740</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1936&lang=0" target="_blank" class="job">Мойщица</a></td>
+<td>11 200</td>
+<td>12 500</td>
+<td>13 389</td>
+<td>13 000</td>
+<td>14 437</td>
+<td>15 800</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>13 500</td>
+<td>15 000</td>
+<td>17 530</td>
+<td>17 319</td>
+<td>19 828</td>
+<td>21 854</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1330&lang=0" target="_blank" class="job">Пекарь</a></td>
+<td>16 400</td>
+<td>19 199</td>
+<td>22 227</td>
+<td>21 500</td>
+<td>26 000</td>
+<td>27 500</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>17 000</td>
+<td>17 000</td>
+<td>20 577</td>
+<td>20 300</td>
+<td>23 500</td>
+<td>25 500</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>16 493</td>
+<td>17 000</td>
+<td>20 815</td>
+<td>20 744</td>
+<td>23 000</td>
+<td>27 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>17 000</td>
+<td>17 000</td>
+<td>19 825</td>
+<td>18 250</td>
+<td>22 500</td>
+<td>24 500</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>12 000</td>
+<td>12 000</td>
+<td>13 899</td>
+<td>12 000</td>
+<td>15 700</td>
+<td>17 620</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>19 100</td>
+<td>22 000</td>
+<td>26 053</td>
+<td>27 500</td>
+<td>29 500</td>
+<td>32 500</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>11 000</td>
+<td>11 771</td>
+<td>14 033</td>
+<td>14 000</td>
+<td>16 000</td>
+<td>17 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>26 050</td>
+<td>27 974</td>
+<td>35 599</td>
+<td>30 500</td>
+<td>39 500</td>
+<td>54 250</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>28 500</td>
+<td>34 000</td>
+<td>41 860</td>
+<td>44 949</td>
+<td>50 460</td>
+<td>55 000</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 25.03.2011)</p>
+</div>

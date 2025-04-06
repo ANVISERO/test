@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: ЗАТО Александровск (Мурманская область)</p>
+<p>Сфера деятельности компании: Производство</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>5 097</td>
+<td>5 359</td>
+<td>5 758</td>
+<td>5 781</td>
+<td>6 079</td>
+<td>6 328</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>5 419</td>
+<td>5 641</td>
+<td>6 303</td>
+<td>6 338</td>
+<td>6 709</td>
+<td>7 457</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1859&lang=0" target="_blank" class="job">Кузнец на молотах и прессах</a></td>
+<td>5 385</td>
+<td>5 927</td>
+<td>6 201</td>
+<td>6 038</td>
+<td>6 677</td>
+<td>7 073</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1879&lang=0" target="_blank" class="job">Сверловщик</a></td>
+<td>4 936</td>
+<td>5 182</td>
+<td>5 875</td>
+<td>6 108</td>
+<td>6 368</td>
+<td>6 634</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1881&lang=0" target="_blank" class="job">Слесарь механосборочных работ</a></td>
+<td>4 905</td>
+<td>5 158</td>
+<td>5 582</td>
+<td>5 507</td>
+<td>5 985</td>
+<td>6 355</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>6 275</td>
+<td>6 887</td>
+<td>7 249</td>
+<td>7 257</td>
+<td>7 596</td>
+<td>8 172</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1647&lang=0" target="_blank" class="job">Слесарь-сантехник</a></td>
+<td>5 066</td>
+<td>5 299</td>
+<td>5 769</td>
+<td>5 742</td>
+<td>6 050</td>
+<td>6 958</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1623&lang=0" target="_blank" class="job">Старший механик</a></td>
+<td>7 750</td>
+<td>7 966</td>
+<td>8 940</td>
+<td>8 666</td>
+<td>9 869</td>
+<td>9 957</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1617&lang=0" target="_blank" class="job">Уборщик производственных и служебных помещений</a></td>
+<td>4 442</td>
+<td>4 784</td>
+<td>5 165</td>
+<td>5 254</td>
+<td>5 571</td>
+<td>5 722</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>5 491</td>
+<td>5 672</td>
+<td>6 253</td>
+<td>6 180</td>
+<td>6 747</td>
+<td>7 195</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1901&lang=0" target="_blank" class="job">Электромеханик</a></td>
+<td>8 242</td>
+<td>8 859</td>
+<td>10 033</td>
+<td>10 027</td>
+<td>10 935</td>
+<td>11 757</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1604&lang=0" target="_blank" class="job">Электромонтер по ремонту и обслуживанию электрооборудования</a></td>
+<td>8 230</td>
+<td>8 942</td>
+<td>9 399</td>
+<td>9 505</td>
+<td>9 843</td>
+<td>10 374</td>
+<td>ноябрь 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></th>
+<td>8 945</td>
+<td>9 947</td>
+<td>9 943</td>
+<td>9 972</td>
+<td>10 035</td>
+<td>10 580</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></th>
+<td>9 131</td>
+<td>10 538</td>
+<td>10 523</td>
+<td>10 580</td>
+<td>10 625</td>
+<td>11 495</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1859&lang=0" target="_blank" class="job">Кузнец на молотах и прессах</a></th>
+<td>8 956</td>
+<td>9 960</td>
+<td>9 953</td>
+<td>9 983</td>
+<td>10 031</td>
+<td>10 583</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1879&lang=0" target="_blank" class="job">Сверловщик</a></th>
+<td>8 565</td>
+<td>9 403</td>
+<td>9 393</td>
+<td>9 421</td>
+<td>9 457</td>
+<td>9 922</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1881&lang=0" target="_blank" class="job">Слесарь механосборочных работ</a></th>
+<td>8 645</td>
+<td>9 751</td>
+<td>9 738</td>
+<td>9 779</td>
+<td>9 809</td>
+<td>10 423</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></th>
+<td>10 550</td>
+<td>11 714</td>
+<td>11 726</td>
+<td>11 775</td>
+<td>11 827</td>
+<td>12 471</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1647&lang=0" target="_blank" class="job">Слесарь-сантехник</a></th>
+<td>8 848</td>
+<td>9 982</td>
+<td>9 965</td>
+<td>10 002</td>
+<td>10 040</td>
+<td>10 664</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1623&lang=0" target="_blank" class="job">Старший механик</a></th>
+<td>12 657</td>
+<td>14 049</td>
+<td>14 069</td>
+<td>14 102</td>
+<td>14 202</td>
+<td>14 970</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1617&lang=0" target="_blank" class="job">Уборщик производственных и служебных помещений</a></th>
+<td>7 537</td>
+<td>8 770</td>
+<td>8 765</td>
+<td>8 833</td>
+<td>8 851</td>
+<td>9 706</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></th>
+<td>9 614</td>
+<td>10 543</td>
+<td>10 540</td>
+<td>10 576</td>
+<td>10 616</td>
+<td>11 141</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1901&lang=0" target="_blank" class="job">Электромеханик</a></th>
+<td>14 308</td>
+<td>14 562</td>
+<td>16 097</td>
+<td>17 124</td>
+<td>17 373</td>
+<td>17 718</td>
+<td>ноябрь 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1604&lang=0" target="_blank" class="job">Электромонтер по ремонту и обслуживанию электрооборудования</a></th>
+<td>13 752</td>
+<td>15 520</td>
+<td>15 705</td>
+<td>15 759</td>
+<td>16 104</td>
+<td>16 923</td>
+<td>ноябрь 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.01.2011)</p>
+</div>

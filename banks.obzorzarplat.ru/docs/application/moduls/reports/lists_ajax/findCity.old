@@ -1,0 +1,37 @@
+<?php
+header("Content-Type: text/html; charset=utf-8");
+
+$job_id=intval($_GET['job_id']);
+
+//вычисляем id пользователя
+$session_id=mysql_real_escape_string($_COOKIE["user_number"]);
+$user_id=mysql_result(mysql_query("SELECT user_id FROM for_users_corporat_login WHERE session_id='".$session_id."'",$link),0,0);
+
+
+//блокировка по доступным городам для клиентов (если есть)
+
+$blocked=mysql_num_rows(mysql_query("select id from for_users_corporat_cities where user_id='".$user_id."'",$link));
+
+if($blocked!=0){
+    $q_block="id IN(SELECT city_id FROM for_users_corporat_cities where user_id='$user_id')";
+}else{
+    $q_block="1";
+}
+
+$q_city=mysql_query("SELECT id,name FROM base_regions where ".$q_block." order by name",$link);
+
+if(mysql_num_rows($q_city)>0){
+?>
+
+<select name='city' class="text_1" id="city">
+    <option value="1">Санкт-Петербург</option>
+    <option value="0">---------------------------</option>
+  <?php
+while($row=mysql_fetch_array($q_city)){
+  echo('<option value="'.$row["id"].'">'.$row["name"].'</option>');
+} 
+  ?>
+</select>
+<?php
+}
+?>

@@ -1,0 +1,2 @@
+<?php 
+include($folder.'application/moduls/business/profile.php');?>

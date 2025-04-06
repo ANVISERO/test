@@ -1,0 +1,215 @@
+# Webalizer V2.21-02 Incremental Data - 07/08/2011 11:23:53
+2011 7 8 11 23 53
+310 119 2 32 10 4 1111883 79 8 0
+1 45 124 4 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+34 25 375264 1 11 2
+0 0 0 0 0 0
+121 31 166045 1 37 2
+110 55 539864 1 23 3
+45 8 30710 1 8 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+127 20 99082 21
+61 54 732679 16
+0 0 0 0
+0 0 0 0
+48 19 141325 5
+5 1 14217 5
+30 6 26907 8
+0 0 0 0
+39 19 97673 24
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+119
+0
+0
+0
+0
+0
+0
+0
+5
+17
+0
+144
+0
+0
+0
+0
+0
+0
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 10 0 43728 2 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.all.css
+0 10 0 141 0 0
+/_js/jquery-ui-1.7.2.custom/js/jquery-ui-1.7.2.custom.min.js
+0 9 0 159207 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.dialog.css
+0 10 0 3492 0 0
+/archive/
+0 6 0 33213 0 3
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.tabs.css
+0 10 0 2072 0 0
+/_img/menu_icons/close_red_mini.png
+1 2 0 2618 0 0
+/_js/lib/jquery-1.4.min.js
+0 9 0 144346 0 0
+/_css/ie.css
+0 4 0 0 0 0
+/_js/lib/jquery.bgiframe.js
+0 9 0 9758 0 0
+/_js/lib/jquery.form.js
+0 9 0 93153 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.base.css
+0 10 0 750 0 0
+/archive/view/
+0 2 0 9597 0 1
+/_js/jquery-ui-1.7.2.custom/development-bundle/jquery-1.3.2.js
+0 9 0 241238 0 0
+/_img/loader.gif
+1 4 0 3698 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.resizable.css
+0 10 0 2979 0 0
+/_img/menu_icons/archive2.png
+1 2 0 3398 0 0
+/_img/menu_icons/fileprint_mini.png
+1 7 0 4263 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.core.css
+0 10 0 4053 0 0
+/work/scoring/findJobs/
+0 6 0 11210 0 0
+/work/scoring/
+0 15 0 100381 0 2
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.datepicker.css
+0 10 0 11808 0 0
+/_css/business.css
+0 10 0 29961 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.theme.css
+0 10 0 51216 0 0
+/work/scoring/findCities/
+0 6 0 833 0 0
+/_js/lib/jquery.example.js
+0 9 0 18183 0 0
+/_js/jquery/business.js
+0 9 0 894 0 0
+/login/
+0 12 0 37332 5 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.progressbar.css
+0 10 0 338 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.accordion.css
+0 10 0 1462 0 0
+/_js/jquery/1job-lite.js
+0 4 0 3908 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.slider.css
+0 10 0 2793 0 0
+# End Of Table - urls
+# -sites- (monthly)
+195.5.134.242
+0 189 88 945838 6 1310124213
+/work/scoring/
+178.178.1.237
+0 121 31 166045 2 1309979319
+/login/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+195.5.134.242
+0 45 8 30710 1 1310124213
+/work/scoring/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 49
+http://banks.obzorzarplat.ru/archive/view/?id=5v2b0I3D624wFry6Oa6v
+0 23
+http://banks.obzorzarplat.ru/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.all.css
+0 2
+http://banks.obzorzarplat.ru/work/scoring/
+0 28
+http://banks.obzorzarplat.ru/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.base.css
+0 8
+http://banks.obzorzarplat.ru/work/scoring/?step=2
+0 30
+http://banks.obzorzarplat.ru/archive/view/?id=iv5LG6WqcUqIlaC1g1s0
+0 4
+http://banks.obzorzarplat.ru/
+0 117
+http://banks.obzorzarplat.ru/login/
+0 24
+http://banks.obzorzarplat.ru/archive/
+0 25
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3
+0 62
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 34
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+0 121
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1)
+0 93
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

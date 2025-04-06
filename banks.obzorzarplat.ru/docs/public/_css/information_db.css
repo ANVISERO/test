@@ -1,0 +1,9 @@
+ul.business_info{list-style:inside;}
+.business_info ul{list-style:outside;}
+.business_info ul li ul li, .business_info ul li, .info ul li{padding:2px; margin:2px;}
+.business_info li.info{padding: 4px; margin: 2px; cursor:pointer; font-style:italic; font-size:13px; color:#000; border:1px solid #dcdcdc; background:#e8e8e8;}
+.business_info li.info:hover{color:#c00; background:#fff;}
+a.collapse_all_messages, a.collapse_all_messages:visited, a.show_all_messages, a.show_all_messages:visited{color:#c00;}
+
+.show_hide{padding-left:50px;}
+.business_info li.info div.body {margin:0; padding:12px;}
