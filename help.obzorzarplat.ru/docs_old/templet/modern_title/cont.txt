@@ -1,0 +1,906 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Огляд зарплат - Взнай свою зарплату!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="Обзор зарплат">
+<meta name="description" content="Обзор зарплат">
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" >
+<link href="../_admin/templet/ua_main/css.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="960" height="400" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="400"> </td>
+    <td width="960" height="400" valign="top" class="page">
+
+		
+<!--head -->
+<table width="960" height="76" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="60" class="head" valign="middle">
+<table width="960" height="60" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50"><img src="/_img/head_l.gif" width="50" height="55"></td>
+                  <td width="240"><a href="http://obzorzarplat.ru/ua/"><img alt="Обзор зарплат" src="/_img/logo_ua.GIF" width="290" height="55" border="0"></a></td>
+                  <td width="260">
+<!--topmenu -->		
+  <font style="font-size:20px; font-weight:normal">|</font>
+<a href="/ua/servis/zp/" class="link_2">Ваша зарплата</a>
+<font style="font-size:20px; font-weight:normal">|</font>
+<a href="/preds/" class="link_2">Підприємствам</a>
+<font style="font-size:20px; font-weight:normal">|</font>
+<!--end topmenu -->
+<!--#include virtual="/li_spider_check.php?obzorzarplat.ru=yourdomain.ru"-->
+</td>
+
+<td width="200" align="left">
+<!--search -->	
+<font style="font-size:10px; color:#515151">Пошук на сайті</font><br>
+<form name="search" style="margin:0px; padding:0px" method="post" action="/search/">			  
+<input type="text" class="text" value="" name="search" style="width:120px">  <input type="submit" value="шукати" class="but"></font>
+</form>
+<!--end search -->
+</td>
+<td width="60" align="center" valign="middle">
+<!--ru/en -->	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+	
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenuLang(targ,selObj,restore){ //v3.0
+  eval(targ+".location='/"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+&nbsp;<br>
+<form name="langselect">
+<select name="langs" onChange="MM_jumpMenuLang('parent',this,0)" class="text">
+<option value="" >Русский</option><option value="eng/" >English</option><option value="ua/" selected>По Українськи</option></select>
+</form>	
+	</td>
+   </tr>
+ </table>
+
+
+
+
+<!--end ru/en -->
+</td>
+<td width="50"><img src="/_img/head_r.gif" width="50" height="55"></td>
+                </tr>
+            </table>
+			</td>
+          </tr>
+      </table>
+<!--end head -->
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+
+<!--banner -->
+<table width="960" height="464" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="14" height="464" bgcolor="#FFFFFF"> </td>
+	<td width="21" height="464" bgcolor="#FFFFFF" style="background-image:url(/_img/rec_title.gif); background-repeat:no-repeat"> </td>
+    <td width="600" height="464" align="center" valign="top" bgcolor="#eeeeee"><img src="/_img/PICT0064.JPG" width="600" height="450" />
+	<!--reclama -->
+	<!--end reclama --></td>
+    <td width="10" height="464" bgcolor="#FFFFFF"> </td>
+    <td width="293" height="464" valign="top" bgcolor="#FFFFFF"><table width="292" height="464" border="0,5">
+      <tr>
+        <td height="27">          
+              <div align="center">
+                <input name="button" type="button" class="but" style=" width:200px; height:25px" onclick="self.location.href='/some/counter/counter.php?link=1'" value="Підприємствам" />
+              </div></td>
+      </tr>
+      <tr>
+        <td height="27">
+              <div align="center">
+                <input name="button2" type="button" class="but" style=" width:200px; height:25px" onclick="self.location.href='/some/counter/counter.php?link=1'" value="Співробітникам" />
+              </div></td>
+      </tr>
+      <tr>
+        <td height="27"><div align="center">
+          <input name="button3" type="button" class="but" style=" width:200px; height:25px" onclick="self.location.href='/some/counter/counter.php?link=1'" value="Наші сервіси" />
+        </div></td>
+      </tr>
+      <tr>
+        <td height="40"><div align="center"><a style="text-decoration:none; color:#000" href="/servis/otchet/"><b>Взнайте заробітну плату людини, що працює на аналогічній посаді.</b></a> </div></td>
+      </tr>
+      <tr>
+        <td height="136"><table width="350" border="0" cellspacing="0" cellpadding="4">
+          <tr>
+            <td width="200">Виберіть посадову групу</td>
+          </tr>
+          <tr>
+            <td>
+              <select name="select" class="text" style="width:340px; height:20px; border:1px solid #696969;" onchange="MM_jumpMenu('parent',this,0)">
+                <option selected="selected">--- Вибрати ---</option>
+                <option value="?jtype=1209">Адміністративний і підтримуючий персонал</option>
+                <option value="?jtype=1405">Будівництво</option>
+                <option value="?jtype=1218">Бухгалтерія, Фінанси і Аудит</option>
+                <option value="?jtype=1221">Виробництво (керівництво)</option>
+                <option value="?jtype=1208">Вищі менеджери компаній</option>
+                <option value="?jtype=1215">Готелі і ресторани</option>
+                <option value="?jtype=1422">Дослідження і Розробки</option>
+                <option value="?jtype=1210">Інформаційні технології</option>
+                <option value="?jtype=1219">Корпоративні продажі</option>
+                <option value="?jtype=1214">Маркетинг, Реклама і PR</option>
+                <option value="?jtype=1426">Медіа</option>
+                <option value="?jtype=1211">Організація логістики і закупівель</option>
+                <option value="?jtype=1418">Охорона і Безпека</option>
+                <option value="?jtype=1216">Персонал розвитку</option>
+                <option value="?jtype=1220">Роздрібні продажі</option>
+                <option value="?jtype=1212">Складська логістика</option>
+                <option value="?jtype=1223">Технічний персонал (непіщевоє виробництво)</option>
+                <option value="?jtype=1222">Технічний персонал (харчове виробництво)</option>
+                <option value="?jtype=1213">Транспортна логістика</option>
+                <option value="?jtype=1217">Управління персоналом</option>
+                <option value="?jtype=1428">Фармацевтика</option>
+                <option value="?jtype=1419">Юридична служба</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td width="200">Виберіть посаду</td>
+          </tr>
+          <tr>
+            <td>
+              <select name="select" class="text" style="width:340px; height:20px; border:1px solid #696969;">
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td width="200">Виберіть місто</td>
+          </tr>
+          <tr>
+            <td>
+              <select name="select" class="text" style="width:340px; height:20px; border:1px solid #696969;">
+                <option>Всі міста</option>
+                <option>Санкт-Петербург</option>
+                <option> </option>
+                <option>Великие Луки</option>
+                <option>Великий Новгород</option>
+                <option>Владимир</option>
+                <option>Волгоград</option>
+                <option>Екатеринбург</option>
+                <option>Киев</option>
+                <option>Краснодар</option>
+                <option>Москва</option>
+                <option>Нижний Новгород</option>
+                <option>Омск</option>
+                <option>Псков</option>
+                <option>Ростов-на-Дону</option>
+                <option>Руза (Московская область)</option>
+                <option>Самара</option>
+                <option>Санкт-Петербург</option>
+                <option>Сочи</option>
+                <option>Уфа</option>
+                <option>Череповец</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td align="center"><input name="submit" type="submit" class="but" style="width:100px; height:25px" value="Шукати" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="38">Зробіть Ваші переговори про заробітну плату комфортними</td>
+      </tr>
+      <tr>
+        <td height="38"><div align="right"><a href="/"><img onmouseover="this.src='/_img/ico_home_s.gif'" onmouseout="this.src='/_img/ico_home.gif'" src="/_img/ico_home.gif" width="17" height="17" border="0" alt="На главную" /></a> <a href="/search/"><img onmouseover="this.src='/_img/ico_search_s.gif'" onmouseout="this.src='/_img/ico_search.gif'" src="/_img/ico_search.gif" width="17" height="17" border="0" alt="Поиск на сайте" /></a> <a href="/map/"><img onmouseover="this.src='/_img/ico_map_s.gif'" onmouseout="this.src='/_img/ico_map.gif'" src="/_img/ico_map.gif" width="17" height="17" border="0" alt="Карта сайта" /></a> <a href="/contacts/"><img onmouseover="this.src='/_img/ico_contacts_s.gif'" onmouseout="this.src='/_img/ico_contacts.gif'" src="/_img/ico_contacts.gif" width="17" height="17" border="0" alt="Контакты" /></a> </div></td>
+      </tr>
+    </table>
+
+<!-- -->
+<!-- --></td>
+    <td width="28" height="464" bgcolor="#FFFFFF"> </td>
+  </tr>
+</table>
+ 
+<!--end banner -->
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+<!--botton menu -->
+<table width="960" height="27" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="745" height="27" class="bottom_menu">
+<table height="27" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="27">
+<div class="mattblacktabs">
+<ul>
+<li><a href="/ua/">Головна</a></li>
+<li><a href="/preds/">Підприємствам</a></li>
+<li><a href="/servis/zp/">Співробітникам</a></li>
+<li><a href="/ua/servis/">Наші сервіси</a></li>
+<li><a href="/ua/isl/">Дослідження і аналітика</a></li>
+<li><a href="/glos/">Глосарій</a></li>
+<li><a href="/work/">Пошук роботи</a></li>
+</ul>
+</div>
+	</td>
+  </tr>
+</table>
+</td>
+    <td width="100" height="27" align="right" class="bottom_menu">
+<!--icons -->	
+<!--end icons -->	
+	</td>
+    <td width="15" height="27" class="bottom_menu"> </td>
+  </tr>
+</table>
+<!--end bottom menu -->
+<!--navibar -->
+<table width="960" height="20" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="bottom_menu" style="font-size:11px; color:#494949">
+&nbsp;&nbsp;<img src="/_img/arr_01.gif" width="8" height="7">&nbsp;&nbsp;<a style="text-decoration:none; font-size:10px; color:#494949; text-transform:lowercase" href="/ua/">www.obzorzarplat.ru</a>&nbsp;&nbsp;<img src="/_img/arr_01.gif" width="8" height="7">&nbsp;&nbsp;<b>Головна</b></td>
+  </tr>
+</table>
+<!--end navibar -->
+<br>
+<!--center -->
+<table width="960" height="10" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="center2">
+
+<table width="960" height="150" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+     <td width="15" height="150"></td>
+    <td width="225" height="150" valign="top">
+    
+<!--блок перс отчет -->
+<!--заголовок-->
+<table width="225" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="19" height="33"><img src="/_img/blok_tit_l.gif" width="19" height="33"></td>
+    <td width="200" height="33" bgcolor="#E0E0E0" style="padding-left:10px">
+      <a style="text-decoration:none; color:#000" href="/servis/otchet/"><b>Персональний звіт</b></a><br>
+    </td>
+    <td width="6" height="33"><img src="/_img/blok_tit_r.gif" width="6" height="33"></td>
+</tr>
+</table>
+
+<!--контент-->
+<table width="225" height="260" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFF">
+  <tr>
+    <td align="center" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left" class="grey">
+<br>
+<img src="/_img/arr_01.gif" width="8" height="7">
+<b>Замовте звіт по посаді, що цікавить Вас.</b><br>
+</td>
+</tr>
+<tr>
+<td align="center" height="50" valign="middle">
+<br><br>
+<input type="button" value="Поглянете демо версію звіту" class="but" onclick="self.location.href='/some/counter/counter.php?link=1'" style=" width:200px; height:25px"><br>
+</td>
+</tr>
+<tr>
+<td align="center" height="50" valign="middle">
+<input type="button" value="Замовте звіт" class="but" onclick="self.location.href='/servis/otchet/'" style=" width:200px; height:25px"><br>
+</td>
+</tr>
+<tr>
+  <td align="left" class="grey">
+  Цей звіт допоможе Вам: <br>
+  <ul>
+  <li>при ухваленні рішення про зміну роботи;</li>
+  <li>при веденні переговорів з працедавцем;</li>
+  <li>також Ви можете виступити порадником своєму другу.</li>
+  </ul>
+  </td>
+</tr>
+  
+</table></td>
+  </tr>
+</table>
+<!--end blok -->
+
+<table width="225" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+<!--блок корпоративный отчет -->
+<!--заголовок-->
+<table width="225" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="19" height="33"><img src="/_img/blok_tit_l.gif" width="19" height="33"></td>
+    <td width="200" height="33" bgcolor="#E0E0E0" style="padding-left:10px">
+      <a style="text-decoration:none; color:#000" href="/servis/otchet/"><b>Корпоративний звіт</b></a><br>
+    </td>
+    <td width="6" height="33"><img src="/_img/blok_tit_r.gif" width="6" height="33"></td>
+</tr>
+</table>
+
+<!--контент-->
+<table width="225" height="210" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFF">
+  <tr>
+    <td align="center" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left" class="grey">
+<br>
+<img src="/_img/arr_01.gif" width="8" height="7">
+<b>Поглянете демо версію корпоративного звіту за посадою менеджер по персоналу (до 200 чоловік).</b><br>
+</td>
+</tr>
+<tr>
+<td align="center" height="50" valign="middle">
+<br><br>
+<input type="button" value="Приклад корпоративного звіту" class="but" onclick="self.location.href='/some/counter/counter.php?link=2'" style=" width:200px; height:25px"><br>
+</td>
+</tr>
+<tr>
+<td align="center" height="50" valign="middle">
+<input type="button" value="Замовте звіт" class="but" onclick="self.location.href='/preds/form/'" style=" width:200px; height:25px"><br>
+</td>
+</tr>
+ </table></td>
+  </tr>
+</table>
+<!--end blok -->
+
+<table width="225" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+
+
+<!--блок членство -->
+<table width="223" height="98" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFF">
+<td>
+<a href="http://www.ant-management.spb.ru/hr.php" target="_blank"><img alt="Обзор зарплат" src="/_img/kochybei.jpg" width="223" height="98" border="0"></a>
+</td>
+</table>
+<!--контент-->
+<table width="225" height="150" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFF">
+  <tr>
+    <td align="center" valign="top"><table width="210" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left">
+<br>
+Петербурзький кадровий клуб <strong>«Кочубей»</strong> - співтовариство професіоналів у сфері управління персоналом.<br>
+<br>Кадровий клуб <strong>«Кочубей»</strong> - це:<br>
+<ul>
+<li>обмін реальним досвідом між керівниками;</li>
+<li>спілкування з колегами;</li>
+<li>нові ділові зв'язки.</li>
+</ul> 
+</td>
+</tr>
+<tr>
+  <td align="right">
+  <a href="http://www.ant-management.spb.ru/hr.php" target="_blank" class="link_5">Читати далі...</a>
+  <br>
+  </td>
+</tr>
+</table></td>
+  </tr>
+</table>
+<!--end blok -->
+
+
+
+
+<table width="200" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+
+<!--блок реклама -->
+
+<table width="200" height="15" border="0" cellpadding="0" cellspacing="0">
+<img src="/_img/vertical_rus.gif" width="225" height="365">
+</table>
+
+<!--конец реклама -->
+
+<table width="200" height="10" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+	</td>
+
+
+ <td width="25" height="150" valign="top"> </td>
+    <td width="400" height="150" valign="top">
+
+<!--блок зарплата-->
+
+<!--заголовок-->
+  
+<table width="400" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="19" height="33"><img src="/_img/blok_tit_l.gif" width="19" height="33"></td>
+
+    <td width="375" height="33" bgcolor="#E0E0E0" style="padding-left:10px">
+<a style="text-decoration:none; color:#000" href="/servis/otchet/"><b>Взнайте заробітну плату людини, що працює на аналогічній посаді.</b></a>
+</td>
+<td width="6" height="33"><img src="/_img/blok_tit_r.gif" width="6" height="33"></td>
+</tr>
+</table>
+
+  
+  <!--контент-->
+  <table width="400" height="260" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFF">
+  <tr>
+    <td valign="top">
+      <table width="390" border="0" cellpadding="2" cellspacing="2" align="center" valign="top">
+      <tr>
+        <td>
+        <!-- -->
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+
+
+<form name="zp" method="post" action="/ua/servis/zp/?step=2">
+</form><!-- -->
+  Зробіть Ваші переговори про заробітну плату комфортними</td>
+  </tr>
+  </table>
+   </td>
+</tr>   
+  </table>
+  
+  <!---конец блока зарплата-->
+
+<table width="400" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+<!--блок корпоративные клиенты-->
+  <!--заголовок-->
+  <table width="400" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="19" height="33"><img src="/_img/blok_tit_l.gif" width="19" height="33"></td>
+    <td width="375" height="33" bgcolor="#E0E0E0" style="padding-left:10px">
+<a style="text-decoration:none; color:#000" href="/preds/"><b>Огляди ринку заробітних плат для корпоративних клієнтів.</b></a>
+</td>
+<td width="6" height="33"><img src="/_img/blok_tit_r.gif" width="6" height="33"></td>
+</tr>
+</table>
+
+  <!--конетнт-->
+  <table width="400" height="210" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFFFFF">
+  <tr>
+    <td>
+    <table width="390" height="200" border="0" cellpadding="2" cellspacing="2">
+  <tr>
+    <td align="left" valign="top">
+      Наш звіт пропонує інформацію про рівні заробітних плат в сегменті ринку, що цікавить Вас.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Окрім фактичних даних по заробітній платі, Ви зможете отримати інформацію про всілякі пільги і компенсації, що надаються персоналу в різних компаніях.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Окрім іншого, з нашого звіту Ви зможете дізнатися про різні чинники, що впливають на формування премії, а також її розмір.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Для формування наших звітів ми використовуємо лише фактичні дані
+    </td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+  </table>
+  <!--конец блока корпоративные клиенты-->
+ 
+<table width="400" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+
+
+<!--услуги -->
+<table width="400" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="390" height="33" bgcolor="#E0E0E0" style="padding-left:10px">
+<b><strong>ПЕРСОНАЛЬНІ СЕРВІСИ</strong></b><br>
+</tr>
+</table>
+<table width="400" height="100" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #E0E0E0; background-color:#FFFFFF">
+  <tr>
+    <td align="center" valign="top">
+	<br>
+	<table width="390" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01" width="8" height="7"> <a href="/servis/otchet/" class="link_3">Ваш персональний звіт</a>
+<br>
+<br>Скориставшись нашим сервісом, Ви зможете отримати повнішу інформацію не лише про розмір, але і про структуру компенсаційного пакету.
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/work/" class="link_3">Пошук роботи</a>
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/servis/lgot/" class="link_3"> Державні посібники</a>
+<br>
+<br>Взнайте, які посібники можуть бути надані Вам державою, від чого залежить їх розмір і самі значення посібників.
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/servis/pensiya/" class="link_3"> Ваша майбутня пенсія</a>
+<br>
+<br>Розрахуйте приблизне значення вашої майбутньої пенсії.	
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/servis/speed/" class="link_3">З якою швидкістю ви заробляєте?</a>
+<br>
+<br>Порівняєте свій дохід з доходами знаменитостей.
+<br>
+<br>
+</td>
+    </tr>
+</table></td>
+  </tr>
+</table>
+<!--конец услуги -->	
+	
+<table width="400" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+
+<!--услуги -->
+<table width="400" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="400" height="33" bgcolor="#E0E0E0" style="padding-left:10px"><strong>БІЗНЕС</strong><br></td>
+</tr>
+</table>
+<table width="400" height="100" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #E0E0E0; background-color:#FFFFFF">
+  <tr>
+    <td align="center" valign="top">
+	<br>
+	<table width="390" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01" width="8" height="7"> <a href="/preds/" class="link_3">Огляди ринку заробітних плат для корпоративних клієнтів</a>
+<br>
+<br> Доступ до баз даних для компаній.
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/ua/servis/training/" class="link_3">Тренінги і навчання</a>
+<br>
+<br>Освітні програми і тренінги для персоналу. 
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/clients/" class="link_3">Наші клієнти</a>
+<br>
+<br>
+<img src="/_img/arr_01" width="8" height="7"> <a href="/contacts/" class="link_3">Участь в дослідженнях</a>
+<br>
+<br>Obzorzarplat.ru запрошує компанії для участі в дослідницьких проектах.
+<br>
+<br>
+</td>
+    </tr>
+</table></td>
+  </tr>
+</table>
+<!--конец услуги -->	
+
+<table width="400" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+	
+
+	</td>
+      
+    <td width="15" height="150" valign="top"> </td>
+     <td width="250" height="150" valign="top">
+
+
+<!--блок статистика -->
+<!--заголовок-->
+<table width="250" height="33" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="250" height="33" bgcolor="#a9a9a9" style="padding-left:10px">
+      <a style="text-decoration:none; color:#000" href="#"><b>Основні показники</b></a><br>
+    </td>
+</tr>
+</table>
+
+<!--контент-->
+<table width="250" height="210" border="0" cellpadding="0" cellspacing="0" style="border:1px solid silver; background-color:#FFF">
+  <tr>
+    <td align="center" valign="top">
+    <table width="248" border="0" cellspacing="2" cellpadding="2" bgcolor="#dcdcdc">
+    <tr>
+      <td align="left" class="grey">
+      <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Чисельність населення:</strong>   
+      <br><i>142 млн. человек</i>
+      <br>(січень 2008)
+    </td>
+  </tr>
+
+  <tr style="padding-left:10px">
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Чисельність населення СПб:</strong> 
+<br><i>4,56 млн. человек</i> 
+<br>(січень 2008)
+  </td>
+</tr>
+
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Чисельність економічно активного населення:</strong> 
+<br><i>76,2 млн.человек</i> 
+<br>(жовтень 2008)
+  </td>
+</tr>
+
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Рівень безробіття:</strong> 
+<br><i>6,1% економічно активного населення </i>
+<br>(жовтень 2008)
+  </td>
+</tr>
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Прожитковий мінімум (СПБ):</strong> 
+<br><i>4595 руб.</i> 
+<br>(II квартал 2008)
+  </td>
+</tr>
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Валовий внутрішній продукт:</strong> 
+<br><i>19112,8 млрд.рублей</i> 
+</br>(I полугодие 2008)
+  </td>
+</tr>
+
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Індекс промислового виробництва:</strong>
+<br><i>103,1%</i> 
+<br>(січень-жовтень 2008)
+
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Зворот роздрібної торгівлі:</strong> 
+<br><i>11156,5 млрд.рублей</i> 
+<br>(січень-жовтень 2008)
+  </td>
+</tr>
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Індекс споживчих цін (РФ):</strong> 
+<br><i>100,9%</i> 
+<br>(жовтень 2008)
+  </td>
+</tr>
+
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Індекс споживчих цін (СПБ):</strong> 
+<br><i>101,1%</i> 
+<br>(жовтень 2008)
+  </td>
+</tr>
+
+  <tr>
+    <td align="left" class="grey">
+<img src="/_img/arr_01.gif" width="8" height="7"> <strong>Зовнішньоторговельний зворот:</strong> 
+<br><i>71,2 млрд.долларов США</i> 
+<br>(вересень 2008)
+<br><p align="right"><a href="/basestat/" target="obzorzarplat_basestat" onclick="window.open(this.href, this.target, config='height=850,width=450,toolbar=0, scrollbars=1')" class="link_5">Взнати більше...</a></p>
+  </td>
+</tr>
+
+
+</table></td>
+  </tr>
+</table>
+<!--end blok -->
+
+
+<table width="250" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+
+<!--блок новости -->
+<table width="250" height="133" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="blok_1">
+<a href="/news/"><img src="/_img/tit_news.gif" width="79" height="11" border="0" alt="Архів новин"></a><br>
+
+<table width="250" border="0" align="center" cellpadding="6" cellspacing="0">
+  <tr>
+    <td width="250" valign="top" style="
+background-image:url(/_img/g_dot_2.gif); background-position:bottom; background-repeat:repeat-x; font-size:11px; font-style:italic; color:#000">
+24.11.2008 <img src="/_img/arr_01.gif" width="8" height="7">
+&nbsp;<a style="font-size:12px; font-style:normal; font-weight:bold; text-decoration:none; color: #000" href="/news/view/?id=1481"> На допомогу держави в старості сподіваються лише 8% росіян </a>	
+<br>
+80% наших співвітчизників в старості сподіваються виключно на себе, і лише 8% – на державу. Такі результати показав опит, проведённий Дослідницьким центром порталу Superjob.ru 18 листопада 2008 року серед 1800 респондентів з семи округів РФ. 
+<p align="right"><a href="/news/view/?id=1481" class="link_5"> Читати далі...</a></p>
+</td></tr>
+</table>
+
+<table width="250" border="0" align="center" cellpadding="6" cellspacing="0">
+  <tr>
+    <td width="250" valign="top" style="font-size:11px; font-style:italic; color:#000">
+07.11.2008 <img src="/_img/arr_01.gif" width="8" height="7">
+&nbsp;<a style="font-size:12px; font-style:normal; font-weight:bold; text-decoration:none; color: #000" href="/news/view/?id=1474"> Опублікований список посад, що самих зажадалися, в період кризи </a>	
+<br>
+Американський портал Salary.com опублікував список з десяти посад, що найбільш зажадалися, в умовах фінансової кризи.
+<p align="right"><a href="/news/view/?id=1474" class="link_5"> Читати далі...</a></p>
+</td></tr>
+</table>
+</td>
+  </tr>
+</table>
+<!--конец новости -->	
+<table width="250" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+<!--блок статьи -->
+<table width="250" height="115" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="blok_1">
+<a href="/stats/"><img alt="Архив статей" src="/_img/tit_stat.gif" width="80" height="11" border="0"></a><br>
+
+<table width="250" border="0" align="center" cellpadding="6" cellspacing="0">
+  <tr>
+    <td width="250" valign="top" style="font-size:11px; font-style:italic; color:#000">
+14.02.2008 <img src="/_img/arr_01.gif" width="8" height="7">
+&nbsp;<a style="font-size:12px; font-style:normal; font-weight:bold; text-decoration:none; color: #000" href="/stats/view/?id=1206"> Доля окладу зменшується, але зростає доля премій </a>	
+<br>
+" Доля окладу зменшується, але зростає доля премій " - під таким заголовком 14 лютого 2008 року в газеті "Діловий Петербург" опублікована стаття, присвячена аналізу ринку заробітних плат і компенсацій мерчендайзеров в компаніях Санкт-Петербурга. Їх середній дохід в 2007 році склав 20 660 рублів в місяць.
+  <p align="right"><a href="/stats/view/?id=1206" class="link_5"> Читати далі...</a></p>
+  </td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<!--конец статьи -->
+
+<table width="250" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td> </td>
+  </tr>
+</table>
+
+<!--блок глоссарий -->
+<table width="250" height="15" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="blok_1">
+<img src="/_img/tit_gloss.gif" width="79" height="11"><br>
+
+<table width="250" height="25"border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td align="left" class="grey">
+<br>
+<a href="/glos/?str=П" class="terms">Межа (ліміт) кредитування </a>
+<br><br>	
+Максимальна сума кредитування співробітника; у случ <a href="/glos/?str=П">...</a><br><br>
+<center><input type="button" value=" всі терміни " class="but" onclick="self.location.href='/glos/'" style=" width:100px"></center>
+<p align="right">
+  <a href="/glos/" target="obzorzarplat_glossary" onclick="window.open(this.href, this.target, config='height=562,width=600,toolbar=0, scrollbars=1')">
+  Глосарій
+  </a>
+</p>
+<br>
+	  </td>
+    </tr>  
+  
+</table>
+</td>
+  </tr>
+</table>
+<!--конец глоссарий -->	
+
+	</td>
+  </tr>
+</table>
+
+	</td>
+  </tr>
+</table>
+<!--end center -->
+
+<!--bottom -->
+<table width="960" height="30" border="0" align="center" cellpadding="0" cellspacing="2">
+  <tr>
+<td align="right" valign="middle" class="bottom" colspan="2">
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+
+<script type="text/javascript" src="/orphus/orphus.js"></script>
+<a href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/orphus/orphus.gif" border="0" width="1" height="1" /></a>
+</td>	
+  </tr>
+   <tr>
+    <td align="right"><a href="/"><img src="/_admin/_adminfiles/ico_flag_ru.gif" width="20" height="20" alt="По Русски" style="border:1px solid #eee"></a></td>
+    <td align="left"><a href="/eng/"><img src="/_admin/_adminfiles/ico_flag_eng.gif" width="20" height="20" alt="By English" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="2">;
+<a href="/servis/zp/" class="link_3">Персонал</a> | <a href="/preds/" class="link_3">Бізнес</a> | <a href="/map/" class="link_3">Карта сайту</a> | <a href="/glos/" class="link_3">Глосарій</a> | <a href="/isl/metod/" class="link_3">Методологія</a> | <a href="/contacts/" class="link_3">Участь в дослідженні</a> | <a href="/ua/about/" class="link_3">Про нас</a> | <a href="/contacts/" class="link_3">Контакти</a>  
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="2">
+<a href="/demo.php">Obzorzarplat.ru</a> | Ant-Management © 1996 - 2009 | <a href="/ua/privacy_policy/" target="obzorzarplat_glossary" onclick="window.open(this.href, this.target, config='height=450,width=600,toolbar=0, scrollbars=1')">Політика Конфіденційності</a>
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+<!--end bottom -->
+	  
+    </td>
+    <td height="400"> </td>
+  </tr>
+</table>
+<br><br>
+
+</body>
+</html>

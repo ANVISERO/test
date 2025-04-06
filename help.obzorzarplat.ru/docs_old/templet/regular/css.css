@@ -1,0 +1,269 @@
+body{margin:0; margin-top:20px; padding:0; font-size:13px; font-family:Georgia, 'Times New Roman', Times, serif; background-color:#EEEEEE;} 
+
+h1.lite{font-size:17px; color:#000;}
+h2.lite{font-size:18px; font-weight:bold; color:#900; text-align:center}
+h3.lite{font-size:14px; font-style:italic; color: #fff; background-color: #918b8b; padding: 4px 4px 4px 4px;}
+h4.lite{font-size:13px;}
+
+h2.salary{font-size:14px; font-style:italic; color: #fff; background-color: #b55; padding: 4px 4px 4px 4px;}
+
+table.X1_lite {border-collapse:collapse; border:1px solid #DBDBDB}
+table.X1_lite td{padding:5px;}
+table.X1_lite th{font-weight:bold; font-size:13px; text-align:center; background-color: #d3d3d3;}
+table.X1_lite tr.X1_lite_0{background-color: #d3d3d3;}
+table.X1_lite tr.X1_lite_1{background-color: #e0e0e0;}
+table.X1_lite td.X1_lite_left{font-weight:bold; font-size:12px; text-align:left; padding-left:4px;}
+table.X1_lite td.X1_lite_right{font-weight:normal; font-size:12px; text-align:center}
+
+table.lgot_disability {border:1px solid #999;}
+table.lgot_disability td{vertical-align: top; padding: 4px 4px 4px 4px;}
+
+table.lgot_pregnancy {border:1px solid #999;}
+table.lgot_pregnancy td{vertical-align: top; padding: 4px 4px 4px 4px;}
+
+input.but3_lite{height:30px; font-size:12px; font-weight:bold; text-align:center; background-color:#E0E0E0;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#515151}
+
+input.but_pension{height:30px; font-size:12px; font-weight:bold; text-align:center; font-family:verdana; background-color:#fff; border:2px solid #999; cursor:pointer; color:#c00}
+
+a, a:visited{color:#c00;}
+hr{border:1px solid #e8e8e8; background:#e8e8e8;}
+a.link_1{ color:#cc0000; font-size:10px; text-decoration:none}
+
+a.link_2, a.link_2:visited{ color:#cc0000; font-size:10px; text-decoration:none; font-weight:bold}
+a.link_2:hover{ text-decoration:underline}
+
+a.link_3, a.link_3:visited{ color:#000000; font-size:11px; text-decoration:underline; font-weight:bold}
+a.link_3:hover{ text-decoration:underline; color:#cc0000}
+
+a.link_4, a.link_4:visited{ color:#cc0000; font-size:12px; text-decoration:underline; font-weight:normal}
+a.link_4:hover{ text-decoration:underline; color:#990000}
+
+a.link_5, a.link_5:visited{ color:#cc0000; font-size:11px; text-decoration:underline;}
+a.link_5:hover{ text-decoration:underline; color:#990000}
+
+a.link_6, a.link_6:visited{ color:#000000; font-size:12px; text-decoration:underline; font-weight:bold}
+a.link_6:hover{ text-decoration:underline; color:#cc0000}
+
+a.link_7, a.link_7:visited{ color:#000000; font-size:11px; text-decoration:none; font-weight:bold}
+a.link_7:hover{ text-decoration:underline; color:#cc0000}
+
+a.article, a.article:visited{font-size:12px; font-weight:bold; color:#979696; text-decoration:none}
+a.article:hover{ text-decoration:underline; color:#666666}
+
+table.line{border-collapse: collapse; cellspacing:2;}
+td.line{padding:5px;}
+
+tr.struct{background-color:#c0c0c0; font-weight:bold; margin:12px;}
+
+h1.title_1{font-family:verdana; font-size:14px; padding:0px; margin:0px; font-weight:normal;}
+td.page{ border:1px solid silver; background-color:#fff;}
+td.head{ background-color:#fff; background-position:bottom; background-repeat:repeat-x}
+td.reclame{border:1px solid #DBDBDB}
+td.bottom_menu{background-color:#fff; border-bottom:1px solid #505151}
+
+td.b_menu a, td.b_menu a:visited{ text-decoration:none; color:#494949; text-transform: lowercase; font-size:10px; padding-left:4px; padding-right:4px; font-weight:bold}
+td.b_menu a:hover{color:#DD1011}
+td.grey{font-size:10px; color:#000}
+
+input.text{font-size:12px; font-weight:normal; background-color:#fff; height:15px; font-family:verdana; border:1px solid silver;}
+select.text{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+
+select.text_0{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver; width:220px; height:20px;}
+select.text_1{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver; width:340px; height:20px;}
+
+input.but{font-size:10px; font-weight:bold; background-color:#E0E0E0;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#515151}
+
+input.but_form{font-size:12px; font-weight:bold; background-color:#E0E0E0;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#515151}
+select.text_form{font-size:12px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+
+td.center{background-color:#fff; border:1px solid #DBDBDB; padding:10px}
+td.center2{padding:0px}
+td.bottom{ font-size:10px; color:#979696}
+td.bottom a, td.bottom a:visited{font-size:10px; color:#979696; text-decoration:none}
+td.bottom a:hover{ text-decoration:underline; color:#666}
+td.blok_1{background-color:#fff; border:1px solid #DBDBDB}
+
+table.clients td{padding: 4px 4px 4px 4px;}
+
+td.servis{font-size:10px}
+
+td.main_t{font-size:12px}
+
+ul {margin: 10px; padding: 0;}
+
+a.terms, a.terms:visited{font-size:14px; color:#cc0000; font-weight:bold; text-decoration:none;}
+a.terms:hover{text-decoration:underline; color:#f00;}
+h3.terms{color:#f00;}
+
+table.service td.service_txt{padding: 4px 4px 4px 4px; vertical-align:top; border:2px solid #e0e0e0;}
+
+#info {height:400px;}
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/upmenu.html
+Copyright (c) 2005-2009 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+
+
+.menu {font-family: verdana, arial, sans-serif; width:100%; position:relative; font-size:12px; margin:0 auto;}
+.menu ul li a, .menu ul li a:visited {font-weight:normal; display:block; text-decoration:none; width:100px; height:25px; text-align:left; color:#e8e8e8; padding-left:5px; border-left:1px solid #ffffff; border-width:0 0 0 1px; background:#000; line-height:20px; font-size:11px;}
+.menu ul li a.long, .menu ul li a.long:visited{width:120px; font-weight:normal;}
+.menu ul li a.superlong, .menu ul li a.superlong:visited{width:160px; font-weight:normal;}
+.menu ul {padding:0; margin:0;list-style-type: none; }
+.menu ul li {float:left; position:relative;}
+.menu ul li ul {visibility:hidden; position:absolute;}
+
+/*red*/
+.menu ul li a.red, .menu ul li a.red:visited{background:#e8e8e8; font-weight:bold; color:#c00; border-top:1px solid gray;}
+.menu ul li:hover a.red, .menu ul li a.red:hover{background:#c00; color:#fff; font-weight:normal;}
+
+
+.menu table {border-collapse:collapse; margin:0; padding:0; font-size:1em; margin:-1px;}
+
+.menu ul li:hover a, .menu ul li a:hover {color:#fff; background:#c00; font-weight:normal;}
+
+.menu ul li:hover ul, .menu ul li a:hover ul {visibility:visible; top:25px; left:0;}
+
+.menu ul li:hover ul li a.sub, .menu ul li a:hover ul li a.sub {background:silver; color:#000;}
+
+.menu ul li:hover ul li, .menu ul li a:hover ul li {display:block; background:#fff; color:#000; width:199px; clear:both;}
+
+.menu ul li:hover ul li:hover a.sub, .menu ul li a:hover ul li a:hover.sub {background:#c00; color:#fff;}
+
+.menu ul li:hover ul li ul, .menu ul li a:hover ul li a ul {visibility:hidden; position:absolute; width:199px;}
+
+.menu ul li:hover ul li a, .menu ul li a:hover ul li a {display:block; background:#e8e8e8; color:#000; width:199px; padding-left:10px; border:1px solid gray;}
+
+.menu ul li:hover ul li a:hover, .menu ul li a:hover ul li a:hover {background:#c00; color:#fff;}
+
+.menu ul li:hover ul li:hover ul, .menu ul li a:hover ul li a:hover ul {visibility:visible; left:210px; top:0;}
+
+.menu ul li:hover ul li:hover ul li a, .menu ul li a:hover ul li a:hover ul li a {background:#e8e8e8; color:#000;}
+
+.menu ul li:hover ul li:hover ul li a:hover, .menu ul li a:hover ul li a:hover ul li a:hover {background:#c00; color:#fff;}
+
+.menu ul li:hover ul.left, .menu ul li a:hover ul.left {left:-105px;}
+
+.menu ul li:hover ul li:hover ul.left, .menu ul li a:hover ul li a:hover ul.left {left:-210px; width:209px;}
+
+/*business offer for corporative clients*/
+.businessoffer {font-family: verdana, arial, sans-serif; width:650px; height:220px; float:left; font-size:12px; margin:0 auto; border:1px solid #dcdcdc; padding:5px;}
+.businessoffer h1{font-family:Georgia, 'Times New Roman', Times, serif; color:#c00; font-size:14px; text-align:center; font-weight:bold;}
+.businessoffer span{z-index:-10;}
+.businessoffer ul {padding-left:2em; margin:0; list-style: url(/_img/main/forlist_20.gif) inside; font-size:12px; margin-left: 0; text-indent: -1em;}
+.businessoffer ul li {margin:5px;}
+.businessoffer hr{background:#dcdcdc; border:1px solid #dcdcdc;}
+
+.login{
+width: 100%;
+overflow: hidden;
+}
+
+.login ul{
+margin: 0;
+padding: 0;
+padding-left: 10px; /*offset of tabs relative to browser left edge*/
+font: 16px Verdana;
+list-style-type: none;
+}
+
+.login li{
+display: table;
+width: 100%;
+margin: 0;
+}
+
+.login li a{
+float: left;
+display: block;
+text-decoration: none;
+font-weight: bold;
+margin: 0;
+padding: 7px 8px; /*padding inside each tab*/
+border-right: 1px solid white; /*right divider between tabs*/
+color: #e8e8e8;
+background: #808080; /*background of tabs (default state)*/
+font-size:14px;
+}
+
+.login li a:visited{
+color: #e8e8e8;
+font-weight: bold;
+font-size:14px;
+}
+
+.login li a:hover, .mattblacktabs li.selected a{
+background: #363636; /*background of tabs for hover state, plus tab with "selected" class assigned to its LI */
+text-decoration: underline;
+font-weight: bold;
+}
+
+.login li a:active{
+background: #808080;
+font-weight: bold;
+}
+
+table.tarifi{border-color: #808080;}
+table.tarifi th{padding: 5px 5px 5px 5px; color:#000; font-size: 14px; text-align: center;}
+table.tarifi td{padding: 4px 4px 4px 4px;}
+table.tarifi td.subtitle{padding: 4px 4px 4px 4px; font-size: 12px; font-weight:bold; text-align: left;}
+table.tarifi td.plain{padding: 4px 4px 4px 16px; text-align:left;}
+table.tarifi tr.samples{background-color: #e8e8e8;}
+
+.articleview_head{margin-right: 300px;}
+
+.articleview_head1{width:100%; float:left; margin-right: -340px;}
+
+.articleview_head_left{
+width:300px; 
+float:right; 
+border-left: dashed 1px #900; 
+border-bottom: dashed 1px #900; 
+padding:2px 2px 2px 6px;
+}
+
+table.average_salary {border-collapse:collapse; border:1px solid #DBDBDB}
+table.average_salary td{padding: 4px 4px 4px 4px;}
+table.average_salary th{font-weight:bold; font-size:13px; text-align:center; background-color: #d3d3d3; padding: 4px 4px 4px 4px;}
+table.average_salary tr.salary_0{background-color: #d3d3d3;}
+table.average_salary tr.salary_1{background-color: #e0e0e0;}
+table.average_salary td.salary_left{font-weight:bold; font-size:12px; text-align:left; padding: 4px 4px 4px 4px;}
+table.average_salary td.salary_right{font-weight:normal; font-size:12px; text-align:center}
+
+.steps{
+width:40%;
+background-color:#4AA02C; 
+color:#fff; 
+padding:3px;
+}
+
+.leftblock{margin:0; float:left; display:block; width:250px;}
+
+.red_bg{color:#fff; background:#E42217; padding:3px;}
+.red_bg a, a:visited{color:#fff; text-decoration:none; font-weight:bold; font-size:13px;}
+
+hr.divider{
+color: #c00;
+background-color: #c00;
+height: 5px;
+}
+
+table.X1 {border-collapse:collapse; border:1px solid #DBDBDB}
+table.X1 td{padding:5px;}
+table.X1 th{font-weight:bold; font-size:13px; text-align:center; background-color: #d3d3d3;}
+table.X1 tr.X1_0{background-color: #d3d3d3;}
+table.X1 tr.X1_1{background-color: #e0e0e0;}
+table.X1 td.X1_left{font-weight:bold; font-size:12px; text-align:left; padding-left:4px;}
+table.X1 td.X1_right{font-weight:normal; font-size:12px; text-align:center}
+
+table.distrib td{vertical-align:bottom; text-align:center; font-size:9px;}
+table.graf_percent td{vertical-align:middle; height:30px; font-size:9px;}
+
+table.graf_tab th{font-weight:bold; font-size:13px; text-align:center;}
+
+input.but2{width:350px; height:30px; font-size:9px; font-weight:bold; background-color:#fff; text-align:left;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#000;}
+input.but2_hov {border-color: #c63 #930 #930 #c63; color:#c00}

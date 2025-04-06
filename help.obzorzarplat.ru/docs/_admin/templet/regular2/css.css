@@ -1,0 +1,129 @@
+body{margin:0; margin-top:0; padding:0; font-size:13px; font-family: Georgia, Verdana; background-color:#fff; color:#000;}
+h1 {font-size:20px; margin:0; padding:10px 0; color:#fff;}
+p {font-size:13px; line-height:1.5em; margin:0; padding:5px 0;}
+h1{font-size:18px; text-align:center; padding:4px; margin:0; color:#000;}
+h3{font-size:14px; color: #000; padding: 4px; text-align:center}
+
+h2.salary{font-size:14px; font-style:italic; color: #000; padding: 4px;}
+
+a, a:visited{color:#cc0000}
+hr{border:1px solid #e8e8e8; background:#e8e8e8;}
+img{padding:2px; margin:4px;}
+
+a.link_4, a.link_4:visited{ color:#cc0000; font-size:12px; text-decoration:underline; font-weight:normal}
+a.link_4:hover{ text-decoration:underline; color:#990000}
+
+input.text{font-size:14px; font-weight:normal; background-color:#fff; height:16px; font-family:verdana; border:2px solid silver; width:100px;}
+select.text{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+input.but1{height:30px; font-size:13px; font-weight:bold; text-align:center; background-color:#E0E0E0;  font-family:verdana; border:1px solid gray; cursor:pointer; color:#000; padding:2px 4px;}
+select.text_1, input.text_1{font-size:14px; font-weight:normal; background-color:#fff; font-family:verdana; border:2px solid silver; width:400px; height:25px;}
+ul {margin: 10px; padding: 0;}
+
+hr.divider{
+color: #c00;
+background-color: #c00;
+height: 5px;
+}
+
+table.graf_tab th{font-weight:bold; font-size:13px; text-align:center;}
+
+.mainBody{padding:1em;  border-left: 1px solid #e4e4e4; height:100%;min-height:530px;}
+
+#mainContent {
+    margin-left: 19.35em;
+    height:100%;
+    min-height:550px;
+}
+
+.pad2{display:block; height:100px;}
+
+.content { margin:4px; font-size:15px; display:inline; vertical-align:top;}
+
+.menu_right{margin:4px 5px; padding:5px; font-size:15px; display:inline; vertical-align:top; float:right;}
+.menu_right a.lk1, .menu_right a.lk1:visited{font-weight: bold; color:gray; text-decoration:none; border-bottom:1px dashed gray;}
+.menu_right a.lk1:hover{font-weight: bold; color:gray; text-decoration:none; border-bottom:1px solid #000;}
+.menu_right a.lk2, .menu_right a.lk2:visited{font-weight: bold; color:#c00; text-decoration:none; border-bottom:1px dashed #c00;}
+.menu_right a.lk2:hover{font-weight: bold; color:#000; text-decoration:none; border-bottom:1px dashed #000;}
+
+.content1 { margin:4px; font-size:15px; vertical-align:top; float:right; padding-left:5px; width:50%; text-align:right;}
+.content2{ margin:4px; font-size:15px; float:right; vertical-align:top; padding-left:5px; text-align:right;}
+
+#header{border-bottom: 5px solid silver; margin-bottom:4px; padding:0 20px;}
+
+#footer {
+	position: relative;
+	bottom: 0;
+	border-top: 8px solid silver;
+	width: 100%;
+	background-color: #fff;
+	left:0;
+	line-height: 1em;
+}
+#footer p {
+	padding: 10px;
+	font-size: 7pt;
+}
+
+#sidebar {
+	width: 19.3em;
+        position:relative;
+	float:left;
+	background-color: #F7F7F7;
+	/*border-right: 1px solid #e4e4e4;*/
+	overflow: hidden;
+	padding: 0 0 5em 0;
+	min-width: 232px;
+        height:100%;
+        min-height:550px;
+}
+#sidebar ul {
+	padding: 0;
+	margin: 4px 20px;
+	list-style: none;
+}
+#sidebar ul ul ul{
+	white-space:nowrap;
+}
+#sidebar ul li {
+	padding-top: 0.5em;
+}
+#sidebar ul a.lk1, #sidebar ul a.lk1:visited {
+	font-weight: bold; color:gray; text-decoration:none; border-bottom:1px dashed gray;
+}
+#sidebar ul a.lk1:hover {
+	font-weight: bold; color:#000; text-decoration:none; border-bottom:1px solid #000;
+}
+#sidebar ul span.current {
+	color: #666;
+	white-space: nowrap;
+}
+/* главное меню - подпункты */
+#sidebar ul ul {
+	margin: 0 10px;
+	font-size: 0.90em;
+}
+#sidebar ul ul a, #sidebar ul ul a:visited {
+	font-weight: normal; color:gray;
+}
+/* блок "полезные ссылки" */
+#sidebar .center{
+	margin: 35px 0;
+}
+
+/*������� ���� (������)*/
+.topmenu{text-align:center; margin:4px; font-size:15px; width:100%; padding:4px;}
+.topmenu span a, span a:visited{font-weight: bold; font-size:15px; color:gray; text-decoration:none;}
+.topmenu span a:hover{font-weight: bold; text-decoration:none; border-bottom:1px dashed #c00; color:#c00;}
+
+.navibar{background-color:#fff; 
+        /*display:block; */
+        padding:4px; margin:0; padding-left:-5px;  border-left: 1px solid #e4e4e4;}
+.navibar a, .navibar a:visited{color:#000; font-size:12px; text-decoration:none; border-bottom:1px dashed #000; text-transform:lowercase}
+.navibar a:hover{color:#c00; border-bottom:1px dashed #c00; text-decoration:none;}
+
+.clearfloat {
+   clear:both;
+   height:0;
+   font-size: 1px;
+   line-height: 0px;
+}

@@ -1,0 +1,238 @@
+# Webalizer V2.21-02 Incremental Data - 11/15/2010 08:21:07
+2010 11 15 8 21 7
+109 32 22 3 6 17 372369 28 22 0
+2 1 15 1 15
+5 2 19253 2 1 1
+15 4 41499 3 2 2
+3 2 22614 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 1 18743 1 7 1
+20 6 76661 6 5 5
+15 3 32220 2 1 1
+0 0 0 0 0 0
+3 1 13335 2 1 1
+15 4 41487 3 2 2
+2 1 11943 2 1 1
+20 6 70648 4 4 4
+2 1 11983 1 1 1
+2 1 11983 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 1352 0
+3 2 22614 2
+1 1 10631 1
+0 0 0 0
+0 0 0 0
+1 1 10631 1
+6 3 29884 2
+1 1 10631 1
+2 0 2692 0
+2 1 11983 1
+1 1 10631 1
+4 2 17901 1
+0 0 0 0
+13 3 29516 1
+35 6 81096 9
+2 1 11983 1
+13 3 29516 1
+15 3 42076 2
+0 0 0 0
+4 2 23914 2
+2 0 2704 0
+0 0 0 0
+1 1 10631 1
+2 1 11983 1
+0
+0
+0
+32
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+77
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 22 0 233722 22 2
+/_admin/templet/regular2/css.css
+0 7 0 32410 0 0
+/favicon.ico
+0 3 0 2205 0 0
+# End Of Table - urls
+# -sites- (monthly)
+46.47.6.20
+0 13 2 30133 1 1289141591
+/
+85.17.82.87
+0 7 1 18743 1 1289055110
+-
+66.249.66.202
+0 1 0 1352 0 0
+-
+66.249.66.205
+0 1 1 10631 1 1289144998
+/
+207.46.199.20
+0 13 2 30133 1 1289668331
+/
+109.188.206.141
+0 13 3 29516 1 1288714337
+/
+207.46.199.47
+0 2 1 11983 1 1289611082
+/
+Invalid
+0 1 1 10591 1 1289582766
+/
+178.161.136.178
+0 14 3 30868 1 1289225920
+/
+38.111.147.84
+0 2 1 11931 1 1289159074
+/
+81.19.79.209
+0 3 0 4056 0 0
+-
+208.115.111.250
+0 2 1 11983 1 1289452786
+/
+207.46.13.40
+0 2 1 11983 1 1289430874
+/
+204.45.108.26
+0 1 1 10631 1 1288777153
+/
+213.239.200.199
+0 1 1 10631 1 1289113124
+/
+95.25.103.62
+0 1 1 10631 1 1289805141
+/
+213.170.85.26
+0 13 3 29516 1 1289482749
+/
+207.46.195.225
+0 3 2 22614 2 1289097616
+/
+207.46.195.228
+0 3 1 13335 1 1288746222
+/
+207.46.13.139
+0 2 1 11983 1 1289762833
+/
+67.195.37.176
+0 9 4 37142 2 1289631312
+/
+207.46.13.140
+0 2 1 11983 1 1289644989
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+81.19.79.209
+0 1 0 1352 0 0
+-
+95.25.103.62
+0 1 1 10631 1 1289805141
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 43
+http://obzorzarplat.ru/preds/tariffs/
+0 1
+http://help.obzorzarplat.ru/
+0 62
+http://www.obzorzarplat.ru/servis/otchet/
+0 1
+http://www.bing.com/search?q=obzorzarplat.ru.&src=IE-SearchBox&Form=IE8SRC
+0 1
+http://obzorzarplat.ru/servis/zp/?step=3
+0 1
+# End Of Table - referrers
+# -agents- 
+StackRambler/2.0 (MSIE incompatible)
+0 3
+TurnitinBot/2.1 (http://www.turnitin.com/robot/crawlerinfo.html)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 13
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.22.7 (KHTML, like Gecko) Version/4.0.5 Safari/531.22
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 14
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+0 13
+SolomonoBot/1.01 (http://www.solomono.ru)
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648)
+0 13
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (compatible; Linux/2.6.18-164.6.1.el5; WaC ToolKit; ParaGet/0.1.3)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19
+0 13
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 6
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

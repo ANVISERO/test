@@ -1,0 +1,179 @@
+html {
+height:100%;
+max-height:100%;
+padding:0;
+margin:0;
+border:0;
+font-size:76%;
+font-family: trebuchet, tahoma, verdana, arial, sans-serif;
+background:#fff;
+/* hide overflow:hidden from IE5/Mac */
+/* \*/
+overflow: hidden;
+/* */ }
+
+body {height:100%; max-height:100%; overflow:hidden; padding:0; margin:0; border:0;}
+#content {display:block; height:100%; max-height:100%; overflow:auto; padding-left:200px; position:relative; z-index:3; margin:2px;}
+#head {position:fixed; margin:0; top:0; right:18px; display:block; width:100%; height:100px; background:#ddd; font-size:4em; z-index:5; color:#fff;}
+#foot {position:fixed; margin:0; bottom:-1px; right:18px; display:block; width:100%; height:50px; background:rgb(214,100,50); color:#fff; text-align:right; font-size:1em; z-index:4;}
+
+#left {position:fixed; left:0; top:0; height:100%; width:200px; background:#aaa; background-position:0 100px;; font-size:1em; color:#fff;z-index:4;}
+
+* html #head, * html #foot,* html #left {position:absolute;}
+
+#pad1 {display:block; width:18px; height:100px; float:left;}
+#pad3 {display:block; width:18px; height:50px; float:left;}
+.pad2 {display:block; height:100px;}
+
+#content p {padding:5px;}
+
+.bold {font-size:1.2em; font-weight:bold;}
+
+#wordsleft {float:left; top:100px; left:150px; height:200px; width:150px; background:#efd; border:1px solid #000; margin:5px; padding:5px;}
+#wordsright {float:right; top:100px; right:150px; height:200px; width:150px; background:#def; border:1px solid #000; margin:5px; padding:5px;}
+#wordsabsolute {position:absolute; top:280px; left:400px; background:#eee; border:1px solid #000; margin:5px; padding:5px; font-size:2em; color:#c00;}
+#wordsrelative {position:relative; top:10px; left:30px; background:#ddd; border:1px solid #000; margin:5px; padding:5px; font-size:2em; color:#c00; width:200px;}
+
+a.nav, a.nav:visited {display:block; width:100px; height:25px; text-decoration:none; color:#fff; font-weight:bold; line-height:25px;}
+a.nav:hover {color:#fc0;}
+
+h1.lite{font-size:17px; color:#000;}
+h2.lite{font-size:18px; font-weight:bold; color:#900; text-align:center}
+h3.lite{font-size:14px; font-style:italic; color: #fff; background-color: #918b8b; padding: 4px 4px 4px 4px;}
+h4.lite{font-size:13px;}
+
+h2.salary{font-size:14px; font-style:italic; color: #fff; background-color: #b55; padding: 4px 4px 4px 4px;}
+
+table.X1_lite {border-collapse:collapse; border:1px solid #DBDBDB}
+table.X1_lite td{padding:5px;}
+table.X1_lite th{font-weight:bold; font-size:13px; text-align:center; background-color: #d3d3d3;}
+table.X1_lite tr.X1_lite_0{background-color: #d3d3d3;}
+table.X1_lite tr.X1_lite_1{background-color: #e0e0e0;}
+table.X1_lite td.X1_lite_left{font-weight:bold; font-size:12px; text-align:left; padding-left:4px;}
+table.X1_lite td.X1_lite_right{font-weight:normal; font-size:12px; text-align:center}
+
+
+input.but3_lite{height:30px; font-size:12px; font-weight:bold; text-align:center; background-color:#E0E0E0;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#515151}
+
+input.but_pension{height:30px; font-size:12px; font-weight:bold; text-align:center; font-family:verdana; background-color:#fff; border:2px solid #999; cursor:pointer; color:#c00}
+
+a, a:visited{color:#cc0000}
+hr{border:1px solid #e8e8e8; background:#e8e8e8;}
+a.link_1{ color:#cc0000; font-size:10px; text-decoration:none}
+
+a.link_2, a.link_2:visited{ color:#cc0000; font-size:10px; text-decoration:none; font-weight:bold}
+a.link_2:hover{ text-decoration:underline}
+
+a.link_3, a.link_3:visited{ color:#000000; font-size:11px; text-decoration:underline; font-weight:bold}
+a.link_3:hover{ text-decoration:underline; color:#cc0000}
+
+a.link_4, a.link_4:visited{ color:#cc0000; font-size:12px; text-decoration:underline; font-weight:normal}
+a.link_4:hover{ text-decoration:underline; color:#990000}
+
+a.link_5, a.link_5:visited{ color:#cc0000; font-size:11px; text-decoration:underline;}
+a.link_5:hover{ text-decoration:underline; color:#990000}
+
+a.link_6, a.link_6:visited{ color:#000000; font-size:12px; text-decoration:underline; font-weight:bold}
+a.link_6:hover{text-decoration:underline; color:#cc0000}
+
+table.line{border-collapse: collapse; padding:2px;}
+td.line{padding:5px;}
+
+tr.struct{background-color:#c0c0c0; font-weight:bold; margin:12px;}
+
+
+input.text{font-size:14px; font-weight:normal; background-color:#fff; height:16px; font-family:verdana; border:2px solid silver; width:100px;}
+select.text{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+
+select.text_0{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver; width:220px; height:20px;}
+select.text_1{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver; width:340px; height:20px;}
+
+input.but{font-size:12px; font-weight:bold; background-color:#E0E0E0;  font-family:verdana; border:1px solid silver; cursor:pointer; color:#c00;}
+
+input.but_form{font-size:12px; font-weight:bold; background-color:#E0E0E0;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#515151}
+select.text_form{font-size:12px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+
+ul {margin: 10px; padding: 0;}
+
+hr.divider{
+color: #c00;
+background-color: #c00;
+height: 5px;
+}
+
+input.but2{width:350px; height:30px; font-size:9px; font-weight:bold; background-color:#fff; text-align:left;  font-family:verdana; border:1px solid #999; cursor:pointer; color:#000;}
+input.but2_hov {border-color: #c63 #930 #930 #c63; color:#c00}
+
+.content1 { margin:0 auto; font-size:15px; vertical-align:top; float:left; padding-left:5px; width:50%; text-align:right; display:inline;}
+.content2{ margin:0 auto; font-size:15px; float:right; vertical-align:top; padding-left:5px; text-align:right;}
+.content_footer {font-size:15px; width:100%;}
+
+
+h1 {font-size:20px; margin:0; padding:10px 0; color:#fff;}
+h3 {font-size:18px; margin:0; padding:8px 0;}
+p {font-size:12px; line-height:1.5em; margin:0; padding:5px 0;}
+
+/*верхнее меню (ссылки)*/
+.topmenu{text-align:left; margin:4px; font-size:15px; width:800px; padding:4px;}
+.topmenu a, a:visited{font-size:15px; color:#c00; text-decoration:none;}
+.topmenu a:hover{text-decoration:underline;}
+
+/*боковое меню*/
+
+/*#info {height:100%;}*/
+
+/* ================================================================
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/flyout5.html
+Copyright (c) 2005-2009 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any
+way to fit your requirements.
+=================================================================== */
+
+.menu {
+position:relative;
+z-index:1000;
+font-size:90%;
+height:235px;
+margin:0; /* this page only */
+width:200px;
+}
+
+/* remove all the bullets, borders and padding from the default list styling */
+.menu ul {
+padding:0;
+margin:0;
+list-style-type:none;
+width:200px;
+position:relative;
+/*border:1px solid #888;*/
+border-width:1px 0 0 1px;
+background-image:url('/_img/menu/bg-main.jpg');
+color:#fff;
+font-size:10px;
+}
+
+.menu li {
+background:transparent;
+height:36px;
+}
+* html .menu li {margin-left:-16px; margin-left:0;}
+/* get rid of the table */
+.menu table {position:absolute; border-collapse:collapse; top:0; left:0; z-index:100; font-size:12px; width:0; height:0;}
+
+/* style the links */
+.menu a, .menu a:visited {
+font-size:10px;
+font-family:verdana, arial, sans-serif;
+display:block;
+text-decoration:none;
+height:36px;
+line-height:36px;
+width:200px;
+color:#000;
+text-indent:5px;
+/*border-bottom:1px solid #fff;*/
+background:transparent;
+}

@@ -1,0 +1,242 @@
+body {font-size:13px; font-family:"trebuchet MS", verdana, arial, sans-serif; background:#fff; word-wrap:break-word;}
+ 
+#header {background:#fff; border-bottom:2px solid silver;}
+ 
+#outer1 {float:left; width:198px; height:600px; padding:0; background:#fff; border-right:1px solid #c0c0c0;}
+#outer3 {float:right; width:190px; padding:0px; background:#fff;}
+#outer2 {background:#e0e0e0; margin:10px 210px;}
+ 
+#outer1, #outer2, #outer3 {padding-bottom:400px; margin-bottom:-400px;}
+ 
+#wrapper {background:#e0e0e0; overflow:hidden; clear:both;}
+ 
+ 
+#footer {clear:both; background:#455c5a;}
+ 
+.content {padding:10px;}
+h1 {font-size:20px; margin:0; padding:10px 0; color:#fff;}
+h3 {font-size:18px; margin:0; padding:8px 0;}
+p {font-size:12px; line-height:1.5em; margin:0; padding:5px 0;}
+#footer p,
+#header p {color:#fff;}
+#footer a {color:#fff;}
+#footer a:hover {text-decoration:none;}
+
+/*верхнее меню (ссылки)*/
+.topmenu{text-align:left; margin:4px; font-size:15px; padding-left:200px;}
+.topmenu a, a:visited{font-size:15px; color:#c00; text-decoration:none;}
+.topmenu a:hover{text-decoration:underline;}
+
+/*боковое меню*/
+
+#info {height:400px;}
+ 
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+ 
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/flyout5.html
+Copyright (c) 2005-2009 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+ 
+.menu {
+position:relative;
+z-index:1000;
+font-size:90%;
+height:235px;
+margin:0; /* this page only */
+width:198px;
+}
+ 
+/* remove all the bullets, borders and padding from the default list styling */
+.menu ul {
+padding:0;
+margin:0;
+list-style-type:none;
+width:198px;
+position:relative;
+/*border:1px solid #888;*/
+border-width:1px 0 0 1px;
+background-image:url('/_img/menu/bg-main.jpg');
+color:#fff;
+font-size:12px;
+}
+ 
+.menu li {
+background:transparent;
+height:36px;
+}
+* html .menu li {margin-left:-16px; margin-left:0;}
+/* get rid of the table */
+.menu table {position:absolute; border-collapse:collapse; top:0; left:0; z-index:100; font-size:12px; width:0; height:0;}
+ 
+/* style the links */
+.menu a, .menu a:visited {
+font-size:12px;
+font-family:verdana, arial, sans-serif;
+display:block; 
+text-decoration:none;
+height:36px;
+line-height:36px;
+width:198px;
+color:#000;
+text-indent:5px;
+/*border-bottom:1px solid #fff;*/
+background:transparent;
+}
+
+/*right menu*/
+.menu a.right, .menu a.right:visited {
+font-family:verdana, arial, sans-serif;
+display:block; 
+text-decoration:none;
+height:36px;
+line-height:36px;
+width:270px;
+color:#000;
+text-indent:5px;
+/*border:1px solid #888;*/
+background:transparent;
+}
+
+.menu ul ul li a.right {width:270px;}
+
+.menu ul a.right:hover ul {
+visibility:visible;
+background:#E41B17;
+color:#fff;
+font-weight:bold;
+font-size:13px;
+}
+
+* html .menu a.right:hover {color:#fff; background:	#E41B17;}
+ 
+.menu :hover > a.right {
+color:#fff; 
+background:#E41B17;
+}
+
+/* style the link hover */
+* html .menu a:hover {color:#fff; background:	#E41B17;}
+ 
+.menu :hover > a {
+color:#fff; 
+background:	#E41B17;
+}
+ 
+/* hide the sub levels and give them a positon absolute so that they take up no room */
+.menu ul ul {
+visibility:hidden;
+position:absolute;
+top:-1px;
+left:198px;
+}
+/* make the second level visible when hover on first level list OR link */
+.menu ul li:hover ul,
+.menu ul a:hover ul {
+visibility:visible;
+background:#fff;
+}
+/* keep the third level hidden when you hover on first level list OR link */
+.menu ul :hover ul ul{
+visibility:hidden;
+}
+/* keep the fourth level hidden when you hover on second level list OR link */
+.menu ul :hover ul :hover ul ul{
+visibility:hidden;
+}
+/* make the third level visible when you hover over second level list OR link */
+.menu ul :hover ul :hover ul{ 
+visibility:visible;
+background:#fff;
+}
+/* make the fourth level visible when you hover over third level list OR link */
+.menu ul :hover ul :hover ul :hover ul { 
+visibility:visible;
+background:	#fff;
+}
+.menu ul ul li a {width:198px; border-right:1px solid #888;}
+ 
+.menu ul.top1 {border:1px solid #888;}
+.menu ul.top2 {top:36px; border:1px solid #888;}
+.menu ul.top3 {top:72px; border:1px solid #888;}
+.menu ul.top4 {top:108px; border:1px solid #888; width:270px;}
+.menu ul.top5 {top:144px; border:1px solid #888;}
+.menu ul.top6 {top:180px; border:1px solid #888;}
+.menu ul.top7 {top:216px;}
+
+/*for services sliding menu*/
+
+/* ================================================================ 
+This copyright notice must be kept untouched in the stylesheet at 
+all times.
+ 
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/vertical-concertina.html
+Copyright (c) 2005-2008 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+ 
+ul#slide {padding:0; margin:0 auto; list-style:none; width:190px; height:450px; border:1px solid #888; position:relative; overflow:hidden;}
+ 
+ul li div {position:absolute; left:-9999px; background:#fff;}
+ 
+ul table {border-collapse:collapse; width:0; height:0; margin:-1px; padding:0;}
+ 
+#slide li.top {height:25px; width:190px; float:left;}
+#slide li.top a.outer {display:block; float:left; height:24px; line-height:24px; width:190px; text-indent:10px; color:#000; background:#e2e2e2; text-decoration:none; font-family: verdana, sans-serif; font-size:12px; border-bottom:1px solid #eee;}
+#slide li.top a.outer_special {display:block; float:left; height:24px; line-height:24px; width:190px; text-indent:10px; color:#fff; background:#E41B17; text-decoration:none; font-family: verdana, sans-serif; font-size:12px; border-bottom:1px solid #eee;}
+ 
+#slide li.top a:hover {color:#eee; background:#89a;}
+#slide li.top:hover > a {color:#eee; background:#89a;}
+#slide li:hover {height:375px;}
+#slide a:hover div, #slide li.current div {position:static; height:320px; width:160px; padding:15px; line-height:1.2em; font-family: verdana, sans-serif;}
+#slide li:hover div {position:static; height:350px; width:160px; padding:15px; line-height:1.2em; font-family: verdana, sans-serif;}
+#slide div img {display:block; margin:15px 0 8px 0;}
+#slide div img.fLeft {clear:left; float:left; display:block; margin:8px; margin-right:8px;}
+ 
+#slide div h3 {font-size:13px; color:#000; padding:0; margin:0;}
+#slide div p {font-size:12px; color:#888; line-height:1.4em; padding:10px 0; margin:0;}
+ 
+#slide :hover div a {color:#00c; text-decoration:none; font-size:11px;}
+#slide :hover div a:hover {text-decoration:underline; background:#fff;color:#00c;}
+ 
+#slide div a.big, #slide :hover div a.big {display:block; height:30px; line-height:30px; border-top:1px solid #ddd; font-size:14px; color:#44a; text-decoration:none; text-indent:5px;}
+#slide :hover div a.big:hover {background:#fff; color:#000; font-size:14px; text-decoration:none;} 
+ 
+#slide div dl {border-bottom:1px solid #ddd; margin:20px 0 0 0; padding-bottom:10px;}
+#slide div dt {font-size:11px; font-weight:bold; color:#000;}
+#slide div dd {padding:0; margin:0; line-height:1.5em; font-size:11px; color:#666;}
+#slide :hover div dd a {color:#00c; text-decoration:none;}
+#slide :hover div dd a:hover {background:#fff; color:#00c; text-decoration:underline;}
+
+#menuContainer{display: block;
+height: 0px;
+width: 1000px;}
+
+#pad {height:140px;}
+#menu1 {padding:0; margin:0; list-style:none; padding-left:293px;}
+#menu1 li {float:left; margin-left:1px; padding-top:2px;}
+#menu1 li a {display:block; height:38px; line-height:38px; padding:0 20px 0 0; float:left; background: url(http://www.cssmenus.co.uk/single_one/tab_a.gif) no-repeat right top; color:#000; text-decoration:none;}
+#menu1 li a b {display:block; height:38px; float:left; padding:0 0 0 20px; background: url(http://www.cssmenus.co.uk/single_one/tab_b.gif) left top; cursor:pointer;}
+#menu1 li a:hover, 
+.home #menu1 li#home a,
+.single #menu1 li#single a,
+.dropdown #menu1 li#dropdown a,
+.dropline #menu1 li#dropline a,
+.flyout #menu1 li#flyout a,
+.support #menu1 li#support a,
+.contact #menu1 li#contact a
+{background-position:right -51px; margin-top:-2px; height:40px;}
+#menu1 li a:hover b,
+.home #menu1 li#home a b,
+.single #menu1 li#single a b,
+.dropdown #menu1 li#dropdown a b,
+.dropline #menu1 li#dropline a b,
+.flyout #menu1 li#flyout a b,
+.support #menu1 li#support a b,
+.contact #menu1 li#contact a b
+{background-position:left -51px; height:40px;}

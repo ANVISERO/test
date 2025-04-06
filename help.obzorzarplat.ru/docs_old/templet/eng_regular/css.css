@@ -1,0 +1,70 @@
+h3.terms{font-size:12px; color:#cc0000; text-transform:uppercase}
+p.terms{ text-indent:20px; font-size:12px; color:#333333}
+p.terms li, p.terms ul li{font-size:12px; color:#333333}
+
+body{margin:0; margin-top:20px; padding:0; font-size:12px; font-family:verdana; background-color:#EEEEEE; background-image:url(/_img/bg_main.gif);}
+a{color:#cc0000}
+hr{height:1px; color:#DBDBDB}
+a.link_1{ color:#cc0000; font-size:12px; text-decoration:none}
+a.link_2{ color:#cc0000; font-size:10px; text-decoration:none; font-weight:bold}
+a.link_2:hover{ text-decoration:underline}
+a.link_3{ color:#990000; font-size:14px; text-decoration:none; font-weight:bold}
+a.link_3:hover{ text-decoration:underline; color:#c00}
+h2{font-size:14px; font-color:#cc0000}
+h1.title{font-family:verdana; font-size:15px; padding:0px; margin:0px}
+td.page{ border:1px solid #505151; background-color:#fff; background-image:url(/_img/bg_page.gif)}
+td.head{ background-color:#fff; background-image:url(/_img/g_dot_1.gif); background-position:bottom; background-repeat:repeat-x}
+td.reclame{border:1px solid #DBDBDB}
+td.bottom_menu{background-color:#fff; border-bottom:1px solid #505151}
+td.b_menu{background-image:url(/_img/bg_menu.gif);}
+td.b_menu a{ text-decoration:none; color:#494949; text-transform: lowercase; font-size:11px; padding-left:4px; padding-right:4px; font-weight:bold}
+td.b_menu a:hover{color:#DD1011}
+td.grey{font-size:11px; color:#515151}
+
+input.text{font-size:10px; font-weight:normal; background-color:#FFE8E8; height:13px; font-family:verdana; border:1px solid #E0E0E0}
+select.text{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+input.but{font-size:11px; font-weight:bold; background-color:#E0E0E0;  font-family:georgia; border:1px solid #999; cursor:pointer; color:#515151}
+
+td.center{background-color:#fff; border:1px solid #DBDBDB; padding:10px}
+td.center2{padding:0px}
+td.bottom{ font-size:11px; color:#979696}
+td.bottom a{font-size:11px; color:#979696; text-decoration:none}
+td.bottom a:hover{ text-decoration:underline; color:#666}
+td.blok_1{background-color:#eee; border:2px solid #DBDBDB}
+
+table.line{border:1px solid #999999;}
+table.line td{border:1px solid #cccccc; padding:2px}
+table.line td.head{border:1px solid #cccccc; padding:2px; background-color:#eeeeee; font-weight:bold}
+
+table.grafik{border:1px solid #999999; width:500px}
+table.grafik td{padding:2px; background-color:#eee; font-size:11px; color:#333333; font-weight:bold}
+table.grafik td.white{background-color:#fff; padding:2px; font-size:11px; color:#333333; font-weight:bold}
+
+table.corporative{
+	border-width: 4px;
+            border-style: solid;
+	border-color: silver;
+	border-collapse: collapse;
+	background-color: #fffff0;
+}
+
+table.corporative th {
+	border-width: 1px;
+	padding: 6px;
+            border-color: #000000;
+	border-style: inset;
+	background-color: #fffafa;
+}
+table.corporative td {
+	border-width: 1px;
+	padding: 6px;
+            border-color: #000000;
+	border-style: inset;
+	background-color: #fffafa;
+}
+
+.title_corporative {font-size: 15px; color: #cc0000;}
+
+.star{font-size: 18px; color: #990000;}
+
+h2.title{font-size: 18px; color: #990000;}

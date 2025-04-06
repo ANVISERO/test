@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title><? echo($tit);?></title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="<? echo($key)?>">
+<meta name="description" content="<? echo($des)?>">
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" >
+<link href="<? echo($css);?>" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<table width="100%" height="400" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="400">&nbsp;</td>
+    <td width="860" height="400" valign="top" class="page">
+	
+	
+<!--head -->
+<table width="860" height="75" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="60" class="head" valign="middle">
+<table width="860" height="60" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50"><img src="/_img/head_l.gif" width="50" height="55"></td>
+                  <td width="240"><a href="http://obzorzarplat.ru/eng/"><img alt="Salary Survey" src="/_img/logo_en.jpg" width="275" height="55" border="0"></a></td>
+                  <td width="260">
+<!--topmenu -->		
+  <font style="font-size:20px; font-weight:normal">|</font>
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/servis/zp/" class="link_2">Personal</a>
+<font style="font-size:20px; font-weight:normal">|</font>
+<img src="/_img/arr_02.gif" width="8" height="7">
+<a href="/eng/preds/" class="link_2">HR & Business</a>
+<font style="font-size:20px; font-weight:normal">|</font>
+<!--end topmenu -->
+</td>
+
+<td width="200" align="left">
+<!--search -->	
+<font style="font-size:10px; color:#515151">Site Search</font><br>
+<form style="margin:1px; padding:0px" name="search" method="post" action="/search/">			  
+<input type="text" class="text" value="" name="search" style="width:120px">  <input type="submit" value=" Search " class="but"></form>
+<!--end search -->
+</td>
+<td width="60" align="center">
+<!--ru/en -->	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+	
+<? include($folder.'_admin/moduls/langselect.php');?>
+	
+	</td>
+   </tr>
+ </table>
+
+
+
+
+<!--end ru/en --></td>
+<td width="50"><img src="/_img/head_r.gif" width="50" height="55"></td>
+                </tr>
+            </table>
+			</td>
+          </tr>
+      </table>
+<!--end head -->
+
+<table width="860" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+
+<!--banner -->
+<table width="860" height="115" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+	<td width="11" height="105" bgcolor="#FFFFFF" style="background-image:url(/_img/tit_reclame_en.gif); background-repeat:no-repeat"> </td>
+    <td width="529" height="115" align="center" valign="middle" bgcolor="#eeeeee">
+	<!--reclama -->
+<a href="http://www.ant-management.spb.ru/trainings.php"><img alt="Salary Survey" src="/_img/gorizontal_en.gif" width="529" height="115" border="0">
+	<!--end reclama -->
+	</td>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+    <td width="265" height="115" valign="top" bgcolor="#FFFFFF">
+
+<!-- -->
+<?	
+include($folder.'_admin/moduls/avtuser-eng.php');
+?>
+<!-- -->
+
+	
+	</td>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+  </tr>
+</table>
+ 
+<!--end banner -->
+<table width="860" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+<!--botton menu -->
+<table width="860" height="27" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="745" height="27" class="bottom_menu">
+<table height="27" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="27" class="b_menu">
+<img src="/_img/menu_l.gif" width="10" height="27" align="absmiddle">
+<a href="/eng/">Main</a>
+<img src="/_img/menu_c.gif" width="19" height="27" align="absmiddle">
+<a href="/eng/about/">About Us</a>
+<img src="/_img/menu_c.gif" width="19" height="27" align="absmiddle">
+<a href="/eng/servis/">Services</a>
+<img src="/_img/menu_c.gif" width="19" height="27" align="absmiddle">
+<a href="/eng/isl/">Research & Analytics</a>
+<img src="/_img/menu_c.gif" width="19" height="27" align="absmiddle">
+<a href="/eng/glos/">Glossary</a>
+<img src="/_img/menu_c.gif" width="19" height="27" align="absmiddle">
+<a href="/eng/work/">Job Search</a>
+<img src="/_img/menu_r.gif" width="10" height="27" align="absmiddle">
+	</td>
+  </tr>
+</table>
+</td>
+    <td width="100" height="27" align="right" class="bottom_menu">
+<!--icons -->	
+<a href="/eng/"><img onmouseover="this.src='/_img/ico_home_s.gif'" onmouseout="this.src='/_img/ico_home.gif'" src="/_img/ico_home.gif" width="17" height="17" border="0" alt="Main"></a> 
+<a href="/eng/search/"><img onmouseover="this.src='/_img/ico_search_s.gif'" onmouseout="this.src='/_img/ico_search.gif'" src="/_img/ico_search.gif" width="17" height="17" border="0" alt="Site Search"></a> 
+<a href="/map/"><img onmouseover="this.src='/_img/ico_map_s.gif'" onmouseout="this.src='/_img/ico_map.gif'" src="/_img/ico_map.gif" width="17" height="17" border="0" alt=" Site Map"></a> 
+<a href="/eng/contacts/"><img onmouseover="this.src='/_img/ico_contacts_s.gif'" onmouseout="this.src='/_img/ico_contacts.gif'" src="/_img/ico_contacts.gif" width="17" height="17" border="0" alt="Contacts"></a>
+<!--end icons -->	
+	</td>
+    <td width="15" height="27" class="bottom_menu"> </td>
+  </tr>
+</table>
+<!--end bottom menu -->
+<!--navibar -->
+<table width="860" height="20" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="bottom_menu" style="font-size:10px; color:#494949">
+<? include($folder.'_admin/moduls/navibar.php');?>
+</td>
+  </tr>
+</table>
+<!--end navibar -->
+<br>
+<!--center -->
+<table width="830" height="150" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="center">
+	<!--title -->
+	<h1 class="title"><img src="/_img/arr_01" width="8" height="7">  <?=$title_raz;?></h1>
+	<br>
+	<!--end title -->
+	<!--content -->
+<? include($content);?>
+	<!--end content -->
+	</td>
+  </tr>
+</table>
+<!--end center -->
+
+<!--bottom -->
+<table width="830" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+<td align="right" valign="middle" class="bottom">
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9382339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript" type="text/javascript" src="/orphus/orphus.js"></script>
+<a href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/orphus/orphus.gif" border="0" width="1" height="1" /></a>
+</td>	
+  </tr>
+    <td align="center" valign="middle" class="bottom" colspan="2">
+<a href="/eng/preds/" class="link_3">HR & Busines</a> | <a href="/eng/map/" class="link_3">Map</a> | <a href="/eng/glos/" class="link_3">Glossary</a> | <a href="/eng/isl/metod/" class="link_3">Metodology</a> | <a href="/eng/contacts/" class="link_3">Participate in a Salary Survey</a> | <a href="/eng/about/" class="link_3">About Us</a> | <a href="/eng/contacts/" class="link_3">Contact with us</a>  
+
+
+
+</td>
+  <tr>
+    </td>
+    <td align="center" valign="middle" class="bottom" colspan="2">
+<a href="/demo.php">Obzorzarplat.ru</a> | <a href="http://www.ant-management.spb.ru/">Ant-Management</a> © 1996 - 2009 | <a href="/privacy_policy/" target="obzorzarplat_glossary" onclick="window.open(this.href, this.target, config='height=450,width=600,toolbar=0, scrollbars=1')">Privacy Policy</a>
+</td>
+</td>
+<br><br>
+</tr>
+</table>
+<!--end bottom -->
+	  
+    </td>
+    <td height="400">&nbsp;</td>
+  </tr>
+</table>
+<br><br>
+
+
+</body>
+</html>

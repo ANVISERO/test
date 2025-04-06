@@ -1,0 +1,527 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title><? echo($tit);?></title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="<? echo($key)?>">
+<meta name="description" content="<? echo($des)?>">
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" >
+<link href="<? echo($css);?>" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="100%" height="400" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="400"> </td>
+    <td width="960" height="400" valign="top" class="page">
+
+		
+<!--head -->
+<table width="960" height="75" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="60" class="head" valign="middle">
+<table width="960" height="60" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50"><img src="/_img/head_l.gif" width="50" height="55"></td>
+                  <td width="240"><a href="/eng/"><img alt="Salary Survey" src="/_img/logo_en.jpg" width="275" height="55" border="0"></a></td>
+                  <td width="260">
+<!--topmenu -->		
+  <font style="font-size:20px; font-weight:normal">|</font>
+<a href="/eng/servis/zp/" class="link_2">Personal</a>
+<font style="font-size:20px; font-weight:normal">|</font>
+<a href="/eng/preds/" class="link_2">HR & Business</a>
+<font style="font-size:20px; font-weight:normal">|</font>
+<!--end topmenu -->
+<!--#include virtual="/li_spider_check.php?obzorzarplat.ru=yourdomain.ru"-->
+</td>
+
+<td width="200" align="left">
+<!--search -->	
+<font style="font-size:10px; color:#515151">Site Search</font><br>
+<form name="search" style="margin:0px; padding:0px" method="post" action="/eng/search/">			  
+<input type="text" class="text" value="" name="search" style="width:120px">  <input type="submit" value="искать" class="but"></font>
+</form>
+<!--end search -->
+</td>
+<td width="60" align="center" valign="middle">
+<!--ru/en -->	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+	
+<? include($folder.'_admin/moduls/langselect.php');?>
+	
+	</td>
+   </tr>
+ </table>
+
+
+
+
+<!--end ru/en -->
+
+</td>
+<td width="50"><img src="/_img/head_r.gif" width="50" height="55"></td>
+                </tr>
+            </table>
+			</td>
+          </tr>
+        </table>
+<!--end head -->
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+
+<!--banner -->
+<table width="960" height="115" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+	<td width="21" height="115" bgcolor="#FFFFFF" style="background-image:url(/_img/tit_reclame_en.gif); background-repeat:no-repeat"> </td>
+    <td width="529" height="115" align="center" valign="middle" bgcolor="#eeeeee">
+	<!--reclama -->
+	<table width="529" height="115" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" class="reclame"><img alt="Salary Survey" src="/_img/testmode_en.jpg" width="529" height="115" border="0"></td>
+  </tr>
+</table>
+
+	<!--end reclama -->
+	</td>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+    <td width="265" height="115" valign="top" bgcolor="#FFFFFF">
+
+<!-- -->
+<?	
+//include($folder.'_admin/moduls/avtuser.php');
+?>
+<!-- -->
+
+</td>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+  </tr>
+</table>
+ 
+<!--end banner -->
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+<!--botton menu -->
+<table width="960" height="27" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="745" height="27" class="bottom_menu">
+<table height="27" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td height="27">
+<div class="mattblacktabs">
+<ul>
+<li><a href="/eng/about/">About Us</a></li>
+<li><a href="/eng/preds/">HR & Business</a></li>
+<li><a href="/eng/servis/zp/">Personal</a></li>
+<li><a href="/eng/servis/">Services</a></li>
+<li><a href="/eng/isl/">Research & Analitics</a></li>
+<li><a href="/eng/glos/">Glossary</a></li>
+<li><a href="/work/">Job Search</a></li>
+</ul>
+</div>
+	</td>
+  </tr>
+</table>
+</td>
+    <td width="100" height="27" align="right" class="bottom_menu">
+<!--icons -->	
+<a href="/eng/"><img onmouseover="this.src='/_img/ico_home_s.gif'" onmouseout="this.src='/_img/ico_home.gif'" src="/_img/ico_home.gif" width="17" height="17" border="0" alt="Main"></a> 
+<a href="/eng/search/"><img onmouseover="this.src='/_img/ico_search_s.gif'" onmouseout="this.src='/_img/ico_search.gif'" src="/_img/ico_search.gif" width="17" height="17" border="0" alt="Search"></a> 
+<a href="/eng/map/"><img onmouseover="this.src='/_img/ico_map_s.gif'" onmouseout="this.src='/_img/ico_map.gif'" src="/_img/ico_map.gif" width="17" height="17" border="0" alt="Map"></a> 
+<a href="/eng/contacts/"><img onmouseover="this.src='/_img/ico_contacts_s.gif'" onmouseout="this.src='/_img/ico_contacts.gif'" src="/_img/ico_contacts.gif" width="17" height="17" border="0" alt="Contacts"></a>
+<!--end icons -->	
+	</td>
+    <td width="15" height="27" class="bottom_menu"> </td>
+  </tr>
+</table>
+<!--end bottom menu -->
+<!--navibar -->
+<table width="960" height="20" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="bottom_menu" style="font-size:11px; color:#494949"><? include($folder.'_admin/moduls/navibar.php');?></td>
+  </tr>
+</table>
+<!--end navibar -->
+<!--center -->
+<table width="960" height="10" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="center2">
+
+<table width="960" height="150" border="0" cellpadding="0" cellspacing="0" class="articles">
+  <tr height="30">
+    <th width="250" class="articles_th">
+      <a href="/eng/servis/otchet/" class="link_th"><b>Personal Salary Report</b></a>
+    </th>
+    <th width="400" class="others_th">Evaluate Your Salary</th>
+    <th width="265" class="articles_th">
+      <a href="/eng/preds/" class="link_th"><b>Business</b></a><br>
+    </th>
+  </tr>
+  
+  <tr>
+  <td style="border-right:1px solid #c0c0c0">
+<!--блок перс отчет -->
+<table width="250" border="0" cellspacing="0" cellpadding="2" height="300">
+  <tr height="20%">
+    <td align="left" class="grey">
+<br>
+<img src="/_img/arr_01.gif" width="8" height="7">
+<b> Purchase your salary report</b><br>
+</td>
+</tr>
+
+<tr height="50%">
+  <td align="left" class="grey">
+  This report can be usefull for You: <br>
+  <ul>
+  <li>if You want to change job;</li>
+  <li>You can ask your emploeyer to explain how they got their numbers;</li>
+  </ul>
+  </td>
+</tr>
+
+<tr height="10%">
+<td align="center" valign="middle">
+You can view <a href='/some/counter/counter.php?link=1' class="link_4">demo</a>
+</td>
+</tr>
+<tr height="20%">
+<td align="center" valign="middle">
+<a href='/eng/servis/otchet/'><img src="/_img/report1.gif" alt="Purchase report" border="0" width="200" height="25"></a>
+</td>
+</tr>
+  
+</table>
+<!--end blok -->
+</td>
+
+<td>
+<!--блок зарплата-->
+<table width="400" height="260" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <table width="400" border="0" cellpadding="2" cellspacing="2" align="center" valign="top">
+      <tr>
+        <td>
+        <!-- -->
+<?	
+include($folder.'_admin/moduls/zp-form-main-eng.php');
+?>
+<!-- -->
+  </td>
+  </tr>
+  <tr>
+      <td valign="bottom"><i>Last modification of data: <font style="color:#900;">September 2009.</font></i></td>
+  </tr>
+  </table>
+   </td>
+</tr>   
+  </table>
+  
+  <!---конец блока зарплата-->
+</td>
+
+<td style="border-left:1px solid #c0c0c0;">
+<!--блок корпоративный отчет -->
+<table width="260" border="0" cellspacing="0" cellpadding="2" height="300">
+  <tr height="30%">
+    <td align="left" class="grey">
+<br>
+<img src="/_img/arr_01.gif" width="8" height="7">
+<b>Проект "Обзор Зарплат" предлагает информацию по заработным платам и компенсациям для HR-менеджеров, руководителей компаний, собственников бизнеса.</b><br>
+</td>
+</tr>
+<tr height="50%">
+<td align="left" class="grey">
+Обзоры заработных плат могут быть Вам полезны: <br>
+  <ul>
+  <li>при выработке политики в области оплаты труда персонала;</li>
+  <li>при корректировке компенсационной политики;</li>
+  <li>при ведении переговоров с работниками.</li>
+  </ul>
+</td>
+</tr>
+<tr height="20%">
+<td align="center" valign="middle">
+<a href="/eng/preds/"><img src="/_img/tarifi1.gif" alt="Tarifs" border="0" width="200" height="25"></a>
+</td>
+</tr>
+ </table>
+<!--end blok -->
+
+</td>
+  </tr>
+</table>
+
+<!--News and services-->
+<table width="960" border="0" cellpadding="0" cellspacing="0" class="news">
+<tr>
+  <th width="100" height="30">News: </th>
+   <td>
+<!--блок новости -->
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top">
+          <? include($folder.'_admin/moduls/newspreview_eng.php');?>
+        </td>
+      </tr>
+      </table>
+<!--конец новости -->
+    </td>
+<tr>
+</table>
+
+
+<table width="960" height="150" border="0" cellpadding="0" cellspacing="0" class="services">
+  <tr>
+    <th width="960" height="30" colspan="2"><a href="/eng/servis/" class="link_th">Services</a></th>
+  </tr>
+  <tr>
+    <td width="960" colspan="2">
+    <table width="100%" border="0" cellpadding="2" cellspacing="2" class="services">
+      <tr width="100%">
+        <td width="30%">
+          <a href="/eng/servis/million/"><img src="/_img/million_pic.jpg" border="0" width="160" height="100"></a>
+          <br><a href="/eng/servis/million/" class="link_3">When Will You Become a Millioner?</a>
+        </td>
+        <td width="30%">
+          <a href="/eng/servis/pensiya/"><img src="/_img/pension_pic.jpg" border="0" width="150" height="100"></a>
+          <br><a href="/eng/servis/pensiya/" class="link_3">Your pension</a>
+        </td>
+        <td width="30%">
+          <a href="/eng/servis/lgot/"><img src="/_img/lgot_pic.jpg" border="0" width="67" height="100"></a>
+          <br><a href="/eng/servis/lgot/" class="link_3">State Allowance</a>
+        </td>
+      </tr>
+      <tr width="100%">
+        <td width="30%">
+          <a href="/eng/servis/zp/"><img src="/_img/zp_pic.jpg" border="0" width="136" height="100"></a>
+          <br><a href="/eng/servis/zp/" class="link_3">Your Salary</a>
+        </td>
+        <td width="30%">
+          <a href="/servis/training/"><img src="/_img/training_pic.jpg" border="0" width="151" height="100"></a>
+          <br><a href="/servis/training/" class="link_3">Education & Training</a>
+        </td>
+        <td width="30%">
+          <a href="/work/"><img src="/_img/search_work_pic.jpg" border="0" width="129" height="100"></a>
+          <br><a href="/work/" class="link_3">Job Search</a>
+        </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+  
+  <table width="960" height="150" border="0" cellpadding="0" cellspacing="0" class="reports">
+  <tr>
+    <th width="250" height="30" class="personal_th"><a href="/eng/stats/">Articles</a></th>
+    <th width="460" height="30">HR</th>
+    <th width="260" height="30" class="personal_th"><a href="/isl/basestat">Latest Numbers</a></th>
+  </tr>
+   <tr>
+    <td style="border-right:1px dashed #a9a9a9; background-color:#e0e0e0;" align="left" valign="top">
+<!--articles -->
+      <table width="250" height="133" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top" align="left">
+          <? include($folder.'_admin/moduls/articlespreview_eng.php');?>
+        </td>
+      </tr>
+      </table>
+<!--/articles-->
+    </td>
+    <td width="460" valign="top" style="border-right:1px dashed #a9a9a9;" align="left">
+    <table width="460" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td align="left">
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/eng/preds/" class="link_3"> Salary Survey</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Salary data bases for companies</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/eng/servis/training/" class="link_3"> Education & Training</a>
+    </td>
+  </tr>
+  <tr>
+      <td>Education programs and training available for employees. </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/clients/" class="link_3"> Our Clients</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/contacts/" class="link_3"> Participate in a Salary Survey</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Obzorzarplat.ru introduces companies to participate in research projects.</td>
+  </tr>
+   <tr>
+    <td align="center" style="border-top:1px solid #a9a9a9;">
+    <br><a href="http://www.ant-management.spb.ru/hr.php" target="_blank"><img alt="Кадровый Клуб Кочубей" src="/_img/kochybei.jpg" width="223" height="98" border="0"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+<br>
+Петербургский кадровый клуб <a href="http://www.ant-management.spb.ru/hr.php" class="link_3">«Кочубей»</a> - сообщество профессионалов в сфере управления персоналом.<br>
+<br>Кадровый клуб <a href="http://www.ant-management.spb.ru/hr.php" class="link_3">«Кочубей»</a> - это:<br>
+<ul>
+<li>обмен реальным опытом между руководителями;</li>
+<li>общение с коллегами;</li>
+<li>новые деловые связи.</li>
+</ul> 
+</td>
+</tr>
+</table>
+    </td>
+    <td width="260" valign="top" bgcolor="#e0e0e0">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="stat">
+      <tr>
+        <th height="25">
+          Russian Federation
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Population: </strong>
+          <br><i>142 mln.</i>
+          <br>(January 2008)
+        </td>
+      </tr>
+      <tr>
+      <td>
+        <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Gross Domestic Product: </strong>
+        <br><i>11 647.0 B. rub.</i> 
+        </br>(III Quarter 2008г.)
+      </td>
+      </tr>
+       <tr>
+        <th height="25">
+          Saint-Petersburg
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Population: </strong>
+          <br><i>4,57 mln.</i>
+          <br>(October 2008)
+        </td>
+      </tr>
+      <tr>
+      <td>
+        <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Cost of Living: </strong>
+        <br><i>4 762 rub.</i> 
+        </br>(II Quarter 2008)
+      </td>
+      </tr>
+      <tr>
+      <td>
+        <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Industrial Production Index (IPI): </strong>
+        <br><i>101,1%</i> 
+        </br>(October 2008)
+      </td>
+      </tr>
+      <tr>
+      <td>
+        <p align="right"><a href="/isl/basestat/" target="blank" class="link_5">Others...</a></p>
+      </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!--/News and services-->
+
+
+	</td>
+  </tr>
+</table>
+<!--end center -->
+
+<!--bottom -->
+<table width="960" height="30" border="0" align="center" cellpadding="0" cellspacing="2" class="basement">
+  <tr>
+<td align="right" valign="middle" class="bottom" colspan="3">
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9382339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</td>	
+  </tr>
+   <tr>
+     <td align="right" width="45%"><a href="/"><img src="/_admin/_adminfiles/ico_flag_ru.gif" width="20" height="20" alt="По Русски" style="border:1px solid #eee"></a></td>
+    <td align="center" width="10%"><a href="/eng/"><img src="/_admin/_adminfiles/ico_flag_eng.gif" width="20" height="20" alt="By English" border="0"></a></td>
+    <td align="left" width="45%"><a href="/ua/"><img src="/_admin/_adminfiles/ukraine.gif" width="20" height="20" alt="По Українськи" style="border:1px solid #eee" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="3">
+<a href="/eng/preds/" class="link_3">HR & Busines</a> | 
+<a href="/eng/map/" class="link_3">Map</a> | 
+<a href="/eng/glos/" class="link_3">Glossary</a> | 
+<a href="/eng/isl/metod/" class="link_3">Metodology</a> | 
+<a href="/eng/contacts/" class="link_3">Participate in a Salary Survey</a> | 
+<a href="/eng/about/" class="link_3">About Us</a> | 
+<a href="/eng/contacts/" class="link_3">Contact with us</a>   
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="3">
+<a href="/demo.php">Obzorzarplat.ru</a> | <a href="http://www.ant-management.spb.ru/">Ant-Management</a> © 1996 - 2009 | <a href="/privacy_policy/" target="obzorzarplat_glossary" onclick="window.open(this.href, this.target, config='height=450,width=600,toolbar=0, scrollbars=1')">Политика Конфиденциальности</a>
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+<!--end bottom -->
+	  
+    </td>
+    <td height="400"> </td>
+  </tr>
+</table>
+<br><br>
+
+</body>
+</html>

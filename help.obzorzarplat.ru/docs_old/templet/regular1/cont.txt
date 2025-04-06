@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title><? echo($tit);?></title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="<? echo($key)?>">
+<meta name="description" content="<? echo($des)?>">
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" >
+<link href="<? echo($css);?>" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/_js/image_rotate.js"></script>
+
+</head>
+
+<body>
+
+<table width="100%" height="400" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="400"> </td>
+    <td width="960" height="400" valign="top" class="page">
+	
+	
+<!--head -->
+<table width="960" height="76" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="60" class="head" valign="middle">
+<table width="960" height="60" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50"><img src="/_img/head_l.gif" width="50" height="55"></td>
+                  <td width="240"><a href="http://obzorzarplat.ru"><img alt="Обзор зарплат" src="/_img/logo_ru.jpg" width="290" height="55" border="0"></a></td>
+                  <td width="260">
+
+<!--#include virtual="/li_spider_check.php?obzorzarplat.ru=yourdomain.ru"-->
+</td>
+
+<td width="200" align="left">
+<!--search -->	
+<font style="font-size:10px; color:#515151">Поиск на сайте</font><br>
+<form style="margin:1px; padding:0px" name="search" method="post" action="/search/">			  
+<input type="text" class="text" value="" name="search" style="width:120px">  <input type="submit" value="искать" class="but"></form>
+<!--end search -->
+</td>
+<td width="60" align="center">
+<!--ru/en -->	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+	
+<? include($folder.'_admin/moduls/langselect.php');?>
+	
+	</td>
+   </tr>
+ </table>
+
+
+
+
+<!--end ru/en --></td>
+<td width="50"><img src="/_img/head_r.gif" width="50" height="55"></td>
+                </tr>
+            </table>
+			</td>
+          </tr>
+      </table>
+<!--end head -->
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+<!--botton menu -->
+<table width="960" height="25" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="90%" height="25" class="bottom_menu">
+
+  <div class="menu">
+<ul>
+<li><a href="/">Главная</a></li>
+<li><a href="/servis/job_description/" id="jobdescript" class="superlong">Должностные инструкции</a></li>
+<li><a href="/preds/">Обзор зарплат</a></li>
+<li><a href="/servis/zp/" class="red"><span>Зарплата &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+    <!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/servis/zp/">Средняя зарплата</a></li>
+      <li><a href="/servis/otchet/">Персональный отчет</a></li>
+      <li><a href="/faq/">Вопросы/ответы</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+
+<li><a href="/work/" id="work">Поиск работы</a></li>
+
+<li><a href="/hrclub/" id="hrclub" class="long"><span>Клуб "Кочубей" &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/hrclub/">О Клубе "Кочубей"</a></li>
+      <li><a href="/hrclub/estimated_meeting/">Анонсы готовящихся заседаний</a></li>
+      <li><a href="/hrclub/archive/">Архив заседаний</a></li>
+      <li><a href="/hrclub/conference/">Конференция</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+<li><a href="/servis/" id="services"><span>Сервисы &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+  <li><a href="" class="sub">Развлечения &#187;<!--[if gte IE 7]><!--></a><!--<![endif]-->
+    <!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/servis/million/">Когда Вы станете миллионером?</a></li>
+      <li><a href="/servis/pensiya/">С какой скоростью Вы зарабатываете?</a></li>
+      <li><a href="/servis/bigmak/">Сколько Биг-Маков я уже заработал?</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+  
+  <li><a href="/servis/pensiya/">Ваша будущая пенсия</a></li>
+  <li><a href="/work/">Поиск работы</a></li>
+  <li><a href="/servis/zp/" class="sub">Зарплата &#187;<!--[if gte IE 7]><!--></a><!--<![endif]-->
+    <!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/servis/zp/">Средняя зарплата</a></li>
+      <li><a href="/servis/otchet/">Персональный отчет</a></li>
+      <li><a href="/preds/">Обзор зарплат</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+  
+  <li><a href="#nogo" class="sub">Государственные льготы &#187;<!--[if IE 7]><!--></a><!--<![endif]--> 
+	<!--[if lte IE 6]><table><tr><td><![endif]--> 
+		<ul> 
+        <li><a href="/servis/lgot/">Пособия</a></li>
+        <li><a href="/servis/gosgarant/">Гарантии и компенсации</a></li>
+        <li><a href="/servis/nalog/">Льготы по НДФЛ</a></li>
+		</ul> 
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--> 
+	</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href="/isl/" id="isl"><span>Исследования &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+
+  <!--[if lte IE 6]><table><tr><td><![endif]-->
+  <ul>
+    <li><a href="/isl/metod/">Методология исследования</a></li>
+    <li><a href="/isl/struktura/">Структура выборки</a></li>
+    <li><a href="/isl/basestat/">Экономические показатели</a></li>
+    <li><a href="/stats/">Статьи</a></li>
+  </ul>
+  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+
+</td>
+  </tr>
+</table>
+<!--end bottom menu -->
+<!--navibar -->
+<table width="960" height="20" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td class="bottom_menu" style="font-size:11px; color:#494949">
+<? include($folder.'_admin/moduls/navibar.php');?>
+</td>
+  </tr>
+</table>
+<!--end navibar -->
+<br>
+<!--center -->
+<table width="960" height="150" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="center">
+	<!--title -->
+	<h1 class="title_1"><img src="/_img/arr_01" width="8" height="7">  <?=$title_raz;?></h1>
+	<br>
+	<!--end title -->
+	<!--content -->
+<? include($content);?>
+	<!--end content -->
+	</td>
+  </tr>
+</table>
+<!--end center -->
+
+<!--bottom -->
+<table width="960" height="30" border="0" align="center" cellpadding="0" cellspacing="2">
+  <tr>
+<td align="right" valign="middle" class="bottom" colspan="3">
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9382339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</td>	
+  </tr>
+   <tr>
+     <td align="right" width="45%">&nbsp;</td>
+    <td align="center" width="10%">&nbsp;</td>
+    <td align="left" width="45%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="3">
+      <a href="/servis/zp/" class="link_3">Персонал</a> | <a href="/preds/" class="link_3">Бизнес</a> | <a href="/map/" class="link_3">Карта сайта</a> | <a href="/glos/" class="link_3">Глоссарий</a> | <a href="/isl/metod/" class="link_3">Методология</a> | <a href="/participation/" class="link_3">Участие в исследовании</a> | <a href="/about/" class="link_3">О нас</a> | <a href="/contacts/" class="link_3">Контакты</a> </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="3">
+      <a href="/demo.php">Obzorzarplat.ru</a> |<a href="http://www.ant-management.spb.ru/" class="link_3" target="blank" > Ant-Management</a> © 1996 - 2009 | <a href="/privacy_policy/" class="link_3">Политика Конфиденциальности</a> | <a href="/terms_of_use/" class="link_3"> Правила пользования</a> </td>
+</tr>
+</table>
+<!--end bottom -->
+	  
+    </td>
+    <td height="400"> </td>
+  </tr>
+</table>
+<br><br>
+
+
+</body>
+</html>

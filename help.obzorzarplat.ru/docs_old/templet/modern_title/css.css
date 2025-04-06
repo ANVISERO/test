@@ -1,0 +1,112 @@
+body{margin:0; margin-top:20px; padding:0; font-size:12px; font-family:Verdana; background-color:#EEEEEE; background-image:url(/_img/bg_main.gif);} 
+a{color:#cc0000}
+hr{height:1px; color:#000}
+a.link_1{ color:#cc0000; font-size:10px; text-decoration:none}
+
+a.link_2{ color:#cc0000; font-size:10px; text-decoration:none; font-weight:bold}
+a.link_2:hover{ text-decoration:underline}
+
+a.link_3{ color:#000; font-size:11px; text-decoration:underline; font-weight:bold}
+a.link_3:hover{ text-decoration:underline; color:#c00}
+
+a.link_4{ color:#900; font-size:12px; text-decoration:underline; font-weight:bold}
+a.link_4:hover{ text-decoration:underline; color:#c00}
+
+a.link_5{ color:#900; font-size:11px; text-decoration:underline; font-weight:plain; font-style:italic;}
+a.link_5:hover{ text-decoration:underline; color:#c00}
+
+a.link_th{font-size:16px; font-weight:bold; text-align:center; color:#fff; text-decoration:none;}
+
+h1.title{font-family:verdana; font-size:14px; padding:0px; margin:0px}
+td.page{ border:1px solid #000; background-color:#fff;}
+td.head{ background-color:#fff; background-image:url(/_img/g_dot_1.gif); background-position:bottom; background-repeat:repeat-x}
+td.reclame{border:1px solid #DBDBDB}
+td.bottom_menu{background-color:#fff; border-bottom:1px solid #505151}
+td.b_menu{background-image:url(/_img/bg_menu.gif);}
+td.b_menu a{ text-decoration:none; color:#494949; text-transform: lowercase; font-size:10px; padding-left:4px; padding-right:4px; font-weight:bold}
+td.b_menu a:hover{color:#DD1011}
+td.grey{font-size:10px; color:#000}
+
+input.text{font-size:11px; font-weight:normal; background-color:#fff; height:13px; font-family:verdana; border:1px solid silver}
+select.text{font-size:10px; font-weight:normal; background-color:#fff; font-family:verdana; border:1px solid silver}
+input.but{font-size:10px; font-weight:bold; background-color:#E0E0E0;  font-family:verdana; border:1px solid #999; cursor:hand; color:#515151}
+
+td.center{background-color:#fff; border:1px solid #DBDBDB; padding:10px}
+td.center2{padding:0px}
+td.bottom{ font-size:10px; color:#979696}
+td.bottom a{font-size:10px; color:#979696; text-decoration:none}
+td.bottom a:hover{ text-decoration:underline; color:#666}
+td.blok_1{background-color:#fff; border:1px solid #DBDBDB}
+
+td.servis{font-size:10px}
+
+td.main_t{font-size:12px}
+
+ul {margin: 10px; padding: 0;}
+
+a.terms{font-size:12px; color:#900; font-weight:bold; text-decoration:none;}
+
+table.reports th{background-color:#e0e0e0; font-size:16px; font-weight:bold; text-align:center; color:#000;}
+table.reports th a{font-size:16px; font-weight:bold; text-align:center; color:#000; text-decoration:none}
+table.reports th.personal_th{background-color:#c0c0c0; border-right:1px solid #c0c0c0;}
+table.reports th.corporative_th{background-color:#c0c0c0; border-left:1px solid #c0c0c0;}
+table.reports td{padding-left:4px; padding-right:4px; vertical-align:top;}
+
+table.news{border-top:1px solid #ff8c00; padding-left:4px; padding-right:4px; background-color: #e0e0e0;}
+table.news th{font-size:16px; font-weight:bold; text-align:center; color:#b55; vertical-align: top;}
+
+table.services th{background-color:#933; font-size:16px; font-weight:bold; text-align:center; color:#fff;}
+table.services th a{font-size:16px; font-weight:bold; text-align:center; color:#fff; text-decoration:none}
+table.services td{padding-left:3px; padding-right:3px; vertical-align:top;}
+table.services th.news_th{background-color:#b55;}
+
+table.services td{text-align:center; vertical-align:top; font-size:11px;}
+table.services td a{text-align:absmiddle; vertical-align:top}
+
+table.articles th.others_th{background-color:#b55;}
+table.articles th{background-color:#933;}
+
+table.stat td{padding-left:4px; padding-right:4px;}
+table.stat th{background-color:#e0e0e0; font-size:14px; font-weight:bold; text-align:center; color:#000;}
+
+.mattblacktabs{
+width: 100%;
+overflow: hidden;
+border-bottom: 1px black; /*bottom horizontal line that runs beneath tabs*/
+}
+
+.mattblacktabs ul{
+margin: 0;
+padding: 0;
+padding-left: 10px; /*offset of tabs relative to browser left edge*/
+font: 11px Verdana;
+list-style-type: none;
+}
+
+.mattblacktabs li{
+display: inline;
+margin: 0;
+}
+
+.mattblacktabs li a{
+float: left;
+display: block;
+text-decoration: none;
+margin: 0;
+padding: 7px 8px; /*padding inside each tab*/
+border-right: 1px solid white; /*right divider between tabs*/
+color: white;
+background: #000; /*background of tabs (default state)*/
+}
+
+.mattblacktabs li a:visited{
+color: white;
+}
+
+.mattblacktabs li a:hover, .mattblacktabs li.selected a{
+background: #933; /*background of tabs for hover state, plus tab with "selected" class assigned to its LI */
+}
+
+.mattblacktabs li a:active{
+background: #000;
+}

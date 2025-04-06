@@ -1,0 +1,40 @@
+<h1>Статьи удаление</h1>
+<?
+$kol=$_POST["kol"];
+
+$link = mysql_connect($host,$user,$pass);
+mysql_select_db( $db,$link); 
+
+$kol_del=0;
+for($ii=1; $ii<=$kol;$ii++)
+{
+$name='test_'.$ii;
+
+if(isset($_POST["$name"]))
+{
+$kol_del++;
+$test[$kol_del]=$_POST["$name"];
+//Удаление из базы
+$query="delete from for_articles where id='$test[$kol_del]'";
+$result = mysql_query( $query,$link);
+
+$filefolder='elements/articles/'.$test[$kol_del];
+//Удаление файлов
+$url_file=$filefolder.'/anons.txt';
+unlink($url_file);
+$url_file=$filefolder.'/opis.txt';
+unlink($url_file);
+$url_file=$filefolder.'/small-photo.jpg';
+unlink($url_file);
+$url_file=$filefolder.'/small-photo_2.jpg';
+unlink($url_file);
+
+//Удаление каталога
+$url_dir=$filefolder.'/';
+rmdir($url_dir);
+}
+}
+?>
+<script>
+self.location.href="?page=articles";
+</script>

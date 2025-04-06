@@ -1,0 +1,14 @@
+body{margin:0px; font-family:tahoma; font-size:12px; color:#444444; background-color:#EEEEEE; background-image:url(/_img/bg_main.gif);}
+
+.adm_login{width: 460px; height:260px; border-collapse: collapse; color:#000; margin-top:70px;  border: 1px solid #ccc; background-color:#F1F3F5; font-size:11px;}
+.adm_login input{border:1px solid #CCC}
+.adm_login input.but{ border:1px solid #CCC; background-color:#E9ECEF; font-weight:bold; color:#666; font-size:11px; padding:3px; padding-left:5px; padding-right:5px}
+.adm_login p{padding:0px; margin:10px}
+
+.adm_login h1{font-size:20px; font-weight:normal; color:#007A11; padding:0; margin:2px}
+
+.adm_login .logtab{border:1px solid #CCC; background-color:#E9ECEF; font-size:11px; font-weight:bold}
+
+.adm_login a{ color:#007A11; text-decoration:none}
+.adm_login a:hover{text-decoration:underline;}
+.adm_login img{border:0}

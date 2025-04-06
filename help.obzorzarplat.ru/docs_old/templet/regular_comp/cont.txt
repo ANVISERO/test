@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Узнай свою зарплату! Обзоры зарплат в режиме он-лайн.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="keywords" content="Обзор зарплат" />
+<meta name="description" content="Обзор зарплат" />
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link href="<? echo($css);?>" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<!--header-->
+<div id="head">
+<div id="pad1"></div>
+      <div class="content1">
+          <a href="http://obzorzarplat.ru"><img alt="Обзор зарплат" src="/_img/logo_ru.jpg" width="290" height="55" border="0" /></a>
+      </div>
+</div>
+<!--end header-->
+
+
+<!--footer-->
+<div id="foot">
+<div id="pad3"></div>
+&copy; 2004 Stuart A Nicholls ~ All rights reserved&nbsp;
+</div>
+<!--end footer-->
+
+ <!--left menu-->
+<div id="left">
+<div class="pad2"></div>
+<div class="menu">
+<ul>
+<li><a href="/preds/discount/">Скидки &#187;</a></li>
+<li><a href="/preds/">Корпоративным клиентам &#187;</a></li>
+<li><a href="/personal/">Индивидуальным пользователям &#187;</a></li>
+<li><a href="/servis/">Исследования и аналитика &#187;</a></li>
+</ul>
+</div>
+</div>
+ <!--end left menu-->
+
+ <!--content-->
+<div id="content">
+<div class="pad2"></div>
+<? include($content);?>
+<div class="pad2"></div>
+</div>
+<!--end content-->
+
+
+</body>
+</html>

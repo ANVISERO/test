@@ -1,0 +1,555 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ОБЗОР ЗАРПЛАТ - Узнай свою зарплату! Обзоры заработных плат для компаний и сотрудников</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="keywords" content="ОБЗОР ЗАРПЛАТ, Зарплата, средняя заработная плата, заработная плата, компенсации и льготы, система мотивации персонала">
+<meta name="description" content="ОБЗОР ЗАРПЛАТ.ру - это интерактивный инновационный подход к управлению затратами на персонал, позволяющий компаниям эффективно управлять системами вознаграждения" />
+<meta name="REVISIT-AFTER" content="1 DAYS" />
+<meta name="DISTRIBUTION" content="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link href="_admin/templet/main/css.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<table width="100%" height="400" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="400"> </td>
+    <td width="960" height="400" valign="top" class="page">
+
+		
+<!--head -->
+<table width="960" height="75" border="0" cellpadding="0" cellspacing="2">
+          <tr>
+            <td height="60" class="head" valign="middle">
+<table width="960" height="60" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="50"><img src="/_img/head_l.gif" width="50" height="55" /></td>
+                  <td width="240"><a href="http://obzorzarplat.ru"><img alt="Обзор зарплат" src="/_img/logo_ru.jpg" width="290" height="55" border="0"></a></td>
+                  <td width="260">
+
+<!--#include virtual="/li_spider_check.php?obzorzarplat.ru=yourdomain.ru"-->
+</td>
+<td align="center" valign="middle">
+<script src="http://odnaknopka.ru/ok2.js" type="text/javascript"></script>
+</td>
+<td width="50"></td>
+<td width="200" align="left" valign="top">
+<!--search -->	
+<font style="font-size:10px; color:#515151">Поиск на сайте</font><br>
+<form name="search" style="margin:0px; padding:0px" method="post" action="/search/">			  
+<input type="text" class="text" value="Поиск на сайте" name="search" style="width:120px">  <input type="submit" value="искать" class="but"></font>
+</form>
+<!--end search -->
+</td>
+<td width="60" align="center" valign="top">
+<!--ru/en -->	
+	
+<? include($folder.'_admin/moduls/langselect.php');?>
+	
+<!--end ru/en -->
+
+</td>
+                </tr>
+            </table>
+			</td>
+          </tr>
+      </table>
+<!--end head -->
+
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+
+<!--banner -->
+<table width="960" height="115" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+    <td valign="top">
+	<!--reclama -->
+<div class="businessoffer">
+<a href="/preds/promotion/"><img src="/_img//msk.jpg" width="893" height="187"></a>
+</div>
+<div class="moscow">
+<center><a href="http://obzorzarplat.ru/preds/promotion" class="l2">0 рублей - стоимость доступа для компаний из Москвы!</a></center><br>
+<center><a href="http://obzorzarplat.ru/preds/promotion" class="l3">Количество предложений НЕограниченно</a></center>
+<p align="right"><a href="http://obzorzarplat.ru/preds/promotion" class="l4">Узнать об акции</a></p>
+</div>
+
+	<!--end reclama -->
+	</td>
+
+    <td width="15" height="115" bgcolor="#FFFFFF"> </td>
+  </tr>
+</table>
+ 
+<!--end banner -->
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="10" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+
+<!--botton menu -->
+<table width="960" height="27" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="90%" height="27" class="bottom_menu">
+
+  <div class="menu">
+<ul>
+<li><a href="/about" id="about">О нас</a></li>
+<li><a href="/servis/job_description/" id="jobdescript" class="superlong">Должностные инструкции</a></li>
+<li><a href="/preds" id="survey">Обзор зарплат</a></li>
+<li><a href="/servis/zp/" class="red"><span>Зарплата &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+    <!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/servis/zp/">Средняя зарплата</a></li>
+      <li><a href="/servis/otchet/">Персональный отчет</a></li>
+      <li><a href="/faq">Вопросы/ответы</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+
+<li><a href="/work/" id="work">Поиск работы</a></li>
+
+<li><a href="/hrclub/" id="hrclub" class="long"><span>Клуб "Кочубей" &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/hrclub/">О Клубе "Кочубей"</a></li>
+      <li><a href="/hrclub/estimated_meeting/">Анонсы готовящихся заседаний</a></li>
+      <li><a href="/hrclub/archive/">Архив заседаний</a></li>
+      <li><a href="/hrclub/conference/">Конференция</a></li>
+      <li><a href="/hrclub/partners/">Партнеры</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+
+<li><a href="/servis/" id="services"><span>Сервисы &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+  <li><a href="/servis/pensiya/">Ваша будущая пенсия</a></li>
+  <li><a href="/work/">Поиск работы</a></li>
+  <li><a href="/servis/zp/" class="sub">Зарплата &#187;<!--[if gte IE 7]><!--></a><!--<![endif]-->
+    <!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul>
+      <li><a href="/servis/zp/">Средняя зарплата</a></li>
+      <li><a href="/servis/otchet/">Персональный отчет</a></li>
+      <li><a href="/preds">Обзор зарплат</a></li>
+      <li><a href="/help">Вопросы/Ответы</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+  
+  <li><a href="#nogo" class="sub">Государственные льготы &#187;<!--[if IE 7]><!--></a><!--<![endif]--> 
+	<!--[if lte IE 6]><table><tr><td><![endif]--> 
+		<ul> 
+        <li><a href="/servis/lgot/">Пособия</a></li>
+        <li><a href="/servis/gosgarant/">Гарантии и компенсации</a></li>
+        <li><a href="/servis/nalog/">Льготы по НДФЛ</a></li>
+		</ul> 
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--> 
+	</li>
+
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href="/isl/" id="isl"><span>Исследования &#187;</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+
+  <!--[if lte IE 6]><table><tr><td><![endif]-->
+  <ul>
+    <li><a href="/isl/metod/">Методология исследования</a></li>
+    <li><a href="/isl/struktura/">Структура выборки</a></li>
+    <li><a href="/isl/basestat/">Экономические показатели</a></li>
+    <li><a href="/stats/">Статьи</a></li>
+  </ul>
+  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+
+</td>
+  </tr>
+</table>
+<!--end bottom menu -->
+
+<!--center -->
+<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" class="center2">
+
+<table width="960" height="258" border="0" cellpadding="0" cellspacing="0" class="articles">
+  <tr height="30">
+    <th width="250" class="articles_th" style="border-right:1px solid #c0c0c0;">
+      <a href="/servis/otchet/" class="link_th"><b>Персональный отчет о заработной плате</b></a>
+    </th>
+    <th width="400" class="others_th">
+      Посмотрите рыночные значения заработной платы!
+    </th>
+    <th width="265" class="articles_th" style="border-left:1px solid #c0c0c0;">
+      <a href="/preds/" class="link_th"><b>Обзоры заработных плат в режиме он-лайн</b></a><br>
+    </th>
+  </tr>
+  
+  <tr>
+  <td valign="top" style="border-right:1px solid #c0c0c0">
+<!--блок перс отчет -->
+<table width="250" border="0" cellspacing="0" cellpadding="2" height="197">
+  <tr height="20%">
+    <td height="109" align="left" valign="top" class="grey"> <br />
+        <img src="/_img/arr_01.gif" width="8" height="7" /> <em>Посмотрите персональный отчет о заработной плате по интересующей Вас должности.</em><br /></td>
+  </tr>
+  <tr height="10%">
+    <td align="center" valign="middle"> Посмотрите <a href='/some/counter/counter.php?link=1' class="link_4">демо версию отчета о заработной плате</a> </td>
+  </tr>
+  <tr height="10%">
+    <td height="34" align="right" valign="middle"> <a href='/servis/otchet/'><img src="/_img/buttons/full_but.PNG" alt="персональный отчет о заработной плате" border="0" width="100" height="30" /></a> </td>
+  </tr>
+</table></td>
+
+<td valign="top">
+<!--блок зарплата-->
+<table width="400" height="150" border="0" cellpadding="2" cellspacing="0">
+  <tr height="90%">
+    <td height="150" valign="top">
+      <table width="400" border="0" cellpadding="2" cellspacing="2" align="center" valign="top">
+      <tr>
+        <td>
+        <!--ЗП -->
+<?	
+include($folder.'_admin/moduls/salary-form-main.php');
+?>
+
+<!--/ЗП -->
+  </td>
+  </tr>
+  </table>   </td>
+</tr>   
+  </table>
+  
+  <!---конец блока зарплата--></td>
+
+<td valign="top" style="border-left:1px solid #c0c0c0;">
+<!--блок корпоративный отчет -->
+<table width="260" border="0" cellspacing="0" cellpadding="2" height="197">
+  <tr height="30%">
+    <td align="left" valign="top">
+        <ul class="main">
+          <li>
+            <a href="/preds" class="list">Описание тарифов и демо версии обзоров заработных плат:</a>
+            <ul class="sub">
+              <li><a href="/preds/tarif_profi/" class="list">Обзор зарплат: тариф Профи</a></li>
+              <li><a href="/preds/tarif_standart/" class="list">Обзор зарплат: тариф Стандарт</a></li>
+              <li><a href="/preds/tarif_lite/" class="list">Обзор зарплат: тариф Лайт</a></li>
+              <li><a href="/preds/tarif_unlimited/" class="list">Обзор зарплат: тариф Лайт безлимитный</a></li>
+            </ul>
+          </li>
+        </ul>
+    </td>
+</tr>
+<tr height="10%">
+<td align="right" valign="middle">
+<a href="/preds/"><img src="/_img/buttons/full_but.PNG" alt="Обзор заработных плат" border="0" width="100" height="30"></a>
+</td>
+</tr>
+ </table></td>
+  </tr>
+</table>
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" class="update">
+  <tr>
+    <td width="244" height="38">
+      <i>Последнее обновление данных: <font style="color:#900;">сентябрь 2009 г.</font></i>
+    </td>
+    <td width="398" style="border-left:1px solid #c0c0c0;">
+      <i>Последнее обновление данных: <font style="color:#900;">сентябрь 2009 г.</font></i>
+    </td>
+    <td width="254" style="border-left:1px solid #c0c0c0;">
+      <i>Последнее обновление данных: <font style="color:#900;">сентябрь 2009 г.</font></i>
+    </td>
+  </tr>
+  </table>
+
+<!--News and services-->
+<table width="960" border="0" cellpadding="0" cellspacing="0" class="news">
+<tr>
+  <th width="100" height="30">Новости: </th>
+   <td>
+<!--блок новости -->
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top">
+          <? include($folder.'_admin/moduls/newspreview.php');?></td>
+      </tr>
+      </table>
+<!--конец новости -->
+    </td>
+<tr>
+</table>
+
+
+<table width="960" height="150" border="0" cellpadding="0" cellspacing="0" class="services">
+  <tr>
+    <th width="960" height="30" colspan="2"><a href="/servis/" class="link_th">Сервисы</a></th>
+  </tr>
+  <tr width="100%">
+    <td width="960" colspan="2">
+    <table width="100%" border="0" cellpadding="2" cellspacing="2" class="services">
+      <tr width="100%">
+        <td width="30%">
+          <a href="/servis/million/"><img src="/_img/million_pic.jpg" border="0" width="160" height="100"></a>
+        </td>
+        <td width="30%">
+          <a href="/servis/pensiya/"><img src="/_img/pension_pic.jpg" border="0" width="150" height="100"></a>
+        </td>
+        <td width="30%">
+          <a href="/servis/lgot/"><img src="/_img/lgot_pic.jpg" border="0" width="67" height="100"></a>
+        </td>
+      </tr>
+      <tr width="100%">
+        <td width="30%">
+          <a href="/servis/million/" class="link_3">Когда вы станете миллионером?</a>
+        </td>
+        <td width="30%">
+         <a href="/servis/pensiya/" class="link_3">Узнайте размер Вашей будущей пенсии.</a>
+        </td>
+        <td width="30%">
+          <a href="/servis/lgot/" class="link_3">Узнайте размер государственных пособий, которые Вы можете получить.</a>
+        </td>
+      </tr>
+      <tr width="100%">
+        <td width="30%">
+          <a href="/servis/zp/"><img src="/_img/zp_pic.jpg" border="0" width="136" height="100"></a>
+        </td>
+        <td width="30%">
+          <a href="/servis/training/"><img src="/_img/training_pic.jpg" border="0" width="151" height="100"></a>
+        </td>
+        <td width="30%">
+          <a href="/work/"><img src="/_img/search_work_pic.PNG" border="0" width="129" height="100"></a>
+        </td>
+      </tr>
+       <tr width="100%">
+        <td width="30%">
+          <a href="/servis/zp/" class="link_3">Сравните Ваш доход со средней заработной платой.</a>
+        </td>
+        <td width="30%">
+          <a href="/servis/training/" class="link_3">Тренинги и обучение.</a>
+        </td>
+        <td width="30%">
+          <a href="/work/" class="link_3">Поиск работы.</a>
+        </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+  
+  <table width="960" height="150" border="0" cellpadding="0" cellspacing="0" class="reports">
+  <tr>
+    <th width="250" height="30" class="personal_th"><a href="/stats/">Статьи</a></th>
+    <th width="460" height="30">Для HR-ов</th>
+    <th width="260" height="30" class="personal_th"><a href="/isl/basestat">Экономические показатели</a></th>
+  </tr>
+   <tr>
+    <td style="border-right:1px dashed #a9a9a9; background-color:#e0e0e0;" align="left" valign="top">
+<!--articles -->
+      <table width="250" height="133" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top" align="left">
+          <? include($folder.'_admin/moduls/articlespreview.php');?>
+      
+          <FORM TARGET=_top ACTION="http://subscribe.ru/member/quick" METHOD="POST">
+            <INPUT TYPE=hidden NAME="action" VALUE="quick">
+            <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2">
+            <TR>
+              <TD ALIGN="left">
+              <INPUT TYPE=hidden NAME=grp VALUE="economics.review.obzorzarplat">
+              <p>Подписаться на рассылку: <A HREF="http://subscribe.ru/catalog/economics.review.obzorzarplat" TARGET=_top>Обзор зарплат</A></p>
+              <p align="left">
+              <INPUT TYPE=text NAME=email SIZE=20 MAXLENGTH=100 VALUE="ваш e-mail">&nbsp;
+              <INPUT TYPE=submit VALUE="OK" style="font-size: 9pt"></p>
+              </TD>
+            </TR>
+            <TR>
+              <TD>
+              <A HREF="mailto:economics.review.obzorzarplat-sub@subscribe.ru?subj=subscribe">Подписаться письмом</A>
+              </TD>
+            </TR>
+            </TABLE>
+            <INPUT TYPE=hidden NAME=src VALUE="list_economics.review.obzorzarplat">
+          </FORM>
+        </td>
+      </tr>
+      </table>
+<!--/articles-->
+    </td>
+    <td width="460" valign="top" style="border-right:1px dashed #a9a9a9;" align="left">
+    <table width="460" border="0" cellspacing="2" cellpadding="2">
+  <tr>
+    <td align="left">
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/preds/" class="link_3"> Обзоры рынка заработных плат для корпоративных клиентов</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Доступ к базам данных по заработным платам для компаний.</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/servis/training/" class="link_3">Тренинги и обучение</a>
+    </td>
+  </tr>
+  <tr>
+      <td>Образовательные программы и тренинги для персонала. </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/clients/" class="link_3"> Наши клиенты</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/_img/arr_01" width="8" height="7"> <a href="/contacts/" class="link_3"> Участие в исследованиях</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Obzorzarplat.ru приглашает компании для участия в обзорах заработных плат.</td>
+  </tr>
+   <tr>
+    <td align="center" style="border-top:1px solid #a9a9a9;">
+    <br><a href="/hrclub/" target="_blank"><img alt="Кадровый Клуб Кочубей" src="/_img/kochybei.jpg" width="223" height="98" border="0"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+<br>
+Петербургский кадровый клуб <a href="/hrclub" class="link_3">«Кочубей»</a> - сообщество профессионалов в сфере управления персоналом.<br>
+<br>Кадровый клуб <a href="/hrclub" class="link_3">«Кочубей»</a> - это:<br>
+<ul>
+<li>обмен реальным опытом между руководителями;</li>
+<li>общение с коллегами;</li>
+<li>новые деловые связи.</li>
+</ul> 
+</td>
+</tr>
+</table>
+    </td>
+    <td width="260" valign="top" bgcolor="#e0e0e0">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="stat">
+       <tr>
+        <th height="25">
+          Санкт-Петербург
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Численность населения: </strong>
+          <br><i>4581,7 тыс. человек</i>
+          <br>(Январь 2009г.)
+        </td>
+      </tr>
+      <tr>
+      <td>
+        <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Прожиточный минимум: </strong>
+        <br><i>5121 руб.</i> 
+        </br>(I квартал 2009г.)
+      </td>
+      </tr>
+      <tr>
+      <td>
+        <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Суммарная задолженность по заработной плате: </strong>
+        <br><i>48,7 млн. руб.</i> 
+        </br>(на 1 июля 2009г.)
+      </td>
+      </tr>
+      <tr>
+        <th height="25">
+          Российская Федерация
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Численность населения: </strong>
+          <br><i>141,9 млн. человек</i>
+          <br>(Январь 2009г.)
+        </td>
+      </tr>
+      <tr>
+      <td>
+        <img src="/_img/arr_01.gif" width="8" height="7"> <strong>Денежные доходы (в среднем на душу населения): </strong>
+        <br><i>17679 руб.</i> 
+        </br>(июнь 2009г.)
+      </td>
+      </tr>
+      <tr>
+      <td>
+        <p align="right"><a href="/isl/basestat/" target="blank" class="link_5">Другие показатели...</a></p>
+      </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!--/News and services-->
+
+
+	</td>
+  </tr>
+</table>
+<!--end center -->
+
+<!--bottom -->
+<table width="960" height="30" border="0" align="center" cellpadding="0" cellspacing="2" class="basement">
+  <tr>
+<td align="right" valign="middle" class="bottom" colspan="3">
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9382339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</td>	
+  </tr>
+   <tr>
+     <td align="right" width="45%">&nbsp;</td>
+    <td align="center" width="10%">&nbsp;</td>
+    <td align="left" width="45%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="3">
+<a href="/servis/zp/" class="link_3">Персонал</a> | <a href="/preds/" class="link_3">Бизнес</a> | <a href="/map/" class="link_3">Карта сайта</a> | <a href="/glos/" class="link_3">Глоссарий</a> | <a href="/isl/metod/" class="link_3">Методология</a> | <a href="/participation/" class="link_3">Участие в исследовании</a> | <a href="/about/" class="link_3">О нас</a> | <a href="/contacts/" class="link_3">Контакты</a>  
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="bottom" colspan="3">
+<a href="/demo.php">Obzorzarplat.ru</a> |<a href="http://www.ant-management.spb.ru/" class="link_3" target="blank" > Проект компании Ant-Management</a> © 1996 - 2009 | <a href="/privacy_policy/" class="link_3">Политика Конфиденциальности</a> | <a href="/terms_of_use/" class="link_3"> Правила пользования</a> </td>
+</tr>
+</table>
+<!--end bottom -->
+	  
+    </td>
+    <td height="400"> </td>
+  </tr>
+</table>
+<br><br>
+</body>
+
+</html>

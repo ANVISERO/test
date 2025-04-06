@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Узнай свою зарплату! Обзоры зарплат в режиме он-лайн.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+<meta name="keywords" content="Обзор зарплат" />
+<meta name="description" content="Обзор зарплат" />
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link href="<? echo($css);?>" rel="stylesheet" type="text/css" />
+<!--<link href="/_css/tabs/docs.css" rel="stylesheet" type="text/css" />-->
+<link href="/_css/tabs/tabtastic.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/_js/lib/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.metadata.min.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.tableFormSynch.documented.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.form.js"></script>
+<script type="text/javascript" src="/_js/lib/script.js"></script>
+
+<script type="text/javascript" src="/_js/tabs/addclasskillclass.js"></script>
+<script type="text/javascript" src="/_js/tabs/attachevent.js"></script>
+<script type="text/javascript" src="/_js/tabs/addcss.js"></script>
+<script type="text/javascript" src="/_js/tabs/tabtastic.js"></script>
+
+	<style type="text/css">
+		/* These styles are for the documentation only */
+
+		.tabset_content a:link,
+		.tabset_content a:visited	{ background-color:white; color:gray; text-decoration:none; font-size:14px; }
+		.tabset_content a:link	{ color:#039; font-size:14px;  }
+		.tabset_content a:hover	{ background-color:silver; font-size:14px;  font-weight:normal;}
+.tabset_content { height:auto;  min-height:300px;}
+
+.tabset_tabs a.active, .tabset_tabs a.active:visited { background-color:#fff; font-size:14px; color:#c00;}
+
+	</style>
+
+<!--[if IE]>
+		<link href="/_css/ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if lt IE 7]>
+		<link href="/_css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if lte IE 5.5000]>
+		<link href="/_css/ie55.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+</head>
+
+<body>
+<div id="container">
+		<div id="header">
+<!--    <div> -->
+      <div class="content">
+          <a href="http://obzorzarplat.ru"><img alt="Обзор зарплат" src="/_img/logo_ru.jpg" width="290" height="55" border="0" /></a>
+      </div>
+<!--
+      <div class="content1">
+        <a href="/about">О нас</a> | <a href="/contacts">Контакты</a>
+      </div>
+    </div>
+    <div>
+        <div class="content2">
+        <!--search -->
+<!--
+        <form name="search" style="margin:0px; padding:0px" method="post" action="/search/">
+        <input type="text" class="text" value="Поиск на сайте" name="search" style="width:120px" />  
+        <input type="submit" value="искать" class="but" />
+        </form>
+        <!--end search -->
+ <!--     </div>
+      <div class="content2">
+        <script src="http://odnaknopka.ru/ok2.js" type="text/javascript"></script>
+      </div>
+-->
+    </div>
+      <br/>
+      <div class="topmenu">
+        <span><a href="/">Главная</a></span> |
+        <span><a href="/about">О нас</a></span> |
+        <span><a href="/servis/job_description/">Должностные инструкции</a></span> |
+        <span><a href="/servis/zp/">Зарплата</a></span> |
+        <span><a href="/preds/">Обзоры зарплат</a></span> |
+        <span><a href="/glos/">Глоссарий</a></span>
+      </div>
+		</div>
+  <!-- end header -->
+
+<div id="sidebar">
+ <?php
+ if ($_SESSION['logged_in']== FALSE)
+ {
+     include($folder.'_admin/moduls/menu/menu_left_business_outside.php');
+ }
+ else
+ {
+     include($folder.'_admin/moduls/menu/menu_left_business_inside.php');
+ }
+  ?>
+</div> <!-- end sidebar -->
+
+ <div id="mainContent">
+ <div class="navibar">Вы здесь: <?php include($folder.'_admin/moduls/navibar.php');?></div>
+<hr>
+          <div style="padding:1em;"><?php include($content);?></div>
+ </div> <!-- end mainContent -->
+ <br class="clearfloat">
+</div><!-- end #container -->
+
+  <div id="footer">
+    <p>Все права защищены и охраняются законом<br />
+      &copy; ООО &laquo;Ант-Менеджмент&raquo; 1996-2009</p>
+<!--[if lte IE 6]> <div style="text-align: center; height: 1.5em; width: 100%;"><a href="http://enoughie6.com/" style="color: black; display: block; padding: 0.25em 0; background-color: #FF9900; font-size: 1em; height: 1.5em; line-height: 1em; width: 100%;">Ваш браузер IE6 устарел за 8 лет. Вам необходимо обновить его.</a></div><![endif]-->
+  </div> <!-- end footer -->
+
+</body>
+</html>

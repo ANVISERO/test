@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Узнай свою зарплату! Обзоры зарплат в режиме он-лайн.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="Обзор зарплат" />
+<meta name="description" content="Обзор зарплат" />
+<meta name="REVISIT-AFTER" CONTENT="1 DAYS" />
+<meta name="DISTRIBUTION" CONTENT="GLOBAL" />
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link href="<?php echo($css);?>" rel="stylesheet" type="text/css" />
+<link href="/_css/tabs/tabtastic.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/_js/lib/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.metadata.min.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.tableFormSynch.documented.js"></script>
+<script type="text/javascript" src="/_js/lib/jquery.form.js"></script>
+<script type="text/javascript" src="/_js/lib/script.js"></script>
+
+<script type="text/javascript" src="/_js/tabs/addclasskillclass.js"></script>
+<script type="text/javascript" src="/_js/tabs/attachevent.js"></script>
+<script type="text/javascript" src="/_js/tabs/addcss.js"></script>
+<script type="text/javascript" src="/_js/tabs/tabtastic.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$(".btn-slide").click(function(){
+		$("#panel").slideToggle("slow");
+		$(this).toggleClass("active"); return false;
+	});
+
+
+});
+</script>
+
+<style type="text/css">
+a:focus {
+	outline: none;
+}
+#panel {
+	background: #e0e0e0;
+	height: 100px;
+       /* width: 200px;*/
+	display: none;
+}
+.slide {
+	margin: 0;
+	padding: 0;
+	border-top: solid 4px silver;
+	background: url(/_img/slidebox/btn-slide.gif) no-repeat center top;
+}
+
+.slide a, .slide a:visited{color:#fff;}
+
+.btn-slide {
+	background: url(/_img/slidebox/white-arrow.gif) no-repeat right -50px;
+	text-align: center;
+	width: 144px;
+	height: 31px;
+	padding: 10px 10px 0 0;
+	margin: 0 auto;
+	display: block;
+	font: bold 120%/100% Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
+.active {
+	/*background-position: right 12px;*/
+}
+</style>
+
+	<style type="text/css">
+		/* These styles are for the documentation only */
+
+		.tabset_content a:link,
+		.tabset_content a:visited	{ background-color:white; color:gray; text-decoration:none; font-size:14px; }
+		.tabset_content a:link	{ color:#039; font-size:14px;  }
+		.tabset_content a:hover	{ background-color:silver; font-size:14px;  font-weight:normal;}
+.tabset_content { height:auto;  min-height:300px;}
+
+.tabset_tabs a.active, .tabset_tabs a.active:visited { background-color:#fff; font-size:14px; color:#c00;}
+
+	</style>
+
+<!--[if IE]>
+		<link href="/_css/ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if lt IE 7]>
+		<link href="/_css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if lte IE 5.5000]>
+		<link href="/_css/ie55.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+</head>
+
+<body>
+
+<div id="header">
+<div class="menu_right">
+        <a href="http://obzorzarplat.ru/about/" class="lk1">О нас</a> | <a href="http://obzorzarplat.ru/contacts/" class="lk1">Контакты</a> |
+<?php
+ if ($_SESSION['logged_in']== FALSE)
+ {
+     echo('<a href="http://obzorzarplat.ru/business/login/" class="lk2">Вход для партнеров&raquo;</a>');
+ }
+ else
+ {
+     echo('<a href="http://obzorzarplat.ru/business/logout/" class="lk2">Выход&raquo;</a>');
+ }
+  ?>
+      </div>
+<div style="clear:both;"></div>
+<div width="100%">
+<a href="http://obzorzarplat.ru"><img alt="Обзор зарплат" src="http://obzorzarplat.ru/_img/logo_ru.jpg" width="290" height="55" border="0" /></a>
+<span style="float:right; font-weight:bold; font-size:16px; padding:10px;">8 (812) 740 18 11<br>Звоните нам!</span>
+</div>
+          
+    <div class="topmenu">
+        <span><a href="http://obzorzarplat.ru/">Главная</a></span> |
+        <span><a href="http://obzorzarplat.ru/servis/job_description/">Должностные инструкции</a></span> |
+        <span><a href="http://obzorzarplat.ru/servis/zp/">Зарплата</a></span> |
+        <span><a href="http://obzorzarplat.ru/preds/">Тарифы</a></span> |
+        <span><a href="http://obzorzarplat.ru/glos/">Глоссарий</a></span>
+    </div>
+
+		</div>
+  <!-- end header -->
+
+<div id="sidebar">
+ 		<?php
+ if ($_SESSION['logged_in']== FALSE)
+ {
+     include($folder.'_admin/moduls/menu/menu_left_business_outside.php');
+ }
+ else
+ {
+     include($folder.'_admin/moduls/menu/menu_left_business_inside.php');
+ }
+  ?>
+</div> <!-- end sidebar -->
+
+ <div id="mainContent">
+ <div class="navibar">
+Вы здесь: <?php include($folder.'_admin/moduls/navibar.php');?><hr>
+</div>
+<div class="mainBody">
+<h1><?php echo($title_raz);?></h1>
+<?php include($content);?>
+</div>
+ </div> <!-- end mainContent -->
+ <br class="clearfloat" />
+</div><!-- end #container -->
+
+  <div id="footer">
+    <p>Все права защищены и охраняются законом<br />
+      &copy; ООО &laquo;Ант-Менеджмент&raquo; 1996-<?php echo date("Y")?></p>
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.1;r"+
+escape(top.document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9382339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lte IE 6]> <div style="text-align: center; height: 1.5em; width: 100%;"><a href="http://enoughie6.com/" style="color: white; display: block; padding: 0.25em 0; background-color: gray; font-size: 1em; height: 1.5em; line-height: 1em; width: 100%;">Ваш браузер IE6 устарел за 8 лет. Вам необходимо обновить его.</a></div><![endif]-->
+  </div> <!-- end footer -->
+
+</body>
+</html>
