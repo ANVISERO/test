@@ -1,0 +1,16 @@
+<?php /* Smarty version 2.6.25, created on 2012-06-19 10:44:07
+         compiled from module_db_tpl:News%3BdetailSample */
+
+$this->_cache_serials['/home/zarplata/clubkochubey.ru/docs/tmp/templates_c/News^%%E8^E85^E85D59E8%%module_db_tpl%3ANews%3BdetailSample.inc'] = '9c384566255dbf90a6de47530426c544';
+
+?><?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'cms_date_format', 'module_db_tpl:News;detailSample', 12, false),array('modifier', 'cms_escape', 'module_db_tpl:News;detailSample', 15, false),array('function', 'eval', 'module_db_tpl:News;detailSample', 24, false),)), $this); ?>
+<?php
+function _smarty_tplfunc_9c384566255dbf90a6de47530426c544_0(&$_smarty)
+{
+$_cache_attrs =& $_smarty->_smarty_cache_attrs('9c384566255dbf90a6de47530426c544','0');echo smarty_function_eval(array('var' => $_smarty->_tpl_vars['entry']->content), $_smarty);
+}
+
+
+
+?>

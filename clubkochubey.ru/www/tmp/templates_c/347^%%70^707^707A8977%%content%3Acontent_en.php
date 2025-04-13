@@ -1,0 +1,29 @@
+<?php /* Smarty version 2.6.25, created on 2014-01-13 13:58:24
+         compiled from content:content_en */ ?>
+<p><strong>Партнеры Мероприятия:</strong></p>
+<p style="text-align: justify;"><img src="uploads/images/Logotypes/60sec.png" alt="" width="50" height="61" /> <img src="uploads/images/Logotypes/ANT.gif" alt="" width="100" height="22" /> <img src="uploads/images/Logotypes/logo_ru.jpg" alt="" width="100" height="19" /><img src="uploads/images/logotype_mini.jpg" alt="" width="100" height="42" /> <img src="uploads/images/Logotypes/isport.png" alt="" width="100" height="26" /> <img src="uploads/images/Logotypes/Executive.gif" alt="" width="90" height="36" /><br /><br /></p>
+<p class="p1" style="text-align: center;"><span style="font-size: medium; color: #378045;"><strong>Уважаемые Коллеги!</strong> <strong> </strong></span></p>
+<p class="p1" style="text-align: center;"><strong><span style="font-size: medium; color: #378045;">25 апреля Профессиональный кадровый клуб <a href="http://clubkochubey.ru/">«Кочубей»</a> совместно с интеллектуальным клубом <a href="http://www.club60sec.ru/">«60 секунд»</a> <br />и международным сообществом менеджеров </span><span style="font-size: medium; color: #378045;"><a href="http://www.e-xecutive.ru/">E-Хecutive<br /></a></span></strong><span style="font-size: 16px; color: #378045; text-align: left;"><strong>провел необычное мероприятие – </strong><br /><strong>первый в истории Санкт-Петербурга</strong> - <strong>HR-кубок по игре "60 секунд".</strong></span></p>
+<p class="p1" style="text-align: justify;">Мероприятие прошло в ресторане "Балтика Брю". <span style="font-size: 13px; text-align: left;">В игре приняли участие 20 команд. Лучшие команды и игроки получили ценные призы!</span></p>
+<p class="p1" style="text-align: justify;"> </p>
+<div>Приз за самый смешной неправильный ответ получила команда <strong>"Кадровый резерв"</strong>, сборная администрации клуба "Кочубей".</div>
+<p class="p1" style="text-align: justify;"> </p>
+<p class="p1" style="text-align: justify;">1 место в Матрице - команда "Петроградские юристы"</p>
+<div><span style="font-size: 13px; text-align: left;">1 место в игре 60 секунд - команда <strong>"360". </strong>Сборная команда.</span></div>
+<div><span style="font-size: 13px; text-align: left;"> <img style="vertical-align: text-bottom;" src="uploads/images/first place_tri.jpg" alt="" width="100" height="71" /> </span></div>
+<div><span style="font-size: 13px; text-align: left;">2 место в игре 60 секунд - команда <strong>"Тюлени". </strong>Сборная команда.</span></div>
+<div><span style="font-size: 13px; text-align: left;"><img style="vertical-align: text-bottom;" src="uploads/images/second place.jpg" alt="" width="100" height="70" /><br /></span></div>
+<div>3 место в игре 60 секунд - команда <strong>"АстроСофт только вперед!" </strong></div>
+<div><img style="vertical-align: text-bottom;" src="uploads/images/third place.jpg" alt="" width="100" height="75" /></div>
+<p> </p>
+<p class="p1" style="text-align: justify;"> </p>
+<p class="p1" style="text-align: justify;"><span style="text-decoration: underline;">В </span><span style="text-decoration: underline;">HR-Кубке приняли участие такие компании, как :</span></p>
+<p class="p1" style="text-align: justify;"><span style="font-size: 13px; text-align: left;">Кадровый клуб "Кочубей", Ант-Менеджмент, АстроСофт, Inchcape, Иттилан, Тренинговая компания EQuator, InterZet, АФАЛИНА, Компания ЭГО Транслейтинг, Jensen Group, Проектное решение, Банк "Викинг", ИПАРАН, Acsour, Персперктива, HappyLand, ЗАО УК СТАРТ Девелопмент, Смарт страхование, О'КЕЙ, Алиди, МорНефтеГазСтрой, УльтраСтар, Евросиб СПб - ТС, Петроградские юристы, TRIGO, Talented People, Signus Labs, Мостострой, Группа "Илим", ИНВЭНТ СЕВЕРО-ЗАПАД, ГК "СофтБаланс", Абсолюто, Altec Group, ТВ Купол, Алтек Групп, СК "Цюрих".</span></p>
+<p class="p1" style="text-align: justify;"><span style="font-size: 13px; text-align: left;">Игра </span><strong style="font-size: 13px; text-align: left;">«60 секунд»</strong><span style="font-size: 13px; text-align: left;"> – это соревнование между командами в умении отвечать на вопросы ведущего. Игра напоминает известную телепередачу, идущую по Первому каналу. За столом 6 знатоков, минута на обсуждение вопроса, ответ команды. Но в отличие от передачи, в игре участвует не одна команда. Никакие энциклопедические знания и опыт игры не требуются, успешно играть может каждый. Вопросы составлены так, чтобы для ответа на них требовалось логическое мышление, чувство юмора, фантазия и командная работа.</span></p>
+<p class="p1" style="text-align: justify;"><span style="font-size: 13px; text-align: left;"> </span><strong style="font-size: 13px; text-align: left;">Максимальное количество участников команды было – 6 человек.</strong></p>
+<p class="p1" style="text-align: justify;"> </p>
+<p class="p1" style="text-align: justify;"><span style="color: #008000;"><strong><em>С уважением и наилучшими пожеланиями,</em></strong></span></p>
+<p class="p1" style="text-align: justify;"><span style="color: #008000;"><strong><em> </em></strong></span><strong style="font-size: 13px; color: #008000; text-align: left;"><em>Президент</em></strong></p>
+<p class="p1" style="text-align: justify;"><span style="color: #008000;"><strong><em>Петербургского профессионального </em></strong></span></p>
+<p class="p1" style="text-align: justify;"><span style="color: #008000;"><strong><em>кадрового клуба "Кочубей"                                                                              В.В. Куприн</em></strong></span></p>
+<p class="p1" style="text-align: justify;"> </p>

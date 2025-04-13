@@ -1,0 +1,35 @@
+Trivia Quiz	An insane trivia quiz to use as an example
+s	Section One: Trivia
+t	This section is full of trivia.
+f	The lead developer of CMS Made Simple used to use the nickname _.	1	Wishy
+m	The Third digit of pi past the decimal point is:	1	1	0	3	0	4	0	5	0	9
+m	True or False: mumbletypeg is a game played with a knife.	1	true	0	false
+c	Which of the following are primary colors?	1	red	0	green	0	purple	1	blue	1	yellow	0	orange	0	brown
+m	Which is farther North:	1	Mongolia	0	Afghanistan
+m	How many bits in a byte?	0	4	1	8	0	16	0	32
+f	Complete the quotation: "_ is bunk." -- Henry Ford	1	history
+c	Which of the following contain code from Berkeley Unix?	1	Linux	1	Windows XP	0	Gasoline	1	Mac OS X	1	Windows Vista	1	Solaris
+m	Claret is:	0	red algae	1	red wine	0	a small bird	0	made of carrots
+f	The Norman invasion of Saxony took place in the year _, which saw King Harold killed by an arrow during the Battle of _.	1	1066	1	Hastings
+b
+s	Section Two: More Trivia
+t	This section contains trivia that is completely irrelevant to your life.
+c	Which of the following are object-oriented languages?	1	Ruby	1	Java	0	COBOL	0	FORTRAN	1	Eiffel
+m	The main chemical constituent of porcelain is:	1	silicon	0	lead	0	ivory	0	carbon	0	magnesium
+m	Which is further West:	1	Reno, Nevada	0	Los Angeles, California
+m	What's two to the tenth power?	0	256	0	512	1	1024	0	2048	0	4096
+c	Which of the following movies was released in 1962?	1	Lawrence of Arabia	1	Ride the High Country	1	The Manchurian Candidate	1	To Kill a Mockingbird	1	Lolita	1	Whatever Happened to Baby Jane?	1	How the West was Won
+f	Mixing red and green light will give you _ light.	1	yellow
+c	Which of these are Islay Scotches?	0	Johnny Walker	0	Cutty Sark	1	Lagavulin	1	Laphroaig	1	Bowmore	0	Glenfiddich
+t	This next one is the developer's birthday as well!
+f	The Beatles released the album "Sgt. Pepper's Lonely Hearts Club Band" on _ 1st, 1967.	1	June
+m	True or False: Science Fiction writer Philip K. Dick had a twin sister named Jane.	1	true	0	false
+b
+s	Section Three: The End of Trivia
+t	This section is the last bunch of trivia in this quiz.
+c	Which of the following were Sumerian Gods?	0	Loki	1	Enki	1	An	0	Bellona	1	Sin	0	Kali
+f	John Ford, famed movie director and recipient of four "Best Director" Academy Awards was born with the last name _.	1	Feeney
+m	Which was invented first?	1	beer	0	candles	0	bronze weapons	0	the abacus	0	the arch
+m	Which metal is least dense?	1	beryllium	0	aluminum	0	cobolt	0	tin	0	plutonium
+f	Jack Sprat could eat no _, his wife could eat no _.	1	fat	1	lean
+f	The animal with the scientific name "felis catus" is commonly known as _.	1	cat

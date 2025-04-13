@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.25, created on 2014-01-14 02:32:09
+         compiled from content:content_en */ ?>
+<strong>Информация о заседании</strong><br /><br />7 февраля состоялась встреча членов и постоянных гостей Клуба в ресторане ТИНЬКОФФ.<br /><br />Основной целью встречи было неформальное общение членов и гостей Клуба в приятной компании коллег. <br /><br /><br /><br /><!-- Add code here that should appear in the content block of all new pages -->

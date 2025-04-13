@@ -1,0 +1,52 @@
+<?php /* Smarty version 2.6.25, created on 2013-03-07 15:48:43
+         compiled from content:content_en */ ?>
+<p><strong>Партнеры мероприятия:</strong></p>
+<p><a href="ant-management.spb.ru/"><img src="uploads/images/Logotypes/ANT.gif" alt="" width="150" height="33" /></a><a href="obzorzarplat.ru/"><img src="uploads/images/Logotypes/logo_ru.jpg" alt="" width="120" height="23" /></a> <a href="http://www.imisp.ru"><img src="uploads/images/Logotypes/imisp.gif" alt="" width="84" height="40" /></a> <a href="http://www.prof-director.ru/"><img src="uploads/images/ProfDirectorlogo.jpg" alt="" width="100" height="47" /></a></p>
+<p style="text-align: center;"><span style="color: #000080;"><strong>Кадровый Клуб «Кочубей» при поддержке <br />Петербургского Международного Института Менеджмента <br />провел майское заседание по теме:</strong></span></p>
+<p style="text-align: center;"><span style="font-size: medium; color: #ff6600;"><strong>Те</strong><strong>нденции рынка труда<br /> Круглый стол  с участием представителей рекрутинга</strong></span></p>
+<p><strong> </strong></p>
+<p style="text-align: justify;"><span style="color: #000080;"><strong><br /></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span style="color: #2300dc;">В кулуарах <strong>ИМИСП</strong>а прошло очередное заседание нашего клуба. На этот раз представители компаний </span><span style="color: #2300dc;">Ward Howell и Kelly Services поведали участникам мероприятия об изменениях, произошедших на рынке труда за последний год. Как оказалось, роста зарплат менеджмента в начале года не предполагается, но увеличивается спрос на вакансии. Все чаще сотрудникам предлагают сменить регион проживания с увеличением компенсационного пакета. Происходит активная миграция профессионалов в регионы и наоборот, центральные офисы приглашают региональных специалистов высшего звена, так как они считаются «дешевле». </span></span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span style="color: #2300dc;">В силу дефицита </span><span style="color: #2300dc;">ТOP</span><span style="color: #2300dc;">ов</span><span style="color: #2300dc;"> и долгого отсутствия бизнеса в России как такового, "менеджер" молодеет: средний возраст Middle менеджера - 25-35 лет. Нужно отметить, что за последнее время наблюдается борьба менеджеров уровня "TOP" за фиксированную заработную плату, также привлекаются в отечественный бизнес иностранцы, особенно это заметно в бурно развивающемся АГРОсекторе.</span></span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span style="color: #2300dc;">Возвращаясь к проблематике, нельзя ни сказать о том, что до сих пор есть проблема на рынке кандидатов с достаточным уровнем английского языка, но как показывает практика, за последние годы молодые специалисты повысили свои знания, хотя, в первую очередь, это касается крупных городов (Санкт-Петербург, Москва).</span></span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><strong><span style="color: #2300dc; font-family: arial, helvetica, sans-serif;">До сих пор наблюдается нехватка специалистов в таких областях, как:</span></strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="color: #2300dc; font-family: arial, helvetica, sans-serif; font-size: small;">-<span style="text-decoration: underline;"> Инженеры 	с опытом работы</span></span></li>
+<li>
+<p><span style="text-decoration: underline;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">- Менеджеры 	по продажам</span></span></p>
+</li>
+<li>
+<p><span style="text-decoration: underline;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">- Специалисты 	по различным  направлениям с 	производственным опытом и свободным     английским языком</span></span></p>
+</li>
+<li>
+<p><span style="text-decoration: underline;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">- Врачи</span></span></p>
+</li>
+<li>
+<p><span style="text-decoration: underline;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">- Финансисты</span></span></p>
+</li>
+</ul>
+<p style="text-align: justify;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">В настоящий момент остаются наиболее популярными и востребованными профессионалы в таких областях, как: медицина, фармацевтика, IT, инженерия, высокие технологии, проектирование.</span></p>
+<p style="text-align: justify;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">Отметим, что наряду с такими активными отраслями, как: </span><span style="color: #2300dc; font-family: arial, helvetica, sans-serif; font-size: small;"><strong>нефтегазовая, фармацефтика, энергетика, </strong>появилась  развивающаяся на сегодняшний день<strong> — АГРО отрасль.</strong> Связано это, в первую очередь, с заинтересованностью иностранных компаний в нашем рынке.</span></p>
+<p style="text-align: justify;"><span style="color: #2300dc; font-size: small; font-family: arial, helvetica, sans-serif;">Несмотря на то, что работадатель до сих пор сохраняет выскоие требования к кандидатам, происходит активизация временных проектов, развитие заемного труда, явно прослеживается положительная динамика. Мы  уже приближаемя к экватору 2012-го года, - посмотрим, что он нам принесет!</span></p>
+<p><span style="color: #000080;"><strong> </strong></span></p>
+<p><span style="font-family: verdana, geneva; color: #000000;"><span style="color: #000080;"><strong>Темы выступлений, спикеры:</strong></span></span></p>
+<p><span style="color: #ff0000;"><strong>1. Тенденции рынка труда. Результаты ежегодного исследования "Качество кандидатов на рссийском рынке труда". </strong></span></p>
+<p style="text-align: justify;"><span style="color: #000080;"><img style="float: left;" src="uploads/images/Speakers_foto/Kelly.jpg" alt="" width="140" height="208" /><strong>Спикер - Ольга Копылова (Kelly Services) </strong></span></p>
+<p style="text-align: justify;"><span style="color: #000080;"><strong> </strong></span></p>
+<p style="text-align: justify;"><span style="color: #000080;">Руководитель отделения "Келли Инженерные ресурсы"</span></p>
+<p style="text-align: justify;"><span style="color: #000080;">С 2001 года работает в компании Kelly Services:</span></p>
+<p style="text-align: justify;"><span style="color: #000080;">- Управление Ключевыми проектами Kelly Services по привлечению кандидатов Top &amp; Middle уровня в области промышленности. География: Вся Россия, страны СНГ, Европа, США, Азиатские страны.</span></p>
+<p style="text-align: justify;"><span style="color: #000080;">- Осуществление консалтинговых проектов: Центр оценки персонала, Отраслевые обзоры рынка обзора заработных плат, социологические исследоования и др.</span><br /><span style="color: #000080;">Ольга является экспертом в вопросах рынка труда по направлениям: Производство, Инжиниринг, Автопром, Логистика, Продажи В2В, Природные ресурсы,  Строительство и Недвижимость.</span></p>
+<p><strong><span style="color: #ff0000;">2. Рынок топ-менеджеров с годовым доходом от $120,000. </span></strong></p>
+<p><span style="color: #000080;"><img style="float: left;" src="uploads/images/Speakers_foto/Rokhin.jpg" alt="" width="141" height="200" /></span></p>
+<p style="text-align: justify;"><strong><span style="color: #000080;">Спикер - Борис Рохин </span><span style="color: #000080;">(Ward Howell)</span></strong></p>
+<p style="text-align: justify;"><span style="color: #000080;">Партнер. Поиск руководителей высшего звена.</span></p>
+<p style="text-align: justify;"><span style="color: #000080;">Борис возглавляет Санкт-Петербургский офис Ward Howell. В 2003 году он «с нуля» создал Лесопромышленную и Автопромышленную практики Ward Howell, успешно выполнив десятки проектов по поиску управляющих директоров и их непосредственных заместителей для крупнейших иностранных и российских игроков в области лесозаготовки, деревопереработки, целлюлозно-бумажной промышленности, производства и продажи автомобилей и автокомпонентов. Также выполнял проекты для игроков отраслей товаров массового потребления и металлургии.</span></p>
+<p> </p>
+<p><span style="color: #ff0000;"><strong>3. Рынок менеджеров с годовым доходом $60-120,000. </strong></span></p>
+<p style="text-align: justify;"><img style="float: left;" src="uploads/images/Speakers_foto/Rybatskaya.jpg" alt="" width="140" height="200" /><strong><span style="color: #000080;">Спикер - Анастасия Рыбацкая </span><span style="color: #000080;">(Ward Howell) </span></strong></p>
+<p style="text-align: justify;"><span style="color: #003366;">Менеджер по развитию бизнеса на Северо-Западе. Поиск перспективных менеджеров.</span></p>
+<p style="text-align: justify;"><span style="color: #003366;">Анастасия начала свою карьеру в Ward Howell в 2003 году. До прихода в компанию Анастасия несколько лет работала в IT консалтинге, специализируясь на решениях для логистических и транспортных компаний. С 2010 года Анастасия занимается развитием бизнеса Санкт-Петербургского офиса Ward Howell, специализируясь на поиске менеджеров высшего и среднего звена, как внутри России, так и за ее пределами. Анастасия обладает большим опытом реализации проектов в широком спектре отраслей, в том числе в розничной торговле, финансовых институтах, логистике/транспорте.</span></p>
+<p style="text-align: justify;"><span style="color: #000080;"><span style="text-decoration: underline;">В заседании приняли участие:</span><br />Nokian Tyres,  Иттилан, ООО «Акцепт», </span><span style="color: #000080;">ОАО «Сити Сервис», Acsour, Росэл, Иттилан, ПМ-Групп, "Арин", ОАО "Российский институт радионавигации и времени", "Транзас", Евросиб, Издательство "Форум-Медиа", "Агентство исследования и предотвращения потерь", СЗЛК,</span><span style="color: #000080;">"Кей", ООО ЮНИКОМЛИГАЛ РАША.</span></p>
+<p><strong><span style="font-family: 'times new roman', times; color: #ff6600;"><em>С уважением, <br />Ольга Батракова, <br />Координатор КК "Кочубей"</em></span></strong><span style="color: #000080;"><strong><em><br /></em></strong></span></p>
+<!-- Add code here that should appear in the content block of all new pages -->

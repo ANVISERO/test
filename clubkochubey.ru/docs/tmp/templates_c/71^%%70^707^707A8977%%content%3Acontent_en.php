@@ -1,0 +1,6 @@
+<?php /* Smarty version 2.6.25, created on 2013-03-14 17:23:45
+         compiled from content:content_en */ ?>
+<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('function', 'CGUserDirectory', 'content:content_en', 1, false),)), $this); ?>
+<?php $this->_cache_serials['/var/www/clubkochubey.ru/docs/tmp/templates_c/71^%%70^707^707A8977%%content%3Acontent_en.inc'] = 'c8115b5072575c8303899404553bbf50'; ?><?php if ($this->_tpl_vars['ccuser']- & > ;loggedin() & amp ;&amp; $this->_tpl_vars['ccuser']- & > ;memberof('Authorised')): ?> <?php if ($this->caching && !$this->_cache_including): echo '{nocache:c8115b5072575c8303899404553bbf50#0}'; endif;$_cache_attrs =& $this->_smarty_cache_attrs('c8115b5072575c8303899404553bbf50','0');echo $this->_plugins['function']['CGUserDirectory'][0][0]->function_plugin(array('group' => 'Authorised','sortby' => "f:last_name"), $this);if ($this->caching && !$this->_cache_including): echo '{/nocache:c8115b5072575c8303899404553bbf50#0}'; endif;?>
+  <?php endif; ?>   

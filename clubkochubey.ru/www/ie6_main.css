@@ -1,0 +1,6 @@
+div#pagewrapper {_background:url(images/table.gif) no-repeat 53% 50px;}
+#logo a {_margin:0;}
+
+input#vote, input#me355dsubmit {color:#666; font-size:.1em; text-align:left; _display:block; _background:url(images/ok.gif) no-repeat; _height:23px; _width:30px; _border:none; _text-indent:-6666px;}
+
+input#me355demail {_float:left; _border:1px #333 solid; _margin:0; _width:152px; 	_padding: 4px 2px 3px 16px; _background:#fff url(images/subscr.gif) no-repeat 3px 6px;}

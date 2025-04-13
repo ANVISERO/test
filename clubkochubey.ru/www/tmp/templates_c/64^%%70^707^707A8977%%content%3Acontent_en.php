@@ -1,0 +1,7 @@
+<?php /* Smarty version 2.6.25, created on 2014-01-13 13:58:34
+         compiled from content:content_en */ ?>
+<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('function', 'cms_module', 'content:content_en', 1, false),)), $this); ?>
+<?php $this->_cache_serials['/var/www/clubkochubey.ru/www/tmp/templates_c/64^%%70^707^707A8977%%content%3Acontent_en.inc'] = 'c0a106ae9762bd8b7f3aed46909f3225'; ?><?php if ($this->_tpl_vars['ccuser']->loggedin()): ?> <?php if ($this->caching && !$this->_cache_including): echo '{nocache:c0a106ae9762bd8b7f3aed46909f3225#0}'; endif;$_cache_attrs =& $this->_smarty_cache_attrs('c0a106ae9762bd8b7f3aed46909f3225','0');echo smarty_cms_function_cms_module(array('module' => 'FrontEndUsers','form' => 'logout'), $this);if ($this->caching && !$this->_cache_including): echo '{/nocache:c0a106ae9762bd8b7f3aed46909f3225#0}'; endif;?>
+ <?php else: ?> <?php if ($this->caching && !$this->_cache_including): echo '{nocache:c0a106ae9762bd8b7f3aed46909f3225#1}'; endif;$_cache_attrs =& $this->_smarty_cache_attrs('c0a106ae9762bd8b7f3aed46909f3225','1');echo smarty_cms_function_cms_module(array('module' => 'FrontEndUsers','form' => 'login'), $this);if ($this->caching && !$this->_cache_including): echo '{/nocache:c0a106ae9762bd8b7f3aed46909f3225#1}'; endif;?>
+   <?php endif; ?> 

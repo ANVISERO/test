@@ -1,0 +1,5 @@
+<?php /* Smarty version 2.6.25, created on 2014-02-06 12:40:40
+         compiled from content:content_en */ ?>
+<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('function', 'cms_module', 'content:content_en', 1, false),)), $this); ?>
+<?php $this->_cache_serials['/var/www/clubkochubey.ru/www/tmp/templates_c/58^%%70^707^707A8977%%content%3Acontent_en.inc'] = '7ab9bd6cd7ba7bc2b388113a62e20741'; ?><?php if ($this->caching && !$this->_cache_including): echo '{nocache:7ab9bd6cd7ba7bc2b388113a62e20741#0}'; endif;$_cache_attrs =& $this->_smarty_cache_attrs('7ab9bd6cd7ba7bc2b388113a62e20741','0');echo smarty_cms_function_cms_module(array('module' => 'Forum'), $this);if ($this->caching && !$this->_cache_including): echo '{/nocache:7ab9bd6cd7ba7bc2b388113a62e20741#0}'; endif;?>

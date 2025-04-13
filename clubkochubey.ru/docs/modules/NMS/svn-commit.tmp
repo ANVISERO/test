@@ -1,0 +1,6 @@
+Remove a couple of old dumb, empty strings.
+--This line, and those below, will be ignored--
+
+M    NMS.module.php
+M    lang/en_US.php
+M    templates/changelog.tpl

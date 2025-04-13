@@ -1,0 +1,4 @@
+<?php /* Smarty version 2.6.25, created on 2014-01-15 09:16:23
+         compiled from content:content_en */ ?>
+<p>09 октября 2007<br /><br /><strong>Информация о заседании</strong><br /><br />9 октября состоялась встреча с Владимиром Константиновичем Тарасовым.<br /><br /><strong>Спикер</strong></p>
+<p><img style="float: left;" src="uploads/images/Speakers_foto/VT.jpg" alt="" /><a href="index.php?page=vladimir-konstantinovich-tarasov">Владимир Константинович Тарасов</a>,  известный социальный технолог, бизнес-тренер, автор и разработчик деловых игр и тренингов, автор концепции Бизнес-лагеря как обучающей технологии, основатель и директор Таллиннской школы менеджеров (Эстония).</p>

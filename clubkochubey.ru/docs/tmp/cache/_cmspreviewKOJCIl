@@ -1,0 +1,156 @@
+a:10:{s:10:"content_id";s:2:"15";s:12:"content_type";s:7:"content";s:5:"title";s:4:"Home";s:8:"menutext";s:14:"Главная";s:7:"content";s:1884:"<p>Congratulations! The installation worked. You now have a fully functional installation of CMS Made Simple and you are <em>almost</em> ready to start building your site.</p>
+<p>If you chose to install the default content, you will see numerous pages available to read.  You should read them thoroughly  as these default pages are devoted to showing you the basics of how to begin working with CMS Made Simple.  On these example pages, templates, and stylesheets many of the features of the default installation of CMS Made Simple are described and demonstrated. You can learn much about the power of CMS Made Simple by absorbing this information.</p>
+<p>To get to the Administration Console you have to login as the administrator (with the username/password you mentioned during the installation process) on your site at http://yourwebsite.com/cmsmspath/admin.  If this is your site click <a title="CMSMS Demo Admin Panel" href="admin">here</a> to login.</p>
+<p>Read about how to use CMS Made Simple in the {cms_selflink ext="http://wiki.cmsmadesimple.org/" title="CMS Made Simple Documentation" text="documentation" target="_blank"}. In case you need any help the community is always at your service, in the  {cms_selflink ext="http://forum.cmsmadesimple.org" title="CMS Made Simple Forum" text="forum" target="_blank"} or the {cms_selflink ext="http://www.cmsmadesimple.org/support/irc" title="Information about the CMS Made Simple IRC channel" text="IRC" target="_blank"}.</p>
+<h3>License</h3>
+<p>CMS Made Simple is released under the {cms_selflink ext="http://www.gnu.org/licenses/licenses.html#GPL" title="General Public License" text="GPL" target="_blank"} license and as such you don't have to leave a link back to us in these templates or on your site as much as we would like it.</p>
+<p>Some third party add-on modules may include additional license restrictions.</p>";s:11:"template_id";s:2:"24";s:9:"hierarchy";s:1:"1";s:8:"template";s:4857:"{process_pagedata}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+{* Change lang="en" to the language of your site *}
+
+{* note: anything inside these are smarty comments, they will not show up in the page source *}
+  <head>
+{if isset($canonical)}<link rel="canonical" href="{$canonical}" />{elseif isset($content_obj)}<link rel="canonical" href="{$content_obj->GetURL()}" />{/if}
+
+<title>{title} | {sitename}</title>
+{* The sitename is changed in Site Admin/Global settings. {title} is the name of each page *}
+
+{metadata}
+{* Don't remove this! Metadata is entered in Site Admin/Global settings. *}
+
+{literal}
+<script type="text/javascript" src="./js/jquery-1.6.min.js"></script>
+{/literal}
+
+{stylesheet}
+{* This is how all the stylesheets attached to this template are linked to *}
+
+{cms_selflink dir="start" rellink=1}
+{cms_selflink dir="prev" rellink=1}
+{cms_selflink dir="next" rellink=1}
+{* Relational links for interconnections between pages, good for accessibility and Search Engine Optmization *}
+
+<!--[if IE 6]>
+<script type="text/javascript" src="modules/MenuManager/CSSMenu.js"></script>
+<![endif]-->
+{* The above JavaScript is required for Menu - NCleanBlue-css to work in IE6 *}
+
+{* the literal below and the /literal at the end are needed whenever there are {"curly brackets"} as smarty will think it's something to process and will throw an error *}
+{* IE6 png fix *}
+{literal}
+<!--[if IE 6]>
+<script type="text/javascript"  src="uploads/NCleanBlue/js/ie6fix.js"></script>
+<script type="text/javascript">
+ // argument is a CSS selector
+ DD_belatedPNG.fix('.sbar-top,.sbar-bottom,.main-top,.main-bottom,#version');
+</script>
+<style type="text/css">
+/* enable background image caching in IE6 */
+html {filter:expression(document.execCommand("BackgroundImageCache", false, true));} 
+</style>
+<![endif]-->
+{/literal}
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+  </head>
+<body id="{$page_alias}">
+    <div id="ncleanblue">
+      <div id="pagewrapper" class="core-wrap-960 core-center">
+{* start accessibility skip links *}
+        <ul class="accessibility">
+          <li>{anchor anchor='menu_vert' title='Skip to navigation' accesskey='n' text='Skip to navigation'}</li>
+          <li>{anchor anchor='main' title='Skip to content' accesskey='s' text='Skip to content'}</li>
+        </ul>
+{* end accessibility skip links *}
+        <hr class="accessibility" />
+{* Horizontal ruler that is hidden for visual browsers by CSS *}
+
+{* Start Header, with logo image that links to the default start page *}
+        <div id="header" >
+{* logo image that links to the default start page. Logo image is changed in the style sheet  "Layout: NCleanBlue" *}
+          <div id="logo" class="core-float-left">
+            {cms_selflink dir="start" text="$sitename"}
+          </div>
+          
+
+          <div id="search" class="core-float-right">
+            {search search_method="post" resultpage="search"}
+          </div>
+
+
+          
+        </div>
+{* End Header *}
+
+{* Start Content (Navigation and Content columns) *}
+        <div id="content" class="util-clearfix"> 
+
+{* Start Content Area, right side *}
+          <div id="main"  class="core-float-right">            
+            
+{* main content *}
+            <div class="main-main table">
+<p class="phone">Наши телефоны</p>
+
+{if $ccuser->loggedin()} {else} <a class="place" href="index.php?page=poryadok-priema">&nbsp;</a> {/if} 
+<a class="pres" href="/presentation.pdf">&nbsp;</a>
+            </div>
+            
+          </div>
+{* End Content Area, right side *}
+
+{* Start left side *}
+          <div id="left" class="core-float-left page-menu sbar-main">
+{* Start Navigation *}
+          <h2 class="accessibility util-clearb">Navigation</h2>  
+          {menu template="verticalmenu"}
+          {* menu template='cssmenu_ulshadow.tpl' *}
+{* End Navigation *}
+<br style="clear:both" />
+<h2>Подписка на новости</h2>
+{NMS mode='subscribe'}
+          </div>
+{* End left side *}
+
+
+
+        </div>
+{* End Content *}
+{* Start News *}
+              <div id="news">
+              {news number='6' detailpage='news'}
+              </div>              
+{* End News *} 
+      </div>
+{* end pagewrapper *}
+      <span class="util-clearb">&nbsp;</span>
+      
+{* Start Footer *}
+
+        <div id="footer">
+{* first foot menu *}
+          <div class="block">
+<h3>Карта сайта</h3>
+            {menu template='minimal_menu.tpl' start_level="1"  number_of_levels='1'}
+          </div>
+          
+         
+{* edit the footer in the Global Content Block called "footer" *}
+       
+            {global_content name='footer'}
+
+        </div>
+
+
+
+{* End Footer *}
+    </div>
+{* End Div *}
+  </body>
+</html>";s:8:"encoding";s:5:"utf-8";s:18:"serialized_content";s:5042:"O:7:"Content":40:{s:14:"_contentBlocks";a:0:{}s:20:"_contentBlocksLoaded";b:1;s:20:"doAutoAliasIfEnabled";b:1;s:10:"stylesheet";N;s:3:"mId";s:2:"15";s:5:"mName";s:4:"Home";s:5:"mType";s:7:"content";s:6:"mOwner";s:1:"1";s:11:"mProperties";O:17:"ContentProperties":4:{s:14:"mPropertyNames";a:11:{i:0;s:6:"target";i:1;s:8:"pagedata";i:2;s:6:"extra1";i:3;s:6:"extra2";i:4;s:6:"extra3";i:5;s:5:"image";i:6;s:10:"searchable";i:7;s:15:"disable_wysiwyg";i:8;s:6:"image1";i:9;s:9:"thumbnail";i:10;s:10:"content_en";}s:14:"mPropertyTypes";a:11:{s:6:"target";s:6:"string";s:5:"image";s:6:"string";s:9:"thumbnail";s:6:"string";s:6:"extra1";s:6:"string";s:6:"extra2";s:6:"string";s:6:"extra3";s:6:"string";s:10:"searchable";s:6:"string";s:8:"pagedata";s:6:"string";s:15:"disable_wysiwyg";s:6:"string";s:6:"image1";s:6:"string";s:10:"content_en";s:6:"string";}s:15:"mPropertyValues";a:11:{s:6:"target";s:0:"";s:5:"image";s:2:"-1";s:9:"thumbnail";s:2:"-1";s:6:"extra1";s:0:"";s:6:"extra2";s:0:"";s:6:"extra3";s:0:"";s:10:"searchable";s:1:"1";s:8:"pagedata";s:0:"";s:15:"disable_wysiwyg";s:1:"0";s:6:"image1";s:24:"uploads/images/logo1.gif";s:10:"content_en";s:1884:"<p>Congratulations! The installation worked. You now have a fully functional installation of CMS Made Simple and you are <em>almost</em> ready to start building your site.</p>
+<p>If you chose to install the default content, you will see numerous pages available to read.  You should read them thoroughly  as these default pages are devoted to showing you the basics of how to begin working with CMS Made Simple.  On these example pages, templates, and stylesheets many of the features of the default installation of CMS Made Simple are described and demonstrated. You can learn much about the power of CMS Made Simple by absorbing this information.</p>
+<p>To get to the Administration Console you have to login as the administrator (with the username/password you mentioned during the installation process) on your site at http://yourwebsite.com/cmsmspath/admin.  If this is your site click <a title="CMSMS Demo Admin Panel" href="admin">here</a> to login.</p>
+<p>Read about how to use CMS Made Simple in the {cms_selflink ext="http://wiki.cmsmadesimple.org/" title="CMS Made Simple Documentation" text="documentation" target="_blank"}. In case you need any help the community is always at your service, in the  {cms_selflink ext="http://forum.cmsmadesimple.org" title="CMS Made Simple Forum" text="forum" target="_blank"} or the {cms_selflink ext="http://www.cmsmadesimple.org/support/irc" title="Information about the CMS Made Simple IRC channel" text="IRC" target="_blank"}.</p>
+<h3>License</h3>
+<p>CMS Made Simple is released under the {cms_selflink ext="http://www.gnu.org/licenses/licenses.html#GPL" title="General Public License" text="GPL" target="_blank"} license and as such you don't have to leave a link back to us in these templates or on your site as much as we would like it.</p>
+<p>Some third party add-on modules may include additional license restrictions.</p>";}s:21:"mAllowedPropertyNames";N;}s:17:"mPropertiesLoaded";b:1;s:9:"mParentId";s:2:"-1";s:12:"mOldParentId";s:2:"-1";s:11:"mTemplateId";s:2:"24";s:10:"mItemOrder";s:1:"1";s:13:"mOldItemOrder";s:1:"1";s:9:"mMetadata";s:0:"";s:15:"mTitleAttribute";s:25:"Home Page, shortcut key=1";s:10:"mAccessKey";s:1:"1";s:9:"mTabIndex";s:0:"";s:10:"mHierarchy";s:5:"00001";s:12:"mIdHierarchy";s:2:"15";s:14:"mHierarchyPath";s:4:"home";s:9:"mMenuText";s:14:"Главная";s:7:"mActive";s:1:"1";s:6:"mAlias";s:4:"home";s:9:"mOldAlias";s:4:"home";s:9:"mCachable";s:1:"1";s:8:"mPreview";b:1;s:11:"mShowInMenu";s:1:"0";s:15:"mDefaultContent";b:1;s:7:"mMarkup";s:4:"html";s:15:"mLastModifiedBy";s:1:"3";s:13:"mCreationDate";s:19:"2006-07-25 21:22:31";s:13:"mModifiedDate";s:19:"2012-06-07 11:21:36";s:18:"mAdditionalEditors";a:0:{}s:13:"mReadyForEdit";b:1;s:11:"_attributes";a:23:{i:0;a:3:{i:0;s:6:"target";i:1;i:10;i:2;i:0;}i:1;a:3:{i:0;s:5:"title";i:1;i:1;i:2;i:1;}i:2;a:3:{i:0;s:8:"menutext";i:1;i:2;i:2;i:1;}i:3;a:3:{i:0;s:6:"parent";i:1;i:3;i:2;i:1;}i:4;a:3:{i:0;s:6:"active";i:1;i:5;i:2;i:0;}i:5;a:3:{i:0;s:10:"showinmenu";i:1;i:5;i:2;i:0;}i:6;a:3:{i:0;s:8:"cachable";i:1;i:6;i:2;i:0;}i:7;a:3:{i:0;s:5:"alias";i:1;i:10;i:2;i:0;}i:8;a:3:{i:0;s:14:"titleattribute";i:1;i:55;i:2;i:0;}i:9;a:3:{i:0;s:9:"accesskey";i:1;i:56;i:2;i:0;}i:10;a:3:{i:0;s:8:"tabindex";i:1;i:57;i:2;i:0;}i:11;a:3:{i:0;s:5:"owner";i:1;i:90;i:2;i:0;}i:12;a:3:{i:0;s:17:"additionaleditors";i:1;i:91;i:2;i:0;}i:13;a:3:{i:0;s:5:"image";i:1;i:50;i:2;i:0;}i:14;a:3:{i:0;s:9:"thumbnail";i:1;i:50;i:2;i:0;}i:15;a:3:{i:0;s:6:"extra1";i:1;i:80;i:2;i:0;}i:16;a:3:{i:0;s:6:"extra2";i:1;i:81;i:2;i:0;}i:17;a:3:{i:0;s:6:"extra3";i:1;i:82;i:2;i:0;}i:18;a:3:{i:0;s:8:"template";i:1;i:4;i:2;i:0;}i:19;a:3:{i:0;s:12:"pagemetadata";i:1;i:20;i:2;i:0;}i:20;a:3:{i:0;s:10:"searchable";i:1;i:8;i:2;i:0;}i:21;a:3:{i:0;s:8:"pagedata";i:1;i:25;i:2;i:0;}i:22;a:3:{i:0;s:15:"disable_wysiwyg";i:1;i:60;i:2;i:0;}}s:14:"_prop_defaults";N;s:9:"_add_mode";N;s:11:"mChildCount";i:0;}";}

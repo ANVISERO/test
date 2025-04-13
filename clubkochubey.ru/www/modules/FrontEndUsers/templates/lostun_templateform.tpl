@@ -1,0 +1,9 @@
+{$startform}
+<p>{$prompt_template1}</p>
+{$input_template1}
+<br/>
+<p>{$prompt_template2}</p>
+{$input_template2}
+<br/>
+{$submit}{$defaults}
+{$endform}
