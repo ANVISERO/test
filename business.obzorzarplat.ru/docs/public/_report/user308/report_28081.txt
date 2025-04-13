@@ -1,0 +1,688 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Вологда</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>11 046</td>
+<td>14 172</td>
+<td>18 734</td>
+<td>20 616</td>
+<td>23 010</td>
+<td>24 360</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2866&lang=0" target="_blank" class="job">Ведущий специалист отдела возвратов</a></td>
+<td>24 272</td>
+<td>25 585</td>
+<td>29 731</td>
+<td>31 320</td>
+<td>35 148</td>
+<td>37 377</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2010&lang=0" target="_blank" class="job">Ведущий специалист по комплектации</a></td>
+<td>22 455</td>
+<td>24 360</td>
+<td>26 423</td>
+<td>25 613</td>
+<td>31 320</td>
+<td>32 091</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>10 652</td>
+<td>11 793</td>
+<td>13 379</td>
+<td>13 374</td>
+<td>14 860</td>
+<td>16 704</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>17 678</td>
+<td>19 836</td>
+<td>21 552</td>
+<td>22 272</td>
+<td>24 012</td>
+<td>24 917</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2009&lang=0" target="_blank" class="job">Главный специалист по комплектации</a></td>
+<td>23 844</td>
+<td>24 360</td>
+<td>29 479</td>
+<td>26 796</td>
+<td>32 783</td>
+<td>41 614</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2018&lang=0" target="_blank" class="job">Главный специалист по подготовке участков хранения</a></td>
+<td>18 387</td>
+<td>25 169</td>
+<td>28 216</td>
+<td>29 580</td>
+<td>32 778</td>
+<td>38 043</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>12 806</td>
+<td>16 711</td>
+<td>17 926</td>
+<td>17 400</td>
+<td>20 184</td>
+<td>24 360</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1389&lang=0" target="_blank" class="job">Грузчик-комплектовщик</a></td>
+<td>15 869</td>
+<td>17 400</td>
+<td>20 225</td>
+<td>20 184</td>
+<td>23 664</td>
+<td>24 917</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2696&lang=0" target="_blank" class="job">Грузчик-упаковщик</a></td>
+<td>15 312</td>
+<td>16 008</td>
+<td>18 870</td>
+<td>19 070</td>
+<td>20 880</td>
+<td>23 803</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1480&lang=0" target="_blank" class="job">Делопроизводитель склада</a></td>
+<td>11 396</td>
+<td>15 599</td>
+<td>17 487</td>
+<td>18 333</td>
+<td>20 315</td>
+<td>23 578</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>69 600</td>
+<td>95 700</td>
+<td>121 031</td>
+<td>106 184</td>
+<td>158 340</td>
+<td>183 903</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1259&lang=0" target="_blank" class="job">Заместитель начальника склада</a></td>
+<td>18 416</td>
+<td>20 774</td>
+<td>27 035</td>
+<td>21 886</td>
+<td>29 286</td>
+<td>37 916</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>11 370</td>
+<td>13 920</td>
+<td>16 967</td>
+<td>17 052</td>
+<td>19 488</td>
+<td>22 272</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>17 013</td>
+<td>18 527</td>
+<td>23 554</td>
+<td>20 934</td>
+<td>28 513</td>
+<td>35 280</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>17 400</td>
+<td>18 792</td>
+<td>21 889</td>
+<td>20 880</td>
+<td>24 360</td>
+<td>27 840</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1254&lang=0" target="_blank" class="job">Менеджер по складской логистике</a></td>
+<td>18 542</td>
+<td>20 193</td>
+<td>24 384</td>
+<td>22 968</td>
+<td>29 232</td>
+<td>31 894</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2344&lang=0" target="_blank" class="job">Начальник гаража</a></td>
+<td>18 634</td>
+<td>21 292</td>
+<td>22 825</td>
+<td>24 360</td>
+<td>24 845</td>
+<td>28 694</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1252&lang=0" target="_blank" class="job">Начальник отдела складской логистики</a></td>
+<td>28 216</td>
+<td>32 165</td>
+<td>37 789</td>
+<td>36 192</td>
+<td>44 490</td>
+<td>52 296</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>24 360</td>
+<td>27 492</td>
+<td>46 737</td>
+<td>33 464</td>
+<td>62 988</td>
+<td>91 374</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2026&lang=0" target="_blank" class="job">Рабочий по складу</a></td>
+<td>5 568</td>
+<td>11 264</td>
+<td>13 982</td>
+<td>14 964</td>
+<td>16 556</td>
+<td>19 867</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2865&lang=0" target="_blank" class="job">Руководитель отдела возвратов</a></td>
+<td>26 536</td>
+<td>30 276</td>
+<td>34 857</td>
+<td>33 171</td>
+<td>42 684</td>
+<td>49 103</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2725&lang=0" target="_blank" class="job">Специалист операторской склада</a></td>
+<td>13 946</td>
+<td>14 553</td>
+<td>16 988</td>
+<td>17 163</td>
+<td>20 030</td>
+<td>21 755</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2867&lang=0" target="_blank" class="job">Специалист отдела возвратов</a></td>
+<td>15 869</td>
+<td>17 400</td>
+<td>20 922</td>
+<td>20 880</td>
+<td>24 360</td>
+<td>29 125</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>13 920</td>
+<td>16 535</td>
+<td>18 149</td>
+<td>17 574</td>
+<td>19 547</td>
+<td>24 082</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1631&lang=0" target="_blank" class="job">Старший кладовщик</a></td>
+<td>12 792</td>
+<td>13 949</td>
+<td>17 519</td>
+<td>15 924</td>
+<td>21 052</td>
+<td>24 360</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2801&lang=0" target="_blank" class="job">Старший кладовщик-комплектовщик</a></td>
+<td>21 292</td>
+<td>23 684</td>
+<td>27 616</td>
+<td>24 894</td>
+<td>32 417</td>
+<td>41 184</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1619&lang=0" target="_blank" class="job">Такелажник </a></td>
+<td>9 658</td>
+<td>11 832</td>
+<td>13 352</td>
+<td>11 832</td>
+<td>16 161</td>
+<td>18 541</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1722&lang=0" target="_blank" class="job">Техник по учету</a></td>
+<td>16 008</td>
+<td>17 052</td>
+<td>23 120</td>
+<td>22 481</td>
+<td>30 346</td>
+<td>30 346</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1889&lang=0" target="_blank" class="job">Транспортировщик</a></td>
+<td>7 225</td>
+<td>7 639</td>
+<td>10 527</td>
+<td>11 136</td>
+<td>13 224</td>
+<td>14 616</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2382&lang=0" target="_blank" class="job">Упаковщик</a></td>
+<td>14 463</td>
+<td>15 312</td>
+<td>17 211</td>
+<td>17 400</td>
+<td>19 488</td>
+<td>20 880</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>11 046</td>
+<td>14 172</td>
+<td>23 835</td>
+<td>20 616</td>
+<td>30 095</td>
+<td>43 947</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2866&lang=0" target="_blank" class="job">Ведущий специалист отдела возвратов</a></td>
+<td>24 272</td>
+<td>25 726</td>
+<td>30 576</td>
+<td>32 364</td>
+<td>36 497</td>
+<td>38 857</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2010&lang=0" target="_blank" class="job">Ведущий специалист по комплектации</a></td>
+<td>22 455</td>
+<td>24 360</td>
+<td>35 283</td>
+<td>28 219</td>
+<td>47 889</td>
+<td>54 866</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>10 652</td>
+<td>11 793</td>
+<td>19 260</td>
+<td>19 976</td>
+<td>25 162</td>
+<td>31 399</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>17 678</td>
+<td>19 836</td>
+<td>22 996</td>
+<td>24 360</td>
+<td>26 536</td>
+<td>27 701</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2009&lang=0" target="_blank" class="job">Главный специалист по комплектации</a></td>
+<td>23 844</td>
+<td>24 360</td>
+<td>37 622</td>
+<td>32 713</td>
+<td>47 867</td>
+<td>59 704</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2018&lang=0" target="_blank" class="job">Главный специалист по подготовке участков хранения</a></td>
+<td>18 387</td>
+<td>25 169</td>
+<td>28 216</td>
+<td>29 580</td>
+<td>32 778</td>
+<td>38 043</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>12 806</td>
+<td>16 711</td>
+<td>20 316</td>
+<td>18 792</td>
+<td>24 069</td>
+<td>31 188</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1389&lang=0" target="_blank" class="job">Грузчик-комплектовщик</a></td>
+<td>15 869</td>
+<td>17 400</td>
+<td>22 832</td>
+<td>20 880</td>
+<td>28 852</td>
+<td>32 295</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2696&lang=0" target="_blank" class="job">Грузчик-упаковщик</a></td>
+<td>15 312</td>
+<td>16 008</td>
+<td>19 802</td>
+<td>19 766</td>
+<td>22 484</td>
+<td>25 891</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1480&lang=0" target="_blank" class="job">Делопроизводитель склада</a></td>
+<td>11 396</td>
+<td>15 599</td>
+<td>17 487</td>
+<td>18 333</td>
+<td>20 315</td>
+<td>23 578</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>74 820</td>
+<td>110 967</td>
+<td>188 950</td>
+<td>165 081</td>
+<td>275 952</td>
+<td>313 576</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1259&lang=0" target="_blank" class="job">Заместитель начальника склада</a></td>
+<td>18 416</td>
+<td>20 774</td>
+<td>34 812</td>
+<td>24 894</td>
+<td>45 768</td>
+<td>56 988</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>11 370</td>
+<td>13 920</td>
+<td>20 802</td>
+<td>17 748</td>
+<td>25 404</td>
+<td>35 875</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>17 013</td>
+<td>18 527</td>
+<td>25 084</td>
+<td>21 630</td>
+<td>31 170</td>
+<td>39 081</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>17 400</td>
+<td>20 184</td>
+<td>26 197</td>
+<td>25 752</td>
+<td>30 624</td>
+<td>35 496</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1254&lang=0" target="_blank" class="job">Менеджер по складской логистике</a></td>
+<td>18 542</td>
+<td>20 193</td>
+<td>29 601</td>
+<td>28 250</td>
+<td>37 338</td>
+<td>45 107</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2344&lang=0" target="_blank" class="job">Начальник гаража</a></td>
+<td>18 634</td>
+<td>21 536</td>
+<td>24 293</td>
+<td>26 030</td>
+<td>27 266</td>
+<td>31 768</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1252&lang=0" target="_blank" class="job">Начальник отдела складской логистики</a></td>
+<td>28 216</td>
+<td>36 672</td>
+<td>47 540</td>
+<td>45 240</td>
+<td>59 975</td>
+<td>70 167</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>24 360</td>
+<td>27 492</td>
+<td>52 412</td>
+<td>33 464</td>
+<td>72 633</td>
+<td>107 476</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2026&lang=0" target="_blank" class="job">Рабочий по складу</a></td>
+<td>5 568</td>
+<td>11 264</td>
+<td>16 799</td>
+<td>14 964</td>
+<td>22 286</td>
+<td>29 068</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2865&lang=0" target="_blank" class="job">Руководитель отдела возвратов</a></td>
+<td>26 536</td>
+<td>31 046</td>
+<td>36 715</td>
+<td>35 193</td>
+<td>45 557</td>
+<td>52 589</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2725&lang=0" target="_blank" class="job">Специалист операторской склада</a></td>
+<td>13 946</td>
+<td>14 553</td>
+<td>22 353</td>
+<td>23 651</td>
+<td>28 761</td>
+<td>33 039</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2867&lang=0" target="_blank" class="job">Специалист отдела возвратов</a></td>
+<td>15 869</td>
+<td>17 400</td>
+<td>21 864</td>
+<td>21 309</td>
+<td>25 978</td>
+<td>31 556</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>13 920</td>
+<td>16 535</td>
+<td>20 707</td>
+<td>17 574</td>
+<td>24 556</td>
+<td>31 527</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1631&lang=0" target="_blank" class="job">Старший кладовщик</a></td>
+<td>12 792</td>
+<td>13 949</td>
+<td>25 588</td>
+<td>26 573</td>
+<td>35 710</td>
+<td>41 154</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2801&lang=0" target="_blank" class="job">Старший кладовщик-комплектовщик</a></td>
+<td>21 292</td>
+<td>23 684</td>
+<td>30 230</td>
+<td>25 524</td>
+<td>37 781</td>
+<td>47 909</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1619&lang=0" target="_blank" class="job">Такелажник </a></td>
+<td>9 658</td>
+<td>11 832</td>
+<td>15 351</td>
+<td>12 461</td>
+<td>19 537</td>
+<td>23 412</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1722&lang=0" target="_blank" class="job">Техник по учету</a></td>
+<td>16 008</td>
+<td>19 300</td>
+<td>25 596</td>
+<td>25 265</td>
+<td>33 381</td>
+<td>33 849</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1889&lang=0" target="_blank" class="job">Транспортировщик</a></td>
+<td>7 225</td>
+<td>7 639</td>
+<td>15 210</td>
+<td>12 737</td>
+<td>23 057</td>
+<td>27 565</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2382&lang=0" target="_blank" class="job">Упаковщик</a></td>
+<td>14 463</td>
+<td>15 312</td>
+<td>18 084</td>
+<td>17 798</td>
+<td>21 162</td>
+<td>22 968</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 20.08.2015)</p>
+</div>

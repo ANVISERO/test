@@ -1,0 +1,748 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Брянск</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>22 528</td>
+<td>27 520</td>
+<td>34 125</td>
+<td>32 000</td>
+<td>41 600</td>
+<td>45 978</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>25 600</td>
+<td>25 600</td>
+<td>30 483</td>
+<td>30 720</td>
+<td>35 200</td>
+<td>35 738</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>22 400</td>
+<td>25 600</td>
+<td>29 892</td>
+<td>29 440</td>
+<td>36 992</td>
+<td>39 392</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>23 059</td>
+<td>24 320</td>
+<td>29 755</td>
+<td>28 800</td>
+<td>36 120</td>
+<td>40 230</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>22 246</td>
+<td>23 516</td>
+<td>28 451</td>
+<td>28 800</td>
+<td>31 788</td>
+<td>37 356</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам</a></td>
+<td>20 593</td>
+<td>22 528</td>
+<td>27 223</td>
+<td>27 200</td>
+<td>30 414</td>
+<td>37 159</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>19 200</td>
+<td>19 413</td>
+<td>24 263</td>
+<td>22 400</td>
+<td>29 511</td>
+<td>34 471</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>23 382</td>
+<td>25 324</td>
+<td>28 189</td>
+<td>28 800</td>
+<td>31 763</td>
+<td>36 447</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1464&lang=0" target="_blank" class="job">Главный архитектор проекта</a></td>
+<td>28 800</td>
+<td>32 241</td>
+<td>41 079</td>
+<td>40 640</td>
+<td>51 091</td>
+<td>57 344</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>34 916</td>
+<td>37 745</td>
+<td>41 854</td>
+<td>42 144</td>
+<td>47 622</td>
+<td>51 606</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>35 456</td>
+<td>43 520</td>
+<td>50 945</td>
+<td>51 200</td>
+<td>60 800</td>
+<td>64 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>35 200</td>
+<td>37 120</td>
+<td>43 345</td>
+<td>43 520</td>
+<td>49 280</td>
+<td>54 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>16 640</td>
+<td>18 528</td>
+<td>23 184</td>
+<td>23 067</td>
+<td>28 328</td>
+<td>33 229</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1803&lang=0" target="_blank" class="job">Главный специалист по надзору</a></td>
+<td>21 555</td>
+<td>22 400</td>
+<td>26 364</td>
+<td>25 600</td>
+<td>32 262</td>
+<td>34 985</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2450&lang=0" target="_blank" class="job">Директор по строительству объектов 35-110 кВ</a></td>
+<td>76 800</td>
+<td>79 991</td>
+<td>96 196</td>
+<td>102 400</td>
+<td>112 891</td>
+<td>118 589</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2451&lang=0" target="_blank" class="job">Директор по строительству распределительных сетей 0,4/6 кВ</a></td>
+<td>70 217</td>
+<td>72 696</td>
+<td>86 062</td>
+<td>88 320</td>
+<td>104 247</td>
+<td>110 720</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>26 112</td>
+<td>29 440</td>
+<td>33 480</td>
+<td>33 920</td>
+<td>37 120</td>
+<td>40 320</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>19 200</td>
+<td>25 600</td>
+<td>30 384</td>
+<td>28 800</td>
+<td>35 840</td>
+<td>43 520</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1967&lang=0" target="_blank" class="job">Инженер (Группа слаботочных систем - ГСС)</a></td>
+<td>16 000</td>
+<td>19 795</td>
+<td>24 415</td>
+<td>25 600</td>
+<td>29 926</td>
+<td>33 920</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>25 600</td>
+<td>28 800</td>
+<td>32 171</td>
+<td>31 360</td>
+<td>35 552</td>
+<td>38 912</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>19 693</td>
+<td>23 490</td>
+<td>27 321</td>
+<td>27 656</td>
+<td>32 455</td>
+<td>38 170</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>17 152</td>
+<td>19 200</td>
+<td>24 114</td>
+<td>24 320</td>
+<td>27 584</td>
+<td>32 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2336&lang=0" target="_blank" class="job">Инженер по проектно-сметной работе</a></td>
+<td>16 635</td>
+<td>19 200</td>
+<td>22 355</td>
+<td>22 400</td>
+<td>27 322</td>
+<td>29 696</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>18 369</td>
+<td>19 200</td>
+<td>22 509</td>
+<td>21 240</td>
+<td>26 198</td>
+<td>30 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1973&lang=0" target="_blank" class="job">Инженер-проектировщик 1-ой категории</a></td>
+<td>19 264</td>
+<td>20 014</td>
+<td>24 658</td>
+<td>23 885</td>
+<td>31 182</td>
+<td>34 880</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2029&lang=0" target="_blank" class="job">Инженер-проектировщик 2-ой категории</a></td>
+<td>16 150</td>
+<td>18 176</td>
+<td>20 627</td>
+<td>22 080</td>
+<td>24 000</td>
+<td>25 525</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1485&lang=0" target="_blank" class="job">Инженер-сметчик</a></td>
+<td>15 332</td>
+<td>16 382</td>
+<td>20 252</td>
+<td>19 372</td>
+<td>23 193</td>
+<td>26 012</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2732&lang=0" target="_blank" class="job">Концептуальный архитектор</a></td>
+<td>20 053</td>
+<td>24 320</td>
+<td>28 389</td>
+<td>27 834</td>
+<td>35 967</td>
+<td>37 920</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2705&lang=0" target="_blank" class="job">Менеджер-конструктор</a></td>
+<td>18 507</td>
+<td>22 874</td>
+<td>26 201</td>
+<td>25 568</td>
+<td>33 195</td>
+<td>34 751</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>23 027</td>
+<td>25 920</td>
+<td>30 222</td>
+<td>30 080</td>
+<td>37 085</td>
+<td>39 040</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>40 945</td>
+<td>45 750</td>
+<td>49 779</td>
+<td>49 994</td>
+<td>57 600</td>
+<td>61 920</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2452&lang=0" target="_blank" class="job">Начальник строительно-монтажного участка распределительных сетей 0,4/6 кВ</a></td>
+<td>36 450</td>
+<td>39 573</td>
+<td>43 455</td>
+<td>44 800</td>
+<td>48 640</td>
+<td>52 446</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1971&lang=0" target="_blank" class="job">Оператор проекта (строительство)</a></td>
+<td>12 800</td>
+<td>14 328</td>
+<td>17 071</td>
+<td>17 920</td>
+<td>20 971</td>
+<td>22 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2057&lang=0" target="_blank" class="job">Реставратор/Художник</a></td>
+<td>15 360</td>
+<td>16 071</td>
+<td>20 011</td>
+<td>19 200</td>
+<td>23 680</td>
+<td>25 600</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>22 528</td>
+<td>27 520</td>
+<td>44 809</td>
+<td>41 280</td>
+<td>56 064</td>
+<td>73 114</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>27 083</td>
+<td>28 480</td>
+<td>37 629</td>
+<td>35 840</td>
+<td>44 480</td>
+<td>53 786</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>22 400</td>
+<td>25 600</td>
+<td>36 942</td>
+<td>34 423</td>
+<td>49 087</td>
+<td>56 537</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>23 059</td>
+<td>24 320</td>
+<td>35 642</td>
+<td>32 390</td>
+<td>46 883</td>
+<td>55 712</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>22 246</td>
+<td>25 484</td>
+<td>34 414</td>
+<td>32 917</td>
+<td>41 074</td>
+<td>48 880</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам</a></td>
+<td>20 593</td>
+<td>24 955</td>
+<td>35 333</td>
+<td>35 163</td>
+<td>44 153</td>
+<td>53 387</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>22 272</td>
+<td>24 693</td>
+<td>33 585</td>
+<td>32 000</td>
+<td>41 717</td>
+<td>49 622</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>23 382</td>
+<td>25 324</td>
+<td>36 560</td>
+<td>39 893</td>
+<td>45 881</td>
+<td>52 487</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1464&lang=0" target="_blank" class="job">Главный архитектор проекта</a></td>
+<td>28 800</td>
+<td>32 241</td>
+<td>57 590</td>
+<td>45 833</td>
+<td>81 580</td>
+<td>102 046</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>34 916</td>
+<td>39 830</td>
+<td>47 064</td>
+<td>47 091</td>
+<td>55 713</td>
+<td>61 459</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>35 456</td>
+<td>58 480</td>
+<td>68 880</td>
+<td>70 560</td>
+<td>83 520</td>
+<td>96 480</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>35 200</td>
+<td>41 458</td>
+<td>58 915</td>
+<td>52 480</td>
+<td>69 120</td>
+<td>97 920</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>16 640</td>
+<td>19 785</td>
+<td>35 114</td>
+<td>29 089</td>
+<td>51 239</td>
+<td>61 668</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1803&lang=0" target="_blank" class="job">Главный специалист по надзору</a></td>
+<td>21 706</td>
+<td>25 371</td>
+<td>31 629</td>
+<td>31 046</td>
+<td>40 304</td>
+<td>44 383</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2450&lang=0" target="_blank" class="job">Директор по строительству объектов 35-110 кВ</a></td>
+<td>83 200</td>
+<td>90 521</td>
+<td>123 241</td>
+<td>121 627</td>
+<td>154 753</td>
+<td>169 109</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2451&lang=0" target="_blank" class="job">Директор по строительству распределительных сетей 0,4/6 кВ</a></td>
+<td>76 969</td>
+<td>83 290</td>
+<td>108 879</td>
+<td>104 337</td>
+<td>137 117</td>
+<td>155 621</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>26 112</td>
+<td>30 080</td>
+<td>39 704</td>
+<td>39 040</td>
+<td>47 360</td>
+<td>54 784</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>19 200</td>
+<td>30 400</td>
+<td>37 325</td>
+<td>35 840</td>
+<td>45 120</td>
+<td>58 560</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1967&lang=0" target="_blank" class="job">Инженер (Группа слаботочных систем - ГСС)</a></td>
+<td>16 000</td>
+<td>21 510</td>
+<td>29 055</td>
+<td>30 321</td>
+<td>36 771</td>
+<td>43 156</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>25 600</td>
+<td>30 720</td>
+<td>41 476</td>
+<td>39 040</td>
+<td>51 552</td>
+<td>58 752</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>19 693</td>
+<td>23 490</td>
+<td>35 585</td>
+<td>35 546</td>
+<td>46 106</td>
+<td>55 819</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>17 152</td>
+<td>19 200</td>
+<td>28 690</td>
+<td>26 880</td>
+<td>36 544</td>
+<td>44 160</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2336&lang=0" target="_blank" class="job">Инженер по проектно-сметной работе</a></td>
+<td>17 787</td>
+<td>21 120</td>
+<td>25 572</td>
+<td>25 360</td>
+<td>32 245</td>
+<td>35 281</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>18 369</td>
+<td>19 200</td>
+<td>30 104</td>
+<td>26 095</td>
+<td>39 691</td>
+<td>49 122</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1973&lang=0" target="_blank" class="job">Инженер-проектировщик 1-ой категории</a></td>
+<td>19 338</td>
+<td>21 736</td>
+<td>27 239</td>
+<td>26 727</td>
+<td>34 751</td>
+<td>39 303</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2029&lang=0" target="_blank" class="job">Инженер-проектировщик 2-ой категории</a></td>
+<td>16 150</td>
+<td>18 620</td>
+<td>22 050</td>
+<td>23 753</td>
+<td>26 059</td>
+<td>28 039</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1485&lang=0" target="_blank" class="job">Инженер-сметчик</a></td>
+<td>15 332</td>
+<td>20 468</td>
+<td>29 039</td>
+<td>27 056</td>
+<td>34 262</td>
+<td>43 129</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2732&lang=0" target="_blank" class="job">Концептуальный архитектор</a></td>
+<td>25 539</td>
+<td>31 378</td>
+<td>36 156</td>
+<td>35 754</td>
+<td>45 010</td>
+<td>48 144</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2705&lang=0" target="_blank" class="job">Менеджер-конструктор</a></td>
+<td>20 206</td>
+<td>26 380</td>
+<td>31 228</td>
+<td>30 136</td>
+<td>39 564</td>
+<td>42 919</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>24 939</td>
+<td>29 791</td>
+<td>40 617</td>
+<td>36 949</td>
+<td>53 897</td>
+<td>59 245</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>44 394</td>
+<td>52 150</td>
+<td>61 747</td>
+<td>62 280</td>
+<td>72 570</td>
+<td>81 216</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2452&lang=0" target="_blank" class="job">Начальник строительно-монтажного участка распределительных сетей 0,4/6 кВ</a></td>
+<td>36 450</td>
+<td>41 809</td>
+<td>49 850</td>
+<td>49 145</td>
+<td>59 684</td>
+<td>65 883</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1971&lang=0" target="_blank" class="job">Оператор проекта (строительство)</a></td>
+<td>12 800</td>
+<td>14 902</td>
+<td>20 328</td>
+<td>21 927</td>
+<td>26 232</td>
+<td>28 751</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2057&lang=0" target="_blank" class="job">Реставратор/Художник</a></td>
+<td>15 360</td>
+<td>16 071</td>
+<td>24 235</td>
+<td>20 736</td>
+<td>31 192</td>
+<td>37 510</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.08.2015)</p>
+</div>

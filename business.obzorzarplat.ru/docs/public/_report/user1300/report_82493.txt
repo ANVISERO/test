@@ -1,0 +1,408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Петрозаводск</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>12 869</td>
+<td>15 750</td>
+<td>18 784</td>
+<td>18 900</td>
+<td>22 050</td>
+<td>25 855</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>64 232</td>
+<td>64 308</td>
+<td>102 868</td>
+<td>94 500</td>
+<td>132 300</td>
+<td>157 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1239&lang=0" target="_blank" class="job">Диспетчер</a></td>
+<td>19 202</td>
+<td>22 617</td>
+<td>26 183</td>
+<td>23 562</td>
+<td>29 988</td>
+<td>35 350</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>18 900</td>
+<td>18 900</td>
+<td>20 948</td>
+<td>18 900</td>
+<td>22 617</td>
+<td>25 830</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>15 498</td>
+<td>19 294</td>
+<td>21 143</td>
+<td>22 239</td>
+<td>24 728</td>
+<td>26 933</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2876&lang=0" target="_blank" class="job">Маркетолог</a></td>
+<td>27 802</td>
+<td>35 359</td>
+<td>43 601</td>
+<td>44 226</td>
+<td>53 424</td>
+<td>56 423</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>16 916</td>
+<td>18 711</td>
+<td>25 906</td>
+<td>23 405</td>
+<td>31 154</td>
+<td>36 225</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1270&lang=0" target="_blank" class="job">Мерчендайзер</a></td>
+<td>11 340</td>
+<td>15 750</td>
+<td>17 533</td>
+<td>18 717</td>
+<td>20 135</td>
+<td>21 191</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>27 027</td>
+<td>28 350</td>
+<td>44 291</td>
+<td>37 359</td>
+<td>53 768</td>
+<td>78 750</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>11 687</td>
+<td>15 514</td>
+<td>17 805</td>
+<td>17 688</td>
+<td>21 309</td>
+<td>22 528</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>21 244</td>
+<td>22 617</td>
+<td>29 658</td>
+<td>26 523</td>
+<td>35 888</td>
+<td>42 536</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2605&lang=0" target="_blank" class="job">Референт</a></td>
+<td>20 258</td>
+<td>23 452</td>
+<td>29 089</td>
+<td>28 098</td>
+<td>35 202</td>
+<td>39 074</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1631&lang=0" target="_blank" class="job">Старший кладовщик</a></td>
+<td>16 664</td>
+<td>20 160</td>
+<td>23 400</td>
+<td>24 255</td>
+<td>28 785</td>
+<td>29 799</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2183&lang=0" target="_blank" class="job">Товаровед</a></td>
+<td>15 876</td>
+<td>18 853</td>
+<td>21 141</td>
+<td>20 790</td>
+<td>22 743</td>
+<td>26 447</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1310&lang=0" target="_blank" class="job">Торговый представитель</a></td>
+<td>19 247</td>
+<td>21 956</td>
+<td>29 279</td>
+<td>27 909</td>
+<td>34 430</td>
+<td>42 336</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1421&lang=0" target="_blank" class="job">Торговый супервайзер</a></td>
+<td>18 900</td>
+<td>18 900</td>
+<td>21 604</td>
+<td>21 420</td>
+<td>21 814</td>
+<td>25 169</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2222&lang=0" target="_blank" class="job">Управляющий</a></td>
+<td>26 145</td>
+<td>30 539</td>
+<td>40 711</td>
+<td>37 769</td>
+<td>49 187</td>
+<td>54 369</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>18 276</td>
+<td>20 475</td>
+<td>24 036</td>
+<td>22 050</td>
+<td>27 342</td>
+<td>30 636</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>102 178</td>
+<td>106 204</td>
+<td>180 451</td>
+<td>175 770</td>
+<td>219 293</td>
+<td>297 150</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1239&lang=0" target="_blank" class="job">Диспетчер</a></td>
+<td>22 919</td>
+<td>23 373</td>
+<td>32 307</td>
+<td>29 897</td>
+<td>37 926</td>
+<td>44 659</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>21 546</td>
+<td>24 324</td>
+<td>29 031</td>
+<td>28 325</td>
+<td>33 672</td>
+<td>37 771</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>19 845</td>
+<td>23 310</td>
+<td>26 479</td>
+<td>25 295</td>
+<td>29 437</td>
+<td>33 044</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2876&lang=0" target="_blank" class="job">Маркетолог</a></td>
+<td>30 793</td>
+<td>37 800</td>
+<td>51 266</td>
+<td>51 912</td>
+<td>61 199</td>
+<td>71 510</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>40 029</td>
+<td>49 440</td>
+<td>64 086</td>
+<td>61 268</td>
+<td>81 467</td>
+<td>89 230</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1270&lang=0" target="_blank" class="job">Мерчендайзер</a></td>
+<td>16 626</td>
+<td>18 221</td>
+<td>20 085</td>
+<td>19 539</td>
+<td>21 191</td>
+<td>25 679</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>37 841</td>
+<td>43 019</td>
+<td>58 820</td>
+<td>48 540</td>
+<td>71 609</td>
+<td>94 920</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>18 781</td>
+<td>20 157</td>
+<td>22 076</td>
+<td>21 459</td>
+<td>23 609</td>
+<td>26 464</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>24 784</td>
+<td>27 815</td>
+<td>36 955</td>
+<td>33 584</td>
+<td>46 913</td>
+<td>51 886</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2605&lang=0" target="_blank" class="job">Референт</a></td>
+<td>22 955</td>
+<td>26 832</td>
+<td>34 665</td>
+<td>33 842</td>
+<td>40 323</td>
+<td>47 888</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1631&lang=0" target="_blank" class="job">Старший кладовщик</a></td>
+<td>23 720</td>
+<td>26 054</td>
+<td>29 505</td>
+<td>29 270</td>
+<td>31 634</td>
+<td>36 320</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2183&lang=0" target="_blank" class="job">Товаровед</a></td>
+<td>19 656</td>
+<td>21 184</td>
+<td>24 275</td>
+<td>23 184</td>
+<td>26 681</td>
+<td>30 794</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1310&lang=0" target="_blank" class="job">Торговый представитель</a></td>
+<td>39 239</td>
+<td>47 720</td>
+<td>62 270</td>
+<td>58 089</td>
+<td>72 702</td>
+<td>93 965</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1421&lang=0" target="_blank" class="job">Торговый супервайзер</a></td>
+<td>39 816</td>
+<td>41 423</td>
+<td>58 762</td>
+<td>54 668</td>
+<td>74 123</td>
+<td>79 617</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2222&lang=0" target="_blank" class="job">Управляющий</a></td>
+<td>33 550</td>
+<td>39 544</td>
+<td>55 992</td>
+<td>50 143</td>
+<td>68 965</td>
+<td>79 879</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.02.2019)</p>
+</div>

@@ -1,0 +1,1128 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>39 000</td>
+<td>43 575</td>
+<td>55 394</td>
+<td>53 700</td>
+<td>64 000</td>
+<td>77 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1716&lang=0" target="_blank" class="job">Ведущий инженер по метрологии</a></td>
+<td>41 000</td>
+<td>45 250</td>
+<td>55 333</td>
+<td>57 500</td>
+<td>63 750</td>
+<td>67 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>43 140</td>
+<td>44 100</td>
+<td>48 075</td>
+<td>44 750</td>
+<td>48 475</td>
+<td>58 960</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>53 530</td>
+<td>63 325</td>
+<td>78 638</td>
+<td>77 650</td>
+<td>89 900</td>
+<td>102 920</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>45 000</td>
+<td>46 500</td>
+<td>53 083</td>
+<td>52 500</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>51 590</td>
+<td>56 225</td>
+<td>71 538</td>
+<td>68 800</td>
+<td>85 775</td>
+<td>96 920</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1839&lang=0" target="_blank" class="job">Генеральный конструктор</a></td>
+<td>67 000</td>
+<td>70 000</td>
+<td>93 000</td>
+<td>80 000</td>
+<td>100 000</td>
+<td>130 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>52 000</td>
+<td>60 000</td>
+<td>83 571</td>
+<td>70 000</td>
+<td>87 500</td>
+<td>129 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1413&lang=0" target="_blank" class="job">Главный метролог</a></td>
+<td>41 500</td>
+<td>46 250</td>
+<td>53 857</td>
+<td>52 000</td>
+<td>62 500</td>
+<td>68 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1840&lang=0" target="_blank" class="job">Главный научный сотрудник</a></td>
+<td>31 200</td>
+<td>33 500</td>
+<td>38 429</td>
+<td>37 000</td>
+<td>42 500</td>
+<td>47 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>46 750</td>
+<td>53 375</td>
+<td>65 550</td>
+<td>61 700</td>
+<td>75 000</td>
+<td>89 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1244&lang=0" target="_blank" class="job">Заведующий лабораторией</a></td>
+<td>32 500</td>
+<td>35 000</td>
+<td>39 167</td>
+<td>37 500</td>
+<td>43 750</td>
+<td>47 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>53 500</td>
+<td>57 325</td>
+<td>65 444</td>
+<td>65 250</td>
+<td>73 250</td>
+<td>78 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1848&lang=0" target="_blank" class="job">Заместитель начальника КБ</a></td>
+<td>53 700</td>
+<td>58 750</td>
+<td>73 700</td>
+<td>71 200</td>
+<td>88 500</td>
+<td>95 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>35 300</td>
+<td>41 500</td>
+<td>53 156</td>
+<td>51 500</td>
+<td>65 500</td>
+<td>73 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>45 750</td>
+<td>51 750</td>
+<td>55 800</td>
+<td>56 700</td>
+<td>61 875</td>
+<td>64 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>33 000</td>
+<td>37 500</td>
+<td>46 143</td>
+<td>45 000</td>
+<td>56 500</td>
+<td>58 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>32 500</td>
+<td>37 100</td>
+<td>43 694</td>
+<td>44 750</td>
+<td>50 975</td>
+<td>54 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2202&lang=0" target="_blank" class="job">Инженер горных работ</a></td>
+<td>44 360</td>
+<td>47 450</td>
+<td>60 300</td>
+<td>59 450</td>
+<td>65 250</td>
+<td>80 010</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1904&lang=0" target="_blank" class="job">Инженер лаборатории металлов</a></td>
+<td>36 000</td>
+<td>39 500</td>
+<td>44 744</td>
+<td>44 250</td>
+<td>50 625</td>
+<td>54 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2126&lang=0" target="_blank" class="job">Инженер лесного хозяйства </a></td>
+<td>24 640</td>
+<td>28 750</td>
+<td>45 938</td>
+<td>40 850</td>
+<td>57 500</td>
+<td>71 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>28 980</td>
+<td>29 100</td>
+<td>33 411</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>42 260</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1812&lang=0" target="_blank" class="job">Инженер по механизации</a></td>
+<td>32 500</td>
+<td>36 250</td>
+<td>42 500</td>
+<td>42 500</td>
+<td>48 750</td>
+<td>52 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1832&lang=0" target="_blank" class="job">Инженер по патентной и изобретательской работе</a></td>
+<td>27 500</td>
+<td>31 250</td>
+<td>37 500</td>
+<td>37 500</td>
+<td>43 750</td>
+<td>47 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>30 940</td>
+<td>35 025</td>
+<td>39 379</td>
+<td>38 500</td>
+<td>43 438</td>
+<td>45 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1787&lang=0" target="_blank" class="job">Инженер рентгеногаммаграфирования</a></td>
+<td>36 000</td>
+<td>40 500</td>
+<td>48 714</td>
+<td>50 000</td>
+<td>52 500</td>
+<td>63 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2164&lang=0" target="_blank" class="job">Инженер-акустик</a></td>
+<td>33 000</td>
+<td>35 000</td>
+<td>38 571</td>
+<td>35 000</td>
+<td>42 500</td>
+<td>47 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1852&lang=0" target="_blank" class="job">Инженер-исследователь</a></td>
+<td>48 150</td>
+<td>54 375</td>
+<td>64 750</td>
+<td>63 650</td>
+<td>73 150</td>
+<td>82 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>47 750</td>
+<td>55 025</td>
+<td>67 000</td>
+<td>65 450</td>
+<td>77 400</td>
+<td>88 710</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>30 000</td>
+<td>35 000</td>
+<td>44 948</td>
+<td>45 000</td>
+<td>52 000</td>
+<td>60 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1853&lang=0" target="_blank" class="job">Инженер-радиолог</a></td>
+<td>30 000</td>
+<td>31 250</td>
+<td>37 000</td>
+<td>37 500</td>
+<td>41 500</td>
+<td>43 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2127&lang=0" target="_blank" class="job">Инженер-таксатор</a></td>
+<td>25 500</td>
+<td>30 000</td>
+<td>33 662</td>
+<td>35 000</td>
+<td>38 000</td>
+<td>38 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>44 900</td>
+<td>52 475</td>
+<td>64 781</td>
+<td>66 250</td>
+<td>76 250</td>
+<td>84 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1660&lang=0" target="_blank" class="job">Инженер-химик</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>35 101</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2149&lang=0" target="_blank" class="job">Инженер-электрик</a></td>
+<td>20 240</td>
+<td>26 078</td>
+<td>35 050</td>
+<td>36 000</td>
+<td>42 938</td>
+<td>49 740</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1665&lang=0" target="_blank" class="job">Инженер-электроник </a></td>
+<td>26 950</td>
+<td>31 500</td>
+<td>39 002</td>
+<td>36 300</td>
+<td>45 825</td>
+<td>54 460</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1854&lang=0" target="_blank" class="job">Испытатель агрегатов, приборов и чувствительных элементов </a></td>
+<td>25 000</td>
+<td>27 250</td>
+<td>32 063</td>
+<td>31 750</td>
+<td>35 000</td>
+<td>38 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1855&lang=0" target="_blank" class="job">Испытатель-механик</a></td>
+<td>27 500</td>
+<td>31 250</td>
+<td>39 167</td>
+<td>37 500</td>
+<td>47 500</td>
+<td>52 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1856&lang=0" target="_blank" class="job">Контролер измерительных приборов и специального инструмента</a></td>
+<td>25 000</td>
+<td>25 750</td>
+<td>30 917</td>
+<td>29 000</td>
+<td>33 750</td>
+<td>38 750</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1858&lang=0" target="_blank" class="job">Контролер станочных и слесарных работ</a></td>
+<td>20 600</td>
+<td>22 500</td>
+<td>26 429</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>32 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1857&lang=0" target="_blank" class="job">Контрольный мастер</a></td>
+<td>26 800</td>
+<td>31 000</td>
+<td>35 857</td>
+<td>35 000</td>
+<td>41 000</td>
+<td>47 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>25 000</td>
+<td>27 000</td>
+<td>34 100</td>
+<td>30 000</td>
+<td>40 500</td>
+<td>47 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1657&lang=0" target="_blank" class="job">Лаборант химического анализа</a></td>
+<td>22 000</td>
+<td>25 000</td>
+<td>26 618</td>
+<td>26 800</td>
+<td>28 520</td>
+<td>30 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2154&lang=0" target="_blank" class="job">Методолог</a></td>
+<td>30 000</td>
+<td>32 500</td>
+<td>44 286</td>
+<td>45 000</td>
+<td>52 500</td>
+<td>59 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>60 000</td>
+<td>71 250</td>
+<td>78 750</td>
+<td>80 000</td>
+<td>86 250</td>
+<td>93 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1786&lang=0" target="_blank" class="job">Начальник конструкторского бюро</a></td>
+<td>47 500</td>
+<td>51 250</td>
+<td>60 833</td>
+<td>57 500</td>
+<td>71 250</td>
+<td>77 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1656&lang=0" target="_blank" class="job">Начальник лаборатории металлов</a></td>
+<td>48 000</td>
+<td>55 000</td>
+<td>62 143</td>
+<td>60 000</td>
+<td>70 000</td>
+<td>80 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1655&lang=0" target="_blank" class="job">Начальник химической лаборатории</a></td>
+<td>35 000</td>
+<td>40 000</td>
+<td>47 052</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1654&lang=0" target="_blank" class="job">Начальник электротехнической лаборатории</a></td>
+<td>43 000</td>
+<td>47 500</td>
+<td>54 286</td>
+<td>55 000</td>
+<td>60 000</td>
+<td>64 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>22 141</td>
+<td>29 250</td>
+<td>33 442</td>
+<td>30 150</td>
+<td>37 500</td>
+<td>44 850</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1710&lang=0" target="_blank" class="job">Старший инженер</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>51 889</td>
+<td>50 800</td>
+<td>58 000</td>
+<td>64 940</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1801&lang=0" target="_blank" class="job">Техник-лаборант</a></td>
+<td>24 600</td>
+<td>26 000</td>
+<td>29 143</td>
+<td>28 000</td>
+<td>32 500</td>
+<td>35 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1669&lang=0" target="_blank" class="job">Технический редактор</a></td>
+<td>25 000</td>
+<td>27 500</td>
+<td>34 714</td>
+<td>35 000</td>
+<td>39 000</td>
+<td>44 000</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>52 350</td>
+<td>61 050</td>
+<td>83 444</td>
+<td>81 150</td>
+<td>100 867</td>
+<td>121 659</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1716&lang=0" target="_blank" class="job">Ведущий инженер по метрологии</a></td>
+<td>57 750</td>
+<td>64 223</td>
+<td>70 487</td>
+<td>73 195</td>
+<td>76 650</td>
+<td>80 517</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>53 760</td>
+<td>55 725</td>
+<td>63 425</td>
+<td>59 950</td>
+<td>72 750</td>
+<td>75 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>71 701</td>
+<td>83 741</td>
+<td>111 324</td>
+<td>93 730</td>
+<td>128 408</td>
+<td>167 513</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>60 500</td>
+<td>61 250</td>
+<td>71 864</td>
+<td>73 917</td>
+<td>80 125</td>
+<td>80 680</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>66 767</td>
+<td>73 299</td>
+<td>98 203</td>
+<td>87 659</td>
+<td>112 317</td>
+<td>148 397</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1839&lang=0" target="_blank" class="job">Генеральный конструктор</a></td>
+<td>110 680</td>
+<td>116 200</td>
+<td>148 380</td>
+<td>157 867</td>
+<td>159 333</td>
+<td>184 633</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>80 767</td>
+<td>98 750</td>
+<td>129 476</td>
+<td>102 000</td>
+<td>131 500</td>
+<td>197 167</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1413&lang=0" target="_blank" class="job">Главный метролог</a></td>
+<td>48 590</td>
+<td>57 600</td>
+<td>65 064</td>
+<td>66 250</td>
+<td>75 325</td>
+<td>78 610</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1840&lang=0" target="_blank" class="job">Главный научный сотрудник</a></td>
+<td>40 020</td>
+<td>42 167</td>
+<td>46 567</td>
+<td>45 500</td>
+<td>51 750</td>
+<td>53 133</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>55 996</td>
+<td>69 867</td>
+<td>90 380</td>
+<td>84 500</td>
+<td>110 225</td>
+<td>131 158</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1244&lang=0" target="_blank" class="job">Заведующий лабораторией</a></td>
+<td>39 667</td>
+<td>43 242</td>
+<td>55 000</td>
+<td>54 234</td>
+<td>60 875</td>
+<td>71 100</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>76 258</td>
+<td>80 533</td>
+<td>95 688</td>
+<td>95 167</td>
+<td>110 750</td>
+<td>111 767</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1848&lang=0" target="_blank" class="job">Заместитель начальника КБ</a></td>
+<td>67 575</td>
+<td>72 846</td>
+<td>92 947</td>
+<td>90 375</td>
+<td>104 558</td>
+<td>123 350</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>44 184</td>
+<td>54 333</td>
+<td>74 169</td>
+<td>72 217</td>
+<td>88 908</td>
+<td>105 833</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>57 479</td>
+<td>69 346</td>
+<td>75 285</td>
+<td>76 204</td>
+<td>84 500</td>
+<td>90 609</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>46 180</td>
+<td>46 900</td>
+<td>61 000</td>
+<td>61 200</td>
+<td>72 500</td>
+<td>77 100</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>41 908</td>
+<td>44 100</td>
+<td>55 071</td>
+<td>51 900</td>
+<td>68 231</td>
+<td>71 634</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2202&lang=0" target="_blank" class="job">Инженер горных работ</a></td>
+<td>55 705</td>
+<td>59 063</td>
+<td>73 559</td>
+<td>68 283</td>
+<td>75 663</td>
+<td>98 278</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1904&lang=0" target="_blank" class="job">Инженер лаборатории металлов</a></td>
+<td>43 517</td>
+<td>48 683</td>
+<td>54 496</td>
+<td>52 138</td>
+<td>61 075</td>
+<td>65 342</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2126&lang=0" target="_blank" class="job">Инженер лесного хозяйства </a></td>
+<td>41 640</td>
+<td>46 275</td>
+<td>61 850</td>
+<td>60 000</td>
+<td>74 725</td>
+<td>82 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>40 472</td>
+<td>42 400</td>
+<td>43 776</td>
+<td>43 940</td>
+<td>44 500</td>
+<td>46 140</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1812&lang=0" target="_blank" class="job">Инженер по механизации</a></td>
+<td>44 500</td>
+<td>48 500</td>
+<td>55 336</td>
+<td>50 500</td>
+<td>65 760</td>
+<td>71 007</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1832&lang=0" target="_blank" class="job">Инженер по патентной и изобретательской работе</a></td>
+<td>35 667</td>
+<td>39 825</td>
+<td>45 589</td>
+<td>47 000</td>
+<td>51 175</td>
+<td>54 100</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>38 000</td>
+<td>45 000</td>
+<td>55 365</td>
+<td>58 000</td>
+<td>62 750</td>
+<td>69 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1787&lang=0" target="_blank" class="job">Инженер рентгеногаммаграфирования</a></td>
+<td>43 110</td>
+<td>49 875</td>
+<td>60 079</td>
+<td>56 200</td>
+<td>65 150</td>
+<td>80 660</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2164&lang=0" target="_blank" class="job">Инженер-акустик</a></td>
+<td>45 500</td>
+<td>45 750</td>
+<td>50 900</td>
+<td>48 300</td>
+<td>53 750</td>
+<td>59 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1852&lang=0" target="_blank" class="job">Инженер-исследователь</a></td>
+<td>64 255</td>
+<td>72 044</td>
+<td>90 589</td>
+<td>80 850</td>
+<td>110 911</td>
+<td>128 624</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>61 730</td>
+<td>72 017</td>
+<td>90 702</td>
+<td>83 943</td>
+<td>104 875</td>
+<td>123 392</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>41 766</td>
+<td>51 000</td>
+<td>59 221</td>
+<td>58 850</td>
+<td>63 850</td>
+<td>75 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1853&lang=0" target="_blank" class="job">Инженер-радиолог</a></td>
+<td>40 250</td>
+<td>45 958</td>
+<td>48 739</td>
+<td>48 917</td>
+<td>50 125</td>
+<td>57 050</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2127&lang=0" target="_blank" class="job">Инженер-таксатор</a></td>
+<td>42 200</td>
+<td>45 500</td>
+<td>48 577</td>
+<td>48 200</td>
+<td>51 500</td>
+<td>53 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>59 750</td>
+<td>65 025</td>
+<td>87 746</td>
+<td>90 217</td>
+<td>100 967</td>
+<td>121 733</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1660&lang=0" target="_blank" class="job">Инженер-химик</a></td>
+<td>30 075</td>
+<td>39 325</td>
+<td>46 306</td>
+<td>47 950</td>
+<td>53 975</td>
+<td>62 060</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2149&lang=0" target="_blank" class="job">Инженер-электрик</a></td>
+<td>29 000</td>
+<td>34 250</td>
+<td>45 497</td>
+<td>43 500</td>
+<td>56 000</td>
+<td>70 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1665&lang=0" target="_blank" class="job">Инженер-электроник </a></td>
+<td>38 830</td>
+<td>45 000</td>
+<td>50 642</td>
+<td>48 758</td>
+<td>54 919</td>
+<td>66 650</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1854&lang=0" target="_blank" class="job">Испытатель агрегатов, приборов и чувствительных элементов </a></td>
+<td>30 830</td>
+<td>34 425</td>
+<td>43 083</td>
+<td>38 250</td>
+<td>48 375</td>
+<td>59 850</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1855&lang=0" target="_blank" class="job">Испытатель-механик</a></td>
+<td>39 484</td>
+<td>40 542</td>
+<td>51 222</td>
+<td>48 584</td>
+<td>58 750</td>
+<td>65 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1856&lang=0" target="_blank" class="job">Контролер измерительных приборов и специального инструмента</a></td>
+<td>33 000</td>
+<td>33 375</td>
+<td>37 083</td>
+<td>35 750</td>
+<td>39 625</td>
+<td>42 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1858&lang=0" target="_blank" class="job">Контролер станочных и слесарных работ</a></td>
+<td>30 400</td>
+<td>32 400</td>
+<td>36 164</td>
+<td>36 000</td>
+<td>38 925</td>
+<td>42 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1857&lang=0" target="_blank" class="job">Контрольный мастер</a></td>
+<td>33 540</td>
+<td>36 750</td>
+<td>42 129</td>
+<td>40 000</td>
+<td>46 500</td>
+<td>53 120</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>31 051</td>
+<td>38 358</td>
+<td>47 595</td>
+<td>43 200</td>
+<td>55 354</td>
+<td>65 683</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1657&lang=0" target="_blank" class="job">Лаборант химического анализа</a></td>
+<td>27 480</td>
+<td>31 000</td>
+<td>39 200</td>
+<td>36 500</td>
+<td>45 750</td>
+<td>53 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2154&lang=0" target="_blank" class="job">Методолог</a></td>
+<td>52 950</td>
+<td>54 275</td>
+<td>61 486</td>
+<td>57 850</td>
+<td>60 250</td>
+<td>72 700</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>91 190</td>
+<td>97 050</td>
+<td>115 421</td>
+<td>112 334</td>
+<td>126 375</td>
+<td>150 150</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1786&lang=0" target="_blank" class="job">Начальник конструкторского бюро</a></td>
+<td>76 750</td>
+<td>80 717</td>
+<td>89 153</td>
+<td>81 584</td>
+<td>93 013</td>
+<td>109 125</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1656&lang=0" target="_blank" class="job">Начальник лаборатории металлов</a></td>
+<td>63 800</td>
+<td>72 584</td>
+<td>78 091</td>
+<td>75 500</td>
+<td>87 025</td>
+<td>95 877</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1655&lang=0" target="_blank" class="job">Начальник химической лаборатории</a></td>
+<td>41 030</td>
+<td>49 450</td>
+<td>62 170</td>
+<td>62 417</td>
+<td>71 300</td>
+<td>83 590</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1654&lang=0" target="_blank" class="job">Начальник электротехнической лаборатории</a></td>
+<td>68 740</td>
+<td>71 092</td>
+<td>76 600</td>
+<td>75 500</td>
+<td>82 167</td>
+<td>86 833</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>30 000</td>
+<td>30 911</td>
+<td>46 811</td>
+<td>35 675</td>
+<td>61 296</td>
+<td>76 465</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1710&lang=0" target="_blank" class="job">Старший инженер</a></td>
+<td>50 000</td>
+<td>64 600</td>
+<td>75 852</td>
+<td>75 600</td>
+<td>83 850</td>
+<td>101 860</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1801&lang=0" target="_blank" class="job">Техник-лаборант</a></td>
+<td>31 060</td>
+<td>33 359</td>
+<td>36 531</td>
+<td>35 800</td>
+<td>40 000</td>
+<td>41 420</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1669&lang=0" target="_blank" class="job">Технический редактор</a></td>
+<td>32 700</td>
+<td>37 000</td>
+<td>45 836</td>
+<td>43 500</td>
+<td>55 750</td>
+<td>60 140</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 28.08.2019)</p>
+</div>

@@ -1,0 +1,528 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>48 920</td>
+<td>57 900</td>
+<td>70 062</td>
+<td>70 200</td>
+<td>84 400</td>
+<td>90 360</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>30 000</td>
+<td>35 000</td>
+<td>44 292</td>
+<td>45 000</td>
+<td>50 200</td>
+<td>63 200</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>79 040</td>
+<td>93 850</td>
+<td>129 639</td>
+<td>114 943</td>
+<td>164 600</td>
+<td>192 020</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2337&lang=0" target="_blank" class="job">Заместитель директора по экономике и финансам</a></td>
+<td>70 000</td>
+<td>73 750</td>
+<td>105 208</td>
+<td>115 000</td>
+<td>121 875</td>
+<td>140 510</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>25 140</td>
+<td>28 739</td>
+<td>37 174</td>
+<td>33 400</td>
+<td>41 400</td>
+<td>55 000</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>30 000</td>
+<td>33 500</td>
+<td>51 471</td>
+<td>45 355</td>
+<td>50 605</td>
+<td>98 722</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2859&lang=0" target="_blank" class="job">Менеджер по развитию вендинговой сети</a></td>
+<td>36 500</td>
+<td>40 125</td>
+<td>49 107</td>
+<td>45 000</td>
+<td>53 750</td>
+<td>70 500</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2862&lang=0" target="_blank" class="job">Начальник отдела обслуживания торговых автоматов</a></td>
+<td>46 500</td>
+<td>52 250</td>
+<td>61 000</td>
+<td>65 000</td>
+<td>68 750</td>
+<td>71 500</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>22 700</td>
+<td>24 500</td>
+<td>27 688</td>
+<td>26 250</td>
+<td>31 000</td>
+<td>34 300</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>28 800</td>
+<td>30 800</td>
+<td>35 619</td>
+<td>31 860</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>26 850</td>
+<td>29 700</td>
+<td>41 121</td>
+<td>37 150</td>
+<td>49 450</td>
+<td>57 500</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>39 830</td>
+<td>52 125</td>
+<td>56 989</td>
+<td>58 700</td>
+<td>64 600</td>
+<td>69 250</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2959&lang=0" target="_blank" class="job">Менеджер по работе с корпоративными клиентами</a></td>
+<td>27 910</td>
+<td>29 725</td>
+<td>33 688</td>
+<td>33 750</td>
+<td>37 100</td>
+<td>39 860</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>18 550</td>
+<td>24 625</td>
+<td>28 262</td>
+<td>28 075</td>
+<td>33 823</td>
+<td>35 759</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>37 510</td>
+<td>40 375</td>
+<td>49 363</td>
+<td>47 500</td>
+<td>58 375</td>
+<td>63 460</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>34 640</td>
+<td>41 150</td>
+<td>52 688</td>
+<td>51 000</td>
+<td>64 375</td>
+<td>71 800</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>53 000</td>
+<td>56 000</td>
+<td>62 714</td>
+<td>62 000</td>
+<td>70 000</td>
+<td>73 200</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>24 600</td>
+<td>30 625</td>
+<td>33 560</td>
+<td>35 300</td>
+<td>39 250</td>
+<td>42 750</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1252&lang=0" target="_blank" class="job">Начальник отдела складской логистики</a></td>
+<td>59 000</td>
+<td>63 000</td>
+<td>82 000</td>
+<td>84 000</td>
+<td>95 000</td>
+<td>104 000</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу</a></td>
+<td>92 730</td>
+<td>100 000</td>
+<td>152 739</td>
+<td>141 001</td>
+<td>183 300</td>
+<td>254 860</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>61 200</td>
+<td>74 925</td>
+<td>91 102</td>
+<td>85 000</td>
+<td>113 400</td>
+<td>127 800</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>44 800</td>
+<td>52 100</td>
+<td>63 716</td>
+<td>62 300</td>
+<td>74 200</td>
+<td>81 060</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом</a></td>
+<td>64 400</td>
+<td>84 188</td>
+<td>103 577</td>
+<td>102 850</td>
+<td>124 575</td>
+<td>145 250</td>
+<td>2 квартал 2018</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>57 460</td>
+<td>72 900</td>
+<td>89 644</td>
+<td>89 800</td>
+<td>107 833</td>
+<td>119 426</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>33 208</td>
+<td>40 255</td>
+<td>47 220</td>
+<td>46 017</td>
+<td>55 950</td>
+<td>64 911</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>109 802</td>
+<td>125 394</td>
+<td>171 498</td>
+<td>167 433</td>
+<td>204 002</td>
+<td>258 296</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2337&lang=0" target="_blank" class="job">Заместитель директора по экономике и финансам</a></td>
+<td>78 680</td>
+<td>84 250</td>
+<td>123 947</td>
+<td>126 842</td>
+<td>152 438</td>
+<td>178 562</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>29 635</td>
+<td>34 034</td>
+<td>45 166</td>
+<td>42 367</td>
+<td>50 969</td>
+<td>64 750</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>31 965</td>
+<td>36 998</td>
+<td>57 877</td>
+<td>48 730</td>
+<td>60 601</td>
+<td>113 117</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2859&lang=0" target="_blank" class="job">Менеджер по развитию вендинговой сети</a></td>
+<td>44 850</td>
+<td>51 963</td>
+<td>72 786</td>
+<td>60 000</td>
+<td>87 925</td>
+<td>117 589</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2862&lang=0" target="_blank" class="job">Начальник отдела обслуживания торговых автоматов</a></td>
+<td>62 350</td>
+<td>71 776</td>
+<td>76 967</td>
+<td>78 002</td>
+<td>86 325</td>
+<td>90 550</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>36 693</td>
+<td>38 667</td>
+<td>47 865</td>
+<td>46 209</td>
+<td>54 729</td>
+<td>63 392</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>53 000</td>
+<td>96 147</td>
+<td>113 130</td>
+<td>101 115</td>
+<td>135 737</td>
+<td>172 050</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>63 538</td>
+<td>78 475</td>
+<td>101 724</td>
+<td>97 250</td>
+<td>129 313</td>
+<td>141 634</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>52 972</td>
+<td>64 113</td>
+<td>78 361</td>
+<td>74 704</td>
+<td>96 315</td>
+<td>105 500</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2959&lang=0" target="_blank" class="job">Менеджер по работе с корпоративными клиентами</a></td>
+<td>47 333</td>
+<td>54 758</td>
+<td>76 805</td>
+<td>73 300</td>
+<td>92 315</td>
+<td>115 498</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>29 811</td>
+<td>31 995</td>
+<td>35 040</td>
+<td>34 061</td>
+<td>37 475</td>
+<td>42 005</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>52 465</td>
+<td>55 631</td>
+<td>74 616</td>
+<td>68 659</td>
+<td>85 727</td>
+<td>103 078</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>43 607</td>
+<td>53 779</td>
+<td>72 522</td>
+<td>71 675</td>
+<td>87 689</td>
+<td>103 353</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>68 217</td>
+<td>74 792</td>
+<td>92 226</td>
+<td>78 750</td>
+<td>110 417</td>
+<td>126 900</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>31 500</td>
+<td>37 000</td>
+<td>42 030</td>
+<td>40 150</td>
+<td>46 725</td>
+<td>52 450</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1252&lang=0" target="_blank" class="job">Начальник отдела складской логистики</a></td>
+<td>76 317</td>
+<td>82 400</td>
+<td>99 781</td>
+<td>108 417</td>
+<td>113 333</td>
+<td>119 180</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу</a></td>
+<td>120 077</td>
+<td>147 083</td>
+<td>204 754</td>
+<td>195 004</td>
+<td>237 750</td>
+<td>295 233</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>77 300</td>
+<td>91 025</td>
+<td>125 707</td>
+<td>103 000</td>
+<td>153 183</td>
+<td>189 950</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>54 026</td>
+<td>64 208</td>
+<td>81 289</td>
+<td>77 292</td>
+<td>99 483</td>
+<td>114 433</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом</a></td>
+<td>84 763</td>
+<td>99 525</td>
+<td>134 287</td>
+<td>142 150</td>
+<td>164 465</td>
+<td>169 517</td>
+<td>2 квартал 2018</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 03.08.2018)</p>
+</div>

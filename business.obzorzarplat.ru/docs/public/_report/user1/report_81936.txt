@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Воронеж</p>
+<p>Сфера деятельности компании: Розничная торговля</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>149 318</td>
+<td>181 000</td>
+<td>268 169</td>
+<td>244 712</td>
+<td>331 230</td>
+<td>414 128</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1313&lang=0" target="_blank" class="job">Директор магазина</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>93 534</td>
+<td>96 524</td>
+<td>101 508</td>
+<td>101 508</td>
+<td>106 492</td>
+<td>109 482</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>60 063</td>
+<td>69 902</td>
+<td>91 713</td>
+<td>89 052</td>
+<td>108 129</td>
+<td>124 528</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>84 201</td>
+<td>96 654</td>
+<td>122 540</td>
+<td>109 686</td>
+<td>137 560</td>
+<td>182 448</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>91 224</td>
+<td>130 320</td>
+<td>183 051</td>
+<td>181 000</td>
+<td>225 888</td>
+<td>294 378</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1369&lang=0" target="_blank" class="job">Операционный директор розничной сети </a></td>
+<td>72 400</td>
+<td>76 744</td>
+<td>110 948</td>
+<td>106 790</td>
+<td>130 320</td>
+<td>164 348</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2603&lang=0" target="_blank" class="job">Президент компании</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>89 740</td>
+<td>107 333</td>
+<td>146 184</td>
+<td>132 130</td>
+<td>174 665</td>
+<td>242 540</td>
+<td>2 квартал 2018</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>226 568</td>
+<td>380 682</td>
+<td>548 433</td>
+<td>480 012</td>
+<td>662 001</td>
+<td>908 589</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1313&lang=0" target="_blank" class="job">Директор магазина</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>264 746</td>
+<td>270 574</td>
+<td>280 288</td>
+<td>280 288</td>
+<td>290 002</td>
+<td>295 830</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>80 039</td>
+<td>97 046</td>
+<td>132 247</td>
+<td>123 825</td>
+<td>160 967</td>
+<td>194 746</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>150 630</td>
+<td>184 505</td>
+<td>285 029</td>
+<td>236 452</td>
+<td>373 137</td>
+<td>512 935</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>184 646</td>
+<td>225 468</td>
+<td>363 436</td>
+<td>306 493</td>
+<td>439 126</td>
+<td>645 238</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1369&lang=0" target="_blank" class="job">Операционный директор розничной сети </a></td>
+<td>121 781</td>
+<td>145 908</td>
+<td>332 570</td>
+<td>266 052</td>
+<td>359 270</td>
+<td>469 549</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2603&lang=0" target="_blank" class="job">Президент компании</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>173 338</td>
+<td>211 984</td>
+<td>322 009</td>
+<td>260 112</td>
+<td>391 564</td>
+<td>549 262</td>
+<td>2 квартал 2018</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 21.07.2018)</p>
+</div>

@@ -1,0 +1,968 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2663&lang=0" target="_blank" class="job">Байер</a></td>
+<td>28 985</td>
+<td>35 000</td>
+<td>41 034</td>
+<td>45 364</td>
+<td>48 000</td>
+<td>54 016</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>52 408</td>
+<td>50 000</td>
+<td>62 000</td>
+<td>69 800</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2010&lang=0" target="_blank" class="job">Ведущий специалист по комплектации</a></td>
+<td>32 264</td>
+<td>35 000</td>
+<td>37 964</td>
+<td>36 800</td>
+<td>45 000</td>
+<td>46 107</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2023&lang=0" target="_blank" class="job">Ведущий специалист по учету</a></td>
+<td>33 095</td>
+<td>35 650</td>
+<td>39 271</td>
+<td>41 000</td>
+<td>43 215</td>
+<td>47 030</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>94 878</td>
+<td>110 625</td>
+<td>134 461</td>
+<td>145 000</td>
+<td>165 128</td>
+<td>177 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2009&lang=0" target="_blank" class="job">Главный специалист по комплектации</a></td>
+<td>34 258</td>
+<td>35 000</td>
+<td>42 355</td>
+<td>38 500</td>
+<td>47 102</td>
+<td>59 790</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2671&lang=0" target="_blank" class="job">Дизайнер одежды</a></td>
+<td>27 582</td>
+<td>35 485</td>
+<td>39 048</td>
+<td>41 003</td>
+<td>43 670</td>
+<td>51 402</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2662&lang=0" target="_blank" class="job">Дизайнер по аксессуарам и принтам</a></td>
+<td>24 725</td>
+<td>30 000</td>
+<td>35 004</td>
+<td>38 000</td>
+<td>41 500</td>
+<td>46 078</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2672&lang=0" target="_blank" class="job">Дизайнер-ассистент</a></td>
+<td>20 391</td>
+<td>25 000</td>
+<td>28 867</td>
+<td>30 214</td>
+<td>35 090</td>
+<td>38 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2664&lang=0" target="_blank" class="job">Дизайнер-байер</a></td>
+<td>32 464</td>
+<td>41 766</td>
+<td>45 959</td>
+<td>45 500</td>
+<td>52 963</td>
+<td>60 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2674&lang=0" target="_blank" class="job">Заместитель главного дизайнера</a></td>
+<td>57 308</td>
+<td>73 729</td>
+<td>81 132</td>
+<td>80 000</td>
+<td>95 802</td>
+<td>106 800</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>21 818</td>
+<td>23 962</td>
+<td>28 747</td>
+<td>26 433</td>
+<td>31 500</td>
+<td>33 353</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>31 500</td>
+<td>33 550</td>
+<td>44 894</td>
+<td>46 000</td>
+<td>59 500</td>
+<td>59 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>24 650</td>
+<td>28 400</td>
+<td>36 465</td>
+<td>35 000</td>
+<td>46 122</td>
+<td>52 491</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>27 921</td>
+<td>29 057</td>
+<td>32 414</td>
+<td>32 046</td>
+<td>35 689</td>
+<td>39 065</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>23 200</td>
+<td>28 000</td>
+<td>33 127</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2700&lang=0" target="_blank" class="job">Конструктор</a></td>
+<td>21 210</td>
+<td>26 300</td>
+<td>30 028</td>
+<td>29 000</td>
+<td>38 043</td>
+<td>40 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2704&lang=0" target="_blank" class="job">Мастер экспериментального производства</a></td>
+<td>20 713</td>
+<td>26 648</td>
+<td>29 323</td>
+<td>30 230</td>
+<td>32 900</td>
+<td>38 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2024&lang=0" target="_blank" class="job">Машинист автомобильного крана</a></td>
+<td>21 400</td>
+<td>24 404</td>
+<td>28 901</td>
+<td>31 560</td>
+<td>34 858</td>
+<td>36 450</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2699&lang=0" target="_blank" class="job">Менеджер отдела контроля качества</a></td>
+<td>22 269</td>
+<td>28 650</td>
+<td>31 526</td>
+<td>33 900</td>
+<td>35 722</td>
+<td>41 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2673&lang=0" target="_blank" class="job">Менеджер по аксессуарам</a></td>
+<td>29 513</td>
+<td>37 970</td>
+<td>41 782</td>
+<td>43 900</td>
+<td>46 727</td>
+<td>55 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2689&lang=0" target="_blank" class="job">Менеджер по аудиту производственных площадок</a></td>
+<td>27 619</td>
+<td>35 533</td>
+<td>39 100</td>
+<td>41 085</td>
+<td>43 728</td>
+<td>51 471</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2706&lang=0" target="_blank" class="job">Менеджер по коллекции</a></td>
+<td>9 853</td>
+<td>19 351</td>
+<td>23 520</td>
+<td>26 304</td>
+<td>30 808</td>
+<td>32 618</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2676&lang=0" target="_blank" class="job">Менеджер по производству</a></td>
+<td>32 196</td>
+<td>40 325</td>
+<td>45 580</td>
+<td>45 500</td>
+<td>56 760</td>
+<td>60 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2679&lang=0" target="_blank" class="job">Менеджер по работе с тканями</a></td>
+<td>35 416</td>
+<td>42 345</td>
+<td>50 138</td>
+<td>55 415</td>
+<td>59 085</td>
+<td>66 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2677&lang=0" target="_blank" class="job">Менеджер по тканям</a></td>
+<td>20 498</td>
+<td>26 372</td>
+<td>29 019</td>
+<td>30 500</td>
+<td>32 454</td>
+<td>38 200</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2737&lang=0" target="_blank" class="job">Менеджер специальных проектов</a></td>
+<td>26 051</td>
+<td>32 296</td>
+<td>39 255</td>
+<td>40 000</td>
+<td>49 734</td>
+<td>53 967</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2705&lang=0" target="_blank" class="job">Менеджер-конструктор</a></td>
+<td>28 918</td>
+<td>35 740</td>
+<td>40 939</td>
+<td>39 950</td>
+<td>51 867</td>
+<td>54 298</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2660&lang=0" target="_blank" class="job">Начальник отдела создания продукта</a></td>
+<td>45 611</td>
+<td>58 496</td>
+<td>64 571</td>
+<td>67 000</td>
+<td>76 500</td>
+<td>85 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2702&lang=0" target="_blank" class="job">Начальник участка изготовления раскладок и копировок</a></td>
+<td>24 126</td>
+<td>28 714</td>
+<td>34 900</td>
+<td>33 956</td>
+<td>44 217</td>
+<td>48 300</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2703&lang=0" target="_blank" class="job">Оператор - раскладчик</a></td>
+<td>6 966</td>
+<td>19 019</td>
+<td>23 117</td>
+<td>25 853</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1285&lang=0" target="_blank" class="job">Портной</a></td>
+<td>18 920</td>
+<td>22 133</td>
+<td>24 950</td>
+<td>25 000</td>
+<td>27 237</td>
+<td>32 391</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2044&lang=0" target="_blank" class="job">Раскройщик</a></td>
+<td>16 360</td>
+<td>17 591</td>
+<td>21 812</td>
+<td>20 000</td>
+<td>25 000</td>
+<td>29 203</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2042&lang=0" target="_blank" class="job">Ревизор</a></td>
+<td>25 000</td>
+<td>27 614</td>
+<td>35 270</td>
+<td>34 982</td>
+<td>41 716</td>
+<td>49 511</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2659&lang=0" target="_blank" class="job">Руководитель группы дизайна одежды</a></td>
+<td>43 464</td>
+<td>55 918</td>
+<td>61 533</td>
+<td>65 729</td>
+<td>68 815</td>
+<td>81 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2670&lang=0" target="_blank" class="job">Руководитель коллекции аксессуаров</a></td>
+<td>37 572</td>
+<td>48 338</td>
+<td>53 192</td>
+<td>50 837</td>
+<td>65 732</td>
+<td>70 020</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2669&lang=0" target="_blank" class="job">Руководитель коллекции одежды</a></td>
+<td>26 997</td>
+<td>50 085</td>
+<td>60 876</td>
+<td>68 081</td>
+<td>77 127</td>
+<td>86 450</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>15 158</td>
+<td>39 852</td>
+<td>48 439</td>
+<td>54 172</td>
+<td>62 500</td>
+<td>73 068</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2697&lang=0" target="_blank" class="job">Руководитель службы подготовки производства</a></td>
+<td>15 952</td>
+<td>47 140</td>
+<td>57 297</td>
+<td>64 078</td>
+<td>76 000</td>
+<td>86 750</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2708&lang=0" target="_blank" class="job">Слесарь-ремонтник швейного оборудования</a></td>
+<td>20 132</td>
+<td>26 851</td>
+<td>32 637</td>
+<td>35 000</td>
+<td>41 349</td>
+<td>45 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>20 000</td>
+<td>24 250</td>
+<td>26 272</td>
+<td>25 250</td>
+<td>28 000</td>
+<td>35 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2022&lang=0" target="_blank" class="job">Специалист по учету</a></td>
+<td>21 500</td>
+<td>21 500</td>
+<td>25 022</td>
+<td>21 500</td>
+<td>25 020</td>
+<td>36 078</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2707&lang=0" target="_blank" class="job">Технолог - нормировщик</a></td>
+<td>16 098</td>
+<td>20 711</td>
+<td>22 790</td>
+<td>23 508</td>
+<td>25 487</td>
+<td>30 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2043&lang=0" target="_blank" class="job">Швея</a></td>
+<td>17 100</td>
+<td>19 498</td>
+<td>24 143</td>
+<td>23 200</td>
+<td>29 126</td>
+<td>30 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2166&lang=0" target="_blank" class="job">Ювелир</a></td>
+<td>24 720</td>
+<td>30 000</td>
+<td>33 146</td>
+<td>35 000</td>
+<td>36 338</td>
+<td>40 467</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2663&lang=0" target="_blank" class="job">Байер</a></td>
+<td>34 768</td>
+<td>42 440</td>
+<td>49 221</td>
+<td>53 614</td>
+<td>57 880</td>
+<td>64 793</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>65 614</td>
+<td>50 000</td>
+<td>85 986</td>
+<td>112 622</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2010&lang=0" target="_blank" class="job">Ведущий специалист по комплектации</a></td>
+<td>32 264</td>
+<td>35 000</td>
+<td>50 695</td>
+<td>40 544</td>
+<td>68 806</td>
+<td>78 831</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2023&lang=0" target="_blank" class="job">Ведущий специалист по учету</a></td>
+<td>33 489</td>
+<td>38 650</td>
+<td>42 862</td>
+<td>44 716</td>
+<td>48 040</td>
+<td>52 818</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>116 301</td>
+<td>136 591</td>
+<td>166 021</td>
+<td>176 100</td>
+<td>205 114</td>
+<td>220 758</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2009&lang=0" target="_blank" class="job">Главный специалист по комплектации</a></td>
+<td>34 258</td>
+<td>35 000</td>
+<td>54 054</td>
+<td>47 001</td>
+<td>68 774</td>
+<td>85 782</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2671&lang=0" target="_blank" class="job">Дизайнер одежды</a></td>
+<td>35 877</td>
+<td>46 952</td>
+<td>59 290</td>
+<td>59 398</td>
+<td>69 315</td>
+<td>84 461</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2662&lang=0" target="_blank" class="job">Дизайнер по аксессуарам и принтам</a></td>
+<td>26 883</td>
+<td>34 055</td>
+<td>39 932</td>
+<td>42 479</td>
+<td>47 744</td>
+<td>53 792</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2672&lang=0" target="_blank" class="job">Дизайнер-ассистент</a></td>
+<td>21 016</td>
+<td>26 996</td>
+<td>31 293</td>
+<td>32 927</td>
+<td>38 397</td>
+<td>41 650</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2664&lang=0" target="_blank" class="job">Дизайнер-байер</a></td>
+<td>33 091</td>
+<td>44 156</td>
+<td>48 835</td>
+<td>48 456</td>
+<td>57 084</td>
+<td>65 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2674&lang=0" target="_blank" class="job">Заместитель главного дизайнера</a></td>
+<td>65 162</td>
+<td>87 563</td>
+<td>97 946</td>
+<td>98 804</td>
+<td>117 105</td>
+<td>131 640</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>21 818</td>
+<td>34 312</td>
+<td>40 501</td>
+<td>38 433</td>
+<td>45 413</td>
+<td>50 693</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>31 500</td>
+<td>33 550</td>
+<td>51 573</td>
+<td>46 000</td>
+<td>73 000</td>
+<td>79 441</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>24 650</td>
+<td>28 400</td>
+<td>43 907</td>
+<td>36 317</td>
+<td>62 258</td>
+<td>71 525</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>27 921</td>
+<td>32 542</td>
+<td>47 335</td>
+<td>46 439</td>
+<td>59 957</td>
+<td>68 190</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>23 200</td>
+<td>28 000</td>
+<td>42 321</td>
+<td>43 600</td>
+<td>55 761</td>
+<td>66 546</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2700&lang=0" target="_blank" class="job">Конструктор</a></td>
+<td>26 804</td>
+<td>33 497</td>
+<td>37 947</td>
+<td>37 233</td>
+<td>46 900</td>
+<td>50 425</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2704&lang=0" target="_blank" class="job">Мастер экспериментального производства</a></td>
+<td>22 609</td>
+<td>32 115</td>
+<td>35 969</td>
+<td>37 662</td>
+<td>42 110</td>
+<td>48 300</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2024&lang=0" target="_blank" class="job">Машинист автомобильного крана</a></td>
+<td>21 400</td>
+<td>24 404</td>
+<td>31 775</td>
+<td>31 560</td>
+<td>40 940</td>
+<td>43 977</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2699&lang=0" target="_blank" class="job">Менеджер отдела контроля качества</a></td>
+<td>26 951</td>
+<td>34 722</td>
+<td>38 906</td>
+<td>41 800</td>
+<td>45 072</td>
+<td>51 558</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2673&lang=0" target="_blank" class="job">Менеджер по аксессуарам</a></td>
+<td>38 723</td>
+<td>49 819</td>
+<td>54 821</td>
+<td>57 764</td>
+<td>61 309</td>
+<td>72 164</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2689&lang=0" target="_blank" class="job">Менеджер по аудиту производственных площадок</a></td>
+<td>30 267</td>
+<td>39 403</td>
+<td>43 804</td>
+<td>46 053</td>
+<td>49 687</td>
+<td>58 270</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2706&lang=0" target="_blank" class="job">Менеджер по коллекции</a></td>
+<td>14 705</td>
+<td>25 708</td>
+<td>31 247</td>
+<td>33 326</td>
+<td>40 597</td>
+<td>44 310</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2676&lang=0" target="_blank" class="job">Менеджер по производству</a></td>
+<td>34 074</td>
+<td>42 741</td>
+<td>48 238</td>
+<td>48 310</td>
+<td>59 733</td>
+<td>63 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2679&lang=0" target="_blank" class="job">Менеджер по работе с тканями</a></td>
+<td>36 703</td>
+<td>43 895</td>
+<td>51 961</td>
+<td>57 443</td>
+<td>61 210</td>
+<td>68 400</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2677&lang=0" target="_blank" class="job">Менеджер по тканям</a></td>
+<td>22 859</td>
+<td>29 206</td>
+<td>32 362</td>
+<td>33 612</td>
+<td>36 689</td>
+<td>42 820</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2737&lang=0" target="_blank" class="job">Менеджер специальных проектов</a></td>
+<td>27 187</td>
+<td>33 964</td>
+<td>41 281</td>
+<td>42 000</td>
+<td>52 301</td>
+<td>57 013</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2705&lang=0" target="_blank" class="job">Менеджер-конструктор</a></td>
+<td>31 572</td>
+<td>41 218</td>
+<td>48 793</td>
+<td>47 088</td>
+<td>61 818</td>
+<td>67 061</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2660&lang=0" target="_blank" class="job">Начальник отдела создания продукта</a></td>
+<td>75 884</td>
+<td>96 296</td>
+<td>107 429</td>
+<td>105 947</td>
+<td>130 798</td>
+<td>144 167</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2702&lang=0" target="_blank" class="job">Начальник участка изготовления раскладок и копировок</a></td>
+<td>32 822</td>
+<td>42 098</td>
+<td>63 238</td>
+<td>59 708</td>
+<td>80 119</td>
+<td>95 845</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2703&lang=0" target="_blank" class="job">Оператор - раскладчик</a></td>
+<td>7 019</td>
+<td>19 247</td>
+<td>23 394</td>
+<td>26 163</td>
+<td>30 352</td>
+<td>35 440</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1285&lang=0" target="_blank" class="job">Портной</a></td>
+<td>18 920</td>
+<td>22 133</td>
+<td>28 448</td>
+<td>27 750</td>
+<td>33 475</td>
+<td>40 891</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2044&lang=0" target="_blank" class="job">Раскройщик</a></td>
+<td>16 360</td>
+<td>17 591</td>
+<td>27 290</td>
+<td>24 000</td>
+<td>35 534</td>
+<td>42 662</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2042&lang=0" target="_blank" class="job">Ревизор</a></td>
+<td>25 000</td>
+<td>28 711</td>
+<td>45 590</td>
+<td>44 066</td>
+<td>60 251</td>
+<td>71 995</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2659&lang=0" target="_blank" class="job">Руководитель группы дизайна одежды</a></td>
+<td>49 673</td>
+<td>63 600</td>
+<td>70 322</td>
+<td>74 919</td>
+<td>79 439</td>
+<td>92 570</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2670&lang=0" target="_blank" class="job">Руководитель коллекции аксессуаров</a></td>
+<td>40 978</td>
+<td>53 016</td>
+<td>58 877</td>
+<td>56 036</td>
+<td>72 935</td>
+<td>78 640</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2669&lang=0" target="_blank" class="job">Руководитель коллекции одежды</a></td>
+<td>47 651</td>
+<td>82 315</td>
+<td>100 051</td>
+<td>107 472</td>
+<td>126 759</td>
+<td>145 841</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>31 519</td>
+<td>63 698</td>
+<td>77 422</td>
+<td>82 164</td>
+<td>99 220</td>
+<td>116 967</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2697&lang=0" target="_blank" class="job">Руководитель службы подготовки производства</a></td>
+<td>36 433</td>
+<td>73 416</td>
+<td>86 291</td>
+<td>92 236</td>
+<td>112 267</td>
+<td>124 917</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2708&lang=0" target="_blank" class="job">Слесарь-ремонтник швейного оборудования</a></td>
+<td>22 911</td>
+<td>35 451</td>
+<td>45 386</td>
+<td>48 105</td>
+<td>59 619</td>
+<td>66 546</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>20 000</td>
+<td>24 250</td>
+<td>29 301</td>
+<td>25 250</td>
+<td>34 191</td>
+<td>45 719</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2022&lang=0" target="_blank" class="job">Специалист по учету</a></td>
+<td>21 500</td>
+<td>21 500</td>
+<td>26 808</td>
+<td>21 500</td>
+<td>28 577</td>
+<td>42 321</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2707&lang=0" target="_blank" class="job">Технолог - нормировщик</a></td>
+<td>17 988</td>
+<td>24 711</td>
+<td>32 372</td>
+<td>32 216</td>
+<td>37 627</td>
+<td>46 758</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2043&lang=0" target="_blank" class="job">Швея</a></td>
+<td>17 100</td>
+<td>19 498</td>
+<td>27 820</td>
+<td>23 754</td>
+<td>35 847</td>
+<td>39 920</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2166&lang=0" target="_blank" class="job">Ювелир</a></td>
+<td>24 720</td>
+<td>33 595</td>
+<td>44 711</td>
+<td>47 280</td>
+<td>55 249</td>
+<td>63 406</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 24.11.2014)</p>
+</div>

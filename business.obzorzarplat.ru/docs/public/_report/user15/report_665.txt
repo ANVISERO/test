@@ -1,0 +1,343 @@
+
+<link href="/_css/summary/summary_print.css" rel="stylesheet" type="text/css">
+<div class="summary">
+<h2>Сводный аналитический обзор по заработным платам</h2>
+<p>Город: Все города</p>
+<p>Сфера деятельности компании: Высокие технологии</p>
+
+
+<h3>1.	Рыночная тенденция по значениям компенсации труда (руб. в месяц)</h3>
+<p align="right"><em>Таблица 1.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+  <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td class="X1_right">73 037</td>
+<td class="X1_right">124 499</td>
+<td class="X1_right">157 967</td>
+<td class="X1_right">156 773</td>
+<td class="X1_right">190 241</td>
+<td class="X1_right">245 284</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td class="X1_right">70 000</td>
+<td class="X1_right">77 575</td>
+<td class="X1_right">89 325</td>
+<td class="X1_right">88 650</td>
+<td class="X1_right">100 400</td>
+<td class="X1_right">110 000</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td class="X1_right">212 281</td>
+<td class="X1_right">225 400</td>
+<td class="X1_right">236 133</td>
+<td class="X1_right">238 518</td>
+<td class="X1_right">248 059</td>
+<td class="X1_right">257 600</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1369&lang=0" target="_blank" class="job">Операционный директор розничной сети </a></td>
+<td class="X1_right">150 084</td>
+<td class="X1_right">159 359</td>
+<td class="X1_right">166 947</td>
+<td class="X1_right">168 633</td>
+<td class="X1_right">175 379</td>
+<td class="X1_right">182 124</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td class="X1_right">120 519</td>
+<td class="X1_right">127 967</td>
+<td class="X1_right">134 061</td>
+<td class="X1_right">135 415</td>
+<td class="X1_right">140 832</td>
+<td class="X1_right">146 248</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td class="X1_right">31 038</td>
+<td class="X1_right">32 957</td>
+<td class="X1_right">34 526</td>
+<td class="X1_right">34 875</td>
+<td class="X1_right">36 270</td>
+<td class="X1_right">37 665</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1307&lang=0" target="_blank" class="job">Менеджер по городским продажам</a></td>
+<td class="X1_right">32 082</td>
+<td class="X1_right">35 789</td>
+<td class="X1_right">54 718</td>
+<td class="X1_right">55 000</td>
+<td class="X1_right">65 015</td>
+<td class="X1_right">97 816</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td class="X1_right">74 760</td>
+<td class="X1_right">75 000</td>
+<td class="X1_right">83 640</td>
+<td class="X1_right">90 000</td>
+<td class="X1_right">90 000</td>
+<td class="X1_right">90 720</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td class="X1_right">40 551</td>
+<td class="X1_right">44 214</td>
+<td class="X1_right">54 180</td>
+<td class="X1_right">53 635</td>
+<td class="X1_right">64 485</td>
+<td class="X1_right">68 083</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td class="X1_right">61 794</td>
+<td class="X1_right">83 663</td>
+<td class="X1_right">96 977</td>
+<td class="X1_right">86 831</td>
+<td class="X1_right">105 367</td>
+<td class="X1_right">147 230</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1397&lang=0" target="_blank" class="job">Старший менеджер по городским продажам</a></td>
+<td class="X1_right">75 119</td>
+<td class="X1_right">79 761</td>
+<td class="X1_right">83 559</td>
+<td class="X1_right">84 403</td>
+<td class="X1_right">87 780</td>
+<td class="X1_right">91 156</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td class="X1_right">50 000</td>
+<td class="X1_right">59 388</td>
+<td class="X1_right">65 627</td>
+<td class="X1_right">64 452</td>
+<td class="X1_right">71 207</td>
+<td class="X1_right">87 961</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1489&lang=0" target="_blank" class="job">Руководитель департамента (телекоммуникации)</a></td>
+<td class="X1_right">149 322</td>
+<td class="X1_right">160 920</td>
+<td class="X1_right">166 771</td>
+<td class="X1_right">170 000</td>
+<td class="X1_right">172 414</td>
+<td class="X1_right">181 200</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1481&lang=0" target="_blank" class="job">Руководитель проекта (телекоммуникации)</a></td>
+<td class="X1_right">80 000</td>
+<td class="X1_right">89 166</td>
+<td class="X1_right">110 184</td>
+<td class="X1_right">120 000</td>
+<td class="X1_right">123 218</td>
+<td class="X1_right">137 931</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист проекта</a></td>
+<td class="X1_right">40 000</td>
+<td class="X1_right">55 000</td>
+<td class="X1_right">63 020</td>
+<td class="X1_right">69 088</td>
+<td class="X1_right">70 000</td>
+<td class="X1_right">85 000</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>с учетом НДФЛ</b></p>
+<br>
+
+<h3>2.	Рыночная тенденция по значениям заработной платы (руб. в месяц)</h3>
+<p align="right"><em>Таблица 2.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+   <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td class="X1_right">72 368</td>
+<td class="X1_right">117 480</td>
+<td class="X1_right">147 779</td>
+<td class="X1_right">146 662</td>
+<td class="X1_right">176 961</td>
+<td class="X1_right">225 423</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td class="X1_right">70 000</td>
+<td class="X1_right">77 575</td>
+<td class="X1_right">89 325</td>
+<td class="X1_right">88 650</td>
+<td class="X1_right">100 400</td>
+<td class="X1_right">110 000</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td class="X1_right">212 066</td>
+<td class="X1_right">225 171</td>
+<td class="X1_right">235 893</td>
+<td class="X1_right">238 276</td>
+<td class="X1_right">247 807</td>
+<td class="X1_right">257 338</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1369&lang=0" target="_blank" class="job">Операционный директор розничной сети </a></td>
+<td class="X1_right">149 868</td>
+<td class="X1_right">159 129</td>
+<td class="X1_right">166 707</td>
+<td class="X1_right">168 391</td>
+<td class="X1_right">175 126</td>
+<td class="X1_right">181 862</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td class="X1_right">120 303</td>
+<td class="X1_right">127 738</td>
+<td class="X1_right">133 821</td>
+<td class="X1_right">135 172</td>
+<td class="X1_right">140 579</td>
+<td class="X1_right">145 986</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td class="X1_right">22 461</td>
+<td class="X1_right">23 849</td>
+<td class="X1_right">24 984</td>
+<td class="X1_right">25 237</td>
+<td class="X1_right">26 246</td>
+<td class="X1_right">27 256</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1307&lang=0" target="_blank" class="job">Менеджер по городским продажам</a></td>
+<td class="X1_right">23 408</td>
+<td class="X1_right">33 333</td>
+<td class="X1_right">48 611</td>
+<td class="X1_right">46 693</td>
+<td class="X1_right">55 000</td>
+<td class="X1_right">96 667</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td class="X1_right">74 760</td>
+<td class="X1_right">75 000</td>
+<td class="X1_right">83 640</td>
+<td class="X1_right">90 000</td>
+<td class="X1_right">90 000</td>
+<td class="X1_right">90 720</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td class="X1_right">27 966</td>
+<td class="X1_right">34 239</td>
+<td class="X1_right">41 316</td>
+<td class="X1_right">40 901</td>
+<td class="X1_right">49 870</td>
+<td class="X1_right">53 251</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td class="X1_right">61 552</td>
+<td class="X1_right">69 341</td>
+<td class="X1_right">87 406</td>
+<td class="X1_right">78 261</td>
+<td class="X1_right">94 968</td>
+<td class="X1_right">132 908</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1397&lang=0" target="_blank" class="job">Старший менеджер по городским продажам</a></td>
+<td class="X1_right">62 373</td>
+<td class="X1_right">66 227</td>
+<td class="X1_right">69 381</td>
+<td class="X1_right">70 082</td>
+<td class="X1_right">72 885</td>
+<td class="X1_right">75 688</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td class="X1_right">44 767</td>
+<td class="X1_right">49 835</td>
+<td class="X1_right">54 433</td>
+<td class="X1_right">53 392</td>
+<td class="X1_right">57 625</td>
+<td class="X1_right">72 874</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1489&lang=0" target="_blank" class="job">Руководитель департамента (телекоммуникации)</a></td>
+<td class="X1_right">149 322</td>
+<td class="X1_right">160 920</td>
+<td class="X1_right">166 771</td>
+<td class="X1_right">170 000</td>
+<td class="X1_right">172 414</td>
+<td class="X1_right">181 200</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1481&lang=0" target="_blank" class="job">Руководитель проекта (телекоммуникации)</a></td>
+<td class="X1_right">80 000</td>
+<td class="X1_right">89 166</td>
+<td class="X1_right">110 184</td>
+<td class="X1_right">120 000</td>
+<td class="X1_right">123 218</td>
+<td class="X1_right">137 931</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист проекта</a></td>
+<td class="X1_right">40 000</td>
+<td class="X1_right">55 000</td>
+<td class="X1_right">63 020</td>
+<td class="X1_right">69 088</td>
+<td class="X1_right">70 000</td>
+<td class="X1_right">85 000</td>
+<td class="X1_right">октябрь 2009</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>с учетом НДФЛ</b></p>
+</div>

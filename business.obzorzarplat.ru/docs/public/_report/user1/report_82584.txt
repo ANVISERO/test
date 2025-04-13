@@ -1,0 +1,808 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>24 890</td>
+<td>29 000</td>
+<td>36 588</td>
+<td>35 250</td>
+<td>42 475</td>
+<td>50 380</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2864&lang=0" target="_blank" class="job">Бариста</a></td>
+<td>25 600</td>
+<td>27 000</td>
+<td>31 643</td>
+<td>30 000</td>
+<td>36 250</td>
+<td>38 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>21 000</td>
+<td>22 750</td>
+<td>29 167</td>
+<td>29 000</td>
+<td>33 750</td>
+<td>37 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1277&lang=0" target="_blank" class="job">Гардеробщик</a></td>
+<td>14 700</td>
+<td>18 000</td>
+<td>22 160</td>
+<td>19 800</td>
+<td>24 900</td>
+<td>33 170</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1284&lang=0" target="_blank" class="job">Гладильщик</a></td>
+<td>18 800</td>
+<td>20 500</td>
+<td>20 995</td>
+<td>22 000</td>
+<td>22 000</td>
+<td>22 386</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1279&lang=0" target="_blank" class="job">Горничная</a></td>
+<td>22 000</td>
+<td>25 000</td>
+<td>27 400</td>
+<td>27 000</td>
+<td>30 000</td>
+<td>33 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2881&lang=0" target="_blank" class="job">Диджей</a></td>
+<td>25 000</td>
+<td>26 250</td>
+<td>30 833</td>
+<td>30 000</td>
+<td>33 750</td>
+<td>37 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1275&lang=0" target="_blank" class="job">Директор кафе</a></td>
+<td>47 500</td>
+<td>51 250</td>
+<td>61 667</td>
+<td>57 500</td>
+<td>67 500</td>
+<td>80 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2210&lang=0" target="_blank" class="job">Директор ресторана</a></td>
+<td>50 000</td>
+<td>50 000</td>
+<td>82 785</td>
+<td>70 000</td>
+<td>100 000</td>
+<td>138 200</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>58 300</td>
+<td>65 750</td>
+<td>88 921</td>
+<td>80 500</td>
+<td>103 750</td>
+<td>134 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>25 140</td>
+<td>28 739</td>
+<td>37 174</td>
+<td>33 400</td>
+<td>41 400</td>
+<td>55 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2207&lang=0" target="_blank" class="job">Кастелянша</a></td>
+<td>15 250</td>
+<td>15 750</td>
+<td>17 750</td>
+<td>17 750</td>
+<td>19 750</td>
+<td>20 250</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1280&lang=0" target="_blank" class="job">Консьерж</a></td>
+<td>21 000</td>
+<td>22 250</td>
+<td>27 833</td>
+<td>24 000</td>
+<td>26 500</td>
+<td>38 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>30 000</td>
+<td>34 000</td>
+<td>40 163</td>
+<td>38 000</td>
+<td>46 500</td>
+<td>52 600</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1281&lang=0" target="_blank" class="job">Метрдотель</a></td>
+<td>28 500</td>
+<td>30 000</td>
+<td>32 333</td>
+<td>31 000</td>
+<td>34 250</td>
+<td>37 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>12 720</td>
+<td>15 050</td>
+<td>17 060</td>
+<td>17 000</td>
+<td>19 000</td>
+<td>20 927</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>18 800</td>
+<td>20 500</td>
+<td>27 471</td>
+<td>25 000</td>
+<td>30 600</td>
+<td>42 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2054&lang=0" target="_blank" class="job">Парикмахер</a></td>
+<td>20 300</td>
+<td>27 500</td>
+<td>31 972</td>
+<td>33 440</td>
+<td>35 000</td>
+<td>40 980</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>25 800</td>
+<td>27 900</td>
+<td>32 880</td>
+<td>32 000</td>
+<td>37 700</td>
+<td>41 100</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1942&lang=0" target="_blank" class="job">Повар мясного цеха</a></td>
+<td>24 500</td>
+<td>27 400</td>
+<td>32 176</td>
+<td>31 900</td>
+<td>36 000</td>
+<td>40 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>30 000</td>
+<td>30 000</td>
+<td>33 181</td>
+<td>31 700</td>
+<td>35 425</td>
+<td>38 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>28 250</td>
+<td>30 000</td>
+<td>34 863</td>
+<td>32 200</td>
+<td>39 250</td>
+<td>44 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2201&lang=0" target="_blank" class="job">Повар японской кухни</a></td>
+<td>23 400</td>
+<td>26 450</td>
+<td>33 337</td>
+<td>32 000</td>
+<td>40 600</td>
+<td>44 200</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>18 000</td>
+<td>20 250</td>
+<td>23 236</td>
+<td>22 700</td>
+<td>26 175</td>
+<td>29 170</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1941&lang=0" target="_blank" class="job">Помощник управляющего</a></td>
+<td>26 480</td>
+<td>30 000</td>
+<td>35 615</td>
+<td>35 600</td>
+<td>40 200</td>
+<td>44 040</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1282&lang=0" target="_blank" class="job">Портье</a></td>
+<td>26 500</td>
+<td>27 400</td>
+<td>30 100</td>
+<td>29 300</td>
+<td>33 000</td>
+<td>34 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>22 962</td>
+<td>24 755</td>
+<td>27 177</td>
+<td>27 400</td>
+<td>29 925</td>
+<td>31 070</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2200&lang=0" target="_blank" class="job">Работник ресторана</a></td>
+<td>16 600</td>
+<td>20 000</td>
+<td>23 311</td>
+<td>25 000</td>
+<td>25 300</td>
+<td>30 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>30 000</td>
+<td>35 000</td>
+<td>47 032</td>
+<td>40 950</td>
+<td>53 870</td>
+<td>70 460</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>35 680</td>
+<td>37 000</td>
+<td>42 898</td>
+<td>40 600</td>
+<td>45 800</td>
+<td>53 608</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2880&lang=0" target="_blank" class="job">Танцовщица</a></td>
+<td>19 200</td>
+<td>22 500</td>
+<td>31 714</td>
+<td>30 000</td>
+<td>39 500</td>
+<td>49 400</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2196&lang=0" target="_blank" class="job">Тестовод</a></td>
+<td>26 500</td>
+<td>28 800</td>
+<td>31 055</td>
+<td>30 600</td>
+<td>33 200</td>
+<td>34 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2169&lang=0" target="_blank" class="job">Управляющий гостиницей</a></td>
+<td>40 800</td>
+<td>42 400</td>
+<td>62 642</td>
+<td>46 620</td>
+<td>89 470</td>
+<td>100 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>42 500</td>
+<td>50 000</td>
+<td>60 833</td>
+<td>60 000</td>
+<td>77 500</td>
+<td>80 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1934&lang=0" target="_blank" class="job">Формовщик</a></td>
+<td>21 550</td>
+<td>23 000</td>
+<td>26 692</td>
+<td>25 500</td>
+<td>29 750</td>
+<td>32 900</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1283&lang=0" target="_blank" class="job">Швейцар</a></td>
+<td>15 760</td>
+<td>19 000</td>
+<td>20 011</td>
+<td>20 300</td>
+<td>21 000</td>
+<td>23 600</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>42 000</td>
+<td>47 600</td>
+<td>66 359</td>
+<td>60 000</td>
+<td>80 000</td>
+<td>98 000</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>41 090</td>
+<td>45 525</td>
+<td>54 876</td>
+<td>50 054</td>
+<td>61 545</td>
+<td>78 141</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2864&lang=0" target="_blank" class="job">Бариста</a></td>
+<td>33 300</td>
+<td>35 500</td>
+<td>38 250</td>
+<td>38 500</td>
+<td>41 000</td>
+<td>43 400</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>44 250</td>
+<td>49 500</td>
+<td>56 667</td>
+<td>57 750</td>
+<td>64 125</td>
+<td>68 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1277&lang=0" target="_blank" class="job">Гардеробщик</a></td>
+<td>18 532</td>
+<td>20 054</td>
+<td>25 986</td>
+<td>23 015</td>
+<td>30 775</td>
+<td>37 810</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1284&lang=0" target="_blank" class="job">Гладильщик</a></td>
+<td>20 540</td>
+<td>23 450</td>
+<td>24 025</td>
+<td>25 000</td>
+<td>26 106</td>
+<td>26 553</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1279&lang=0" target="_blank" class="job">Горничная</a></td>
+<td>31 880</td>
+<td>33 200</td>
+<td>33 890</td>
+<td>34 000</td>
+<td>35 500</td>
+<td>35 650</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2881&lang=0" target="_blank" class="job">Диджей</a></td>
+<td>35 500</td>
+<td>41 375</td>
+<td>46 367</td>
+<td>45 500</td>
+<td>52 625</td>
+<td>58 100</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1275&lang=0" target="_blank" class="job">Директор кафе</a></td>
+<td>79 417</td>
+<td>89 250</td>
+<td>102 361</td>
+<td>97 250</td>
+<td>108 000</td>
+<td>130 417</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2210&lang=0" target="_blank" class="job">Директор ресторана</a></td>
+<td>103 600</td>
+<td>131 000</td>
+<td>161 972</td>
+<td>156 000</td>
+<td>172 720</td>
+<td>239 080</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>71 827</td>
+<td>88 800</td>
+<td>127 714</td>
+<td>112 500</td>
+<td>158 908</td>
+<td>193 208</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>29 635</td>
+<td>34 034</td>
+<td>45 166</td>
+<td>42 367</td>
+<td>50 969</td>
+<td>64 750</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2207&lang=0" target="_blank" class="job">Кастелянша</a></td>
+<td>20 400</td>
+<td>22 425</td>
+<td>27 708</td>
+<td>27 225</td>
+<td>33 188</td>
+<td>35 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1280&lang=0" target="_blank" class="job">Консьерж</a></td>
+<td>26 400</td>
+<td>27 800</td>
+<td>39 750</td>
+<td>29 350</td>
+<td>45 375</td>
+<td>63 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>31 480</td>
+<td>39 995</td>
+<td>47 005</td>
+<td>42 167</td>
+<td>55 350</td>
+<td>63 520</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1281&lang=0" target="_blank" class="job">Метрдотель</a></td>
+<td>36 500</td>
+<td>37 250</td>
+<td>41 892</td>
+<td>40 750</td>
+<td>46 500</td>
+<td>48 425</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>18 120</td>
+<td>18 350</td>
+<td>21 772</td>
+<td>20 000</td>
+<td>23 748</td>
+<td>27 526</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>25 170</td>
+<td>29 800</td>
+<td>39 982</td>
+<td>34 000</td>
+<td>47 600</td>
+<td>68 220</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2054&lang=0" target="_blank" class="job">Парикмахер</a></td>
+<td>28 300</td>
+<td>32 750</td>
+<td>43 833</td>
+<td>43 000</td>
+<td>52 500</td>
+<td>63 404</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>34 587</td>
+<td>35 942</td>
+<td>45 532</td>
+<td>44 050</td>
+<td>50 450</td>
+<td>58 700</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1942&lang=0" target="_blank" class="job">Повар мясного цеха</a></td>
+<td>32 500</td>
+<td>33 933</td>
+<td>40 375</td>
+<td>36 800</td>
+<td>44 758</td>
+<td>56 117</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>43 567</td>
+<td>44 192</td>
+<td>49 627</td>
+<td>47 659</td>
+<td>53 936</td>
+<td>58 959</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>37 375</td>
+<td>40 425</td>
+<td>47 170</td>
+<td>45 384</td>
+<td>48 519</td>
+<td>59 359</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2201&lang=0" target="_blank" class="job">Повар японской кухни</a></td>
+<td>28 228</td>
+<td>32 700</td>
+<td>41 768</td>
+<td>37 600</td>
+<td>49 750</td>
+<td>62 118</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>18 100</td>
+<td>23 025</td>
+<td>28 338</td>
+<td>25 600</td>
+<td>35 264</td>
+<td>37 850</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1941&lang=0" target="_blank" class="job">Помощник управляющего</a></td>
+<td>26 660</td>
+<td>32 100</td>
+<td>37 721</td>
+<td>37 600</td>
+<td>46 500</td>
+<td>46 982</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1282&lang=0" target="_blank" class="job">Портье</a></td>
+<td>31 725</td>
+<td>34 500</td>
+<td>37 908</td>
+<td>39 250</td>
+<td>42 500</td>
+<td>42 750</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>28 960</td>
+<td>31 053</td>
+<td>35 375</td>
+<td>36 183</td>
+<td>39 594</td>
+<td>41 720</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2200&lang=0" target="_blank" class="job">Работник ресторана</a></td>
+<td>20 240</td>
+<td>25 300</td>
+<td>28 143</td>
+<td>26 560</td>
+<td>32 000</td>
+<td>35 420</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>32 102</td>
+<td>41 850</td>
+<td>58 880</td>
+<td>53 533</td>
+<td>70 000</td>
+<td>89 182</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>38 580</td>
+<td>40 200</td>
+<td>45 584</td>
+<td>42 400</td>
+<td>48 100</td>
+<td>56 840</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2880&lang=0" target="_blank" class="job">Танцовщица</a></td>
+<td>40 500</td>
+<td>59 750</td>
+<td>72 814</td>
+<td>75 500</td>
+<td>89 350</td>
+<td>104 920</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2196&lang=0" target="_blank" class="job">Тестовод</a></td>
+<td>27 600</td>
+<td>30 600</td>
+<td>36 817</td>
+<td>34 000</td>
+<td>41 300</td>
+<td>47 200</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2169&lang=0" target="_blank" class="job">Управляющий гостиницей</a></td>
+<td>52 400</td>
+<td>55 350</td>
+<td>79 678</td>
+<td>70 200</td>
+<td>91 850</td>
+<td>132 800</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>67 809</td>
+<td>90 525</td>
+<td>106 361</td>
+<td>120 275</td>
+<td>128 013</td>
+<td>131 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1934&lang=0" target="_blank" class="job">Формовщик</a></td>
+<td>23 920</td>
+<td>27 167</td>
+<td>31 433</td>
+<td>29 650</td>
+<td>32 936</td>
+<td>40 367</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1283&lang=0" target="_blank" class="job">Швейцар</a></td>
+<td>15 760</td>
+<td>20 000</td>
+<td>21 058</td>
+<td>21 840</td>
+<td>22 710</td>
+<td>24 920</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>43 800</td>
+<td>54 900</td>
+<td>86 784</td>
+<td>70 000</td>
+<td>120 288</td>
+<td>131 000</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.04.2019)</p>
+</div>

@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Сфера деятельности компании: Информационные технологии</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2041&lang=0" target="_blank" class="job">IT-специалист</a></td>
+<td>38 159</td>
+<td>45 152</td>
+<td>53 979</td>
+<td>58 326</td>
+<td>66 057</td>
+<td>66 065</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>33 274</td>
+<td>37 032</td>
+<td>39 041</td>
+<td>39 339</td>
+<td>40 947</td>
+<td>43 825</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>33 825</td>
+<td>35 862</td>
+<td>40 721</td>
+<td>41 149</td>
+<td>44 133</td>
+<td>47 651</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Инженер-программист</a></td>
+<td>28 736</td>
+<td>28 736</td>
+<td>33 282</td>
+<td>30 682</td>
+<td>35 675</td>
+<td>40 178</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2039&lang=0" target="_blank" class="job">Инженер-программист php</a></td>
+<td>31 627</td>
+<td>34 000</td>
+<td>37 108</td>
+<td>37 345</td>
+<td>40 101</td>
+<td>41 775</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2036&lang=0" target="_blank" class="job">Менеджер сайта</a></td>
+<td>14 457</td>
+<td>16 134</td>
+<td>17 113</td>
+<td>17 241</td>
+<td>17 866</td>
+<td>19 474</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>52 402</td>
+<td>58 366</td>
+<td>66 585</td>
+<td>68 966</td>
+<td>71 827</td>
+<td>81 473</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1747&lang=0" target="_blank" class="job">Начальник отдела сборки ПК</a></td>
+<td>20 995</td>
+<td>22 850</td>
+<td>25 068</td>
+<td>25 287</td>
+<td>26 662</td>
+<td>28 922</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>18 163</td>
+<td>22 576</td>
+<td>25 651</td>
+<td>27 586</td>
+<td>28 736</td>
+<td>31 914</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1494&lang=0" target="_blank" class="job">Проектировщик информационных систем</a></td>
+<td>23 148</td>
+<td>24 542</td>
+<td>27 868</td>
+<td>28 161</td>
+<td>30 203</td>
+<td>32 610</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2035&lang=0" target="_blank" class="job">Старший программист 1C</a></td>
+<td>41 792</td>
+<td>53 137</td>
+<td>63 526</td>
+<td>68 642</td>
+<td>73 364</td>
+<td>84 379</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2041&lang=0" target="_blank" class="job">IT-специалист</a></td>
+<td>93 214</td>
+<td>119 130</td>
+<td>142 421</td>
+<td>153 889</td>
+<td>171 364</td>
+<td>184 142</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>50 185</td>
+<td>55 459</td>
+<td>58 883</td>
+<td>59 896</td>
+<td>61 306</td>
+<td>66 099</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>40 061</td>
+<td>42 473</td>
+<td>48 229</td>
+<td>48 736</td>
+<td>52 269</td>
+<td>56 436</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Инженер-программист</a></td>
+<td>28 736</td>
+<td>28 736</td>
+<td>43 603</td>
+<td>42 482</td>
+<td>56 588</td>
+<td>61 954</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2039&lang=0" target="_blank" class="job">Инженер-программист php</a></td>
+<td>60 854</td>
+<td>67 382</td>
+<td>71 400</td>
+<td>71 203</td>
+<td>76 343</td>
+<td>80 150</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2036&lang=0" target="_blank" class="job">Менеджер сайта</a></td>
+<td>19 276</td>
+<td>21 511</td>
+<td>22 818</td>
+<td>22 989</td>
+<td>23 822</td>
+<td>25 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>94 395</td>
+<td>96 483</td>
+<td>109 766</td>
+<td>117 766</td>
+<td>118 408</td>
+<td>122 461</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1747&lang=0" target="_blank" class="job">Начальник отдела сборки ПК</a></td>
+<td>47 716</td>
+<td>51 932</td>
+<td>56 973</td>
+<td>57 471</td>
+<td>60 596</td>
+<td>65 733</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>32 874</td>
+<td>34 967</td>
+<td>45 986</td>
+<td>42 529</td>
+<td>54 369</td>
+<td>63 879</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1494&lang=0" target="_blank" class="job">Проектировщик информационных систем</a></td>
+<td>36 565</td>
+<td>38 767</td>
+<td>44 020</td>
+<td>44 483</td>
+<td>47 708</td>
+<td>51 511</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2035&lang=0" target="_blank" class="job">Старший программист 1C</a></td>
+<td>71 488</td>
+<td>76 995</td>
+<td>92 049</td>
+<td>94 305</td>
+<td>106 069</td>
+<td>113 583</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.02.2013)</p>
+</div>

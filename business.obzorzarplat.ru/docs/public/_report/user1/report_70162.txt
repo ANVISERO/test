@@ -1,0 +1,668 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>30 162</td>
+<td>35 000</td>
+<td>43 442</td>
+<td>36 890</td>
+<td>50 000</td>
+<td>64 088</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2285&lang=0" target="_blank" class="job">Врач акушер-гинеколог</a></td>
+<td>25 240</td>
+<td>32 958</td>
+<td>48 492</td>
+<td>50 000</td>
+<td>57 550</td>
+<td>73 135</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2286&lang=0" target="_blank" class="job">Врач анестезиолог-реаниматолог</a></td>
+<td>32 616</td>
+<td>35 000</td>
+<td>49 971</td>
+<td>40 000</td>
+<td>56 000</td>
+<td>69 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1994&lang=0" target="_blank" class="job">Врач общей практики</a></td>
+<td>40 790</td>
+<td>44 738</td>
+<td>49 779</td>
+<td>50 425</td>
+<td>58 088</td>
+<td>59 760</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>40 141</td>
+<td>48 450</td>
+<td>55 134</td>
+<td>58 800</td>
+<td>63 825</td>
+<td>66 360</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2289&lang=0" target="_blank" class="job">Врач-гастроэнтеролог</a></td>
+<td>36 000</td>
+<td>46 500</td>
+<td>49 771</td>
+<td>50 450</td>
+<td>56 750</td>
+<td>58 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2290&lang=0" target="_blank" class="job">Врач-кардиолог</a></td>
+<td>32 840</td>
+<td>40 485</td>
+<td>52 253</td>
+<td>52 739</td>
+<td>64 075</td>
+<td>69 820</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>30 390</td>
+<td>36 000</td>
+<td>46 154</td>
+<td>50 000</td>
+<td>55 840</td>
+<td>60 480</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>28 204</td>
+<td>51 610</td>
+<td>51 535</td>
+<td>56 945</td>
+<td>59 875</td>
+<td>60 788</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2292&lang=0" target="_blank" class="job">Врач-отоларинголог</a></td>
+<td>30 000</td>
+<td>35 490</td>
+<td>50 745</td>
+<td>46 300</td>
+<td>69 205</td>
+<td>71 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2293&lang=0" target="_blank" class="job">Врач-офтальмолог</a></td>
+<td>34 600</td>
+<td>39 000</td>
+<td>46 653</td>
+<td>40 500</td>
+<td>58 320</td>
+<td>61 280</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2294&lang=0" target="_blank" class="job">Врач-педиатр</a></td>
+<td>37 925</td>
+<td>45 608</td>
+<td>56 350</td>
+<td>59 615</td>
+<td>68 850</td>
+<td>71 325</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2288&lang=0" target="_blank" class="job">Врач-рентгенолог</a></td>
+<td>31 040</td>
+<td>38 000</td>
+<td>51 152</td>
+<td>45 600</td>
+<td>68 000</td>
+<td>69 700</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2213&lang=0" target="_blank" class="job">Врач-стоматолог</a></td>
+<td>30 825</td>
+<td>35 890</td>
+<td>58 660</td>
+<td>47 605</td>
+<td>75 900</td>
+<td>90 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2295&lang=0" target="_blank" class="job">Врач-терапевт</a></td>
+<td>30 262</td>
+<td>49 560</td>
+<td>49 741</td>
+<td>53 000</td>
+<td>59 000</td>
+<td>60 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2334&lang=0" target="_blank" class="job">Врач-травматолог</a></td>
+<td>30 227</td>
+<td>42 115</td>
+<td>52 039</td>
+<td>45 840</td>
+<td>69 500</td>
+<td>70 446</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2386&lang=0" target="_blank" class="job">Врач-хирург</a></td>
+<td>33 200</td>
+<td>41 000</td>
+<td>63 016</td>
+<td>50 120</td>
+<td>90 640</td>
+<td>100 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2296&lang=0" target="_blank" class="job">Врач-эндокринолог</a></td>
+<td>29 800</td>
+<td>34 250</td>
+<td>46 780</td>
+<td>40 100</td>
+<td>50 450</td>
+<td>64 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2239&lang=0" target="_blank" class="job">Заместитель главного врача</a></td>
+<td>56 058</td>
+<td>60 210</td>
+<td>73 196</td>
+<td>80 000</td>
+<td>82 450</td>
+<td>84 480</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2251&lang=0" target="_blank" class="job">Зубной техник</a></td>
+<td>32 880</td>
+<td>38 850</td>
+<td>50 010</td>
+<td>47 500</td>
+<td>65 750</td>
+<td>68 900</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2167&lang=0" target="_blank" class="job">Косметолог</a></td>
+<td>32 328</td>
+<td>40 000</td>
+<td>43 797</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>52 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>24 200</td>
+<td>25 000</td>
+<td>30 714</td>
+<td>27 000</td>
+<td>35 000</td>
+<td>42 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>20 084</td>
+<td>25 000</td>
+<td>30 957</td>
+<td>29 800</td>
+<td>35 158</td>
+<td>41 710</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2158&lang=0" target="_blank" class="job">Медицинская сестра</a></td>
+<td>20 800</td>
+<td>25 000</td>
+<td>29 514</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1992&lang=0" target="_blank" class="job">Руководитель (Главный врач)</a></td>
+<td>50 450</td>
+<td>55 900</td>
+<td>83 181</td>
+<td>70 500</td>
+<td>100 100</td>
+<td>123 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1993&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Заведующий отделением)</a></td>
+<td>40 509</td>
+<td>45 230</td>
+<td>51 531</td>
+<td>50 345</td>
+<td>54 158</td>
+<td>62 788</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1998&lang=0" target="_blank" class="job">Санитар</a></td>
+<td>15 288</td>
+<td>16 200</td>
+<td>19 336</td>
+<td>18 160</td>
+<td>19 618</td>
+<td>26 785</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1997&lang=0" target="_blank" class="job">Сиделка</a></td>
+<td>15 315</td>
+<td>19 575</td>
+<td>24 289</td>
+<td>25 150</td>
+<td>30 153</td>
+<td>31 027</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2440&lang=0" target="_blank" class="job">Старшая медицинская сестра</a></td>
+<td>25 210</td>
+<td>30 000</td>
+<td>34 966</td>
+<td>35 410</td>
+<td>40 245</td>
+<td>41 025</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1404&lang=0" target="_blank" class="job">Фельдшер</a></td>
+<td>20 090</td>
+<td>22 755</td>
+<td>28 292</td>
+<td>25 640</td>
+<td>30 675</td>
+<td>41 904</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>31 722</td>
+<td>36 371</td>
+<td>46 818</td>
+<td>41 375</td>
+<td>51 421</td>
+<td>73 473</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2285&lang=0" target="_blank" class="job">Врач акушер-гинеколог</a></td>
+<td>27 009</td>
+<td>36 943</td>
+<td>51 013</td>
+<td>50 985</td>
+<td>64 185</td>
+<td>74 120</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2286&lang=0" target="_blank" class="job">Врач анестезиолог-реаниматолог</a></td>
+<td>33 799</td>
+<td>37 105</td>
+<td>52 771</td>
+<td>41 435</td>
+<td>57 700</td>
+<td>73 271</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1994&lang=0" target="_blank" class="job">Врач общей практики</a></td>
+<td>42 870</td>
+<td>46 851</td>
+<td>52 597</td>
+<td>53 993</td>
+<td>60 035</td>
+<td>62 409</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>42 173</td>
+<td>49 435</td>
+<td>56 996</td>
+<td>61 488</td>
+<td>66 551</td>
+<td>67 365</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2289&lang=0" target="_blank" class="job">Врач-гастроэнтеролог</a></td>
+<td>46 870</td>
+<td>50 610</td>
+<td>55 484</td>
+<td>56 150</td>
+<td>59 293</td>
+<td>68 935</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2290&lang=0" target="_blank" class="job">Врач-кардиолог</a></td>
+<td>34 265</td>
+<td>43 476</td>
+<td>55 549</td>
+<td>55 274</td>
+<td>68 989</td>
+<td>74 843</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>31 815</td>
+<td>41 285</td>
+<td>49 569</td>
+<td>52 385</td>
+<td>58 290</td>
+<td>61 680</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>41 243</td>
+<td>64 336</td>
+<td>64 429</td>
+<td>68 945</td>
+<td>72 864</td>
+<td>74 419</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2292&lang=0" target="_blank" class="job">Врач-отоларинголог</a></td>
+<td>32 948</td>
+<td>37 475</td>
+<td>53 093</td>
+<td>47 800</td>
+<td>71 078</td>
+<td>74 717</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2293&lang=0" target="_blank" class="job">Врач-офтальмолог</a></td>
+<td>35 585</td>
+<td>40 985</td>
+<td>48 543</td>
+<td>43 985</td>
+<td>59 305</td>
+<td>63 163</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2294&lang=0" target="_blank" class="job">Врач-педиатр</a></td>
+<td>40 595</td>
+<td>50 679</td>
+<td>58 885</td>
+<td>62 638</td>
+<td>70 139</td>
+<td>72 310</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2288&lang=0" target="_blank" class="job">Врач-рентгенолог</a></td>
+<td>35 764</td>
+<td>43 600</td>
+<td>55 942</td>
+<td>50 400</td>
+<td>69 990</td>
+<td>73 724</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2213&lang=0" target="_blank" class="job">Врач-стоматолог</a></td>
+<td>34 575</td>
+<td>40 180</td>
+<td>65 173</td>
+<td>55 463</td>
+<td>82 434</td>
+<td>104 813</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2295&lang=0" target="_blank" class="job">Врач-терапевт</a></td>
+<td>36 070</td>
+<td>51 500</td>
+<td>54 247</td>
+<td>57 985</td>
+<td>63 560</td>
+<td>63 972</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2334&lang=0" target="_blank" class="job">Врач-травматолог</a></td>
+<td>33 037</td>
+<td>44 830</td>
+<td>54 087</td>
+<td>49 670</td>
+<td>70 443</td>
+<td>72 374</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2386&lang=0" target="_blank" class="job">Врач-хирург</a></td>
+<td>34 794</td>
+<td>45 000</td>
+<td>80 771</td>
+<td>61 625</td>
+<td>124 100</td>
+<td>143 640</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2296&lang=0" target="_blank" class="job">Врач-эндокринолог</a></td>
+<td>32 869</td>
+<td>35 396</td>
+<td>49 820</td>
+<td>44 468</td>
+<td>53 175</td>
+<td>69 485</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2239&lang=0" target="_blank" class="job">Заместитель главного врача</a></td>
+<td>58 412</td>
+<td>61 195</td>
+<td>77 396</td>
+<td>81 635</td>
+<td>88 785</td>
+<td>91 277</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2251&lang=0" target="_blank" class="job">Зубной техник</a></td>
+<td>33 977</td>
+<td>40 463</td>
+<td>53 547</td>
+<td>51 043</td>
+<td>70 089</td>
+<td>71 827</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2167&lang=0" target="_blank" class="job">Косметолог</a></td>
+<td>37 005</td>
+<td>40 985</td>
+<td>46 981</td>
+<td>50 985</td>
+<td>53 985</td>
+<td>56 105</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>28 977</td>
+<td>33 281</td>
+<td>40 547</td>
+<td>42 125</td>
+<td>46 834</td>
+<td>52 050</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>22 540</td>
+<td>26 104</td>
+<td>33 775</td>
+<td>30 743</td>
+<td>39 951</td>
+<td>46 435</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2158&lang=0" target="_blank" class="job">Медицинская сестра</a></td>
+<td>22 034</td>
+<td>25 243</td>
+<td>31 701</td>
+<td>30 985</td>
+<td>38 793</td>
+<td>40 768</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1992&lang=0" target="_blank" class="job">Руководитель (Главный врач)</a></td>
+<td>54 230</td>
+<td>68 790</td>
+<td>98 879</td>
+<td>90 330</td>
+<td>131 900</td>
+<td>158 985</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1993&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Заведующий отделением)</a></td>
+<td>44 672</td>
+<td>49 530</td>
+<td>56 383</td>
+<td>51 770</td>
+<td>56 671</td>
+<td>77 539</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1998&lang=0" target="_blank" class="job">Санитар</a></td>
+<td>16 494</td>
+<td>17 530</td>
+<td>24 122</td>
+<td>21 468</td>
+<td>26 075</td>
+<td>37 432</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1997&lang=0" target="_blank" class="job">Сиделка</a></td>
+<td>16 381</td>
+<td>20 589</td>
+<td>27 063</td>
+<td>28 875</td>
+<td>32 714</td>
+<td>35 949</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2440&lang=0" target="_blank" class="job">Старшая медицинская сестра</a></td>
+<td>26 811</td>
+<td>30 739</td>
+<td>39 924</td>
+<td>41 510</td>
+<td>45 585</td>
+<td>52 948</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1404&lang=0" target="_blank" class="job">Фельдшер</a></td>
+<td>21 061</td>
+<td>26 305</td>
+<td>33 953</td>
+<td>34 985</td>
+<td>40 093</td>
+<td>47 401</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 26.04.2017)</p>
+</div>

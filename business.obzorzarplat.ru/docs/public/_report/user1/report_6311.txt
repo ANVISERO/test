@@ -1,0 +1,328 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1986&lang=0" target="_blank" class="job">Воспитатель</a></td>
+<td>9 425</td>
+<td>11 494</td>
+<td>15 164</td>
+<td>14 803</td>
+<td>17 557</td>
+<td>22 540</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2049&lang=0" target="_blank" class="job">Доцент в ВУЗе</a></td>
+<td>50 305</td>
+<td>52 806</td>
+<td>59 548</td>
+<td>59 993</td>
+<td>65 501</td>
+<td>69 153</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1990&lang=0" target="_blank" class="job">Инструктор по физической культуре</a></td>
+<td>14 899</td>
+<td>15 214</td>
+<td>18 295</td>
+<td>17 241</td>
+<td>21 690</td>
+<td>22 989</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>12 816</td>
+<td>14 354</td>
+<td>21 641</td>
+<td>23 431</td>
+<td>25 798</td>
+<td>28 258</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1991&lang=0" target="_blank" class="job">Музыкальный руководитель</a></td>
+<td>9 195</td>
+<td>10 857</td>
+<td>13 340</td>
+<td>14 662</td>
+<td>15 805</td>
+<td>16 112</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1989&lang=0" target="_blank" class="job">Педагог дополнительного образования</a></td>
+<td>10 992</td>
+<td>11 149</td>
+<td>13 378</td>
+<td>11 607</td>
+<td>15 861</td>
+<td>17 816</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1988&lang=0" target="_blank" class="job">Педагог-психолог</a></td>
+<td>9 195</td>
+<td>10 237</td>
+<td>12 578</td>
+<td>11 494</td>
+<td>14 912</td>
+<td>17 241</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1985&lang=0" target="_blank" class="job">Преподаватель</a></td>
+<td>14 787</td>
+<td>44 816</td>
+<td>57 155</td>
+<td>47 701</td>
+<td>67 760</td>
+<td>112 759</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1981&lang=0" target="_blank" class="job">Руководитель (Директор школы)</a></td>
+<td>24 527</td>
+<td>26 694</td>
+<td>29 285</td>
+<td>29 541</td>
+<td>31 148</td>
+<td>33 788</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1982&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Завуч)</a></td>
+<td>19 276</td>
+<td>21 511</td>
+<td>22 818</td>
+<td>22 989</td>
+<td>23 822</td>
+<td>25 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1987&lang=0" target="_blank" class="job">Социальный педагог</a></td>
+<td>13 819</td>
+<td>14 721</td>
+<td>17 739</td>
+<td>17 317</td>
+<td>20 067</td>
+<td>22 854</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1983&lang=0" target="_blank" class="job">Учитель</a></td>
+<td>17 956</td>
+<td>19 850</td>
+<td>21 068</td>
+<td>21 206</td>
+<td>22 265</td>
+<td>23 650</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1984&lang=0" target="_blank" class="job">Учитель-дефектолог</a></td>
+<td>10 169</td>
+<td>11 740</td>
+<td>14 425</td>
+<td>12 644</td>
+<td>17 102</td>
+<td>20 690</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1986&lang=0" target="_blank" class="job">Воспитатель</a></td>
+<td>9 425</td>
+<td>11 494</td>
+<td>15 164</td>
+<td>14 803</td>
+<td>17 557</td>
+<td>22 540</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2049&lang=0" target="_blank" class="job">Доцент в ВУЗе</a></td>
+<td>50 305</td>
+<td>52 806</td>
+<td>59 548</td>
+<td>59 993</td>
+<td>65 501</td>
+<td>69 153</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1990&lang=0" target="_blank" class="job">Инструктор по физической культуре</a></td>
+<td>14 899</td>
+<td>15 214</td>
+<td>18 295</td>
+<td>17 241</td>
+<td>21 690</td>
+<td>22 989</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>16 661</td>
+<td>19 138</td>
+<td>33 401</td>
+<td>41 073</td>
+<td>41 211</td>
+<td>41 371</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1991&lang=0" target="_blank" class="job">Музыкальный руководитель</a></td>
+<td>9 195</td>
+<td>10 857</td>
+<td>13 340</td>
+<td>14 662</td>
+<td>15 805</td>
+<td>16 112</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1989&lang=0" target="_blank" class="job">Педагог дополнительного образования</a></td>
+<td>10 992</td>
+<td>11 149</td>
+<td>13 378</td>
+<td>11 607</td>
+<td>15 861</td>
+<td>17 816</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1988&lang=0" target="_blank" class="job">Педагог-психолог</a></td>
+<td>9 195</td>
+<td>10 237</td>
+<td>12 578</td>
+<td>11 494</td>
+<td>14 912</td>
+<td>17 241</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1985&lang=0" target="_blank" class="job">Преподаватель</a></td>
+<td>14 787</td>
+<td>44 816</td>
+<td>57 155</td>
+<td>47 701</td>
+<td>67 760</td>
+<td>112 759</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1981&lang=0" target="_blank" class="job">Руководитель (Директор школы)</a></td>
+<td>24 527</td>
+<td>26 694</td>
+<td>29 285</td>
+<td>29 541</td>
+<td>31 148</td>
+<td>33 788</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1982&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Завуч)</a></td>
+<td>19 276</td>
+<td>21 511</td>
+<td>22 818</td>
+<td>22 989</td>
+<td>23 822</td>
+<td>25 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1987&lang=0" target="_blank" class="job">Социальный педагог</a></td>
+<td>13 819</td>
+<td>14 721</td>
+<td>17 739</td>
+<td>17 317</td>
+<td>20 067</td>
+<td>22 854</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1983&lang=0" target="_blank" class="job">Учитель</a></td>
+<td>17 956</td>
+<td>19 850</td>
+<td>21 068</td>
+<td>21 206</td>
+<td>22 265</td>
+<td>23 650</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1984&lang=0" target="_blank" class="job">Учитель-дефектолог</a></td>
+<td>10 169</td>
+<td>11 740</td>
+<td>14 425</td>
+<td>12 644</td>
+<td>17 102</td>
+<td>20 690</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 04.12.2012)</p>
+</div>

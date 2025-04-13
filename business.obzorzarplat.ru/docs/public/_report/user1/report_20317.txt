@@ -1,0 +1,688 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2103&lang=0" target="_blank" class="job">Боец (вневедомственная охрана)</a></td>
+<td>15 354</td>
+<td>19 754</td>
+<td>21 737</td>
+<td>23 000</td>
+<td>25 000</td>
+<td>28 614</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1917&lang=0" target="_blank" class="job">Вахтер</a></td>
+<td>5 386</td>
+<td>5 893</td>
+<td>8 488</td>
+<td>7 262</td>
+<td>10 367</td>
+<td>12 481</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1403&lang=0" target="_blank" class="job">Водитель-телохранитель</a></td>
+<td>25 900</td>
+<td>28 170</td>
+<td>35 391</td>
+<td>35 896</td>
+<td>43 123</td>
+<td>49 400</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1762&lang=0" target="_blank" class="job">Дежурный бюро пропусков</a></td>
+<td>7 920</td>
+<td>10 798</td>
+<td>13 058</td>
+<td>12 000</td>
+<td>15 558</td>
+<td>19 618</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1928&lang=0" target="_blank" class="job">Директор по предотвращению потерь</a></td>
+<td>40 000</td>
+<td>48 199</td>
+<td>56 833</td>
+<td>51 249</td>
+<td>67 738</td>
+<td>85 385</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1448&lang=0" target="_blank" class="job">Инкассатор</a></td>
+<td>12 122</td>
+<td>14 776</td>
+<td>17 577</td>
+<td>18 287</td>
+<td>21 630</td>
+<td>23 350</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1741&lang=0" target="_blank" class="job">Инспектор отдела внутреннего контроля</a></td>
+<td>14 006</td>
+<td>18 200</td>
+<td>19 850</td>
+<td>22 000</td>
+<td>22 000</td>
+<td>23 061</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>15 479</td>
+<td>16 616</td>
+<td>19 547</td>
+<td>19 847</td>
+<td>21 777</td>
+<td>24 774</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2449&lang=0" target="_blank" class="job">Комендант</a></td>
+<td>11 226</td>
+<td>20 548</td>
+<td>25 282</td>
+<td>25 000</td>
+<td>31 614</td>
+<td>37 774</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1353&lang=0" target="_blank" class="job">Контролер (охранник)</a></td>
+<td>9 430</td>
+<td>13 000</td>
+<td>13 962</td>
+<td>14 300</td>
+<td>15 730</td>
+<td>18 000</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1538&lang=0" target="_blank" class="job">Контролер КПП</a></td>
+<td>5 838</td>
+<td>8 155</td>
+<td>12 140</td>
+<td>13 144</td>
+<td>14 300</td>
+<td>15 900</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1354&lang=0" target="_blank" class="job">Контролер торгового зала</a></td>
+<td>16 961</td>
+<td>18 000</td>
+<td>19 788</td>
+<td>20 000</td>
+<td>22 167</td>
+<td>23 131</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1742&lang=0" target="_blank" class="job">Начальник гарантийного отдела</a></td>
+<td>41 769</td>
+<td>45 000</td>
+<td>53 744</td>
+<td>53 400</td>
+<td>65 000</td>
+<td>76 241</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1739&lang=0" target="_blank" class="job">Начальник отдела внутреннего контроля</a></td>
+<td>17 000</td>
+<td>26 642</td>
+<td>31 300</td>
+<td>33 000</td>
+<td>39 494</td>
+<td>44 076</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>46 500</td>
+<td>61 930</td>
+<td>83 568</td>
+<td>78 500</td>
+<td>101 226</td>
+<td>121 738</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1738&lang=0" target="_blank" class="job">Начальник отдела кассовых операций</a></td>
+<td>23 198</td>
+<td>34 040</td>
+<td>38 839</td>
+<td>41 000</td>
+<td>46 894</td>
+<td>53 702</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1351&lang=0" target="_blank" class="job">Начальник службы безопасности</a></td>
+<td>48 388</td>
+<td>58 000</td>
+<td>73 739</td>
+<td>64 948</td>
+<td>75 964</td>
+<td>115 284</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2155&lang=0" target="_blank" class="job">Оперативный дежурный</a></td>
+<td>17 267</td>
+<td>18 621</td>
+<td>21 416</td>
+<td>20 350</td>
+<td>24 590</td>
+<td>29 700</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1756&lang=0" target="_blank" class="job">Оператор пульта технических средств охраны и пожарной сигнализации</a></td>
+<td>18 699</td>
+<td>20 400</td>
+<td>22 555</td>
+<td>23 100</td>
+<td>25 400</td>
+<td>27 844</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2253&lang=0" target="_blank" class="job">Охранник</a></td>
+<td>14 300</td>
+<td>20 000</td>
+<td>23 236</td>
+<td>24 000</td>
+<td>27 786</td>
+<td>31 000</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2198&lang=0" target="_blank" class="job">Пожарный</a></td>
+<td>18 107</td>
+<td>20 563</td>
+<td>23 424</td>
+<td>24 000</td>
+<td>27 591</td>
+<td>29 936</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1743&lang=0" target="_blank" class="job">Сервисный консультант</a></td>
+<td>15 000</td>
+<td>16 802</td>
+<td>22 789</td>
+<td>20 550</td>
+<td>26 970</td>
+<td>34 238</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1402&lang=0" target="_blank" class="job">Сотрудник службы безопасности</a></td>
+<td>14 500</td>
+<td>17 000</td>
+<td>29 730</td>
+<td>25 000</td>
+<td>35 024</td>
+<td>42 440</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2237&lang=0" target="_blank" class="job">Спасатель</a></td>
+<td>16 234</td>
+<td>16 482</td>
+<td>20 284</td>
+<td>18 860</td>
+<td>25 107</td>
+<td>29 864</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>23 215</td>
+<td>25 149</td>
+<td>28 038</td>
+<td>28 000</td>
+<td>32 000</td>
+<td>34 849</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2165&lang=0" target="_blank" class="job">Специалист по безопасности</a></td>
+<td>20 000</td>
+<td>23 000</td>
+<td>27 036</td>
+<td>26 000</td>
+<td>33 578</td>
+<td>35 800</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1740&lang=0" target="_blank" class="job">Старший инспектор отдела внутреннего контроля</a></td>
+<td>14 826</td>
+<td>19 705</td>
+<td>22 752</td>
+<td>23 184</td>
+<td>28 023</td>
+<td>30 676</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1539&lang=0" target="_blank" class="job">Старший контролер</a></td>
+<td>6 815</td>
+<td>14 975</td>
+<td>14 531</td>
+<td>15 950</td>
+<td>16 263</td>
+<td>17 550</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2113&lang=0" target="_blank" class="job">Старший охранник</a></td>
+<td>20 959</td>
+<td>23 750</td>
+<td>27 139</td>
+<td>24 605</td>
+<td>30 784</td>
+<td>37 418</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1620&lang=0" target="_blank" class="job">Сторож</a></td>
+<td>11 609</td>
+<td>11 715</td>
+<td>14 455</td>
+<td>14 300</td>
+<td>15 781</td>
+<td>18 000</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2117&lang=0" target="_blank" class="job">Стрелок (охранник)</a></td>
+<td>8 000</td>
+<td>8 000</td>
+<td>11 028</td>
+<td>10 000</td>
+<td>12 090</td>
+<td>17 021</td>
+<td>4 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2103&lang=0" target="_blank" class="job">Боец (вневедомственная охрана)</a></td>
+<td>23 777</td>
+<td>29 754</td>
+<td>33 661</td>
+<td>35 300</td>
+<td>40 000</td>
+<td>44 310</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1917&lang=0" target="_blank" class="job">Вахтер</a></td>
+<td>5 386</td>
+<td>6 137</td>
+<td>11 495</td>
+<td>10 641</td>
+<td>14 507</td>
+<td>18 526</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1403&lang=0" target="_blank" class="job">Водитель-телохранитель</a></td>
+<td>26 732</td>
+<td>33 170</td>
+<td>52 991</td>
+<td>53 036</td>
+<td>69 775</td>
+<td>82 382</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1762&lang=0" target="_blank" class="job">Дежурный бюро пропусков</a></td>
+<td>7 920</td>
+<td>13 072</td>
+<td>17 818</td>
+<td>16 982</td>
+<td>22 589</td>
+<td>28 427</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1928&lang=0" target="_blank" class="job">Директор по предотвращению потерь</a></td>
+<td>40 000</td>
+<td>58 971</td>
+<td>139 346</td>
+<td>154 841</td>
+<td>203 769</td>
+<td>246 885</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1448&lang=0" target="_blank" class="job">Инкассатор</a></td>
+<td>13 854</td>
+<td>20 919</td>
+<td>24 769</td>
+<td>25 418</td>
+<td>31 458</td>
+<td>35 360</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1741&lang=0" target="_blank" class="job">Инспектор отдела внутреннего контроля</a></td>
+<td>14 006</td>
+<td>18 200</td>
+<td>24 325</td>
+<td>22 000</td>
+<td>30 688</td>
+<td>35 949</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>15 479</td>
+<td>21 866</td>
+<td>31 537</td>
+<td>31 397</td>
+<td>41 107</td>
+<td>47 978</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2449&lang=0" target="_blank" class="job">Комендант</a></td>
+<td>11 226</td>
+<td>20 548</td>
+<td>27 336</td>
+<td>27 000</td>
+<td>35 368</td>
+<td>42 625</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1353&lang=0" target="_blank" class="job">Контролер (охранник)</a></td>
+<td>9 430</td>
+<td>13 000</td>
+<td>18 986</td>
+<td>15 492</td>
+<td>22 765</td>
+<td>37 079</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1538&lang=0" target="_blank" class="job">Контролер КПП</a></td>
+<td>5 838</td>
+<td>8 155</td>
+<td>14 415</td>
+<td>13 144</td>
+<td>18 386</td>
+<td>23 059</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1354&lang=0" target="_blank" class="job">Контролер торгового зала</a></td>
+<td>16 961</td>
+<td>18 000</td>
+<td>22 727</td>
+<td>22 500</td>
+<td>26 263</td>
+<td>29 287</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1742&lang=0" target="_blank" class="job">Начальник гарантийного отдела</a></td>
+<td>43 157</td>
+<td>52 628</td>
+<td>61 890</td>
+<td>62 600</td>
+<td>75 509</td>
+<td>88 252</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1739&lang=0" target="_blank" class="job">Начальник отдела внутреннего контроля</a></td>
+<td>17 000</td>
+<td>29 049</td>
+<td>43 574</td>
+<td>47 000</td>
+<td>59 517</td>
+<td>67 617</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>46 500</td>
+<td>62 158</td>
+<td>91 212</td>
+<td>87 679</td>
+<td>113 575</td>
+<td>138 229</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1738&lang=0" target="_blank" class="job">Начальник отдела кассовых операций</a></td>
+<td>25 518</td>
+<td>37 444</td>
+<td>42 723</td>
+<td>45 100</td>
+<td>51 583</td>
+<td>59 072</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1351&lang=0" target="_blank" class="job">Начальник службы безопасности</a></td>
+<td>48 388</td>
+<td>58 000</td>
+<td>87 879</td>
+<td>65 348</td>
+<td>92 875</td>
+<td>164 358</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2155&lang=0" target="_blank" class="job">Оперативный дежурный</a></td>
+<td>17 267</td>
+<td>18 621</td>
+<td>26 311</td>
+<td>21 593</td>
+<td>33 904</td>
+<td>42 208</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1756&lang=0" target="_blank" class="job">Оператор пульта технических средств охраны и пожарной сигнализации</a></td>
+<td>18 699</td>
+<td>20 400</td>
+<td>23 729</td>
+<td>24 678</td>
+<td>27 400</td>
+<td>30 217</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2253&lang=0" target="_blank" class="job">Охранник</a></td>
+<td>14 300</td>
+<td>20 000</td>
+<td>25 085</td>
+<td>26 000</td>
+<td>31 186</td>
+<td>35 000</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2198&lang=0" target="_blank" class="job">Пожарный</a></td>
+<td>18 107</td>
+<td>20 563</td>
+<td>34 605</td>
+<td>33 607</td>
+<td>47 461</td>
+<td>54 767</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1743&lang=0" target="_blank" class="job">Сервисный консультант</a></td>
+<td>15 000</td>
+<td>17 957</td>
+<td>29 726</td>
+<td>29 265</td>
+<td>37 332</td>
+<td>46 388</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1402&lang=0" target="_blank" class="job">Сотрудник службы безопасности</a></td>
+<td>14 500</td>
+<td>18 125</td>
+<td>44 542</td>
+<td>43 989</td>
+<td>60 874</td>
+<td>72 345</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2237&lang=0" target="_blank" class="job">Спасатель</a></td>
+<td>19 810</td>
+<td>20 116</td>
+<td>24 752</td>
+<td>23 346</td>
+<td>30 257</td>
+<td>36 269</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>23 215</td>
+<td>25 149</td>
+<td>28 038</td>
+<td>28 000</td>
+<td>32 000</td>
+<td>34 849</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2165&lang=0" target="_blank" class="job">Специалист по безопасности</a></td>
+<td>20 000</td>
+<td>23 000</td>
+<td>38 090</td>
+<td>32 900</td>
+<td>50 742</td>
+<td>59 348</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1740&lang=0" target="_blank" class="job">Старший инспектор отдела внутреннего контроля</a></td>
+<td>19 621</td>
+<td>34 652</td>
+<td>42 709</td>
+<td>44 782</td>
+<td>54 695</td>
+<td>62 022</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1539&lang=0" target="_blank" class="job">Старший контролер</a></td>
+<td>6 815</td>
+<td>15 375</td>
+<td>16 341</td>
+<td>17 156</td>
+<td>18 628</td>
+<td>21 331</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2113&lang=0" target="_blank" class="job">Старший охранник</a></td>
+<td>20 959</td>
+<td>23 750</td>
+<td>30 478</td>
+<td>25 414</td>
+<td>37 236</td>
+<td>46 171</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1620&lang=0" target="_blank" class="job">Сторож</a></td>
+<td>11 609</td>
+<td>11 715</td>
+<td>16 701</td>
+<td>14 300</td>
+<td>20 490</td>
+<td>24 941</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2117&lang=0" target="_blank" class="job">Стрелок (охранник)</a></td>
+<td>8 000</td>
+<td>8 000</td>
+<td>12 728</td>
+<td>12 000</td>
+<td>15 308</td>
+<td>21 021</td>
+<td>4 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 24.03.2015)</p>
+</div>

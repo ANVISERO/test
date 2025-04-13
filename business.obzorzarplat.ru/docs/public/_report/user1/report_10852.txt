@@ -1,0 +1,748 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>22 390</td>
+<td>23 391</td>
+<td>27 736</td>
+<td>28 736</td>
+<td>32 299</td>
+<td>34 483</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>17 241</td>
+<td>17 816</td>
+<td>23 462</td>
+<td>22 989</td>
+<td>27 550</td>
+<td>34 483</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1277&lang=0" target="_blank" class="job">Гардеробщик</a></td>
+<td>9 701</td>
+<td>12 378</td>
+<td>14 974</td>
+<td>14 943</td>
+<td>17 947</td>
+<td>21 190</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1284&lang=0" target="_blank" class="job">Гладильщик</a></td>
+<td>11 198</td>
+<td>17 515</td>
+<td>18 624</td>
+<td>19 540</td>
+<td>21 839</td>
+<td>23 114</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1279&lang=0" target="_blank" class="job">Горничная</a></td>
+<td>14 253</td>
+<td>16 968</td>
+<td>19 994</td>
+<td>20 259</td>
+<td>23 458</td>
+<td>27 011</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1275&lang=0" target="_blank" class="job">Директор кафе</a></td>
+<td>37 356</td>
+<td>43 338</td>
+<td>53 758</td>
+<td>57 471</td>
+<td>65 594</td>
+<td>75 199</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2210&lang=0" target="_blank" class="job">Директор ресторана</a></td>
+<td>59 770</td>
+<td>82 464</td>
+<td>102 124</td>
+<td>102 478</td>
+<td>118 211</td>
+<td>150 491</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>50 575</td>
+<td>77 475</td>
+<td>95 407</td>
+<td>101 149</td>
+<td>119 305</td>
+<td>137 931</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>18 483</td>
+<td>21 229</td>
+<td>24 049</td>
+<td>24 138</td>
+<td>26 437</td>
+<td>29 430</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2207&lang=0" target="_blank" class="job">Кастелянша</a></td>
+<td>14 350</td>
+<td>16 351</td>
+<td>18 861</td>
+<td>19 253</td>
+<td>22 126</td>
+<td>23 426</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1280&lang=0" target="_blank" class="job">Консьерж</a></td>
+<td>9 310</td>
+<td>16 369</td>
+<td>19 869</td>
+<td>20 690</td>
+<td>25 306</td>
+<td>28 321</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>22 414</td>
+<td>33 021</td>
+<td>40 794</td>
+<td>42 507</td>
+<td>47 167</td>
+<td>59 052</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1281&lang=0" target="_blank" class="job">Метрдотель</a></td>
+<td>17 816</td>
+<td>21 510</td>
+<td>26 671</td>
+<td>28 736</td>
+<td>32 184</td>
+<td>36 524</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>14 129</td>
+<td>15 382</td>
+<td>17 149</td>
+<td>17 241</td>
+<td>18 930</td>
+<td>22 680</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>9 770</td>
+<td>11 494</td>
+<td>14 881</td>
+<td>11 929</td>
+<td>18 332</td>
+<td>22 989</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2054&lang=0" target="_blank" class="job">Парикмахер</a></td>
+<td>22 762</td>
+<td>23 344</td>
+<td>28 764</td>
+<td>28 716</td>
+<td>35 517</td>
+<td>38 125</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>18 908</td>
+<td>20 115</td>
+<td>23 037</td>
+<td>21 264</td>
+<td>24 309</td>
+<td>28 851</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1942&lang=0" target="_blank" class="job">Повар мясного цеха</a></td>
+<td>22 644</td>
+<td>23 935</td>
+<td>30 027</td>
+<td>28 736</td>
+<td>35 198</td>
+<td>42 429</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>20 690</td>
+<td>21 839</td>
+<td>25 298</td>
+<td>22 989</td>
+<td>27 491</td>
+<td>36 207</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>20 115</td>
+<td>20 690</td>
+<td>23 804</td>
+<td>22 989</td>
+<td>24 713</td>
+<td>29 885</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2201&lang=0" target="_blank" class="job">Повар японской кухни</a></td>
+<td>20 948</td>
+<td>23 898</td>
+<td>29 568</td>
+<td>29 540</td>
+<td>34 109</td>
+<td>41 310</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>15 488</td>
+<td>17 241</td>
+<td>19 300</td>
+<td>18 391</td>
+<td>21 023</td>
+<td>25 862</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1941&lang=0" target="_blank" class="job">Помощник управляющего</a></td>
+<td>18 210</td>
+<td>26 721</td>
+<td>30 487</td>
+<td>32 184</td>
+<td>36 810</td>
+<td>42 154</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1282&lang=0" target="_blank" class="job">Портье</a></td>
+<td>11 782</td>
+<td>17 687</td>
+<td>20 308</td>
+<td>21 492</td>
+<td>25 264</td>
+<td>26 437</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>13 403</td>
+<td>13 908</td>
+<td>16 396</td>
+<td>18 266</td>
+<td>18 420</td>
+<td>20 348</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2200&lang=0" target="_blank" class="job">Работник ресторана</a></td>
+<td>20 472</td>
+<td>21 824</td>
+<td>25 077</td>
+<td>26 437</td>
+<td>28 678</td>
+<td>31 526</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>26 125</td>
+<td>28 339</td>
+<td>31 812</td>
+<td>34 483</td>
+<td>34 876</td>
+<td>40 230</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>23 563</td>
+<td>25 785</td>
+<td>32 196</td>
+<td>28 736</td>
+<td>37 013</td>
+<td>46 207</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2196&lang=0" target="_blank" class="job">Тестовод</a></td>
+<td>18 391</td>
+<td>20 690</td>
+<td>25 972</td>
+<td>25 287</td>
+<td>31 034</td>
+<td>38 386</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2169&lang=0" target="_blank" class="job">Управляющий гостиницей</a></td>
+<td>43 163</td>
+<td>62 532</td>
+<td>74 386</td>
+<td>80 785</td>
+<td>91 789</td>
+<td>99 953</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>25 287</td>
+<td>26 437</td>
+<td>32 686</td>
+<td>28 736</td>
+<td>40 691</td>
+<td>41 379</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1934&lang=0" target="_blank" class="job">Формовщик</a></td>
+<td>15 575</td>
+<td>16 667</td>
+<td>20 801</td>
+<td>17 790</td>
+<td>22 674</td>
+<td>28 736</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1283&lang=0" target="_blank" class="job">Швейцар</a></td>
+<td>13 862</td>
+<td>16 092</td>
+<td>17 440</td>
+<td>17 241</td>
+<td>20 690</td>
+<td>22 805</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>34 483</td>
+<td>40 230</td>
+<td>50 354</td>
+<td>48 851</td>
+<td>57 471</td>
+<td>73 467</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>22 629</td>
+<td>26 839</td>
+<td>32 158</td>
+<td>33 333</td>
+<td>38 320</td>
+<td>41 379</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>19 540</td>
+<td>20 690</td>
+<td>28 097</td>
+<td>26 722</td>
+<td>33 299</td>
+<td>42 529</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1277&lang=0" target="_blank" class="job">Гардеробщик</a></td>
+<td>9 701</td>
+<td>12 378</td>
+<td>17 723</td>
+<td>15 799</td>
+<td>23 482</td>
+<td>27 745</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1284&lang=0" target="_blank" class="job">Гладильщик</a></td>
+<td>11 198</td>
+<td>17 515</td>
+<td>21 412</td>
+<td>19 540</td>
+<td>27 741</td>
+<td>30 418</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1279&lang=0" target="_blank" class="job">Горничная</a></td>
+<td>14 253</td>
+<td>17 632</td>
+<td>22 781</td>
+<td>23 653</td>
+<td>27 706</td>
+<td>32 418</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1275&lang=0" target="_blank" class="job">Директор кафе</a></td>
+<td>38 667</td>
+<td>51 989</td>
+<td>64 335</td>
+<td>68 739</td>
+<td>78 428</td>
+<td>91 868</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2210&lang=0" target="_blank" class="job">Директор ресторана</a></td>
+<td>95 402</td>
+<td>139 777</td>
+<td>182 895</td>
+<td>178 073</td>
+<td>212 315</td>
+<td>265 401</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>50 575</td>
+<td>80 396</td>
+<td>112 195</td>
+<td>122 620</td>
+<td>146 659</td>
+<td>168 028</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>18 483</td>
+<td>21 229</td>
+<td>29 069</td>
+<td>27 144</td>
+<td>32 764</td>
+<td>40 718</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2207&lang=0" target="_blank" class="job">Кастелянша</a></td>
+<td>14 350</td>
+<td>16 351</td>
+<td>21 390</td>
+<td>20 147</td>
+<td>26 954</td>
+<td>29 320</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1280&lang=0" target="_blank" class="job">Консьерж</a></td>
+<td>9 310</td>
+<td>17 674</td>
+<td>22 838</td>
+<td>24 138</td>
+<td>29 658</td>
+<td>33 518</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>22 414</td>
+<td>33 915</td>
+<td>44 546</td>
+<td>46 583</td>
+<td>53 003</td>
+<td>65 698</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1281&lang=0" target="_blank" class="job">Метрдотель</a></td>
+<td>17 816</td>
+<td>21 510</td>
+<td>29 309</td>
+<td>29 936</td>
+<td>37 430</td>
+<td>42 498</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>14 129</td>
+<td>15 693</td>
+<td>21 688</td>
+<td>22 075</td>
+<td>26 374</td>
+<td>31 337</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>12 069</td>
+<td>15 517</td>
+<td>32 773</td>
+<td>22 898</td>
+<td>49 797</td>
+<td>62 897</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2054&lang=0" target="_blank" class="job">Парикмахер</a></td>
+<td>23 298</td>
+<td>29 211</td>
+<td>45 334</td>
+<td>48 772</td>
+<td>60 719</td>
+<td>67 973</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>18 908</td>
+<td>22 759</td>
+<td>28 649</td>
+<td>25 862</td>
+<td>31 205</td>
+<td>42 009</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1942&lang=0" target="_blank" class="job">Повар мясного цеха</a></td>
+<td>23 259</td>
+<td>26 234</td>
+<td>35 664</td>
+<td>33 530</td>
+<td>43 861</td>
+<td>53 116</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>20 690</td>
+<td>23 701</td>
+<td>29 600</td>
+<td>26 170</td>
+<td>32 089</td>
+<td>42 429</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>20 115</td>
+<td>22 816</td>
+<td>29 319</td>
+<td>27 011</td>
+<td>31 787</td>
+<td>43 949</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2201&lang=0" target="_blank" class="job">Повар японской кухни</a></td>
+<td>25 201</td>
+<td>30 162</td>
+<td>39 915</td>
+<td>38 626</td>
+<td>46 567</td>
+<td>59 959</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>15 488</td>
+<td>19 080</td>
+<td>23 667</td>
+<td>20 690</td>
+<td>27 118</td>
+<td>37 954</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1941&lang=0" target="_blank" class="job">Помощник управляющего</a></td>
+<td>18 210</td>
+<td>26 721</td>
+<td>30 487</td>
+<td>32 184</td>
+<td>36 810</td>
+<td>42 154</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1282&lang=0" target="_blank" class="job">Портье</a></td>
+<td>13 348</td>
+<td>19 986</td>
+<td>25 669</td>
+<td>25 503</td>
+<td>33 546</td>
+<td>36 290</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>13 403</td>
+<td>13 908</td>
+<td>17 158</td>
+<td>18 970</td>
+<td>19 824</td>
+<td>22 004</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2200&lang=0" target="_blank" class="job">Работник ресторана</a></td>
+<td>22 101</td>
+<td>26 587</td>
+<td>31 248</td>
+<td>33 997</td>
+<td>36 857</td>
+<td>40 261</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>27 026</td>
+<td>32 937</td>
+<td>41 629</td>
+<td>41 557</td>
+<td>50 505</td>
+<td>60 016</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>26 437</td>
+<td>29 808</td>
+<td>39 496</td>
+<td>34 464</td>
+<td>45 634</td>
+<td>62 874</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2196&lang=0" target="_blank" class="job">Тестовод</a></td>
+<td>18 391</td>
+<td>20 690</td>
+<td>31 924</td>
+<td>31 379</td>
+<td>41 379</td>
+<td>52 998</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2169&lang=0" target="_blank" class="job">Управляющий гостиницей</a></td>
+<td>64 232</td>
+<td>85 520</td>
+<td>102 061</td>
+<td>107 675</td>
+<td>125 679</td>
+<td>140 332</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>26 494</td>
+<td>30 460</td>
+<td>42 578</td>
+<td>36 755</td>
+<td>54 484</td>
+<td>61 494</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1934&lang=0" target="_blank" class="job">Формовщик</a></td>
+<td>15 575</td>
+<td>16 667</td>
+<td>25 818</td>
+<td>20 664</td>
+<td>31 953</td>
+<td>41 457</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1283&lang=0" target="_blank" class="job">Швейцар</a></td>
+<td>14 102</td>
+<td>17 816</td>
+<td>19 682</td>
+<td>19 540</td>
+<td>23 563</td>
+<td>26 253</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>34 483</td>
+<td>40 230</td>
+<td>69 844</td>
+<td>56 934</td>
+<td>88 151</td>
+<td>129 001</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 25.03.2014)</p>
+</div>

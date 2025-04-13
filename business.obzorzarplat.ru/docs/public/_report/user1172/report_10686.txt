@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>120 402</td>
+<td>141 553</td>
+<td>249 810</td>
+<td>258 753</td>
+<td>296 006</td>
+<td>459 770</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>66 460</td>
+<td>68 851</td>
+<td>109 801</td>
+<td>91 954</td>
+<td>136 379</td>
+<td>156 574</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>117 685</td>
+<td>126 005</td>
+<td>155 169</td>
+<td>170 237</td>
+<td>189 080</td>
+<td>193 182</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>62 908</td>
+<td>83 201</td>
+<td>113 933</td>
+<td>112 644</td>
+<td>140 075</td>
+<td>172 414</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>69 067</td>
+<td>75 470</td>
+<td>85 970</td>
+<td>89 080</td>
+<td>101 724</td>
+<td>107 335</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>86 207</td>
+<td>120 929</td>
+<td>196 496</td>
+<td>161 532</td>
+<td>222 883</td>
+<td>397 760</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>59 237</td>
+<td>123 945</td>
+<td>149 054</td>
+<td>168 301</td>
+<td>183 324</td>
+<td>206 897</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>43 079</td>
+<td>83 448</td>
+<td>162 886</td>
+<td>142 615</td>
+<td>173 567</td>
+<td>305 699</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>45 057</td>
+<td>96 552</td>
+<td>152 881</td>
+<td>125 747</td>
+<td>175 747</td>
+<td>287 356</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>87 632</td>
+<td>102 874</td>
+<td>157 556</td>
+<td>138 260</td>
+<td>216 092</td>
+<td>264 368</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>44 856</td>
+<td>68 966</td>
+<td>107 970</td>
+<td>104 598</td>
+<td>133 235</td>
+<td>179 972</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>70 690</td>
+<td>87 991</td>
+<td>134 238</td>
+<td>114 943</td>
+<td>172 414</td>
+<td>198 732</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>120 402</td>
+<td>141 553</td>
+<td>795 970</td>
+<td>258 753</td>
+<td>382 290</td>
+<td>1 858 726</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>66 460</td>
+<td>68 851</td>
+<td>168 074</td>
+<td>126 437</td>
+<td>206 656</td>
+<td>321 381</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>155 674</td>
+<td>174 281</td>
+<td>210 051</td>
+<td>230 007</td>
+<td>257 217</td>
+<td>264 875</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>62 908</td>
+<td>83 920</td>
+<td>161 285</td>
+<td>155 337</td>
+<td>219 889</td>
+<td>274 999</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>121 644</td>
+<td>155 401</td>
+<td>265 503</td>
+<td>283 716</td>
+<td>365 117</td>
+<td>422 550</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>86 207</td>
+<td>120 929</td>
+<td>240 176</td>
+<td>186 096</td>
+<td>303 454</td>
+<td>508 931</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>59 237</td>
+<td>137 365</td>
+<td>227 758</td>
+<td>256 567</td>
+<td>307 785</td>
+<td>355 500</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>43 079</td>
+<td>83 448</td>
+<td>230 522</td>
+<td>150 749</td>
+<td>289 325</td>
+<td>513 943</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>45 057</td>
+<td>96 552</td>
+<td>209 061</td>
+<td>125 747</td>
+<td>267 746</td>
+<td>439 511</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>87 632</td>
+<td>102 874</td>
+<td>224 179</td>
+<td>154 030</td>
+<td>313 290</td>
+<td>489 623</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>44 856</td>
+<td>68 966</td>
+<td>173 844</td>
+<td>115 632</td>
+<td>197 794</td>
+<td>337 355</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>70 690</td>
+<td>87 991</td>
+<td>210 578</td>
+<td>137 931</td>
+<td>233 290</td>
+<td>424 340</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.02.2014)</p>
+</div>

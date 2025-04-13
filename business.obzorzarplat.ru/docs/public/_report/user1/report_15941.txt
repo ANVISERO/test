@@ -1,0 +1,388 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2624&lang=0" target="_blank" class="job">Руководитель отдела учета, отчетности и контроля</a></td>
+<td>50 986</td>
+<td>65 595</td>
+<td>72 181</td>
+<td>78 300</td>
+<td>80 724</td>
+<td>95 017</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2625&lang=0" target="_blank" class="job">Руководитель службы внутреннего  контроля и аудита</a></td>
+<td>69 731</td>
+<td>88 825</td>
+<td>107 964</td>
+<td>98 113</td>
+<td>136 784</td>
+<td>163 833</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2626&lang=0" target="_blank" class="job">Руководитель службы отчетности по МСФО</a></td>
+<td>59 491</td>
+<td>75 005</td>
+<td>84 222</td>
+<td>89 520</td>
+<td>98 942</td>
+<td>110 867</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>51 055</td>
+<td>65 685</td>
+<td>72 280</td>
+<td>79 662</td>
+<td>80 834</td>
+<td>95 147</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2647&lang=0" target="_blank" class="job">Руководитель отдела ассортиментной логистики</a></td>
+<td>47 580</td>
+<td>61 146</td>
+<td>74 320</td>
+<td>77 500</td>
+<td>94 160</td>
+<td>102 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2701&lang=0" target="_blank" class="job">Руководитель службы контроля импортных заказов</a></td>
+<td>52 089</td>
+<td>65 458</td>
+<td>79 562</td>
+<td>72 303</td>
+<td>100 800</td>
+<td>120 125</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2652&lang=0" target="_blank" class="job">Руководитель группы франчайзинга</a></td>
+<td>38 489</td>
+<td>49 517</td>
+<td>54 489</td>
+<td>56 431</td>
+<td>64 025</td>
+<td>71 728</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2614&lang=0" target="_blank" class="job">Руководитель отдела развития программ лояльности</a></td>
+<td>42 441</td>
+<td>50 982</td>
+<td>60 084</td>
+<td>62 976</td>
+<td>74 000</td>
+<td>79 093</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2645&lang=0" target="_blank" class="job">Руководитель розничной сети региона</a></td>
+<td>64 454</td>
+<td>80 251</td>
+<td>91 249</td>
+<td>93 834</td>
+<td>111 364</td>
+<td>120 117</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2711&lang=0" target="_blank" class="job">Руководитель службы эксплуатации розничной сети</a></td>
+<td>39 515</td>
+<td>49 000</td>
+<td>55 942</td>
+<td>59 000</td>
+<td>67 000</td>
+<td>73 640</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2670&lang=0" target="_blank" class="job">Руководитель коллекции аксессуаров</a></td>
+<td>42 132</td>
+<td>50 837</td>
+<td>59 646</td>
+<td>65 732</td>
+<td>70 020</td>
+<td>78 517</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2669&lang=0" target="_blank" class="job">Руководитель коллекции одежды</a></td>
+<td>64 192</td>
+<td>82 586</td>
+<td>90 877</td>
+<td>90 502</td>
+<td>107 336</td>
+<td>119 628</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>51 922</td>
+<td>62 381</td>
+<td>73 506</td>
+<td>75 040</td>
+<td>92 525</td>
+<td>96 761</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>42 450</td>
+<td>52 500</td>
+<td>60 097</td>
+<td>62 500</td>
+<td>73 000</td>
+<td>79 110</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>54 124</td>
+<td>64 500</td>
+<td>76 624</td>
+<td>81 000</td>
+<td>94 200</td>
+<td>100 866</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2713&lang=0" target="_blank" class="job">Руководитель отдела аренды</a></td>
+<td>40 872</td>
+<td>49 050</td>
+<td>59 618</td>
+<td>62 500</td>
+<td>75 533</td>
+<td>79 253</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2624&lang=0" target="_blank" class="job">Руководитель отдела учета, отчетности и контроля</a></td>
+<td>90 335</td>
+<td>115 195</td>
+<td>127 888</td>
+<td>139 717</td>
+<td>143 974</td>
+<td>168 348</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2625&lang=0" target="_blank" class="job">Руководитель службы внутреннего  контроля и аудита</a></td>
+<td>74 462</td>
+<td>102 800</td>
+<td>128 001</td>
+<td>116 322</td>
+<td>162 170</td>
+<td>196 974</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2626&lang=0" target="_blank" class="job">Руководитель службы отчетности по МСФО</a></td>
+<td>63 527</td>
+<td>81 279</td>
+<td>91 847</td>
+<td>97 789</td>
+<td>108 603</td>
+<td>121 976</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>57 678</td>
+<td>78 538</td>
+<td>87 902</td>
+<td>96 025</td>
+<td>100 627</td>
+<td>119 104</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2647&lang=0" target="_blank" class="job">Руководитель отдела ассортиментной логистики</a></td>
+<td>53 474</td>
+<td>69 706</td>
+<td>92 449</td>
+<td>93 974</td>
+<td>117 127</td>
+<td>132 833</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2701&lang=0" target="_blank" class="job">Руководитель службы контроля импортных заказов</a></td>
+<td>77 985</td>
+<td>97 150</td>
+<td>118 082</td>
+<td>110 483</td>
+<td>149 603</td>
+<td>173 605</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2652&lang=0" target="_blank" class="job">Руководитель группы франчайзинга</a></td>
+<td>42 152</td>
+<td>57 738</td>
+<td>66 991</td>
+<td>67 792</td>
+<td>79 864</td>
+<td>92 283</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2614&lang=0" target="_blank" class="job">Руководитель отдела развития программ лояльности</a></td>
+<td>45 836</td>
+<td>59 641</td>
+<td>76 243</td>
+<td>77 661</td>
+<td>94 473</td>
+<td>106 763</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2645&lang=0" target="_blank" class="job">Руководитель розничной сети региона</a></td>
+<td>74 014</td>
+<td>92 550</td>
+<td>104 782</td>
+<td>107 917</td>
+<td>126 664</td>
+<td>137 932</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2711&lang=0" target="_blank" class="job">Руководитель службы эксплуатации розничной сети</a></td>
+<td>56 902</td>
+<td>71 369</td>
+<td>80 556</td>
+<td>84 292</td>
+<td>94 975</td>
+<td>106 042</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2670&lang=0" target="_blank" class="job">Руководитель коллекции аксессуаров</a></td>
+<td>47 272</td>
+<td>57 862</td>
+<td>68 185</td>
+<td>74 352</td>
+<td>80 838</td>
+<td>90 845</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2669&lang=0" target="_blank" class="job">Руководитель коллекции одежды</a></td>
+<td>94 552</td>
+<td>117 950</td>
+<td>133 858</td>
+<td>130 201</td>
+<td>161 790</td>
+<td>180 156</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>53 975</td>
+<td>67 905</td>
+<td>82 863</td>
+<td>83 544</td>
+<td>104 380</td>
+<td>112 595</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>63 128</td>
+<td>77 737</td>
+<td>90 772</td>
+<td>90 492</td>
+<td>111 863</td>
+<td>123 573</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>162 772</td>
+<td>204 279</td>
+<td>230 437</td>
+<td>234 433</td>
+<td>270 733</td>
+<td>303 340</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2713&lang=0" target="_blank" class="job">Руководитель отдела аренды</a></td>
+<td>59 557</td>
+<td>73 088</td>
+<td>86 070</td>
+<td>90 000</td>
+<td>105 116</td>
+<td>114 074</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.11.2014)</p>
+</div>

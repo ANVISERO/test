@@ -1,0 +1,268 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2666&lang=0" target="_blank" class="job">Графический дизайнер</a></td>
+<td>29 352</td>
+<td>30 500</td>
+<td>35 900</td>
+<td>35 800</td>
+<td>44 739</td>
+<td>45 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2637&lang=0" target="_blank" class="job">Дизайнер по рекламе</a></td>
+<td>26 080</td>
+<td>32 500</td>
+<td>36 922</td>
+<td>38 000</td>
+<td>45 000</td>
+<td>48 602</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2675&lang=0" target="_blank" class="job">Дизайнер-график</a></td>
+<td>27 703</td>
+<td>35 000</td>
+<td>39 220</td>
+<td>40 690</td>
+<td>47 000</td>
+<td>51 628</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2635&lang=0" target="_blank" class="job">Дизайнер-оформитель</a></td>
+<td>28 828</td>
+<td>35 351</td>
+<td>40 812</td>
+<td>43 521</td>
+<td>48 800</td>
+<td>53 724</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>94 878</td>
+<td>110 625</td>
+<td>134 461</td>
+<td>145 000</td>
+<td>165 128</td>
+<td>177 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2671&lang=0" target="_blank" class="job">Дизайнер одежды</a></td>
+<td>29 604</td>
+<td>38 087</td>
+<td>41 911</td>
+<td>41 003</td>
+<td>51 402</td>
+<td>55 170</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2662&lang=0" target="_blank" class="job">Дизайнер по аксессуарам и принтам</a></td>
+<td>24 951</td>
+<td>30 000</td>
+<td>35 323</td>
+<td>38 000</td>
+<td>42 500</td>
+<td>46 498</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2672&lang=0" target="_blank" class="job">Дизайнер-ассистент</a></td>
+<td>23 080</td>
+<td>29 693</td>
+<td>32 674</td>
+<td>34 000</td>
+<td>38 000</td>
+<td>43 012</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2664&lang=0" target="_blank" class="job">Дизайнер-байер</a></td>
+<td>36 424</td>
+<td>45 500</td>
+<td>51 565</td>
+<td>55 310</td>
+<td>60 500</td>
+<td>67 879</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2696&lang=0" target="_blank" class="job">Грузчик-упаковщик</a></td>
+<td>14 352</td>
+<td>18 464</td>
+<td>20 318</td>
+<td>20 459</td>
+<td>24 600</td>
+<td>26 746</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2666&lang=0" target="_blank" class="job">Графический дизайнер</a></td>
+<td>30 488</td>
+<td>33 873</td>
+<td>39 412</td>
+<td>39 450</td>
+<td>49 194</td>
+<td>49 796</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2637&lang=0" target="_blank" class="job">Дизайнер по рекламе</a></td>
+<td>37 801</td>
+<td>47 579</td>
+<td>53 515</td>
+<td>54 858</td>
+<td>63 557</td>
+<td>70 445</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2675&lang=0" target="_blank" class="job">Дизайнер-график</a></td>
+<td>28 754</td>
+<td>37 565</td>
+<td>42 338</td>
+<td>43 988</td>
+<td>50 950</td>
+<td>56 471</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2635&lang=0" target="_blank" class="job">Дизайнер-оформитель</a></td>
+<td>29 900</td>
+<td>39 385</td>
+<td>45 731</td>
+<td>48 576</td>
+<td>55 848</td>
+<td>61 462</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>116 301</td>
+<td>136 591</td>
+<td>166 021</td>
+<td>176 100</td>
+<td>205 114</td>
+<td>220 758</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2671&lang=0" target="_blank" class="job">Дизайнер одежды</a></td>
+<td>33 149</td>
+<td>49 554</td>
+<td>57 038</td>
+<td>54 750</td>
+<td>70 567</td>
+<td>80 034</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2662&lang=0" target="_blank" class="job">Дизайнер по аксессуарам и принтам</a></td>
+<td>32 178</td>
+<td>38 657</td>
+<td>45 846</td>
+<td>49 292</td>
+<td>55 725</td>
+<td>60 350</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2672&lang=0" target="_blank" class="job">Дизайнер-ассистент</a></td>
+<td>25 950</td>
+<td>33 343</td>
+<td>37 339</td>
+<td>38 239</td>
+<td>43 910</td>
+<td>50 189</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2664&lang=0" target="_blank" class="job">Дизайнер-байер</a></td>
+<td>39 831</td>
+<td>49 884</td>
+<td>56 389</td>
+<td>60 200</td>
+<td>66 200</td>
+<td>74 229</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2696&lang=0" target="_blank" class="job">Грузчик-упаковщик</a></td>
+<td>18 378</td>
+<td>23 644</td>
+<td>26 018</td>
+<td>26 391</td>
+<td>31 100</td>
+<td>34 249</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 28.10.2014)</p>
+</div>

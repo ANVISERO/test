@@ -1,0 +1,568 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>19 680</td>
+<td>32 523</td>
+<td>42 484</td>
+<td>40 000</td>
+<td>55 125</td>
+<td>64 001</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1239&lang=0" target="_blank" class="job">Диспетчер</a></td>
+<td>24 160</td>
+<td>35 484</td>
+<td>40 839</td>
+<td>40 000</td>
+<td>49 993</td>
+<td>56 096</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1663&lang=0" target="_blank" class="job">Документовед</a></td>
+<td>27 907</td>
+<td>32 000</td>
+<td>36 473</td>
+<td>36 323</td>
+<td>44 255</td>
+<td>48 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>31 854</td>
+<td>34 200</td>
+<td>39 415</td>
+<td>40 000</td>
+<td>45 600</td>
+<td>49 520</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1686&lang=0" target="_blank" class="job">Помощник директора</a></td>
+<td>35 200</td>
+<td>48 000</td>
+<td>64 657</td>
+<td>64 000</td>
+<td>79 963</td>
+<td>104 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>42 880</td>
+<td>48 000</td>
+<td>63 897</td>
+<td>59 840</td>
+<td>76 080</td>
+<td>89 920</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>45 600</td>
+<td>54 851</td>
+<td>68 054</td>
+<td>71 029</td>
+<td>79 200</td>
+<td>101 318</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>82 240</td>
+<td>96 000</td>
+<td>141 576</td>
+<td>128 000</td>
+<td>160 400</td>
+<td>236 967</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>64 000</td>
+<td>80 000</td>
+<td>99 977</td>
+<td>88 043</td>
+<td>112 000</td>
+<td>145 932</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>35 594</td>
+<td>37 600</td>
+<td>44 724</td>
+<td>40 000</td>
+<td>49 341</td>
+<td>64 160</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2859&lang=0" target="_blank" class="job">Менеджер по развитию вендинговой сети</a></td>
+<td>55 200</td>
+<td>64 000</td>
+<td>77 122</td>
+<td>72 000</td>
+<td>89 866</td>
+<td>114 677</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2862&lang=0" target="_blank" class="job">Начальник отдела обслуживания торговых автоматов</a></td>
+<td>72 480</td>
+<td>76 955</td>
+<td>94 599</td>
+<td>104 000</td>
+<td>113 200</td>
+<td>118 406</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2858&lang=0" target="_blank" class="job">Оператор торговых автоматов</a></td>
+<td>40 704</td>
+<td>45 600</td>
+<td>54 427</td>
+<td>56 000</td>
+<td>64 000</td>
+<td>73 600</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2860&lang=0" target="_blank" class="job">Техник по ремонту торговых автоматов</a></td>
+<td>40 311</td>
+<td>46 495</td>
+<td>52 963</td>
+<td>53 840</td>
+<td>64 598</td>
+<td>68 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2861&lang=0" target="_blank" class="job">Техник-оператор обслуживания торговых автоматов</a></td>
+<td>46 162</td>
+<td>50 880</td>
+<td>55 682</td>
+<td>56 000</td>
+<td>61 463</td>
+<td>68 480</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2197&lang=0" target="_blank" class="job">Таможенный брокер</a></td>
+<td>38 085</td>
+<td>40 000</td>
+<td>46 524</td>
+<td>48 000</td>
+<td>53 190</td>
+<td>63 432</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>48 000</td>
+<td>55 146</td>
+<td>68 678</td>
+<td>68 000</td>
+<td>80 000</td>
+<td>96 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>211 200</td>
+<td>327 604</td>
+<td>522 545</td>
+<td>481 488</td>
+<td>708 420</td>
+<td>895 200</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>153 600</td>
+<td>217 774</td>
+<td>261 757</td>
+<td>241 920</td>
+<td>304 000</td>
+<td>400 346</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>76 800</td>
+<td>144 000</td>
+<td>234 132</td>
+<td>208 087</td>
+<td>305 052</td>
+<td>396 800</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>196 000</td>
+<td>240 800</td>
+<td>348 108</td>
+<td>328 000</td>
+<td>448 000</td>
+<td>568 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2729&lang=0" target="_blank" class="job">Менеджер по корпоративной культуре</a></td>
+<td>35 840</td>
+<td>43 435</td>
+<td>49 871</td>
+<td>51 280</td>
+<td>59 306</td>
+<td>65 920</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>53 440</td>
+<td>60 800</td>
+<td>69 693</td>
+<td>67 200</td>
+<td>80 000</td>
+<td>94 400</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>32 000</td>
+<td>37 325</td>
+<td>51 601</td>
+<td>48 320</td>
+<td>65 099</td>
+<td>80 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>88 000</td>
+<td>98 400</td>
+<td>125 871</td>
+<td>134 000</td>
+<td>155 669</td>
+<td>168 800</td>
+<td>4 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>19 680</td>
+<td>32 523</td>
+<td>46 674</td>
+<td>43 190</td>
+<td>62 481</td>
+<td>75 201</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1239&lang=0" target="_blank" class="job">Диспетчер</a></td>
+<td>24 160</td>
+<td>35 484</td>
+<td>46 691</td>
+<td>48 000</td>
+<td>59 593</td>
+<td>66 198</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1663&lang=0" target="_blank" class="job">Документовед</a></td>
+<td>32 707</td>
+<td>37 667</td>
+<td>43 288</td>
+<td>44 077</td>
+<td>52 255</td>
+<td>56 354</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>31 854</td>
+<td>37 172</td>
+<td>52 055</td>
+<td>52 800</td>
+<td>62 199</td>
+<td>75 994</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1686&lang=0" target="_blank" class="job">Помощник директора</a></td>
+<td>35 200</td>
+<td>48 000</td>
+<td>94 718</td>
+<td>96 000</td>
+<td>134 935</td>
+<td>176 580</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>42 880</td>
+<td>48 000</td>
+<td>73 999</td>
+<td>59 840</td>
+<td>80 759</td>
+<td>131 923</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>45 600</td>
+<td>57 014</td>
+<td>99 663</td>
+<td>103 779</td>
+<td>132 368</td>
+<td>161 516</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>82 240</td>
+<td>96 000</td>
+<td>161 336</td>
+<td>142 067</td>
+<td>192 503</td>
+<td>291 243</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>64 000</td>
+<td>80 000</td>
+<td>117 952</td>
+<td>101 643</td>
+<td>138 144</td>
+<td>182 426</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>35 594</td>
+<td>37 600</td>
+<td>48 466</td>
+<td>40 000</td>
+<td>56 781</td>
+<td>77 241</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2859&lang=0" target="_blank" class="job">Менеджер по развитию вендинговой сети</a></td>
+<td>55 200</td>
+<td>73 188</td>
+<td>115 918</td>
+<td>102 400</td>
+<td>148 633</td>
+<td>216 001</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2862&lang=0" target="_blank" class="job">Начальник отдела обслуживания торговых автоматов</a></td>
+<td>72 480</td>
+<td>81 159</td>
+<td>112 054</td>
+<td>124 975</td>
+<td>140 093</td>
+<td>148 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2858&lang=0" target="_blank" class="job">Оператор торговых автоматов</a></td>
+<td>40 704</td>
+<td>45 600</td>
+<td>59 625</td>
+<td>60 800</td>
+<td>73 760</td>
+<td>85 312</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2860&lang=0" target="_blank" class="job">Техник по ремонту торговых автоматов</a></td>
+<td>40 733</td>
+<td>58 351</td>
+<td>67 614</td>
+<td>71 280</td>
+<td>83 818</td>
+<td>89 920</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2861&lang=0" target="_blank" class="job">Техник-оператор обслуживания торговых автоматов</a></td>
+<td>46 162</td>
+<td>53 796</td>
+<td>65 033</td>
+<td>68 480</td>
+<td>74 191</td>
+<td>83 456</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2197&lang=0" target="_blank" class="job">Таможенный брокер</a></td>
+<td>50 797</td>
+<td>75 351</td>
+<td>90 465</td>
+<td>96 211</td>
+<td>114 388</td>
+<td>127 432</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>48 000</td>
+<td>60 717</td>
+<td>84 227</td>
+<td>84 000</td>
+<td>103 527</td>
+<td>128 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>211 200</td>
+<td>327 604</td>
+<td>978 648</td>
+<td>934 528</td>
+<td>1 441 640</td>
+<td>1 860 628</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>182 443</td>
+<td>265 774</td>
+<td>448 808</td>
+<td>377 920</td>
+<td>566 874</td>
+<td>865 980</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>76 800</td>
+<td>196 530</td>
+<td>401 083</td>
+<td>312 087</td>
+<td>585 290</td>
+<td>769 620</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>198 400</td>
+<td>264 800</td>
+<td>436 939</td>
+<td>406 185</td>
+<td>592 004</td>
+<td>752 946</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2729&lang=0" target="_blank" class="job">Менеджер по корпоративной культуре</a></td>
+<td>37 983</td>
+<td>52 435</td>
+<td>65 681</td>
+<td>66 688</td>
+<td>83 754</td>
+<td>92 993</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>53 440</td>
+<td>60 800</td>
+<td>80 260</td>
+<td>75 200</td>
+<td>96 514</td>
+<td>123 395</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>32 000</td>
+<td>43 485</td>
+<td>69 434</td>
+<td>61 720</td>
+<td>90 379</td>
+<td>125 920</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>88 000</td>
+<td>104 351</td>
+<td>145 045</td>
+<td>150 000</td>
+<td>183 297</td>
+<td>208 000</td>
+<td>4 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 15.02.2016)</p>
+</div>

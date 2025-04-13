@@ -1,0 +1,708 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>40 150</td>
+<td>42 200</td>
+<td>48 596</td>
+<td>47 600</td>
+<td>54 500</td>
+<td>59 220</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2133&lang=0" target="_blank" class="job">Вальщик леса (лесоруб)</a></td>
+<td>28 500</td>
+<td>30 000</td>
+<td>36 588</td>
+<td>35 000</td>
+<td>41 000</td>
+<td>47 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>42 880</td>
+<td>45 475</td>
+<td>57 213</td>
+<td>55 250</td>
+<td>65 100</td>
+<td>76 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>30 000</td>
+<td>36 000</td>
+<td>47 716</td>
+<td>47 000</td>
+<td>55 000</td>
+<td>62 100</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2132&lang=0" target="_blank" class="job">Выжигальщик</a></td>
+<td>25 000</td>
+<td>26 000</td>
+<td>29 678</td>
+<td>29 000</td>
+<td>31 025</td>
+<td>34 550</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2129&lang=0" target="_blank" class="job">Егерь</a></td>
+<td>19 000</td>
+<td>20 000</td>
+<td>24 680</td>
+<td>24 000</td>
+<td>30 000</td>
+<td>30 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2126&lang=0" target="_blank" class="job">Инженер лесного хозяйства </a></td>
+<td>24 640</td>
+<td>28 750</td>
+<td>45 938</td>
+<td>40 850</td>
+<td>57 500</td>
+<td>71 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>28 980</td>
+<td>29 100</td>
+<td>33 411</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>42 260</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2127&lang=0" target="_blank" class="job">Инженер-таксатор</a></td>
+<td>25 500</td>
+<td>30 000</td>
+<td>33 662</td>
+<td>35 000</td>
+<td>38 000</td>
+<td>38 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2142&lang=0" target="_blank" class="job">Копровщик </a></td>
+<td>33 000</td>
+<td>35 000</td>
+<td>42 012</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>51 040</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2123&lang=0" target="_blank" class="job">Лесничий</a></td>
+<td>25 900</td>
+<td>26 925</td>
+<td>30 431</td>
+<td>28 000</td>
+<td>34 275</td>
+<td>38 735</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2134&lang=0" target="_blank" class="job">Лесоруб </a></td>
+<td>20 000</td>
+<td>29 000</td>
+<td>31 372</td>
+<td>31 000</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2128&lang=0" target="_blank" class="job">Мастер леса</a></td>
+<td>20 400</td>
+<td>24 000</td>
+<td>28 385</td>
+<td>30 000</td>
+<td>33 000</td>
+<td>35 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2135&lang=0" target="_blank" class="job">Обрубщик сучьев</a></td>
+<td>15 030</td>
+<td>16 375</td>
+<td>19 941</td>
+<td>18 700</td>
+<td>22 750</td>
+<td>25 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2138&lang=0" target="_blank" class="job">Окорщик </a></td>
+<td>17 750</td>
+<td>19 700</td>
+<td>23 050</td>
+<td>24 250</td>
+<td>26 250</td>
+<td>28 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2141&lang=0" target="_blank" class="job">Оператор лесозаготовительных машин</a></td>
+<td>33 900</td>
+<td>40 000</td>
+<td>51 800</td>
+<td>57 000</td>
+<td>60 000</td>
+<td>65 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>25 950</td>
+<td>27 700</td>
+<td>31 931</td>
+<td>32 300</td>
+<td>35 400</td>
+<td>38 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1788&lang=0" target="_blank" class="job">Оператор станков с ЧПУ</a></td>
+<td>38 400</td>
+<td>44 175</td>
+<td>53 525</td>
+<td>52 300</td>
+<td>64 050</td>
+<td>69 840</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2053&lang=0" target="_blank" class="job">Охотовед</a></td>
+<td>27 660</td>
+<td>30 300</td>
+<td>38 138</td>
+<td>36 350</td>
+<td>45 350</td>
+<td>50 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2145&lang=0" target="_blank" class="job">Плотник</a></td>
+<td>28 000</td>
+<td>29 500</td>
+<td>31 811</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>37 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2124&lang=0" target="_blank" class="job">Помощник лесничего</a></td>
+<td>19 340</td>
+<td>22 050</td>
+<td>28 933</td>
+<td>28 940</td>
+<td>34 820</td>
+<td>39 320</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2139&lang=0" target="_blank" class="job">Раскряжевщик</a></td>
+<td>21 500</td>
+<td>27 175</td>
+<td>37 881</td>
+<td>40 000</td>
+<td>49 500</td>
+<td>50 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2136&lang=0" target="_blank" class="job">Сортировщик </a></td>
+<td>26 490</td>
+<td>30 000</td>
+<td>35 782</td>
+<td>35 400</td>
+<td>40 000</td>
+<td>44 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2143&lang=0" target="_blank" class="job">Сплотчик</a></td>
+<td>28 000</td>
+<td>28 000</td>
+<td>33 876</td>
+<td>30 000</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1635&lang=0" target="_blank" class="job">Станочник широкого профиля</a></td>
+<td>29 100</td>
+<td>30 000</td>
+<td>35 792</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>44 050</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1373&lang=0" target="_blank" class="job">Столяр</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>35 957</td>
+<td>35 000</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>26 000</td>
+<td>30 000</td>
+<td>33 517</td>
+<td>34 000</td>
+<td>35 000</td>
+<td>39 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2147&lang=0" target="_blank" class="job">Точковщик</a></td>
+<td>15 000</td>
+<td>15 500</td>
+<td>18 400</td>
+<td>18 500</td>
+<td>20 000</td>
+<td>20 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2144&lang=0" target="_blank" class="job">Укладчик</a></td>
+<td>22 000</td>
+<td>23 900</td>
+<td>26 889</td>
+<td>25 800</td>
+<td>30 000</td>
+<td>32 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2146&lang=0" target="_blank" class="job">Формировщик плотов</a></td>
+<td>20 000</td>
+<td>23 490</td>
+<td>24 942</td>
+<td>25 050</td>
+<td>27 500</td>
+<td>28 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2140&lang=0" target="_blank" class="job">Чокеровщик</a></td>
+<td>22 000</td>
+<td>22 750</td>
+<td>28 300</td>
+<td>24 000</td>
+<td>35 500</td>
+<td>38 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2137&lang=0" target="_blank" class="job">Штабелевщик</a></td>
+<td>18 000</td>
+<td>18 000</td>
+<td>20 667</td>
+<td>21 000</td>
+<td>22 000</td>
+<td>23 000</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>46 413</td>
+<td>51 300</td>
+<td>66 289</td>
+<td>66 013</td>
+<td>74 909</td>
+<td>88 464</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2133&lang=0" target="_blank" class="job">Вальщик леса (лесоруб)</a></td>
+<td>38 080</td>
+<td>41 500</td>
+<td>47 058</td>
+<td>49 200</td>
+<td>53 000</td>
+<td>56 220</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>54 273</td>
+<td>61 700</td>
+<td>79 158</td>
+<td>77 471</td>
+<td>85 921</td>
+<td>110 218</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>45 000</td>
+<td>54 513</td>
+<td>68 808</td>
+<td>67 959</td>
+<td>81 425</td>
+<td>91 403</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2132&lang=0" target="_blank" class="job">Выжигальщик</a></td>
+<td>28 000</td>
+<td>31 450</td>
+<td>37 765</td>
+<td>38 900</td>
+<td>42 288</td>
+<td>45 700</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2129&lang=0" target="_blank" class="job">Егерь</a></td>
+<td>24 000</td>
+<td>29 200</td>
+<td>31 297</td>
+<td>32 200</td>
+<td>33 900</td>
+<td>35 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2126&lang=0" target="_blank" class="job">Инженер лесного хозяйства </a></td>
+<td>41 640</td>
+<td>46 275</td>
+<td>61 850</td>
+<td>60 000</td>
+<td>74 725</td>
+<td>82 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>40 472</td>
+<td>42 400</td>
+<td>43 776</td>
+<td>43 940</td>
+<td>44 500</td>
+<td>46 140</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2127&lang=0" target="_blank" class="job">Инженер-таксатор</a></td>
+<td>42 200</td>
+<td>45 500</td>
+<td>48 577</td>
+<td>48 200</td>
+<td>51 500</td>
+<td>53 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2142&lang=0" target="_blank" class="job">Копровщик </a></td>
+<td>54 800</td>
+<td>57 500</td>
+<td>62 687</td>
+<td>66 000</td>
+<td>68 300</td>
+<td>70 940</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2123&lang=0" target="_blank" class="job">Лесничий</a></td>
+<td>45 110</td>
+<td>45 875</td>
+<td>51 439</td>
+<td>50 920</td>
+<td>53 484</td>
+<td>56 550</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2134&lang=0" target="_blank" class="job">Лесоруб </a></td>
+<td>41 880</td>
+<td>45 500</td>
+<td>49 353</td>
+<td>50 000</td>
+<td>53 100</td>
+<td>56 090</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2128&lang=0" target="_blank" class="job">Мастер леса</a></td>
+<td>30 100</td>
+<td>33 000</td>
+<td>37 322</td>
+<td>38 000</td>
+<td>41 200</td>
+<td>42 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2135&lang=0" target="_blank" class="job">Обрубщик сучьев</a></td>
+<td>26 280</td>
+<td>28 310</td>
+<td>31 081</td>
+<td>30 500</td>
+<td>33 000</td>
+<td>33 950</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2138&lang=0" target="_blank" class="job">Окорщик </a></td>
+<td>23 250</td>
+<td>25 985</td>
+<td>27 164</td>
+<td>27 750</td>
+<td>28 888</td>
+<td>29 250</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2141&lang=0" target="_blank" class="job">Оператор лесозаготовительных машин</a></td>
+<td>52 900</td>
+<td>59 853</td>
+<td>63 718</td>
+<td>62 250</td>
+<td>70 250</td>
+<td>74 050</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>33 317</td>
+<td>37 179</td>
+<td>42 577</td>
+<td>42 025</td>
+<td>47 888</td>
+<td>51 567</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1788&lang=0" target="_blank" class="job">Оператор станков с ЧПУ</a></td>
+<td>46 589</td>
+<td>55 704</td>
+<td>72 377</td>
+<td>68 738</td>
+<td>88 069</td>
+<td>104 660</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2053&lang=0" target="_blank" class="job">Охотовед</a></td>
+<td>40 803</td>
+<td>42 746</td>
+<td>52 368</td>
+<td>51 363</td>
+<td>56 271</td>
+<td>66 538</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2145&lang=0" target="_blank" class="job">Плотник</a></td>
+<td>30 690</td>
+<td>34 425</td>
+<td>39 074</td>
+<td>38 290</td>
+<td>44 996</td>
+<td>46 302</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2124&lang=0" target="_blank" class="job">Помощник лесничего</a></td>
+<td>25 885</td>
+<td>28 884</td>
+<td>35 559</td>
+<td>33 323</td>
+<td>43 083</td>
+<td>45 069</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2139&lang=0" target="_blank" class="job">Раскряжевщик</a></td>
+<td>24 825</td>
+<td>36 000</td>
+<td>48 392</td>
+<td>54 750</td>
+<td>59 175</td>
+<td>61 150</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2136&lang=0" target="_blank" class="job">Сортировщик </a></td>
+<td>32 598</td>
+<td>38 167</td>
+<td>43 663</td>
+<td>43 300</td>
+<td>48 500</td>
+<td>58 467</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2143&lang=0" target="_blank" class="job">Сплотчик</a></td>
+<td>41 576</td>
+<td>43 000</td>
+<td>44 702</td>
+<td>44 000</td>
+<td>47 000</td>
+<td>48 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1635&lang=0" target="_blank" class="job">Станочник широкого профиля</a></td>
+<td>39 300</td>
+<td>40 425</td>
+<td>42 787</td>
+<td>40 750</td>
+<td>43 600</td>
+<td>51 736</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1373&lang=0" target="_blank" class="job">Столяр</a></td>
+<td>31 320</td>
+<td>36 050</td>
+<td>43 998</td>
+<td>41 660</td>
+<td>49 375</td>
+<td>59 726</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>40 912</td>
+<td>42 000</td>
+<td>47 122</td>
+<td>46 200</td>
+<td>50 500</td>
+<td>54 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2147&lang=0" target="_blank" class="job">Точковщик</a></td>
+<td>19 800</td>
+<td>21 610</td>
+<td>22 908</td>
+<td>22 470</td>
+<td>25 000</td>
+<td>25 930</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2144&lang=0" target="_blank" class="job">Укладчик</a></td>
+<td>25 556</td>
+<td>31 733</td>
+<td>37 801</td>
+<td>36 767</td>
+<td>43 000</td>
+<td>49 644</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2146&lang=0" target="_blank" class="job">Формировщик плотов</a></td>
+<td>33 930</td>
+<td>35 730</td>
+<td>37 172</td>
+<td>37 250</td>
+<td>38 750</td>
+<td>40 920</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2140&lang=0" target="_blank" class="job">Чокеровщик</a></td>
+<td>33 000</td>
+<td>35 600</td>
+<td>39 136</td>
+<td>39 200</td>
+<td>43 070</td>
+<td>44 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2137&lang=0" target="_blank" class="job">Штабелевщик</a></td>
+<td>28 500</td>
+<td>29 200</td>
+<td>30 041</td>
+<td>30 000</td>
+<td>30 940</td>
+<td>31 900</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 02.09.2019)</p>
+</div>

@@ -1,0 +1,828 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Краснодар</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>14 970</td>
+<td>16 380</td>
+<td>19 381</td>
+<td>18 200</td>
+<td>22 068</td>
+<td>25 662</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>10 329</td>
+<td>16 380</td>
+<td>24 539</td>
+<td>21 740</td>
+<td>31 850</td>
+<td>40 955</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>20 291</td>
+<td>23 611</td>
+<td>26 323</td>
+<td>25 480</td>
+<td>31 395</td>
+<td>32 612</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>5 460</td>
+<td>5 506</td>
+<td>9 821</td>
+<td>9 100</td>
+<td>13 650</td>
+<td>15 470</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>19 597</td>
+<td>22 750</td>
+<td>28 653</td>
+<td>27 252</td>
+<td>32 760</td>
+<td>41 815</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2234&lang=0" target="_blank" class="job">Бухгалтер-кассир</a></td>
+<td>17 350</td>
+<td>21 281</td>
+<td>24 327</td>
+<td>25 025</td>
+<td>28 039</td>
+<td>31 850</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>36 059</td>
+<td>41 404</td>
+<td>61 198</td>
+<td>50 050</td>
+<td>65 863</td>
+<td>101 465</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>14 633</td>
+<td>16 807</td>
+<td>19 039</td>
+<td>19 110</td>
+<td>20 930</td>
+<td>23 300</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>19 383</td>
+<td>22 602</td>
+<td>27 629</td>
+<td>29 302</td>
+<td>31 395</td>
+<td>33 051</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>95 550</td>
+<td>117 163</td>
+<td>212 195</td>
+<td>207 078</td>
+<td>266 175</td>
+<td>377 650</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>44 687</td>
+<td>54 509</td>
+<td>90 368</td>
+<td>72 800</td>
+<td>109 200</td>
+<td>143 780</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>71 872</td>
+<td>81 900</td>
+<td>144 730</td>
+<td>145 600</td>
+<td>196 105</td>
+<td>227 773</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>24 470</td>
+<td>29 163</td>
+<td>38 318</td>
+<td>32 647</td>
+<td>45 227</td>
+<td>70 070</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1943&lang=0" target="_blank" class="job">Специалист по рекламе</a></td>
+<td>22 619</td>
+<td>23 706</td>
+<td>27 844</td>
+<td>27 300</td>
+<td>32 135</td>
+<td>39 130</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>71 872</td>
+<td>81 900</td>
+<td>144 730</td>
+<td>145 600</td>
+<td>196 105</td>
+<td>227 773</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2100&lang=0" target="_blank" class="job">Менеджер коммерческого отдела</a></td>
+<td>18 200</td>
+<td>19 283</td>
+<td>23 746</td>
+<td>22 750</td>
+<td>29 695</td>
+<td>31 850</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1307&lang=0" target="_blank" class="job">Менеджер по городским продажам</a></td>
+<td>20 389</td>
+<td>20 930</td>
+<td>23 448</td>
+<td>22 737</td>
+<td>25 938</td>
+<td>29 272</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>18 674</td>
+<td>21 626</td>
+<td>23 966</td>
+<td>24 570</td>
+<td>26 390</td>
+<td>31 051</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>38 903</td>
+<td>48 748</td>
+<td>62 510</td>
+<td>56 056</td>
+<td>82 492</td>
+<td>93 900</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>16 380</td>
+<td>18 200</td>
+<td>21 891</td>
+<td>22 491</td>
+<td>26 869</td>
+<td>27 755</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>18 200</td>
+<td>20 231</td>
+<td>23 136</td>
+<td>22 750</td>
+<td>27 300</td>
+<td>27 780</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>20 843</td>
+<td>22 750</td>
+<td>25 836</td>
+<td>27 300</td>
+<td>27 961</td>
+<td>31 918</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>15 334</td>
+<td>24 721</td>
+<td>29 950</td>
+<td>31 850</td>
+<td>34 454</td>
+<td>44 226</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2148&lang=0" target="_blank" class="job">Менеджер телефонных продаж</a></td>
+<td>16 831</td>
+<td>18 278</td>
+<td>20 682</td>
+<td>22 295</td>
+<td>23 167</td>
+<td>25 710</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>34 771</td>
+<td>40 950</td>
+<td>62 997</td>
+<td>46 865</td>
+<td>63 700</td>
+<td>91 272</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>17 298</td>
+<td>18 200</td>
+<td>20 010</td>
+<td>20 227</td>
+<td>22 636</td>
+<td>23 371</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2225&lang=0" target="_blank" class="job">Офис-менеджер отдела продаж</a></td>
+<td>16 151</td>
+<td>19 663</td>
+<td>20 842</td>
+<td>21 567</td>
+<td>22 906</td>
+<td>25 028</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>24 319</td>
+<td>27 300</td>
+<td>29 686</td>
+<td>31 850</td>
+<td>32 760</td>
+<td>35 823</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>26 739</td>
+<td>27 310</td>
+<td>30 096</td>
+<td>29 091</td>
+<td>32 952</td>
+<td>37 112</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>16 380</td>
+<td>18 200</td>
+<td>21 891</td>
+<td>22 491</td>
+<td>26 869</td>
+<td>27 755</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>18 407</td>
+<td>21 207</td>
+<td>22 586</td>
+<td>22 750</td>
+<td>24 594</td>
+<td>27 300</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>20 734</td>
+<td>22 750</td>
+<td>25 009</td>
+<td>27 300</td>
+<td>27 606</td>
+<td>30 661</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>21 977</td>
+<td>25 560</td>
+<td>29 340</td>
+<td>27 480</td>
+<td>32 094</td>
+<td>36 400</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>18 200</td>
+<td>27 300</td>
+<td>37 261</td>
+<td>33 422</td>
+<td>46 595</td>
+<td>55 467</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>16 204</td>
+<td>16 738</td>
+<td>19 097</td>
+<td>18 200</td>
+<td>22 750</td>
+<td>26 754</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>20 549</td>
+<td>22 750</td>
+<td>24 587</td>
+<td>25 480</td>
+<td>27 300</td>
+<td>29 940</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>16 926</td>
+<td>18 200</td>
+<td>25 661</td>
+<td>25 708</td>
+<td>29 756</td>
+<td>37 409</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>18 533</td>
+<td>20 239</td>
+<td>22 174</td>
+<td>22 750</td>
+<td>24 007</td>
+<td>27 560</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>14 970</td>
+<td>16 380</td>
+<td>23 374</td>
+<td>21 840</td>
+<td>27 239</td>
+<td>36 562</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>10 329</td>
+<td>16 380</td>
+<td>29 589</td>
+<td>21 740</td>
+<td>38 091</td>
+<td>61 994</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>20 291</td>
+<td>23 611</td>
+<td>30 874</td>
+<td>31 454</td>
+<td>38 747</td>
+<td>40 841</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>5 460</td>
+<td>5 506</td>
+<td>11 650</td>
+<td>9 100</td>
+<td>16 162</td>
+<td>19 763</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>19 597</td>
+<td>22 750</td>
+<td>34 840</td>
+<td>27 252</td>
+<td>40 950</td>
+<td>61 145</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2234&lang=0" target="_blank" class="job">Бухгалтер-кассир</a></td>
+<td>19 170</td>
+<td>23 784</td>
+<td>28 964</td>
+<td>28 201</td>
+<td>34 021</td>
+<td>41 062</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>36 059</td>
+<td>41 404</td>
+<td>83 795</td>
+<td>67 217</td>
+<td>97 258</td>
+<td>154 127</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>14 633</td>
+<td>16 807</td>
+<td>23 014</td>
+<td>21 490</td>
+<td>25 940</td>
+<td>32 236</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>19 383</td>
+<td>22 602</td>
+<td>33 563</td>
+<td>32 684</td>
+<td>43 065</td>
+<td>50 796</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>95 550</td>
+<td>117 163</td>
+<td>685 566</td>
+<td>207 078</td>
+<td>327 236</td>
+<td>1 585 992</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>44 687</td>
+<td>54 509</td>
+<td>128 670</td>
+<td>101 920</td>
+<td>149 138</td>
+<td>256 174</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>71 872</td>
+<td>81 900</td>
+<td>226 502</td>
+<td>145 600</td>
+<td>302 692</td>
+<td>527 373</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>24 470</td>
+<td>29 163</td>
+<td>47 297</td>
+<td>33 011</td>
+<td>63 436</td>
+<td>97 701</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1943&lang=0" target="_blank" class="job">Специалист по рекламе</a></td>
+<td>22 619</td>
+<td>23 706</td>
+<td>39 121</td>
+<td>37 238</td>
+<td>52 820</td>
+<td>63 956</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>71 872</td>
+<td>81 900</td>
+<td>226 502</td>
+<td>145 600</td>
+<td>302 692</td>
+<td>527 373</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2100&lang=0" target="_blank" class="job">Менеджер коммерческого отдела</a></td>
+<td>18 864</td>
+<td>28 383</td>
+<td>36 897</td>
+<td>35 911</td>
+<td>49 894</td>
+<td>55 431</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1307&lang=0" target="_blank" class="job">Менеджер по городским продажам</a></td>
+<td>20 389</td>
+<td>24 343</td>
+<td>41 813</td>
+<td>38 443</td>
+<td>52 248</td>
+<td>68 796</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>18 674</td>
+<td>21 626</td>
+<td>32 849</td>
+<td>26 777</td>
+<td>44 193</td>
+<td>53 331</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>38 903</td>
+<td>49 613</td>
+<td>84 297</td>
+<td>57 376</td>
+<td>108 064</td>
+<td>154 609</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>16 380</td>
+<td>18 200</td>
+<td>40 960</td>
+<td>22 491</td>
+<td>57 105</td>
+<td>93 275</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>18 200</td>
+<td>20 231</td>
+<td>28 755</td>
+<td>22 750</td>
+<td>39 125</td>
+<td>42 503</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>21 298</td>
+<td>24 115</td>
+<td>31 545</td>
+<td>32 821</td>
+<td>36 854</td>
+<td>44 688</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>15 334</td>
+<td>27 079</td>
+<td>50 719</td>
+<td>48 921</td>
+<td>60 353</td>
+<td>91 443</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2148&lang=0" target="_blank" class="job">Менеджер телефонных продаж</a></td>
+<td>16 831</td>
+<td>18 782</td>
+<td>35 455</td>
+<td>39 307</td>
+<td>48 814</td>
+<td>54 973</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>34 771</td>
+<td>40 950</td>
+<td>102 194</td>
+<td>46 865</td>
+<td>92 984</td>
+<td>199 255</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>17 819</td>
+<td>20 134</td>
+<td>22 805</td>
+<td>22 995</td>
+<td>26 480</td>
+<td>27 920</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2225&lang=0" target="_blank" class="job">Офис-менеджер отдела продаж</a></td>
+<td>16 480</td>
+<td>21 483</td>
+<td>27 171</td>
+<td>25 243</td>
+<td>33 607</td>
+<td>39 833</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>24 319</td>
+<td>27 300</td>
+<td>34 016</td>
+<td>35 854</td>
+<td>39 932</td>
+<td>45 835</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>26 739</td>
+<td>28 293</td>
+<td>49 493</td>
+<td>45 896</td>
+<td>63 291</td>
+<td>75 235</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>16 380</td>
+<td>18 200</td>
+<td>40 960</td>
+<td>22 491</td>
+<td>57 105</td>
+<td>93 275</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>18 407</td>
+<td>21 207</td>
+<td>30 596</td>
+<td>29 302</td>
+<td>38 774</td>
+<td>46 115</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>22 000</td>
+<td>29 120</td>
+<td>32 622</td>
+<td>34 715</td>
+<td>37 944</td>
+<td>42 783</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>21 977</td>
+<td>25 560</td>
+<td>41 342</td>
+<td>35 379</td>
+<td>54 862</td>
+<td>65 815</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>27 376</td>
+<td>54 600</td>
+<td>68 471</td>
+<td>69 822</td>
+<td>88 979</td>
+<td>104 607</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>16 204</td>
+<td>16 738</td>
+<td>25 872</td>
+<td>27 126</td>
+<td>34 652</td>
+<td>40 269</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>21 340</td>
+<td>28 779</td>
+<td>34 062</td>
+<td>34 529</td>
+<td>40 751</td>
+<td>46 447</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>16 926</td>
+<td>18 200</td>
+<td>34 857</td>
+<td>30 783</td>
+<td>45 179</td>
+<td>61 156</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>18 533</td>
+<td>21 378</td>
+<td>29 410</td>
+<td>30 041</td>
+<td>36 260</td>
+<td>42 886</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.08.2014)</p>
+</div>

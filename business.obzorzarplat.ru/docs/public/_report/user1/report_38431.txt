@@ -1,0 +1,548 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Краснодар</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>25 676</td>
+<td>30 720</td>
+<td>37 213</td>
+<td>36 680</td>
+<td>43 099</td>
+<td>50 435</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>38 514</td>
+<td>45 850</td>
+<td>63 719</td>
+<td>64 190</td>
+<td>79 779</td>
+<td>87 115</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1791&lang=0" target="_blank" class="job">Главный специалист отдела стратегического планирования</a></td>
+<td>45 850</td>
+<td>62 356</td>
+<td>75 570</td>
+<td>77 945</td>
+<td>87 115</td>
+<td>105 455</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1811&lang=0" target="_blank" class="job">Главный специалист по планированию</a></td>
+<td>27 510</td>
+<td>35 560</td>
+<td>43 955</td>
+<td>43 099</td>
+<td>50 435</td>
+<td>57 771</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>91 700</td>
+<td>128 380</td>
+<td>159 153</td>
+<td>160 475</td>
+<td>195 960</td>
+<td>229 250</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2709&lang=0" target="_blank" class="job">Заместитель директора по развитию</a></td>
+<td>62 356</td>
+<td>73 360</td>
+<td>85 723</td>
+<td>85 740</td>
+<td>102 933</td>
+<td>110 040</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2612&lang=0" target="_blank" class="job">Заместитель начальника отдела бизнес-планирования</a></td>
+<td>41 265</td>
+<td>44 333</td>
+<td>55 745</td>
+<td>53 186</td>
+<td>68 775</td>
+<td>75 653</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>22 925</td>
+<td>24 759</td>
+<td>28 840</td>
+<td>27 510</td>
+<td>32 095</td>
+<td>36 680</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1469&lang=0" target="_blank" class="job">Менеджер инвестиционного проекта</a></td>
+<td>32 095</td>
+<td>34 846</td>
+<td>39 418</td>
+<td>39 431</td>
+<td>45 850</td>
+<td>48 601</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2121&lang=0" target="_blank" class="job">Менеджер по планированию</a></td>
+<td>27 510</td>
+<td>32 095</td>
+<td>38 522</td>
+<td>36 680</td>
+<td>45 850</td>
+<td>51 260</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>32 095</td>
+<td>36 680</td>
+<td>64 141</td>
+<td>55 020</td>
+<td>84 823</td>
+<td>110 040</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2687&lang=0" target="_blank" class="job">Менеджер по региональному развитию</a></td>
+<td>36 680</td>
+<td>43 931</td>
+<td>55 634</td>
+<td>55 020</td>
+<td>64 190</td>
+<td>73 360</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>25 676</td>
+<td>32 095</td>
+<td>38 550</td>
+<td>36 680</td>
+<td>45 850</td>
+<td>55 020</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2611&lang=0" target="_blank" class="job">Начальник отдела бизнес-планирования</a></td>
+<td>49 977</td>
+<td>56 475</td>
+<td>69 419</td>
+<td>73 360</td>
+<td>85 463</td>
+<td>89 866</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1921&lang=0" target="_blank" class="job">Начальник отдела развития</a></td>
+<td>41 265</td>
+<td>52 728</td>
+<td>71 492</td>
+<td>68 775</td>
+<td>83 447</td>
+<td>108 665</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1792&lang=0" target="_blank" class="job">Начальник отдела стратегического планирования</a></td>
+<td>50 435</td>
+<td>59 605</td>
+<td>71 962</td>
+<td>68 775</td>
+<td>82 530</td>
+<td>105 438</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1789&lang=0" target="_blank" class="job">Начальник управления проектами</a></td>
+<td>51 352</td>
+<td>76 799</td>
+<td>99 846</td>
+<td>91 700</td>
+<td>125 058</td>
+<td>146 123</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2686&lang=0" target="_blank" class="job">Региональный менеджер по развитию</a></td>
+<td>45 850</td>
+<td>65 295</td>
+<td>77 929</td>
+<td>82 530</td>
+<td>91 700</td>
+<td>105 455</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2270&lang=0" target="_blank" class="job">Риск-менеджер</a></td>
+<td>27 510</td>
+<td>32 095</td>
+<td>37 814</td>
+<td>36 680</td>
+<td>43 099</td>
+<td>45 957</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2745&lang=0" target="_blank" class="job">Руководитель отдела проектов</a></td>
+<td>41 265</td>
+<td>50 435</td>
+<td>70 144</td>
+<td>62 815</td>
+<td>85 908</td>
+<td>121 686</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>45 850</td>
+<td>56 908</td>
+<td>64 647</td>
+<td>68 775</td>
+<td>73 360</td>
+<td>80 615</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>42 385</td>
+<td>44 016</td>
+<td>52 710</td>
+<td>49 518</td>
+<td>64 190</td>
+<td>68 256</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>48 418</td>
+<td>60 062</td>
+<td>68 075</td>
+<td>71 691</td>
+<td>79 321</td>
+<td>86 473</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2002&lang=0" target="_blank" class="job">Специалист по стандартизации</a></td>
+<td>20 724</td>
+<td>23 470</td>
+<td>29 023</td>
+<td>27 510</td>
+<td>35 207</td>
+<td>39 577</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>25 676</td>
+<td>30 720</td>
+<td>48 860</td>
+<td>46 767</td>
+<td>60 522</td>
+<td>78 862</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>38 514</td>
+<td>45 850</td>
+<td>83 997</td>
+<td>85 281</td>
+<td>111 874</td>
+<td>123 245</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1791&lang=0" target="_blank" class="job">Главный специалист отдела стратегического планирования</a></td>
+<td>45 850</td>
+<td>74 506</td>
+<td>104 051</td>
+<td>108 665</td>
+<td>130 214</td>
+<td>157 724</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1811&lang=0" target="_blank" class="job">Главный специалист по планированию</a></td>
+<td>27 510</td>
+<td>39 228</td>
+<td>54 809</td>
+<td>49 518</td>
+<td>69 015</td>
+<td>83 223</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>91 700</td>
+<td>162 309</td>
+<td>236 222</td>
+<td>212 286</td>
+<td>302 513</td>
+<td>412 925</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2709&lang=0" target="_blank" class="job">Заместитель директора по развитию</a></td>
+<td>76 111</td>
+<td>88 949</td>
+<td>133 459</td>
+<td>103 163</td>
+<td>196 467</td>
+<td>227 416</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2612&lang=0" target="_blank" class="job">Заместитель начальника отдела бизнес-планирования</a></td>
+<td>48 510</td>
+<td>52 474</td>
+<td>65 537</td>
+<td>63 182</td>
+<td>80 404</td>
+<td>88 262</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>22 925</td>
+<td>26 593</td>
+<td>34 516</td>
+<td>33 929</td>
+<td>40 348</td>
+<td>46 767</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1469&lang=0" target="_blank" class="job">Менеджер инвестиционного проекта</a></td>
+<td>36 049</td>
+<td>51 352</td>
+<td>64 579</td>
+<td>65 107</td>
+<td>80 513</td>
+<td>93 259</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2121&lang=0" target="_blank" class="job">Менеджер по планированию</a></td>
+<td>27 510</td>
+<td>38 514</td>
+<td>47 888</td>
+<td>44 933</td>
+<td>58 688</td>
+<td>70 792</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>32 095</td>
+<td>36 680</td>
+<td>73 032</td>
+<td>61 439</td>
+<td>99 042</td>
+<td>133 882</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2687&lang=0" target="_blank" class="job">Менеджер по региональному развитию</a></td>
+<td>41 058</td>
+<td>54 935</td>
+<td>71 153</td>
+<td>70 485</td>
+<td>83 890</td>
+<td>101 695</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>25 676</td>
+<td>32 095</td>
+<td>61 572</td>
+<td>59 605</td>
+<td>74 584</td>
+<td>111 416</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2611&lang=0" target="_blank" class="job">Начальник отдела бизнес-планирования</a></td>
+<td>75 106</td>
+<td>83 985</td>
+<td>107 524</td>
+<td>110 040</td>
+<td>131 313</td>
+<td>139 843</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1921&lang=0" target="_blank" class="job">Начальник отдела развития</a></td>
+<td>41 265</td>
+<td>62 815</td>
+<td>91 112</td>
+<td>88 949</td>
+<td>110 957</td>
+<td>139 843</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1792&lang=0" target="_blank" class="job">Начальник отдела стратегического планирования</a></td>
+<td>50 435</td>
+<td>68 775</td>
+<td>96 441</td>
+<td>91 641</td>
+<td>123 795</td>
+<td>154 956</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1789&lang=0" target="_blank" class="job">Начальник управления проектами</a></td>
+<td>51 352</td>
+<td>76 799</td>
+<td>150 895</td>
+<td>143 969</td>
+<td>213 904</td>
+<td>269 017</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2686&lang=0" target="_blank" class="job">Региональный менеджер по развитию</a></td>
+<td>45 850</td>
+<td>68 046</td>
+<td>85 529</td>
+<td>91 020</td>
+<td>103 120</td>
+<td>119 706</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2270&lang=0" target="_blank" class="job">Риск-менеджер</a></td>
+<td>27 510</td>
+<td>33 977</td>
+<td>41 146</td>
+<td>40 807</td>
+<td>47 684</td>
+<td>51 412</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2745&lang=0" target="_blank" class="job">Руководитель отдела проектов</a></td>
+<td>41 265</td>
+<td>58 459</td>
+<td>93 470</td>
+<td>83 906</td>
+<td>125 339</td>
+<td>173 038</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>50 068</td>
+<td>64 244</td>
+<td>77 434</td>
+<td>82 530</td>
+<td>89 866</td>
+<td>101 156</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>49 721</td>
+<td>53 186</td>
+<td>76 549</td>
+<td>77 028</td>
+<td>97 661</td>
+<td>107 476</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>116 729</td>
+<td>164 115</td>
+<td>189 802</td>
+<td>210 708</td>
+<td>228 750</td>
+<td>247 223</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2002&lang=0" target="_blank" class="job">Специалист по стандартизации</a></td>
+<td>20 724</td>
+<td>23 470</td>
+<td>34 746</td>
+<td>30 138</td>
+<td>45 667</td>
+<td>55 547</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.11.2015)</p>
+</div>

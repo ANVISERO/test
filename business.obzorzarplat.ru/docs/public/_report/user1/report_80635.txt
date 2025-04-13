@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>47 000</td>
+<td>59 466</td>
+<td>72 853</td>
+<td>75 000</td>
+<td>92 875</td>
+<td>100 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>29 500</td>
+<td>34 253</td>
+<td>39 823</td>
+<td>37 679</td>
+<td>46 074</td>
+<td>59 019</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>90 000</td>
+<td>107 933</td>
+<td>130 877</td>
+<td>142 600</td>
+<td>159 013</td>
+<td>174 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2699&lang=0" target="_blank" class="job">Менеджер отдела контроля качества</a></td>
+<td>22 269</td>
+<td>28 650</td>
+<td>31 526</td>
+<td>33 900</td>
+<td>35 722</td>
+<td>41 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>29 455</td>
+<td>30 375</td>
+<td>37 036</td>
+<td>35 700</td>
+<td>42 009</td>
+<td>51 600</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1510&lang=0" target="_blank" class="job">Начальник отдела контроля качества</a></td>
+<td>40 096</td>
+<td>44 723</td>
+<td>49 745</td>
+<td>50 000</td>
+<td>57 500</td>
+<td>63 786</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>50 000</td>
+<td>58 500</td>
+<td>92 579</td>
+<td>78 472</td>
+<td>118 709</td>
+<td>165 100</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>18 000</td>
+<td>23 500</td>
+<td>27 094</td>
+<td>27 450</td>
+<td>33 600</td>
+<td>36 740</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2878&lang=0" target="_blank" class="job">Оператор ЕГАИС</a></td>
+<td>22 594</td>
+<td>22 671</td>
+<td>27 696</td>
+<td>25 000</td>
+<td>33 659</td>
+<td>40 202</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>21 200</td>
+<td>26 290</td>
+<td>30 328</td>
+<td>30 000</td>
+<td>35 950</td>
+<td>44 536</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>40 000</td>
+<td>40 650</td>
+<td>53 368</td>
+<td>50 000</td>
+<td>65 563</td>
+<td>75 805</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>28 000</td>
+<td>34 000</td>
+<td>51 024</td>
+<td>45 084</td>
+<td>59 167</td>
+<td>92 331</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>50 200</td>
+<td>73 256</td>
+<td>94 587</td>
+<td>90 000</td>
+<td>119 637</td>
+<td>140 016</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>35 550</td>
+<td>46 336</td>
+<td>57 700</td>
+<td>53 366</td>
+<td>67 273</td>
+<td>92 050</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>107 730</td>
+<td>130 809</td>
+<td>179 475</td>
+<td>171 083</td>
+<td>241 989</td>
+<td>274 893</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2699&lang=0" target="_blank" class="job">Менеджер отдела контроля качества</a></td>
+<td>27 482</td>
+<td>35 356</td>
+<td>38 906</td>
+<td>39 308</td>
+<td>45 501</td>
+<td>51 215</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>30 200</td>
+<td>32 829</td>
+<td>41 197</td>
+<td>40 100</td>
+<td>48 434</td>
+<td>60 165</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1510&lang=0" target="_blank" class="job">Начальник отдела контроля качества</a></td>
+<td>58 530</td>
+<td>61 850</td>
+<td>71 558</td>
+<td>68 500</td>
+<td>87 568</td>
+<td>93 260</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>65 570</td>
+<td>72 863</td>
+<td>108 867</td>
+<td>92 279</td>
+<td>137 636</td>
+<td>183 040</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>26 740</td>
+<td>30 581</td>
+<td>34 329</td>
+<td>33 630</td>
+<td>37 700</td>
+<td>44 941</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2878&lang=0" target="_blank" class="job">Оператор ЕГАИС</a></td>
+<td>30 143</td>
+<td>33 417</td>
+<td>37 506</td>
+<td>37 514</td>
+<td>41 347</td>
+<td>47 278</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>29 713</td>
+<td>30 696</td>
+<td>43 208</td>
+<td>36 548</td>
+<td>55 046</td>
+<td>67 110</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>49 184</td>
+<td>59 163</td>
+<td>74 353</td>
+<td>70 500</td>
+<td>86 814</td>
+<td>111 179</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>29 750</td>
+<td>37 105</td>
+<td>57 644</td>
+<td>50 933</td>
+<td>66 844</td>
+<td>109 701</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.01.2018)</p>
+</div>

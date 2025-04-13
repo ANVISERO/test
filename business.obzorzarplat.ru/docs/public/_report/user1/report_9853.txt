@@ -1,0 +1,368 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2051&lang=0" target="_blank" class="job">Адвокат</a></td>
+<td>22 989</td>
+<td>32 597</td>
+<td>45 312</td>
+<td>51 724</td>
+<td>55 658</td>
+<td>59 309</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1834&lang=0" target="_blank" class="job">Ведущий специалист по налогообложению</a></td>
+<td>31 816</td>
+<td>37 546</td>
+<td>46 553</td>
+<td>52 414</td>
+<td>54 023</td>
+<td>57 610</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>49 425</td>
+<td>52 967</td>
+<td>64 080</td>
+<td>60 920</td>
+<td>77 156</td>
+<td>83 908</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1790&lang=0" target="_blank" class="job">Ведущий юрист</a></td>
+<td>19 218</td>
+<td>33 646</td>
+<td>49 801</td>
+<td>58 621</td>
+<td>65 517</td>
+<td>74 235</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>44 543</td>
+<td>46 613</td>
+<td>54 208</td>
+<td>57 471</td>
+<td>62 069</td>
+<td>65 973</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>25 209</td>
+<td>82 409</td>
+<td>119 126</td>
+<td>130 293</td>
+<td>160 920</td>
+<td>173 210</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2034&lang=0" target="_blank" class="job">Заместитель начальника юридического отдела</a></td>
+<td>23 563</td>
+<td>40 226</td>
+<td>45 257</td>
+<td>49 500</td>
+<td>54 475</td>
+<td>57 471</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>37 816</td>
+<td>57 471</td>
+<td>73 553</td>
+<td>63 974</td>
+<td>86 207</td>
+<td>106 377</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2238&lang=0" target="_blank" class="job">Помощник адвоката</a></td>
+<td>11 971</td>
+<td>16 560</td>
+<td>19 981</td>
+<td>21 466</td>
+<td>23 503</td>
+<td>28 367</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2277&lang=0" target="_blank" class="job">Помощник юриста</a></td>
+<td>17 524</td>
+<td>20 607</td>
+<td>22 974</td>
+<td>22 989</td>
+<td>26 437</td>
+<td>28 734</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2216&lang=0" target="_blank" class="job">Специалист по урегулированию убытков</a></td>
+<td>27 586</td>
+<td>28 736</td>
+<td>39 045</td>
+<td>38 545</td>
+<td>45 977</td>
+<td>57 471</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2172&lang=0" target="_blank" class="job">Судебный пристав</a></td>
+<td>17 241</td>
+<td>21 839</td>
+<td>30 229</td>
+<td>28 736</td>
+<td>34 288</td>
+<td>51 200</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>17 701</td>
+<td>39 368</td>
+<td>46 158</td>
+<td>45 977</td>
+<td>52 586</td>
+<td>64 556</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>18 353</td>
+<td>23 218</td>
+<td>32 100</td>
+<td>28 736</td>
+<td>38 138</td>
+<td>51 724</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2278&lang=0" target="_blank" class="job">Юрист по регистрации юридических лиц</a></td>
+<td>27 824</td>
+<td>28 736</td>
+<td>33 983</td>
+<td>34 483</td>
+<td>37 511</td>
+<td>48 039</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2051&lang=0" target="_blank" class="job">Адвокат</a></td>
+<td>45 717</td>
+<td>50 005</td>
+<td>55 525</td>
+<td>55 632</td>
+<td>60 825</td>
+<td>68 832</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1834&lang=0" target="_blank" class="job">Ведущий специалист по налогообложению</a></td>
+<td>41 241</td>
+<td>47 229</td>
+<td>53 016</td>
+<td>53 034</td>
+<td>58 966</td>
+<td>63 027</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>49 425</td>
+<td>59 457</td>
+<td>72 637</td>
+<td>74 828</td>
+<td>88 352</td>
+<td>97 475</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1790&lang=0" target="_blank" class="job">Ведущий юрист</a></td>
+<td>33 304</td>
+<td>47 474</td>
+<td>58 863</td>
+<td>64 828</td>
+<td>73 106</td>
+<td>74 713</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>47 051</td>
+<td>49 926</td>
+<td>56 684</td>
+<td>61 379</td>
+<td>62 069</td>
+<td>68 247</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>59 770</td>
+<td>95 572</td>
+<td>144 703</td>
+<td>155 172</td>
+<td>195 402</td>
+<td>217 393</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2034&lang=0" target="_blank" class="job">Заместитель начальника юридического отдела</a></td>
+<td>40 230</td>
+<td>45 419</td>
+<td>50 179</td>
+<td>51 724</td>
+<td>57 759</td>
+<td>60 343</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>50 805</td>
+<td>57 471</td>
+<td>83 084</td>
+<td>74 598</td>
+<td>100 059</td>
+<td>121 029</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2238&lang=0" target="_blank" class="job">Помощник адвоката</a></td>
+<td>12 255</td>
+<td>20 394</td>
+<td>23 471</td>
+<td>24 647</td>
+<td>28 907</td>
+<td>33 977</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2277&lang=0" target="_blank" class="job">Помощник юриста</a></td>
+<td>19 403</td>
+<td>20 690</td>
+<td>23 852</td>
+<td>25 287</td>
+<td>28 161</td>
+<td>29 608</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2216&lang=0" target="_blank" class="job">Специалист по урегулированию убытков</a></td>
+<td>31 264</td>
+<td>35 862</td>
+<td>43 591</td>
+<td>44 713</td>
+<td>49 885</td>
+<td>59 195</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2172&lang=0" target="_blank" class="job">Судебный пристав</a></td>
+<td>19 885</td>
+<td>21 839</td>
+<td>31 621</td>
+<td>29 540</td>
+<td>35 868</td>
+<td>52 235</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>29 000</td>
+<td>41 928</td>
+<td>51 284</td>
+<td>51 724</td>
+<td>61 357</td>
+<td>74 857</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>29 333</td>
+<td>33 109</td>
+<td>44 666</td>
+<td>46 704</td>
+<td>47 404</td>
+<td>60 086</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2278&lang=0" target="_blank" class="job">Юрист по регистрации юридических лиц</a></td>
+<td>31 678</td>
+<td>34 483</td>
+<td>38 210</td>
+<td>36 207</td>
+<td>42 178</td>
+<td>55 238</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 11.11.2013)</p>
+</div>

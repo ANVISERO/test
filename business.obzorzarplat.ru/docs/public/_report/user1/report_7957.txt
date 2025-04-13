@@ -1,0 +1,548 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера</a></td>
+<td>17 544</td>
+<td>19 695</td>
+<td>22 522</td>
+<td>22 989</td>
+<td>26 030</td>
+<td>28 547</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1837&lang=0" target="_blank" class="job">Ведущий cпециалист по компенсациям и льготам</a></td>
+<td>27 011</td>
+<td>27 011</td>
+<td>35 992</td>
+<td>29 383</td>
+<td>42 595</td>
+<td>54 074</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>13 161</td>
+<td>19 362</td>
+<td>21 586</td>
+<td>23 678</td>
+<td>24 713</td>
+<td>26 537</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>17 062</td>
+<td>30 041</td>
+<td>34 221</td>
+<td>39 195</td>
+<td>39 195</td>
+<td>42 527</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>19 494</td>
+<td>23 500</td>
+<td>26 359</td>
+<td>24 023</td>
+<td>33 659</td>
+<td>34 483</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>27 510</td>
+<td>40 367</td>
+<td>46 058</td>
+<td>48 621</td>
+<td>55 610</td>
+<td>63 683</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>50 927</td>
+<td>81 715</td>
+<td>109 115</td>
+<td>106 897</td>
+<td>137 286</td>
+<td>172 414</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>15 000</td>
+<td>16 516</td>
+<td>23 253</td>
+<td>19 819</td>
+<td>28 352</td>
+<td>37 629</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>12 191</td>
+<td>14 515</td>
+<td>26 204</td>
+<td>22 989</td>
+<td>35 757</td>
+<td>47 379</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>18 149</td>
+<td>18 653</td>
+<td>23 890</td>
+<td>23 563</td>
+<td>30 842</td>
+<td>33 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>17 032</td>
+<td>18 758</td>
+<td>21 223</td>
+<td>22 734</td>
+<td>23 840</td>
+<td>26 849</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>12 532</td>
+<td>17 361</td>
+<td>21 664</td>
+<td>22 160</td>
+<td>28 270</td>
+<td>29 749</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>16 322</td>
+<td>23 183</td>
+<td>31 213</td>
+<td>30 379</td>
+<td>37 872</td>
+<td>46 197</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>25 287</td>
+<td>33 748</td>
+<td>41 696</td>
+<td>41 377</td>
+<td>51 435</td>
+<td>58 405</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1844&lang=0" target="_blank" class="job">Начальник отдела обучения</a></td>
+<td>25 754</td>
+<td>37 791</td>
+<td>43 118</td>
+<td>45 517</td>
+<td>52 060</td>
+<td>59 618</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1523&lang=0" target="_blank" class="job">Начальник отдела охраны труда</a></td>
+<td>39 419</td>
+<td>43 468</td>
+<td>47 939</td>
+<td>48 767</td>
+<td>53 213</td>
+<td>56 953</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>27 816</td>
+<td>34 483</td>
+<td>53 007</td>
+<td>45 816</td>
+<td>58 112</td>
+<td>73 470</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1446&lang=0" target="_blank" class="job">Начальник отдела труда и заработной платы</a></td>
+<td>51 724</td>
+<td>69 699</td>
+<td>93 313</td>
+<td>103 448</td>
+<td>116 126</td>
+<td>140 193</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>15 687</td>
+<td>17 571</td>
+<td>20 869</td>
+<td>21 083</td>
+<td>23 770</td>
+<td>29 019</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>16 298</td>
+<td>17 457</td>
+<td>23 063</td>
+<td>20 632</td>
+<td>26 160</td>
+<td>37 254</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>25 212</td>
+<td>29 441</td>
+<td>30 882</td>
+<td>32 184</td>
+<td>33 227</td>
+<td>38 824</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1636&lang=0" target="_blank" class="job">Специалист по социальной работе</a></td>
+<td>12 172</td>
+<td>17 689</td>
+<td>20 590</td>
+<td>21 724</td>
+<td>24 926</td>
+<td>26 939</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1633&lang=0" target="_blank" class="job">Старший инспектор по охране труда и технике безопасности</a></td>
+<td>15 517</td>
+<td>18 743</td>
+<td>21 818</td>
+<td>24 057</td>
+<td>26 042</td>
+<td>27 931</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>16 049</td>
+<td>17 639</td>
+<td>20 188</td>
+<td>19 686</td>
+<td>22 979</td>
+<td>24 866</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера</a></td>
+<td>24 846</td>
+<td>25 774</td>
+<td>30 426</td>
+<td>30 172</td>
+<td>36 827</td>
+<td>39 552</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1837&lang=0" target="_blank" class="job">Ведущий cпециалист по компенсациям и льготам</a></td>
+<td>37 074</td>
+<td>39 195</td>
+<td>45 412</td>
+<td>39 195</td>
+<td>53 743</td>
+<td>68 227</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>18 180</td>
+<td>24 227</td>
+<td>27 011</td>
+<td>29 885</td>
+<td>31 207</td>
+<td>33 263</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>19 371</td>
+<td>30 400</td>
+<td>34 629</td>
+<td>39 195</td>
+<td>39 195</td>
+<td>42 988</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>24 034</td>
+<td>25 679</td>
+<td>29 436</td>
+<td>31 839</td>
+<td>34 483</td>
+<td>35 793</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>27 510</td>
+<td>40 367</td>
+<td>46 058</td>
+<td>48 621</td>
+<td>55 610</td>
+<td>63 683</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>74 839</td>
+<td>108 096</td>
+<td>151 504</td>
+<td>137 931</td>
+<td>211 638</td>
+<td>244 828</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>23 070</td>
+<td>25 000</td>
+<td>35 739</td>
+<td>29 538</td>
+<td>46 617</td>
+<td>59 125</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>22 248</td>
+<td>22 377</td>
+<td>32 998</td>
+<td>29 033</td>
+<td>39 998</td>
+<td>52 759</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>21 840</td>
+<td>25 408</td>
+<td>27 526</td>
+<td>28 736</td>
+<td>33 333</td>
+<td>34 384</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>27 717</td>
+<td>34 902</td>
+<td>35 242</td>
+<td>35 368</td>
+<td>41 223</td>
+<td>41 561</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>12 532</td>
+<td>17 701</td>
+<td>23 353</td>
+<td>22 160</td>
+<td>28 910</td>
+<td>34 523</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>23 345</td>
+<td>35 351</td>
+<td>44 157</td>
+<td>43 563</td>
+<td>54 805</td>
+<td>61 096</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>41 717</td>
+<td>49 218</td>
+<td>56 862</td>
+<td>57 500</td>
+<td>63 218</td>
+<td>74 660</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1844&lang=0" target="_blank" class="job">Начальник отдела обучения</a></td>
+<td>35 444</td>
+<td>52 010</td>
+<td>59 341</td>
+<td>62 644</td>
+<td>71 649</td>
+<td>82 051</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1523&lang=0" target="_blank" class="job">Начальник отдела охраны труда</a></td>
+<td>59 993</td>
+<td>81 942</td>
+<td>78 116</td>
+<td>82 236</td>
+<td>82 630</td>
+<td>83 034</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>39 666</td>
+<td>51 724</td>
+<td>71 940</td>
+<td>64 368</td>
+<td>78 868</td>
+<td>98 669</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1446&lang=0" target="_blank" class="job">Начальник отдела труда и заработной платы</a></td>
+<td>63 218</td>
+<td>84 243</td>
+<td>114 864</td>
+<td>127 467</td>
+<td>144 041</td>
+<td>172 414</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>26 616</td>
+<td>27 704</td>
+<td>32 865</td>
+<td>32 678</td>
+<td>39 567</td>
+<td>41 598</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>24 083</td>
+<td>28 358</td>
+<td>35 312</td>
+<td>32 533</td>
+<td>41 725</td>
+<td>52 104</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>28 886</td>
+<td>31 471</td>
+<td>35 383</td>
+<td>35 782</td>
+<td>40 230</td>
+<td>44 483</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1636&lang=0" target="_blank" class="job">Специалист по социальной работе</a></td>
+<td>23 126</td>
+<td>25 925</td>
+<td>32 115</td>
+<td>29 655</td>
+<td>41 157</td>
+<td>45 795</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1633&lang=0" target="_blank" class="job">Старший инспектор по охране труда и технике безопасности</a></td>
+<td>24 828</td>
+<td>32 671</td>
+<td>38 030</td>
+<td>37 289</td>
+<td>48 345</td>
+<td>50 543</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>25 154</td>
+<td>29 283</td>
+<td>31 276</td>
+<td>29 407</td>
+<td>36 245</td>
+<td>41 387</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.07.2013)</p>
+</div>

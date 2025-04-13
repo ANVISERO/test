@@ -1,0 +1,368 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Оборот компании (млн. руб. в год): </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>24 890</td>
+<td>29 000</td>
+<td>36 588</td>
+<td>35 250</td>
+<td>42 475</td>
+<td>50 380</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1382&lang=0" target="_blank" class="job">Администратор торгового зала (непищевые продукты)</a></td>
+<td>32 710</td>
+<td>36 925</td>
+<td>42 125</td>
+<td>43 150</td>
+<td>48 200</td>
+<td>50 600</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>40 000</td>
+<td>59 250</td>
+<td>84 996</td>
+<td>85 000</td>
+<td>106 250</td>
+<td>140 000</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1298&lang=0" target="_blank" class="job">Бухгалтер магазина</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>33 667</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>40 200</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>34 400</td>
+<td>38 750</td>
+<td>49 375</td>
+<td>47 500</td>
+<td>59 000</td>
+<td>66 500</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>39 000</td>
+<td>44 000</td>
+<td>54 302</td>
+<td>53 800</td>
+<td>65 000</td>
+<td>72 597</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2478&lang=0" target="_blank" class="job">Дежурный-кинолог</a></td>
+<td>25 000</td>
+<td>25 500</td>
+<td>25 857</td>
+<td>26 000</td>
+<td>26 250</td>
+<td>26 500</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2269&lang=0" target="_blank" class="job">Демонстратор (Удалено)</a></td>
+<td>11 445</td>
+<td>15 941</td>
+<td>19 074</td>
+<td>20 548</td>
+<td>22 361</td>
+<td>24 409</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2110&lang=0" target="_blank" class="job">Дизайнер по интерьерам</a></td>
+<td>30 000</td>
+<td>31 250</td>
+<td>43 571</td>
+<td>40 000</td>
+<td>48 750</td>
+<td>67 500</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>63 750</td>
+<td>75 850</td>
+<td>93 067</td>
+<td>86 500</td>
+<td>113 400</td>
+<td>127 800</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>35 500</td>
+<td>37 000</td>
+<td>43 500</td>
+<td>42 500</td>
+<td>48 750</td>
+<td>52 500</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>34 000</td>
+<td>37 500</td>
+<td>41 737</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1832&lang=0" target="_blank" class="job">Инженер по патентной и изобретательской работе</a></td>
+<td>27 500</td>
+<td>31 250</td>
+<td>37 500</td>
+<td>37 500</td>
+<td>43 750</td>
+<td>47 500</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2763&lang=0" target="_blank" class="job">Командир отделения во взводе</a></td>
+<td>54 500</td>
+<td>55 313</td>
+<td>59 375</td>
+<td>59 375</td>
+<td>63 438</td>
+<td>64 250</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2449&lang=0" target="_blank" class="job">Комендант</a></td>
+<td>28 480</td>
+<td>31 225</td>
+<td>38 813</td>
+<td>39 800</td>
+<td>45 875</td>
+<td>47 900</td>
+<td>3 квартал 2018</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>41 090</td>
+<td>45 525</td>
+<td>54 876</td>
+<td>50 054</td>
+<td>61 545</td>
+<td>78 141</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1382&lang=0" target="_blank" class="job">Администратор торгового зала (непищевые продукты)</a></td>
+<td>39 850</td>
+<td>45 250</td>
+<td>50 930</td>
+<td>47 638</td>
+<td>55 475</td>
+<td>66 910</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>52 100</td>
+<td>70 175</td>
+<td>102 184</td>
+<td>104 117</td>
+<td>125 031</td>
+<td>148 550</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1298&lang=0" target="_blank" class="job">Бухгалтер магазина</a></td>
+<td>28 384</td>
+<td>30 000</td>
+<td>36 720</td>
+<td>38 473</td>
+<td>43 100</td>
+<td>43 844</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>43 158</td>
+<td>53 792</td>
+<td>68 559</td>
+<td>64 050</td>
+<td>85 455</td>
+<td>95 797</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>49 920</td>
+<td>63 200</td>
+<td>74 514</td>
+<td>71 000</td>
+<td>87 571</td>
+<td>98 402</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2478&lang=0" target="_blank" class="job">Дежурный-кинолог</a></td>
+<td>38 133</td>
+<td>40 650</td>
+<td>45 378</td>
+<td>44 633</td>
+<td>49 050</td>
+<td>53 353</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2269&lang=0" target="_blank" class="job">Демонстратор (Удалено)</a></td>
+<td>16 412</td>
+<td>19 708</td>
+<td>20 767</td>
+<td>21 233</td>
+<td>22 361</td>
+<td>24 409</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2110&lang=0" target="_blank" class="job">Дизайнер по интерьерам</a></td>
+<td>39 050</td>
+<td>51 500</td>
+<td>70 186</td>
+<td>80 500</td>
+<td>84 325</td>
+<td>96 000</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>77 250</td>
+<td>90 788</td>
+<td>125 812</td>
+<td>103 000</td>
+<td>153 183</td>
+<td>189 950</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>41 386</td>
+<td>47 275</td>
+<td>59 854</td>
+<td>54 425</td>
+<td>72 438</td>
+<td>83 750</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>36 553</td>
+<td>44 817</td>
+<td>50 783</td>
+<td>50 350</td>
+<td>56 820</td>
+<td>66 640</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1832&lang=0" target="_blank" class="job">Инженер по патентной и изобретательской работе</a></td>
+<td>35 667</td>
+<td>39 825</td>
+<td>45 589</td>
+<td>47 000</td>
+<td>51 175</td>
+<td>54 100</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2763&lang=0" target="_blank" class="job">Командир отделения во взводе</a></td>
+<td>138 188</td>
+<td>159 597</td>
+<td>190 990</td>
+<td>181 907</td>
+<td>231 347</td>
+<td>252 876</td>
+<td>3 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2449&lang=0" target="_blank" class="job">Комендант</a></td>
+<td>33 780</td>
+<td>35 225</td>
+<td>45 878</td>
+<td>46 930</td>
+<td>55 842</td>
+<td>56 677</td>
+<td>3 квартал 2018</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 06.12.2018)</p>
+</div>

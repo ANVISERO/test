@@ -1,0 +1,748 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2174&lang=0" target="_blank" class="job">IT-директор</a></td>
+<td>97 116</td>
+<td>109 875</td>
+<td>123 492</td>
+<td>120 690</td>
+<td>145 353</td>
+<td>149 566</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2041&lang=0" target="_blank" class="job">IT-специалист</a></td>
+<td>31 034</td>
+<td>35 570</td>
+<td>46 240</td>
+<td>45 977</td>
+<td>54 086</td>
+<td>66 057</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2180&lang=0" target="_blank" class="job">SEO-специалист</a></td>
+<td>38 375</td>
+<td>40 197</td>
+<td>46 249</td>
+<td>47 952</td>
+<td>50 575</td>
+<td>52 370</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2050&lang=0" target="_blank" class="job">Web-администратор</a></td>
+<td>22 650</td>
+<td>23 841</td>
+<td>28 572</td>
+<td>29 330</td>
+<td>33 906</td>
+<td>34 483</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>38 655</td>
+<td>40 228</td>
+<td>49 832</td>
+<td>49 425</td>
+<td>60 920</td>
+<td>60 920</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2177&lang=0" target="_blank" class="job">Web-разработчик</a></td>
+<td>28 736</td>
+<td>44 560</td>
+<td>54 421</td>
+<td>54 023</td>
+<td>65 402</td>
+<td>74 713</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1495&lang=0" target="_blank" class="job">Архитектор информационных систем</a></td>
+<td>45 977</td>
+<td>68 966</td>
+<td>91 207</td>
+<td>92 658</td>
+<td>110 919</td>
+<td>155 172</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>53 441</td>
+<td>58 164</td>
+<td>63 810</td>
+<td>64 368</td>
+<td>67 868</td>
+<td>73 621</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2173&lang=0" target="_blank" class="job">Ведущий web-программист</a></td>
+<td>45 488</td>
+<td>45 977</td>
+<td>54 854</td>
+<td>57 471</td>
+<td>59 172</td>
+<td>67 421</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>26 667</td>
+<td>31 034</td>
+<td>38 710</td>
+<td>34 598</td>
+<td>39 310</td>
+<td>44 919</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1503&lang=0" target="_blank" class="job">Ведущий программист 1С</a></td>
+<td>50 306</td>
+<td>51 724</td>
+<td>66 014</td>
+<td>57 866</td>
+<td>80 673</td>
+<td>91 954</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1493&lang=0" target="_blank" class="job">Ведущий проектировщик информационных систем</a></td>
+<td>53 416</td>
+<td>63 000</td>
+<td>75 318</td>
+<td>81 383</td>
+<td>91 954</td>
+<td>92 051</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2178&lang=0" target="_blank" class="job">Верстальщик HTML</a></td>
+<td>29 885</td>
+<td>31 629</td>
+<td>37 915</td>
+<td>36 782</td>
+<td>43 417</td>
+<td>46 286</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Инженер-программист</a></td>
+<td>19 249</td>
+<td>21 016</td>
+<td>27 478</td>
+<td>24 051</td>
+<td>28 736</td>
+<td>36 741</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2039&lang=0" target="_blank" class="job">Инженер-программист php</a></td>
+<td>31 627</td>
+<td>34 000</td>
+<td>37 108</td>
+<td>37 345</td>
+<td>40 101</td>
+<td>41 775</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2179&lang=0" target="_blank" class="job">Консультант по SAP</a></td>
+<td>47 691</td>
+<td>53 650</td>
+<td>55 956</td>
+<td>56 322</td>
+<td>58 205</td>
+<td>62 813</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2036&lang=0" target="_blank" class="job">Менеджер сайта</a></td>
+<td>14 457</td>
+<td>16 134</td>
+<td>17 113</td>
+<td>17 241</td>
+<td>17 866</td>
+<td>19 474</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>35 053</td>
+<td>59 952</td>
+<td>76 688</td>
+<td>69 483</td>
+<td>86 695</td>
+<td>99 019</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1747&lang=0" target="_blank" class="job">Начальник отдела сборки ПК</a></td>
+<td>24 775</td>
+<td>25 287</td>
+<td>29 691</td>
+<td>29 048</td>
+<td>34 483</td>
+<td>35 031</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>20 046</td>
+<td>21 293</td>
+<td>25 924</td>
+<td>23 563</td>
+<td>28 091</td>
+<td>32 414</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>19 540</td>
+<td>23 317</td>
+<td>29 866</td>
+<td>27 586</td>
+<td>32 163</td>
+<td>34 722</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1504&lang=0" target="_blank" class="job">Программист-стажер</a></td>
+<td>22 495</td>
+<td>22 989</td>
+<td>27 369</td>
+<td>24 031</td>
+<td>31 538</td>
+<td>34 799</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1494&lang=0" target="_blank" class="job">Проектировщик информационных систем</a></td>
+<td>48 053</td>
+<td>60 546</td>
+<td>60 012</td>
+<td>63 218</td>
+<td>65 723</td>
+<td>68 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2175&lang=0" target="_blank" class="job">Руководитель отдела разработки</a></td>
+<td>46 441</td>
+<td>57 259</td>
+<td>68 453</td>
+<td>73 966</td>
+<td>82 126</td>
+<td>87 057</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2176&lang=0" target="_blank" class="job">Руководитель отдела тестирования</a></td>
+<td>64 022</td>
+<td>72 525</td>
+<td>82 738</td>
+<td>89 252</td>
+<td>91 954</td>
+<td>99 303</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1498&lang=0" target="_blank" class="job">Руководитель проекта в сфере информационных технологий</a></td>
+<td>85 304</td>
+<td>87 356</td>
+<td>103 440</td>
+<td>90 823</td>
+<td>119 195</td>
+<td>131 145</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1746&lang=0" target="_blank" class="job">Сборщик ПК</a></td>
+<td>20 240</td>
+<td>22 587</td>
+<td>23 959</td>
+<td>24 138</td>
+<td>25 013</td>
+<td>27 264</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>17 241</td>
+<td>22 644</td>
+<td>33 614</td>
+<td>32 184</td>
+<td>47 055</td>
+<td>51 724</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1945&lang=0" target="_blank" class="job">Специалист по защите информации</a></td>
+<td>48 931</td>
+<td>51 724</td>
+<td>61 191</td>
+<td>65 791</td>
+<td>71 833</td>
+<td>81 278</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1922&lang=0" target="_blank" class="job">Специалист по поддержке пользователей</a></td>
+<td>25 748</td>
+<td>28 736</td>
+<td>29 941</td>
+<td>31 034</td>
+<td>31 034</td>
+<td>33 157</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1249&lang=0" target="_blank" class="job">Старший web-программист</a></td>
+<td>39 557</td>
+<td>40 230</td>
+<td>46 454</td>
+<td>45 977</td>
+<td>50 112</td>
+<td>56 910</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2035&lang=0" target="_blank" class="job">Старший программист 1C</a></td>
+<td>54 164</td>
+<td>64 453</td>
+<td>71 855</td>
+<td>74 713</td>
+<td>85 187</td>
+<td>92 189</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1496&lang=0" target="_blank" class="job">Тестировщик</a></td>
+<td>47 716</td>
+<td>51 932</td>
+<td>56 973</td>
+<td>57 471</td>
+<td>60 596</td>
+<td>65 733</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1492&lang=0" target="_blank" class="job">Эксперт по 1С</a></td>
+<td>32 572</td>
+<td>54 188</td>
+<td>55 226</td>
+<td>60 263</td>
+<td>67 076</td>
+<td>70 667</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2174&lang=0" target="_blank" class="job">IT-директор</a></td>
+<td>136 552</td>
+<td>143 623</td>
+<td>176 472</td>
+<td>168 966</td>
+<td>206 185</td>
+<td>219 268</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2041&lang=0" target="_blank" class="job">IT-специалист</a></td>
+<td>40 230</td>
+<td>60 345</td>
+<td>89 967</td>
+<td>74 713</td>
+<td>103 388</td>
+<td>168 391</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2180&lang=0" target="_blank" class="job">SEO-специалист</a></td>
+<td>45 379</td>
+<td>47 932</td>
+<td>55 385</td>
+<td>54 023</td>
+<td>61 775</td>
+<td>68 103</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2050&lang=0" target="_blank" class="job">Web-администратор</a></td>
+<td>22 650</td>
+<td>23 841</td>
+<td>28 572</td>
+<td>29 330</td>
+<td>33 906</td>
+<td>34 483</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>57 316</td>
+<td>60 123</td>
+<td>68 849</td>
+<td>60 920</td>
+<td>74 137</td>
+<td>93 119</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2177&lang=0" target="_blank" class="job">Web-разработчик</a></td>
+<td>54 025</td>
+<td>58 573</td>
+<td>68 149</td>
+<td>65 517</td>
+<td>78 316</td>
+<td>91 954</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1495&lang=0" target="_blank" class="job">Архитектор информационных систем</a></td>
+<td>68 966</td>
+<td>86 225</td>
+<td>118 177</td>
+<td>105 060</td>
+<td>149 425</td>
+<td>216 092</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>76 345</td>
+<td>83 092</td>
+<td>91 157</td>
+<td>91 954</td>
+<td>96 954</td>
+<td>105 172</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2173&lang=0" target="_blank" class="job">Ведущий web-программист</a></td>
+<td>59 378</td>
+<td>66 114</td>
+<td>75 424</td>
+<td>75 862</td>
+<td>82 759</td>
+<td>92 589</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>29 425</td>
+<td>38 906</td>
+<td>49 208</td>
+<td>48 391</td>
+<td>58 966</td>
+<td>63 218</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1503&lang=0" target="_blank" class="job">Ведущий программист 1С</a></td>
+<td>71 456</td>
+<td>72 414</td>
+<td>85 213</td>
+<td>91 922</td>
+<td>91 954</td>
+<td>100 671</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1493&lang=0" target="_blank" class="job">Ведущий проектировщик информационных систем</a></td>
+<td>56 355</td>
+<td>64 458</td>
+<td>77 060</td>
+<td>83 266</td>
+<td>91 954</td>
+<td>92 904</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2178&lang=0" target="_blank" class="job">Верстальщик HTML</a></td>
+<td>39 080</td>
+<td>44 307</td>
+<td>53 114</td>
+<td>48 276</td>
+<td>61 156</td>
+<td>71 264</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Инженер-программист</a></td>
+<td>25 862</td>
+<td>28 736</td>
+<td>37 217</td>
+<td>35 190</td>
+<td>38 345</td>
+<td>56 262</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2039&lang=0" target="_blank" class="job">Инженер-программист php</a></td>
+<td>60 854</td>
+<td>67 382</td>
+<td>71 400</td>
+<td>71 203</td>
+<td>76 343</td>
+<td>80 150</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2179&lang=0" target="_blank" class="job">Консультант по SAP</a></td>
+<td>57 181</td>
+<td>62 593</td>
+<td>73 085</td>
+<td>72 782</td>
+<td>82 690</td>
+<td>90 152</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2036&lang=0" target="_blank" class="job">Менеджер сайта</a></td>
+<td>19 276</td>
+<td>21 511</td>
+<td>22 818</td>
+<td>22 989</td>
+<td>23 822</td>
+<td>25 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>56 934</td>
+<td>71 810</td>
+<td>96 140</td>
+<td>94 195</td>
+<td>117 277</td>
+<td>122 530</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1747&lang=0" target="_blank" class="job">Начальник отдела сборки ПК</a></td>
+<td>34 483</td>
+<td>35 828</td>
+<td>45 678</td>
+<td>44 690</td>
+<td>56 264</td>
+<td>57 471</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>20 046</td>
+<td>21 293</td>
+<td>25 924</td>
+<td>23 563</td>
+<td>28 091</td>
+<td>32 414</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>33 103</td>
+<td>37 209</td>
+<td>50 439</td>
+<td>44 110</td>
+<td>57 933</td>
+<td>67 221</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1504&lang=0" target="_blank" class="job">Программист-стажер</a></td>
+<td>22 989</td>
+<td>23 057</td>
+<td>29 092</td>
+<td>25 543</td>
+<td>33 523</td>
+<td>38 147</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1494&lang=0" target="_blank" class="job">Проектировщик информационных систем</a></td>
+<td>49 679</td>
+<td>60 990</td>
+<td>62 043</td>
+<td>63 218</td>
+<td>67 365</td>
+<td>68 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2175&lang=0" target="_blank" class="job">Руководитель отдела разработки</a></td>
+<td>58 294</td>
+<td>69 983</td>
+<td>83 665</td>
+<td>90 402</td>
+<td>97 184</td>
+<td>107 425</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2176&lang=0" target="_blank" class="job">Руководитель отдела тестирования</a></td>
+<td>79 604</td>
+<td>84 145</td>
+<td>95 994</td>
+<td>98 851</td>
+<td>103 552</td>
+<td>115 416</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1498&lang=0" target="_blank" class="job">Руководитель проекта в сфере информационных технологий</a></td>
+<td>85 304</td>
+<td>87 356</td>
+<td>103 440</td>
+<td>90 823</td>
+<td>119 195</td>
+<td>131 145</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1746&lang=0" target="_blank" class="job">Сборщик ПК</a></td>
+<td>20 240</td>
+<td>22 587</td>
+<td>23 959</td>
+<td>24 138</td>
+<td>25 013</td>
+<td>27 264</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>26 218</td>
+<td>30 819</td>
+<td>41 957</td>
+<td>41 471</td>
+<td>51 724</td>
+<td>59 659</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1945&lang=0" target="_blank" class="job">Специалист по защите информации</a></td>
+<td>48 931</td>
+<td>51 724</td>
+<td>61 363</td>
+<td>65 976</td>
+<td>71 833</td>
+<td>81 278</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1922&lang=0" target="_blank" class="job">Специалист по поддержке пользователей</a></td>
+<td>25 748</td>
+<td>28 736</td>
+<td>29 941</td>
+<td>31 034</td>
+<td>31 034</td>
+<td>33 157</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1249&lang=0" target="_blank" class="job">Старший web-программист</a></td>
+<td>48 322</td>
+<td>49 713</td>
+<td>56 191</td>
+<td>56 092</td>
+<td>60 615</td>
+<td>68 728</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2035&lang=0" target="_blank" class="job">Старший программист 1C</a></td>
+<td>68 902</td>
+<td>74 713</td>
+<td>86 148</td>
+<td>83 712</td>
+<td>93 948</td>
+<td>106 190</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1496&lang=0" target="_blank" class="job">Тестировщик</a></td>
+<td>47 716</td>
+<td>51 932</td>
+<td>56 973</td>
+<td>57 471</td>
+<td>60 596</td>
+<td>65 733</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1492&lang=0" target="_blank" class="job">Эксперт по 1С</a></td>
+<td>35 602</td>
+<td>54 188</td>
+<td>56 384</td>
+<td>60 886</td>
+<td>68 135</td>
+<td>70 667</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.01.2013)</p>
+</div>

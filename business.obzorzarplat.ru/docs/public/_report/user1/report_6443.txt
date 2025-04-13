@@ -1,0 +1,628 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2076&lang=0" target="_blank" class="job">Генерал армии</a></td>
+<td>106 240</td>
+<td>111 306</td>
+<td>122 158</td>
+<td>120 052</td>
+<td>131 688</td>
+<td>140 071</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2074&lang=0" target="_blank" class="job">Генерал-лейтенант</a></td>
+<td>85 931</td>
+<td>90 191</td>
+<td>98 582</td>
+<td>96 991</td>
+<td>106 365</td>
+<td>113 436</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2073&lang=0" target="_blank" class="job">Генерал-майор</a></td>
+<td>77 886</td>
+<td>81 948</td>
+<td>89 758</td>
+<td>88 626</td>
+<td>98 194</td>
+<td>104 254</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2075&lang=0" target="_blank" class="job">Генерал-полковник</a></td>
+<td>94 556</td>
+<td>99 971</td>
+<td>109 449</td>
+<td>108 098</td>
+<td>120 259</td>
+<td>127 505</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2060&lang=0" target="_blank" class="job">Ефрейтор</a></td>
+<td>20 320</td>
+<td>21 372</td>
+<td>23 778</td>
+<td>23 686</td>
+<td>26 011</td>
+<td>28 101</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2067&lang=0" target="_blank" class="job">Лейтенант</a></td>
+<td>40 758</td>
+<td>43 578</td>
+<td>48 419</td>
+<td>48 029</td>
+<td>52 455</td>
+<td>57 642</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2070&lang=0" target="_blank" class="job">Майор</a></td>
+<td>54 209</td>
+<td>56 322</td>
+<td>60 836</td>
+<td>60 345</td>
+<td>65 350</td>
+<td>67 908</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2061&lang=0" target="_blank" class="job">Младший сержант </a></td>
+<td>22 062</td>
+<td>23 204</td>
+<td>25 816</td>
+<td>25 716</td>
+<td>28 241</td>
+<td>30 509</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2071&lang=0" target="_blank" class="job">Подполковник</a></td>
+<td>54 586</td>
+<td>57 507</td>
+<td>63 234</td>
+<td>62 460</td>
+<td>68 157</td>
+<td>72 952</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2072&lang=0" target="_blank" class="job">Полковник</a></td>
+<td>61 074</td>
+<td>64 219</td>
+<td>70 514</td>
+<td>69 552</td>
+<td>76 224</td>
+<td>81 924</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2065&lang=0" target="_blank" class="job">Прапорщик</a></td>
+<td>36 109</td>
+<td>38 859</td>
+<td>43 217</td>
+<td>42 609</td>
+<td>46 621</td>
+<td>50 416</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2059&lang=0" target="_blank" class="job">Рядовой</a></td>
+<td>18 190</td>
+<td>18 966</td>
+<td>21 093</td>
+<td>20 776</td>
+<td>22 693</td>
+<td>24 541</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2062&lang=0" target="_blank" class="job">Сержант</a></td>
+<td>26 257</td>
+<td>28 427</td>
+<td>30 909</td>
+<td>30 468</td>
+<td>33 516</td>
+<td>36 569</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2068&lang=0" target="_blank" class="job">Старший лейтенант</a></td>
+<td>45 693</td>
+<td>48 204</td>
+<td>52 915</td>
+<td>52 155</td>
+<td>56 742</td>
+<td>61 731</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2066&lang=0" target="_blank" class="job">Старший прапорщик</a></td>
+<td>36 803</td>
+<td>39 587</td>
+<td>44 017</td>
+<td>43 399</td>
+<td>47 517</td>
+<td>51 386</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2063&lang=0" target="_blank" class="job">Старший сержант</a></td>
+<td>29 147</td>
+<td>30 977</td>
+<td>34 070</td>
+<td>33 586</td>
+<td>36 606</td>
+<td>40 024</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2064&lang=0" target="_blank" class="job">Старшина </a></td>
+<td>31 177</td>
+<td>33 341</td>
+<td>36 767</td>
+<td>36 198</td>
+<td>39 751</td>
+<td>43 336</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2080&lang=0" target="_blank" class="job">Заместитель командира взвода </a></td>
+<td>26 810</td>
+<td>28 606</td>
+<td>31 573</td>
+<td>31 667</td>
+<td>34 251</td>
+<td>36 408</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2081&lang=0" target="_blank" class="job">Заместитель начальника отдела в управлении</a></td>
+<td>50 862</td>
+<td>55 769</td>
+<td>60 277</td>
+<td>60 345</td>
+<td>64 704</td>
+<td>69 598</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2082&lang=0" target="_blank" class="job">Заместитель руководителя территориального органа (заместитель начальника отдела), начальник отдела в управлении </a></td>
+<td>45 115</td>
+<td>49 375</td>
+<td>53 388</td>
+<td>53 448</td>
+<td>57 434</td>
+<td>61 552</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2079&lang=0" target="_blank" class="job">Младший инспектор </a></td>
+<td>25 575</td>
+<td>27 328</td>
+<td>30 081</td>
+<td>29 957</td>
+<td>32 392</td>
+<td>34 856</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2083&lang=0" target="_blank" class="job">Начальник отделения </a></td>
+<td>37 486</td>
+<td>39 397</td>
+<td>41 972</td>
+<td>41 523</td>
+<td>44 425</td>
+<td>47 069</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2077&lang=0" target="_blank" class="job">Полицейский</a></td>
+<td>22 874</td>
+<td>24 698</td>
+<td>27 096</td>
+<td>26 997</td>
+<td>29 127</td>
+<td>31 379</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2084&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник отдела), заместитель руководителя территориального органа (заместитель начальника управления) </a></td>
+<td>40 517</td>
+<td>44 260</td>
+<td>47 877</td>
+<td>47 859</td>
+<td>51 515</td>
+<td>55 115</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2085&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник управления) </a></td>
+<td>35 345</td>
+<td>38 391</td>
+<td>41 677</td>
+<td>41 652</td>
+<td>44 808</td>
+<td>47 874</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2086&lang=0" target="_blank" class="job">Следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>33 046</td>
+<td>35 776</td>
+<td>38 921</td>
+<td>38 894</td>
+<td>41 827</td>
+<td>44 655</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2078&lang=0" target="_blank" class="job">Старший полицейский</a></td>
+<td>23 477</td>
+<td>25 345</td>
+<td>27 785</td>
+<td>27 701</td>
+<td>29 872</td>
+<td>32 155</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2087&lang=0" target="_blank" class="job">Старший: следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>31 897</td>
+<td>34 468</td>
+<td>37 544</td>
+<td>37 514</td>
+<td>40 336</td>
+<td>43 046</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2076&lang=0" target="_blank" class="job">Генерал армии</a></td>
+<td>106 240</td>
+<td>111 306</td>
+<td>122 158</td>
+<td>120 052</td>
+<td>131 688</td>
+<td>140 071</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2074&lang=0" target="_blank" class="job">Генерал-лейтенант</a></td>
+<td>85 931</td>
+<td>90 191</td>
+<td>98 582</td>
+<td>96 991</td>
+<td>106 365</td>
+<td>113 436</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2073&lang=0" target="_blank" class="job">Генерал-майор</a></td>
+<td>77 886</td>
+<td>81 948</td>
+<td>89 758</td>
+<td>88 626</td>
+<td>98 194</td>
+<td>104 254</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2075&lang=0" target="_blank" class="job">Генерал-полковник</a></td>
+<td>94 556</td>
+<td>99 971</td>
+<td>109 449</td>
+<td>108 098</td>
+<td>120 259</td>
+<td>127 505</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2060&lang=0" target="_blank" class="job">Ефрейтор</a></td>
+<td>20 320</td>
+<td>21 372</td>
+<td>23 778</td>
+<td>23 686</td>
+<td>26 011</td>
+<td>28 101</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2067&lang=0" target="_blank" class="job">Лейтенант</a></td>
+<td>40 758</td>
+<td>43 578</td>
+<td>48 419</td>
+<td>48 029</td>
+<td>52 455</td>
+<td>57 642</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2070&lang=0" target="_blank" class="job">Майор</a></td>
+<td>54 209</td>
+<td>56 322</td>
+<td>60 836</td>
+<td>60 345</td>
+<td>65 350</td>
+<td>67 908</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2061&lang=0" target="_blank" class="job">Младший сержант </a></td>
+<td>22 062</td>
+<td>23 204</td>
+<td>25 816</td>
+<td>25 716</td>
+<td>28 241</td>
+<td>30 509</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2071&lang=0" target="_blank" class="job">Подполковник</a></td>
+<td>54 586</td>
+<td>57 507</td>
+<td>63 234</td>
+<td>62 460</td>
+<td>68 157</td>
+<td>72 952</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2072&lang=0" target="_blank" class="job">Полковник</a></td>
+<td>61 074</td>
+<td>64 219</td>
+<td>70 514</td>
+<td>69 552</td>
+<td>76 224</td>
+<td>81 924</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2065&lang=0" target="_blank" class="job">Прапорщик</a></td>
+<td>36 109</td>
+<td>38 859</td>
+<td>43 217</td>
+<td>42 609</td>
+<td>46 621</td>
+<td>50 416</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2059&lang=0" target="_blank" class="job">Рядовой</a></td>
+<td>18 190</td>
+<td>18 966</td>
+<td>21 093</td>
+<td>20 776</td>
+<td>22 693</td>
+<td>24 541</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2062&lang=0" target="_blank" class="job">Сержант</a></td>
+<td>26 257</td>
+<td>28 427</td>
+<td>30 909</td>
+<td>30 468</td>
+<td>33 516</td>
+<td>36 569</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2068&lang=0" target="_blank" class="job">Старший лейтенант</a></td>
+<td>45 693</td>
+<td>48 204</td>
+<td>52 915</td>
+<td>52 155</td>
+<td>56 742</td>
+<td>61 731</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2066&lang=0" target="_blank" class="job">Старший прапорщик</a></td>
+<td>36 803</td>
+<td>39 587</td>
+<td>44 017</td>
+<td>43 399</td>
+<td>47 517</td>
+<td>51 386</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2063&lang=0" target="_blank" class="job">Старший сержант</a></td>
+<td>29 147</td>
+<td>30 977</td>
+<td>34 070</td>
+<td>33 586</td>
+<td>36 606</td>
+<td>40 024</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2064&lang=0" target="_blank" class="job">Старшина </a></td>
+<td>31 177</td>
+<td>33 341</td>
+<td>36 767</td>
+<td>36 198</td>
+<td>39 751</td>
+<td>43 336</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2080&lang=0" target="_blank" class="job">Заместитель командира взвода </a></td>
+<td>26 810</td>
+<td>28 606</td>
+<td>31 573</td>
+<td>31 667</td>
+<td>34 251</td>
+<td>36 408</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2081&lang=0" target="_blank" class="job">Заместитель начальника отдела в управлении</a></td>
+<td>50 862</td>
+<td>55 769</td>
+<td>60 277</td>
+<td>60 345</td>
+<td>64 704</td>
+<td>69 598</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2082&lang=0" target="_blank" class="job">Заместитель руководителя территориального органа (заместитель начальника отдела), начальник отдела в управлении </a></td>
+<td>45 115</td>
+<td>49 375</td>
+<td>53 388</td>
+<td>53 448</td>
+<td>57 434</td>
+<td>61 552</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2079&lang=0" target="_blank" class="job">Младший инспектор </a></td>
+<td>25 575</td>
+<td>27 328</td>
+<td>30 081</td>
+<td>29 957</td>
+<td>32 392</td>
+<td>34 856</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2083&lang=0" target="_blank" class="job">Начальник отделения </a></td>
+<td>37 486</td>
+<td>39 397</td>
+<td>41 972</td>
+<td>41 523</td>
+<td>44 425</td>
+<td>47 069</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2077&lang=0" target="_blank" class="job">Полицейский</a></td>
+<td>22 874</td>
+<td>24 698</td>
+<td>27 096</td>
+<td>26 997</td>
+<td>29 127</td>
+<td>31 379</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2084&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник отдела), заместитель руководителя территориального органа (заместитель начальника управления) </a></td>
+<td>40 517</td>
+<td>44 260</td>
+<td>47 877</td>
+<td>47 859</td>
+<td>51 515</td>
+<td>55 115</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2085&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник управления) </a></td>
+<td>35 345</td>
+<td>38 391</td>
+<td>41 677</td>
+<td>41 652</td>
+<td>44 808</td>
+<td>47 874</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2086&lang=0" target="_blank" class="job">Следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>33 046</td>
+<td>35 776</td>
+<td>38 921</td>
+<td>38 894</td>
+<td>41 827</td>
+<td>44 655</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2078&lang=0" target="_blank" class="job">Старший полицейский</a></td>
+<td>23 477</td>
+<td>25 345</td>
+<td>27 785</td>
+<td>27 701</td>
+<td>29 872</td>
+<td>32 155</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2087&lang=0" target="_blank" class="job">Старший: следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>31 897</td>
+<td>34 468</td>
+<td>37 544</td>
+<td>37 514</td>
+<td>40 336</td>
+<td>43 046</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 28.12.2012)</p>
+</div>

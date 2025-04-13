@@ -1,0 +1,528 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Владимир</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2318&lang=0" target="_blank" class="job">Боцман</a></td>
+<td>21 064</td>
+<td>22 798</td>
+<td>25 417</td>
+<td>25 080</td>
+<td>28 842</td>
+<td>31 289</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2327&lang=0" target="_blank" class="job">Буфетчица (морской и речной транспорт)</a></td>
+<td>16 380</td>
+<td>17 941</td>
+<td>20 002</td>
+<td>20 879</td>
+<td>23 199</td>
+<td>24 650</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2313&lang=0" target="_blank" class="job">Второй механик</a></td>
+<td>82 427</td>
+<td>86 676</td>
+<td>106 022</td>
+<td>106 590</td>
+<td>132 580</td>
+<td>147 972</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2311&lang=0" target="_blank" class="job">Второй помощник капитана</a></td>
+<td>36 955</td>
+<td>48 624</td>
+<td>54 276</td>
+<td>50 160</td>
+<td>67 871</td>
+<td>73 986</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2320&lang=0" target="_blank" class="job">Дневальный</a></td>
+<td>8 713</td>
+<td>9 092</td>
+<td>10 653</td>
+<td>10 973</td>
+<td>12 101</td>
+<td>14 402</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2324&lang=0" target="_blank" class="job">Донкерман</a></td>
+<td>20 766</td>
+<td>23 894</td>
+<td>29 425</td>
+<td>29 156</td>
+<td>36 795</td>
+<td>38 328</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2194&lang=0" target="_blank" class="job">Капитан на судах дальнего плавания</a></td>
+<td>62 700</td>
+<td>83 188</td>
+<td>109 523</td>
+<td>111 293</td>
+<td>131 670</td>
+<td>163 495</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2184&lang=0" target="_blank" class="job">Матрос</a></td>
+<td>12 526</td>
+<td>13 167</td>
+<td>16 023</td>
+<td>13 977</td>
+<td>19 837</td>
+<td>22 742</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2325&lang=0" target="_blank" class="job">Матрос-сварщик</a></td>
+<td>17 514</td>
+<td>20 064</td>
+<td>24 451</td>
+<td>25 644</td>
+<td>29 156</td>
+<td>33 904</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2321&lang=0" target="_blank" class="job">Моторист</a></td>
+<td>17 511</td>
+<td>18 131</td>
+<td>22 327</td>
+<td>23 826</td>
+<td>26 961</td>
+<td>27 854</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2323&lang=0" target="_blank" class="job">Моторист-сварщик</a></td>
+<td>19 290</td>
+<td>23 426</td>
+<td>26 117</td>
+<td>26 052</td>
+<td>31 852</td>
+<td>32 578</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2322&lang=0" target="_blank" class="job">Моторист-токарь</a></td>
+<td>22 963</td>
+<td>25 080</td>
+<td>27 699</td>
+<td>28 120</td>
+<td>32 259</td>
+<td>34 450</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2319&lang=0" target="_blank" class="job">Повар (морской и речной транспорт)</a></td>
+<td>18 734</td>
+<td>20 064</td>
+<td>24 899</td>
+<td>27 484</td>
+<td>31 136</td>
+<td>32 328</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2317&lang=0" target="_blank" class="job">Рефмеханик</a></td>
+<td>45 359</td>
+<td>56 430</td>
+<td>63 096</td>
+<td>62 700</td>
+<td>75 240</td>
+<td>86 004</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2328&lang=0" target="_blank" class="job">Сварщик (морской и речной транспорт)</a></td>
+<td>17 031</td>
+<td>23 692</td>
+<td>26 414</td>
+<td>27 275</td>
+<td>32 046</td>
+<td>34 495</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2330&lang=0" target="_blank" class="job">Старший механик (морской и речной транспорт)</a></td>
+<td>125 840</td>
+<td>131 670</td>
+<td>153 171</td>
+<td>144 210</td>
+<td>188 100</td>
+<td>198 820</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2310&lang=0" target="_blank" class="job">Старший помощник капитана</a></td>
+<td>66 309</td>
+<td>103 041</td>
+<td>114 878</td>
+<td>119 130</td>
+<td>137 940</td>
+<td>154 131</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2329&lang=0" target="_blank" class="job">Токарь (морской и речной транспорт)</a></td>
+<td>22 634</td>
+<td>25 425</td>
+<td>27 302</td>
+<td>28 215</td>
+<td>30 137</td>
+<td>33 470</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2314&lang=0" target="_blank" class="job">Третий механик</a></td>
+<td>27 588</td>
+<td>41 696</td>
+<td>51 347</td>
+<td>56 430</td>
+<td>64 209</td>
+<td>70 851</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2312&lang=0" target="_blank" class="job">Третий помощник капитана</a></td>
+<td>31 350</td>
+<td>31 449</td>
+<td>38 728</td>
+<td>37 620</td>
+<td>47 025</td>
+<td>49 814</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2315&lang=0" target="_blank" class="job">Четвертый механик</a></td>
+<td>34 048</td>
+<td>37 487</td>
+<td>41 794</td>
+<td>43 890</td>
+<td>49 533</td>
+<td>51 997</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2326&lang=0" target="_blank" class="job">Электрик (морской и речной транспорт)</a></td>
+<td>26 138</td>
+<td>26 838</td>
+<td>33 050</td>
+<td>34 109</td>
+<td>41 069</td>
+<td>42 174</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2316&lang=0" target="_blank" class="job">Электромеханик (морской и речной транспорт)</a></td>
+<td>38 874</td>
+<td>44 170</td>
+<td>54 393</td>
+<td>56 430</td>
+<td>68 018</td>
+<td>71 478</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2318&lang=0" target="_blank" class="job">Боцман</a></td>
+<td>22 341</td>
+<td>25 816</td>
+<td>28 839</td>
+<td>28 413</td>
+<td>33 489</td>
+<td>36 481</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2327&lang=0" target="_blank" class="job">Буфетчица (морской и речной транспорт)</a></td>
+<td>16 906</td>
+<td>19 195</td>
+<td>21 376</td>
+<td>22 218</td>
+<td>25 065</td>
+<td>26 531</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2313&lang=0" target="_blank" class="job">Второй механик</a></td>
+<td>88 915</td>
+<td>102 351</td>
+<td>126 199</td>
+<td>127 532</td>
+<td>160 419</td>
+<td>178 632</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2311&lang=0" target="_blank" class="job">Второй помощник капитана</a></td>
+<td>37 931</td>
+<td>60 537</td>
+<td>71 550</td>
+<td>72 419</td>
+<td>91 321</td>
+<td>99 541</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2320&lang=0" target="_blank" class="job">Дневальный</a></td>
+<td>8 713</td>
+<td>9 092</td>
+<td>10 653</td>
+<td>10 973</td>
+<td>12 101</td>
+<td>14 402</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2324&lang=0" target="_blank" class="job">Донкерман</a></td>
+<td>21 519</td>
+<td>25 148</td>
+<td>31 513</td>
+<td>31 037</td>
+<td>39 407</td>
+<td>41 461</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2194&lang=0" target="_blank" class="job">Капитан на судах дальнего плавания</a></td>
+<td>75 834</td>
+<td>105 300</td>
+<td>156 113</td>
+<td>165 364</td>
+<td>202 266</td>
+<td>240 945</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2184&lang=0" target="_blank" class="job">Матрос</a></td>
+<td>12 526</td>
+<td>14 264</td>
+<td>18 804</td>
+<td>17 227</td>
+<td>23 965</td>
+<td>27 601</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2325&lang=0" target="_blank" class="job">Матрос-сварщик</a></td>
+<td>18 267</td>
+<td>21 318</td>
+<td>26 017</td>
+<td>27 373</td>
+<td>31 037</td>
+<td>36 169</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2321&lang=0" target="_blank" class="job">Моторист</a></td>
+<td>18 103</td>
+<td>19 385</td>
+<td>23 977</td>
+<td>25 433</td>
+<td>29 202</td>
+<td>30 498</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2323&lang=0" target="_blank" class="job">Моторист-сварщик</a></td>
+<td>20 544</td>
+<td>24 680</td>
+<td>27 857</td>
+<td>27 613</td>
+<td>34 029</td>
+<td>35 160</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2322&lang=0" target="_blank" class="job">Моторист-токарь</a></td>
+<td>23 579</td>
+<td>26 638</td>
+<td>29 466</td>
+<td>30 001</td>
+<td>34 659</td>
+<td>36 958</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2319&lang=0" target="_blank" class="job">Повар (морской и речной транспорт)</a></td>
+<td>19 475</td>
+<td>21 945</td>
+<td>27 269</td>
+<td>30 180</td>
+<td>34 271</td>
+<td>36 049</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2317&lang=0" target="_blank" class="job">Рефмеханик</a></td>
+<td>55 504</td>
+<td>68 406</td>
+<td>78 762</td>
+<td>78 062</td>
+<td>94 830</td>
+<td>108 746</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2328&lang=0" target="_blank" class="job">Сварщик (морской и речной транспорт)</a></td>
+<td>17 783</td>
+<td>24 946</td>
+<td>28 329</td>
+<td>29 156</td>
+<td>34 554</td>
+<td>37 286</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2330&lang=0" target="_blank" class="job">Старший механик (морской и речной транспорт)</a></td>
+<td>147 035</td>
+<td>155 183</td>
+<td>179 902</td>
+<td>172 049</td>
+<td>218 823</td>
+<td>233 216</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2310&lang=0" target="_blank" class="job">Старший помощник капитана</a></td>
+<td>85 433</td>
+<td>123 462</td>
+<td>140 025</td>
+<td>143 897</td>
+<td>169 386</td>
+<td>187 393</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2329&lang=0" target="_blank" class="job">Токарь (морской и речной транспорт)</a></td>
+<td>23 165</td>
+<td>26 679</td>
+<td>29 265</td>
+<td>30 569</td>
+<td>32 803</td>
+<td>36 605</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2314&lang=0" target="_blank" class="job">Третий механик</a></td>
+<td>33 675</td>
+<td>57 513</td>
+<td>70 824</td>
+<td>76 808</td>
+<td>91 700</td>
+<td>99 779</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2312&lang=0" target="_blank" class="job">Третий помощник капитана</a></td>
+<td>39 213</td>
+<td>39 479</td>
+<td>48 617</td>
+<td>47 025</td>
+<td>58 421</td>
+<td>64 109</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2315&lang=0" target="_blank" class="job">Четвертый механик</a></td>
+<td>39 140</td>
+<td>44 384</td>
+<td>50 466</td>
+<td>51 669</td>
+<td>60 378</td>
+<td>64 547</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2326&lang=0" target="_blank" class="job">Электрик (морской и речной транспорт)</a></td>
+<td>27 392</td>
+<td>28 719</td>
+<td>35 400</td>
+<td>36 617</td>
+<td>44 007</td>
+<td>45 610</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2316&lang=0" target="_blank" class="job">Электромеханик (морской и речной транспорт)</a></td>
+<td>42 757</td>
+<td>59 085</td>
+<td>71 307</td>
+<td>72 905</td>
+<td>90 987</td>
+<td>98 265</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 19.08.2015)</p>
+</div>

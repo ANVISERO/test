@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1757&lang=0" target="_blank" class="job">Архивариус</a></td>
+<td>8 409</td>
+<td>8 915</td>
+<td>10 123</td>
+<td>10 230</td>
+<td>10 972</td>
+<td>11 846</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>8 247</td>
+<td>11 178</td>
+<td>18 964</td>
+<td>16 536</td>
+<td>23 111</td>
+<td>31 322</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1663&lang=0" target="_blank" class="job">Документовед</a></td>
+<td>14 682</td>
+<td>14 943</td>
+<td>17 187</td>
+<td>18 541</td>
+<td>18 851</td>
+<td>19 281</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1550&lang=0" target="_blank" class="job">Заведующий архивом</a></td>
+<td>11 830</td>
+<td>12 321</td>
+<td>14 960</td>
+<td>12 978</td>
+<td>16 686</td>
+<td>19 772</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1679&lang=0" target="_blank" class="job">Заведующий хозяйством</a></td>
+<td>12 906</td>
+<td>13 793</td>
+<td>18 017</td>
+<td>14 259</td>
+<td>21 724</td>
+<td>22 370</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1358&lang=0" target="_blank" class="job">Курьер</a></td>
+<td>8 529</td>
+<td>10 002</td>
+<td>11 678</td>
+<td>12 625</td>
+<td>13 793</td>
+<td>13 940</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1352&lang=0" target="_blank" class="job">Начальник административно-хозяйственного отдела</a></td>
+<td>15 557</td>
+<td>21 782</td>
+<td>30 139</td>
+<td>28 249</td>
+<td>33 134</td>
+<td>46 322</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>13 391</td>
+<td>18 506</td>
+<td>25 134</td>
+<td>23 957</td>
+<td>28 592</td>
+<td>34 483</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1240&lang=0" target="_blank" class="job">Секретарь генерального директора</a></td>
+<td>22 307</td>
+<td>24 914</td>
+<td>26 398</td>
+<td>25 517</td>
+<td>27 109</td>
+<td>31 835</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1242&lang=0" target="_blank" class="job">Секретарь-ресепшионист</a></td>
+<td>13 561</td>
+<td>16 237</td>
+<td>21 148</td>
+<td>19 925</td>
+<td>25 361</td>
+<td>32 184</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1507&lang=0" target="_blank" class="job">Советник Генерального директора</a></td>
+<td>52 874</td>
+<td>137 931</td>
+<td>203 426</td>
+<td>181 609</td>
+<td>257 471</td>
+<td>343 818</td>
+<td>3 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1757&lang=0" target="_blank" class="job">Архивариус</a></td>
+<td>10 582</td>
+<td>11 219</td>
+<td>12 740</td>
+<td>12 874</td>
+<td>13 807</td>
+<td>14 908</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>16 563</td>
+<td>16 879</td>
+<td>25 565</td>
+<td>26 411</td>
+<td>31 327</td>
+<td>32 746</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1663&lang=0" target="_blank" class="job">Документовед</a></td>
+<td>15 977</td>
+<td>17 122</td>
+<td>21 576</td>
+<td>23 274</td>
+<td>25 517</td>
+<td>25 687</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1550&lang=0" target="_blank" class="job">Заведующий архивом</a></td>
+<td>19 322</td>
+<td>20 344</td>
+<td>22 670</td>
+<td>21 826</td>
+<td>25 136</td>
+<td>27 306</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1679&lang=0" target="_blank" class="job">Заведующий хозяйством</a></td>
+<td>17 471</td>
+<td>17 471</td>
+<td>22 792</td>
+<td>21 987</td>
+<td>24 520</td>
+<td>26 973</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1358&lang=0" target="_blank" class="job">Курьер</a></td>
+<td>11 815</td>
+<td>13 339</td>
+<td>15 575</td>
+<td>17 027</td>
+<td>17 356</td>
+<td>18 105</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1352&lang=0" target="_blank" class="job">Начальник административно-хозяйственного отдела</a></td>
+<td>25 670</td>
+<td>28 735</td>
+<td>44 178</td>
+<td>44 881</td>
+<td>52 808</td>
+<td>66 054</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>14 138</td>
+<td>25 459</td>
+<td>31 999</td>
+<td>28 374</td>
+<td>39 822</td>
+<td>50 976</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1240&lang=0" target="_blank" class="job">Секретарь генерального директора</a></td>
+<td>33 357</td>
+<td>34 255</td>
+<td>42 363</td>
+<td>42 759</td>
+<td>43 477</td>
+<td>51 089</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1242&lang=0" target="_blank" class="job">Секретарь-ресепшионист</a></td>
+<td>19 703</td>
+<td>21 494</td>
+<td>25 611</td>
+<td>25 287</td>
+<td>30 776</td>
+<td>32 184</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1507&lang=0" target="_blank" class="job">Советник Генерального директора</a></td>
+<td>52 874</td>
+<td>179 482</td>
+<td>226 785</td>
+<td>220 690</td>
+<td>321 839</td>
+<td>390 255</td>
+<td>3 квартал 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.11.2011)</p>
+</div>

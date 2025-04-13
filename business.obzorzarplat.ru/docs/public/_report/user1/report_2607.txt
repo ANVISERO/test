@@ -1,0 +1,182 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>25 862</td>
+<td>28 736</td>
+<td>35 511</td>
+<td>33 333</td>
+<td>37 431</td>
+<td>50 848</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>43 048</td>
+<td>58 492</td>
+<td>80 689</td>
+<td>74 713</td>
+<td>94 691</td>
+<td>125 712</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>35 844</td>
+<td>41 883</td>
+<td>55 191</td>
+<td>51 724</td>
+<td>66 059</td>
+<td>79 310</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>56 450</td>
+<td>66 359</td>
+<td>88 337</td>
+<td>81 556</td>
+<td>112 414</td>
+<td>118 833</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1296&lang=0" target="_blank" class="job">Старший бухгалтер</a></td>
+<td>30 228</td>
+<td>35 102</td>
+<td>44 396</td>
+<td>40 657</td>
+<td>48 402</td>
+<td>62 152</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1304&lang=0" target="_blank" class="job">Старший кассир</a></td>
+<td>21 051</td>
+<td>22 111</td>
+<td>23 241</td>
+<td>22 977</td>
+<td>24 631</td>
+<td>24 913</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>27 425</td>
+<td>37 290</td>
+<td>46 804</td>
+<td>41 053</td>
+<td>53 338</td>
+<td>74 713</td>
+<td>ноябрь 2010</td>
+</tr>
+</table>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></th>
+<td>24 713</td>
+<td>28 736</td>
+<td>34 300</td>
+<td>32 554</td>
+<td>36 649</td>
+<td>49 080</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></th>
+<td>42 528</td>
+<td>58 467</td>
+<td>80 107</td>
+<td>74 455</td>
+<td>94 433</td>
+<td>125 597</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></th>
+<td>33 333</td>
+<td>41 251</td>
+<td>54 183</td>
+<td>51 639</td>
+<td>65 866</td>
+<td>79 310</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></th>
+<td>55 990</td>
+<td>65 170</td>
+<td>86 580</td>
+<td>80 176</td>
+<td>108 391</td>
+<td>118 833</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1296&lang=0" target="_blank" class="job">Старший бухгалтер</a></th>
+<td>29 400</td>
+<td>32 933</td>
+<td>42 951</td>
+<td>40 230</td>
+<td>47 773</td>
+<td>62 069</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1304&lang=0" target="_blank" class="job">Старший кассир</a></th>
+<td>16 718</td>
+<td>17 529</td>
+<td>19 117</td>
+<td>18 506</td>
+<td>20 157</td>
+<td>22 745</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></th>
+<td>27 023</td>
+<td>34 514</td>
+<td>45 368</td>
+<td>40 230</td>
+<td>51 724</td>
+<td>74 264</td>
+<td>ноябрь 2010</td>
+</tr>
+</table>
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.12.2010)</p>
+</div>

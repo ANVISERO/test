@@ -1,0 +1,588 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2280&lang=0" target="_blank" class="job">BTL-менеджер</a></td>
+<td>17 586</td>
+<td>21 312</td>
+<td>26 245</td>
+<td>28 736</td>
+<td>32 184</td>
+<td>34 150</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2281&lang=0" target="_blank" class="job">Event-менеджер</a></td>
+<td>22 989</td>
+<td>26 559</td>
+<td>32 706</td>
+<td>34 483</td>
+<td>40 230</td>
+<td>44 961</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>13 066</td>
+<td>19 309</td>
+<td>36 297</td>
+<td>33 355</td>
+<td>47 121</td>
+<td>59 483</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>25 862</td>
+<td>34 483</td>
+<td>40 427</td>
+<td>41 645</td>
+<td>49 551</td>
+<td>55 801</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1817&lang=0" target="_blank" class="job">Бетонщик</a></td>
+<td>12 483</td>
+<td>14 770</td>
+<td>28 952</td>
+<td>33 134</td>
+<td>40 517</td>
+<td>43 355</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Брэнд-менеджер</a></td>
+<td>43 709</td>
+<td>47 653</td>
+<td>53 128</td>
+<td>51 724</td>
+<td>63 218</td>
+<td>65 792</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2261&lang=0" target="_blank" class="job">Бухгалтер на участок Банк-Клиент</a></td>
+<td>26 578</td>
+<td>29 598</td>
+<td>30 220</td>
+<td>31 034</td>
+<td>32 184</td>
+<td>33 459</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2263&lang=0" target="_blank" class="job">Бухгалтер на участок основные средства</a></td>
+<td>29 300</td>
+<td>32 184</td>
+<td>33 893</td>
+<td>34 483</td>
+<td>36 868</td>
+<td>38 682</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2264&lang=0" target="_blank" class="job">Бухгалтер на участок реализация</a></td>
+<td>26 201</td>
+<td>27 874</td>
+<td>30 309</td>
+<td>31 609</td>
+<td>33 297</td>
+<td>34 693</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>45 265</td>
+<td>48 046</td>
+<td>57 007</td>
+<td>54 368</td>
+<td>67 469</td>
+<td>79 885</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>16 437</td>
+<td>22 989</td>
+<td>32 817</td>
+<td>28 736</td>
+<td>40 230</td>
+<td>51 724</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>22 052</td>
+<td>22 989</td>
+<td>26 867</td>
+<td>28 736</td>
+<td>29 885</td>
+<td>33 085</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>22 989</td>
+<td>32 065</td>
+<td>39 487</td>
+<td>43 587</td>
+<td>49 378</td>
+<td>54 483</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>10 343</td>
+<td>14 921</td>
+<td>18 929</td>
+<td>18 116</td>
+<td>25 000</td>
+<td>25 000</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>28 736</td>
+<td>41 330</td>
+<td>49 703</td>
+<td>50 536</td>
+<td>62 920</td>
+<td>68 966</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2153&lang=0" target="_blank" class="job">Заместитель главы администрации</a></td>
+<td>57 860</td>
+<td>61 494</td>
+<td>70 873</td>
+<td>66 667</td>
+<td>83 875</td>
+<td>103 448</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1692&lang=0" target="_blank" class="job">Заместитель начальника службы</a></td>
+<td>35 769</td>
+<td>52 487</td>
+<td>59 886</td>
+<td>63 218</td>
+<td>72 306</td>
+<td>82 803</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1414&lang=0" target="_blank" class="job">Инженер по метрологии</a></td>
+<td>14 354</td>
+<td>16 150</td>
+<td>23 437</td>
+<td>18 172</td>
+<td>23 624</td>
+<td>42 553</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>23 166</td>
+<td>26 430</td>
+<td>29 097</td>
+<td>31 034</td>
+<td>33 013</td>
+<td>35 417</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2170&lang=0" target="_blank" class="job">Механизатор</a></td>
+<td>30 686</td>
+<td>34 483</td>
+<td>37 014</td>
+<td>36 782</td>
+<td>40 857</td>
+<td>46 224</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1347&lang=0" target="_blank" class="job">Монтажник</a></td>
+<td>14 891</td>
+<td>20 303</td>
+<td>26 625</td>
+<td>22 624</td>
+<td>30 791</td>
+<td>42 966</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2252&lang=0" target="_blank" class="job">Помощник воспитателя</a></td>
+<td>11 540</td>
+<td>12 489</td>
+<td>15 380</td>
+<td>14 943</td>
+<td>19 233</td>
+<td>22 295</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1285&lang=0" target="_blank" class="job">Портной</a></td>
+<td>9 138</td>
+<td>16 775</td>
+<td>19 351</td>
+<td>18 391</td>
+<td>24 812</td>
+<td>28 736</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1882&lang=0" target="_blank" class="job">Слесарь по изготовлению и ремонту трубопроводов</a></td>
+<td>16 437</td>
+<td>16 611</td>
+<td>20 639</td>
+<td>17 701</td>
+<td>23 659</td>
+<td>29 706</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>24 483</td>
+<td>28 548</td>
+<td>34 898</td>
+<td>37 011</td>
+<td>39 655</td>
+<td>41 747</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1894&lang=0" target="_blank" class="job">Энергетик</a></td>
+<td>19 540</td>
+<td>26 897</td>
+<td>38 416</td>
+<td>34 483</td>
+<td>57 276</td>
+<td>58 621</td>
+<td>4 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2280&lang=0" target="_blank" class="job">BTL-менеджер</a></td>
+<td>20 598</td>
+<td>27 404</td>
+<td>35 260</td>
+<td>36 782</td>
+<td>44 427</td>
+<td>50 226</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2281&lang=0" target="_blank" class="job">Event-менеджер</a></td>
+<td>32 644</td>
+<td>38 053</td>
+<td>51 931</td>
+<td>51 727</td>
+<td>64 271</td>
+<td>78 294</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>13 066</td>
+<td>19 309</td>
+<td>47 045</td>
+<td>37 766</td>
+<td>69 655</td>
+<td>87 457</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>25 862</td>
+<td>34 483</td>
+<td>54 273</td>
+<td>48 082</td>
+<td>73 037</td>
+<td>94 768</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1817&lang=0" target="_blank" class="job">Бетонщик</a></td>
+<td>12 943</td>
+<td>15 844</td>
+<td>36 922</td>
+<td>42 753</td>
+<td>54 369</td>
+<td>58 040</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Брэнд-менеджер</a></td>
+<td>50 836</td>
+<td>57 759</td>
+<td>65 572</td>
+<td>63 218</td>
+<td>78 780</td>
+<td>84 118</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2261&lang=0" target="_blank" class="job">Бухгалтер на участок Банк-Клиент</a></td>
+<td>27 335</td>
+<td>31 753</td>
+<td>33 429</td>
+<td>34 483</td>
+<td>36 650</td>
+<td>38 790</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2263&lang=0" target="_blank" class="job">Бухгалтер на участок основные средства</a></td>
+<td>29 300</td>
+<td>32 184</td>
+<td>36 201</td>
+<td>37 174</td>
+<td>40 873</td>
+<td>43 708</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2264&lang=0" target="_blank" class="job">Бухгалтер на участок реализация</a></td>
+<td>26 201</td>
+<td>28 733</td>
+<td>32 812</td>
+<td>34 486</td>
+<td>36 745</td>
+<td>38 943</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>45 265</td>
+<td>48 046</td>
+<td>71 081</td>
+<td>68 208</td>
+<td>91 556</td>
+<td>107 866</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>16 437</td>
+<td>22 989</td>
+<td>36 972</td>
+<td>28 736</td>
+<td>40 230</td>
+<td>72 757</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>25 500</td>
+<td>27 586</td>
+<td>33 217</td>
+<td>34 431</td>
+<td>37 825</td>
+<td>44 178</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>23 137</td>
+<td>34 605</td>
+<td>42 119</td>
+<td>46 460</td>
+<td>52 826</td>
+<td>58 301</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>10 343</td>
+<td>14 921</td>
+<td>22 466</td>
+<td>18 116</td>
+<td>29 867</td>
+<td>36 316</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>28 736</td>
+<td>44 555</td>
+<td>57 035</td>
+<td>58 409</td>
+<td>74 129</td>
+<td>82 298</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2153&lang=0" target="_blank" class="job">Заместитель главы администрации</a></td>
+<td>67 055</td>
+<td>75 214</td>
+<td>97 979</td>
+<td>93 578</td>
+<td>117 718</td>
+<td>144 390</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1692&lang=0" target="_blank" class="job">Заместитель начальника службы</a></td>
+<td>35 769</td>
+<td>52 487</td>
+<td>59 886</td>
+<td>63 218</td>
+<td>72 306</td>
+<td>82 803</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1414&lang=0" target="_blank" class="job">Инженер по метрологии</a></td>
+<td>14 871</td>
+<td>21 598</td>
+<td>32 604</td>
+<td>27 722</td>
+<td>37 283</td>
+<td>59 085</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>23 166</td>
+<td>26 430</td>
+<td>41 120</td>
+<td>38 354</td>
+<td>56 475</td>
+<td>63 750</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2170&lang=0" target="_blank" class="job">Механизатор</a></td>
+<td>30 686</td>
+<td>35 678</td>
+<td>40 846</td>
+<td>41 379</td>
+<td>46 604</td>
+<td>52 401</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1347&lang=0" target="_blank" class="job">Монтажник</a></td>
+<td>14 891</td>
+<td>20 303</td>
+<td>35 085</td>
+<td>32 907</td>
+<td>42 929</td>
+<td>58 138</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2252&lang=0" target="_blank" class="job">Помощник воспитателя</a></td>
+<td>12 466</td>
+<td>14 788</td>
+<td>17 797</td>
+<td>17 297</td>
+<td>22 514</td>
+<td>25 744</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1285&lang=0" target="_blank" class="job">Портной</a></td>
+<td>9 138</td>
+<td>16 775</td>
+<td>25 364</td>
+<td>22 989</td>
+<td>35 678</td>
+<td>42 725</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1882&lang=0" target="_blank" class="job">Слесарь по изготовлению и ремонту трубопроводов</a></td>
+<td>20 172</td>
+<td>23 292</td>
+<td>32 532</td>
+<td>29 328</td>
+<td>38 913</td>
+<td>48 684</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>24 483</td>
+<td>28 548</td>
+<td>42 393</td>
+<td>41 284</td>
+<td>54 396</td>
+<td>64 161</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1894&lang=0" target="_blank" class="job">Энергетик</a></td>
+<td>19 540</td>
+<td>26 897</td>
+<td>44 817</td>
+<td>36 687</td>
+<td>69 489</td>
+<td>76 754</td>
+<td>4 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 16.01.2014)</p>
+</div>

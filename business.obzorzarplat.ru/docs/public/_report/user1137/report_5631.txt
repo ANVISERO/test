@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Сосновоборский городской округ (Ленинградская область)</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>12 901</td>
+<td>13 535</td>
+<td>15 490</td>
+<td>16 181</td>
+<td>16 700</td>
+<td>18 409</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>12 812</td>
+<td>14 367</td>
+<td>15 221</td>
+<td>15 253</td>
+<td>16 389</td>
+<td>17 276</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>11 895</td>
+<td>13 015</td>
+<td>14 512</td>
+<td>15 058</td>
+<td>15 488</td>
+<td>17 099</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>15 284</td>
+<td>16 014</td>
+<td>17 979</td>
+<td>17 931</td>
+<td>19 393</td>
+<td>20 979</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>16 030</td>
+<td>16 848</td>
+<td>18 976</td>
+<td>19 500</td>
+<td>20 661</td>
+<td>21 783</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>12 901</td>
+<td>13 535</td>
+<td>15 490</td>
+<td>16 181</td>
+<td>16 700</td>
+<td>18 409</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>12 812</td>
+<td>14 367</td>
+<td>15 221</td>
+<td>15 253</td>
+<td>16 389</td>
+<td>17 276</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>12 901</td>
+<td>13 535</td>
+<td>15 490</td>
+<td>16 181</td>
+<td>16 700</td>
+<td>18 409</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>12 812</td>
+<td>14 367</td>
+<td>15 221</td>
+<td>15 253</td>
+<td>16 389</td>
+<td>17 276</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>11 895</td>
+<td>13 015</td>
+<td>14 512</td>
+<td>15 058</td>
+<td>15 488</td>
+<td>17 099</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>15 284</td>
+<td>16 014</td>
+<td>17 979</td>
+<td>17 931</td>
+<td>19 393</td>
+<td>20 979</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>13 846</td>
+<td>17 833</td>
+<td>22 206</td>
+<td>23 458</td>
+<td>26 010</td>
+<td>28 286</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>14 515</td>
+<td>16 922</td>
+<td>22 068</td>
+<td>24 223</td>
+<td>25 999</td>
+<td>27 145</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>14 164</td>
+<td>15 148</td>
+<td>19 361</td>
+<td>20 673</td>
+<td>22 824</td>
+<td>24 271</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>17 732</td>
+<td>21 113</td>
+<td>26 002</td>
+<td>28 143</td>
+<td>29 403</td>
+<td>31 974</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>24 704</td>
+<td>27 534</td>
+<td>29 244</td>
+<td>29 440</td>
+<td>30 578</td>
+<td>33 278</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>13 846</td>
+<td>17 833</td>
+<td>22 206</td>
+<td>23 458</td>
+<td>26 010</td>
+<td>28 286</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>14 515</td>
+<td>16 922</td>
+<td>22 068</td>
+<td>24 223</td>
+<td>25 999</td>
+<td>27 145</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>13 846</td>
+<td>17 833</td>
+<td>22 206</td>
+<td>23 458</td>
+<td>26 010</td>
+<td>28 286</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>14 515</td>
+<td>16 922</td>
+<td>22 068</td>
+<td>24 223</td>
+<td>25 999</td>
+<td>27 145</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>14 164</td>
+<td>15 148</td>
+<td>19 361</td>
+<td>20 673</td>
+<td>22 824</td>
+<td>24 271</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>17 732</td>
+<td>21 113</td>
+<td>26 002</td>
+<td>28 143</td>
+<td>29 403</td>
+<td>31 974</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 20.09.2012)</p>
+</div>

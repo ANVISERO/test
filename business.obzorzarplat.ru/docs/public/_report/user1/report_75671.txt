@@ -1,0 +1,238 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>28 348</td>
+<td>35 000</td>
+<td>57 068</td>
+<td>41 495</td>
+<td>72 753</td>
+<td>102 015</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>73 034</td>
+<td>95 818</td>
+<td>125 449</td>
+<td>125 492</td>
+<td>161 436</td>
+<td>183 042</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>41 833</td>
+<td>57 039</td>
+<td>73 053</td>
+<td>73 066</td>
+<td>91 892</td>
+<td>104 937</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></th>
+<td>28 348</td>
+<td>35 000</td>
+<td>54 293</td>
+<td>40 805</td>
+<td>69 503</td>
+<td>96 335</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></th>
+<td>71 769</td>
+<td>94 375</td>
+<td>123 690</td>
+<td>123 623</td>
+<td>159 265</td>
+<td>180 772</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></th>
+<td>40 183</td>
+<td>54 920</td>
+<td>70 473</td>
+<td>70 416</td>
+<td>88 612</td>
+<td>101 467</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>3.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>28 348</td>
+<td>35 000</td>
+<td>46 907</td>
+<td>40 805</td>
+<td>57 863</td>
+<td>70 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>64 750</td>
+<td>73 756</td>
+<td>89 271</td>
+<td>89 000</td>
+<td>108 550</td>
+<td>123 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>31 500</td>
+<td>40 301</td>
+<td>48 621</td>
+<td>50 779</td>
+<td>60 506</td>
+<td>65 650</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>4.	Среднемесячные значения премиальной части компенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>4 400</td>
+<td>5 000</td>
+<td>13 440</td>
+<td>12 000</td>
+<td>20 200</td>
+<td>22 950</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>11 800</td>
+<td>15 000</td>
+<td>22 347</td>
+<td>20 045</td>
+<td>30 000</td>
+<td>32 717</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>7 700</td>
+<td>10 000</td>
+<td>14 921</td>
+<td>12 117</td>
+<td>18 659</td>
+<td>24 060</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>5.	Среднемесячные значения бонусной части копенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>10 000</td>
+<td>13 601</td>
+<td>17 396</td>
+<td>15 687</td>
+<td>21 935</td>
+<td>26 136</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.09.2017)</p>
+</div>

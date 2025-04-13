@@ -1,0 +1,188 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>29 369</td>
+<td>29 865</td>
+<td>35 137</td>
+<td>35 577</td>
+<td>35 956</td>
+<td>47 629</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>23 635</td>
+<td>27 076</td>
+<td>32 128</td>
+<td>30 079</td>
+<td>35 977</td>
+<td>44 621</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></th>
+<td>29 318</td>
+<td>29 425</td>
+<td>34 724</td>
+<td>35 076</td>
+<td>35 448</td>
+<td>47 106</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></th>
+<td>23 474</td>
+<td>26 525</td>
+<td>31 752</td>
+<td>29 583</td>
+<td>35 476</td>
+<td>44 621</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>3.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>15 998</td>
+<td>17 808</td>
+<td>21 781</td>
+<td>19 781</td>
+<td>23 337</td>
+<td>26 900</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>13 680</td>
+<td>16 091</td>
+<td>21 455</td>
+<td>19 648</td>
+<td>23 760</td>
+<td>32 414</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>4.	Среднемесячные значения премиальной части компенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>9 598</td>
+<td>10 632</td>
+<td>13 055</td>
+<td>12 414</td>
+<td>14 483</td>
+<td>16 897</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>6 424</td>
+<td>9 368</td>
+<td>10 970</td>
+<td>11 207</td>
+<td>13 103</td>
+<td>14 828</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>5.	Среднемесячные значения бонусной части копенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>1 149</td>
+<td>2 464</td>
+<td>4 754</td>
+<td>4 174</td>
+<td>5 478</td>
+<td>8 319</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 18.02.2013)</p>
+</div>

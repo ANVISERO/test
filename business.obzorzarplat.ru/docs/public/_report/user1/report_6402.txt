@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>22 215</td>
+<td>29 885</td>
+<td>32 763</td>
+<td>35 046</td>
+<td>38 000</td>
+<td>38 000</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1554&lang=0" target="_blank" class="job">Дежурный по переезду </a></td>
+<td>10 712</td>
+<td>13 557</td>
+<td>15 104</td>
+<td>15 567</td>
+<td>17 039</td>
+<td>18 659</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>42 305</td>
+<td>63 261</td>
+<td>73 042</td>
+<td>76 437</td>
+<td>78 386</td>
+<td>98 549</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1239&lang=0" target="_blank" class="job">Диспетчер</a></td>
+<td>9 183</td>
+<td>11 778</td>
+<td>17 743</td>
+<td>14 943</td>
+<td>23 218</td>
+<td>26 437</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1578&lang=0" target="_blank" class="job">Машинист тепловоза </a></td>
+<td>12 625</td>
+<td>14 011</td>
+<td>17 750</td>
+<td>15 213</td>
+<td>19 061</td>
+<td>28 607</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1902&lang=0" target="_blank" class="job">Менеджер по железнодорожным перевозкам</a></td>
+<td>17 313</td>
+<td>18 601</td>
+<td>20 362</td>
+<td>20 542</td>
+<td>22 061</td>
+<td>24 150</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1586&lang=0" target="_blank" class="job">Монтер пути </a></td>
+<td>11 635</td>
+<td>12 638</td>
+<td>17 913</td>
+<td>15 608</td>
+<td>19 429</td>
+<td>30 038</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1649&lang=0" target="_blank" class="job">Приемосдатчик груза и багажа </a></td>
+<td>8 096</td>
+<td>8 872</td>
+<td>9 584</td>
+<td>9 330</td>
+<td>10 331</td>
+<td>10 906</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1646&lang=0" target="_blank" class="job">Слесарь по ремонту подвижного состава </a></td>
+<td>12 127</td>
+<td>13 707</td>
+<td>15 704</td>
+<td>15 048</td>
+<td>17 907</td>
+<td>20 310</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1637&lang=0" target="_blank" class="job">Составитель поездов </a></td>
+<td>10 269</td>
+<td>11 037</td>
+<td>12 608</td>
+<td>12 417</td>
+<td>14 454</td>
+<td>14 454</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1362&lang=0" target="_blank" class="job">Стропальщик</a></td>
+<td>12 689</td>
+<td>14 297</td>
+<td>18 264</td>
+<td>16 092</td>
+<td>16 864</td>
+<td>29 514</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1619&lang=0" target="_blank" class="job">Такелажник </a></td>
+<td>15 867</td>
+<td>19 540</td>
+<td>20 241</td>
+<td>19 540</td>
+<td>21 214</td>
+<td>25 110</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>23 427</td>
+<td>29 885</td>
+<td>33 167</td>
+<td>35 046</td>
+<td>38 000</td>
+<td>38 000</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1554&lang=0" target="_blank" class="job">Дежурный по переезду </a></td>
+<td>17 657</td>
+<td>23 867</td>
+<td>24 798</td>
+<td>25 779</td>
+<td>27 490</td>
+<td>29 384</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>63 129</td>
+<td>73 264</td>
+<td>80 147</td>
+<td>76 437</td>
+<td>93 686</td>
+<td>102 375</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1239&lang=0" target="_blank" class="job">Диспетчер</a></td>
+<td>16 280</td>
+<td>17 760</td>
+<td>25 785</td>
+<td>21 266</td>
+<td>33 109</td>
+<td>42 820</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1578&lang=0" target="_blank" class="job">Машинист тепловоза </a></td>
+<td>23 630</td>
+<td>25 671</td>
+<td>32 494</td>
+<td>29 287</td>
+<td>34 894</td>
+<td>46 998</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1902&lang=0" target="_blank" class="job">Менеджер по железнодорожным перевозкам</a></td>
+<td>29 736</td>
+<td>30 698</td>
+<td>32 272</td>
+<td>32 678</td>
+<td>34 612</td>
+<td>35 684</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1586&lang=0" target="_blank" class="job">Монтер пути </a></td>
+<td>17 782</td>
+<td>23 394</td>
+<td>29 528</td>
+<td>27 933</td>
+<td>28 434</td>
+<td>49 988</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1649&lang=0" target="_blank" class="job">Приемосдатчик груза и багажа </a></td>
+<td>12 855</td>
+<td>13 851</td>
+<td>15 218</td>
+<td>14 340</td>
+<td>16 878</td>
+<td>17 839</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1646&lang=0" target="_blank" class="job">Слесарь по ремонту подвижного состава </a></td>
+<td>21 123</td>
+<td>21 211</td>
+<td>24 250</td>
+<td>23 279</td>
+<td>26 403</td>
+<td>29 280</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1637&lang=0" target="_blank" class="job">Составитель поездов </a></td>
+<td>21 222</td>
+<td>22 666</td>
+<td>26 017</td>
+<td>26 007</td>
+<td>30 012</td>
+<td>30 880</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1362&lang=0" target="_blank" class="job">Стропальщик</a></td>
+<td>16 092</td>
+<td>19 540</td>
+<td>24 517</td>
+<td>23 568</td>
+<td>25 951</td>
+<td>37 388</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1619&lang=0" target="_blank" class="job">Такелажник </a></td>
+<td>19 292</td>
+<td>19 540</td>
+<td>21 412</td>
+<td>19 540</td>
+<td>22 417</td>
+<td>26 305</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 24.12.2012)</p>
+</div>

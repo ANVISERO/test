@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Челябинская область</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2963&lang=0" target="_blank" class="job">Бригадир клининга (дневные смены)</a></td>
+<td>16 998</td>
+<td>20 171</td>
+<td>23 971</td>
+<td>23 001</td>
+<td>26 941</td>
+<td>32 660</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2973&lang=0" target="_blank" class="job">Главный бухгалтер филиала</a></td>
+<td>47 025</td>
+<td>49 374</td>
+<td>64 298</td>
+<td>70 200</td>
+<td>72 914</td>
+<td>82 867</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>51 767</td>
+<td>60 247</td>
+<td>79 045</td>
+<td>76 752</td>
+<td>93 194</td>
+<td>107 328</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>20 218</td>
+<td>22 028</td>
+<td>31 017</td>
+<td>30 451</td>
+<td>37 612</td>
+<td>43 680</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1530&lang=0" target="_blank" class="job">Тракторист</a></td>
+<td>19 712</td>
+<td>22 371</td>
+<td>27 877</td>
+<td>26 645</td>
+<td>32 199</td>
+<td>37 178</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>15 702</td>
+<td>17 019</td>
+<td>19 850</td>
+<td>19 142</td>
+<td>21 965</td>
+<td>25 322</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2965&lang=0" target="_blank" class="job">Уборщик (дневные смены)</a></td>
+<td>15 831</td>
+<td>16 879</td>
+<td>21 310</td>
+<td>19 500</td>
+<td>24 773</td>
+<td>29 603</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2970&lang=0" target="_blank" class="job">Уборщик комплексной уборки </a></td>
+<td>10 022</td>
+<td>10 983</td>
+<td>13 380</td>
+<td>13 104</td>
+<td>15 944</td>
+<td>17 060</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1617&lang=0" target="_blank" class="job">Уборщик производственных и служебных помещений</a></td>
+<td>6 490</td>
+<td>8 736</td>
+<td>11 761</td>
+<td>11 232</td>
+<td>13 416</td>
+<td>18 720</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1357&lang=0" target="_blank" class="job">Уборщик территории</a></td>
+<td>12 118</td>
+<td>13 291</td>
+<td>16 282</td>
+<td>16 099</td>
+<td>18 801</td>
+<td>20 442</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2968&lang=0" target="_blank" class="job">Уборщик территории (дневные смены)</a></td>
+<td>15 251</td>
+<td>16 458</td>
+<td>18 580</td>
+<td>18 221</td>
+<td>20 639</td>
+<td>22 539</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2963&lang=0" target="_blank" class="job">Бригадир клининга (дневные смены)</a></td>
+<td>22 585</td>
+<td>26 073</td>
+<td>33 305</td>
+<td>29 867</td>
+<td>38 278</td>
+<td>47 686</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2973&lang=0" target="_blank" class="job">Главный бухгалтер филиала</a></td>
+<td>57 172</td>
+<td>62 018</td>
+<td>81 354</td>
+<td>80 746</td>
+<td>92 215</td>
+<td>116 137</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>68 984</td>
+<td>83 642</td>
+<td>113 981</td>
+<td>106 723</td>
+<td>138 734</td>
+<td>167 848</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>28 054</td>
+<td>34 165</td>
+<td>42 583</td>
+<td>41 408</td>
+<td>51 095</td>
+<td>59 306</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1530&lang=0" target="_blank" class="job">Тракторист</a></td>
+<td>26 691</td>
+<td>27 959</td>
+<td>36 722</td>
+<td>35 849</td>
+<td>40 307</td>
+<td>50 878</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>16 691</td>
+<td>20 225</td>
+<td>24 952</td>
+<td>22 620</td>
+<td>30 210</td>
+<td>33 777</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2965&lang=0" target="_blank" class="job">Уборщик (дневные смены)</a></td>
+<td>21 177</td>
+<td>22 122</td>
+<td>28 288</td>
+<td>27 316</td>
+<td>34 086</td>
+<td>36 954</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2970&lang=0" target="_blank" class="job">Уборщик комплексной уборки </a></td>
+<td>12 118</td>
+<td>14 290</td>
+<td>16 471</td>
+<td>16 786</td>
+<td>18 712</td>
+<td>20 008</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1617&lang=0" target="_blank" class="job">Уборщик производственных и служебных помещений</a></td>
+<td>7 738</td>
+<td>9 750</td>
+<td>14 937</td>
+<td>14 352</td>
+<td>18 055</td>
+<td>23 916</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1357&lang=0" target="_blank" class="job">Уборщик территории</a></td>
+<td>15 047</td>
+<td>20 342</td>
+<td>22 445</td>
+<td>22 464</td>
+<td>25 248</td>
+<td>29 877</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2968&lang=0" target="_blank" class="job">Уборщик территории (дневные смены)</a></td>
+<td>17 687</td>
+<td>20 304</td>
+<td>25 910</td>
+<td>26 673</td>
+<td>29 915</td>
+<td>32 589</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 22.07.2019)</p>
+</div>

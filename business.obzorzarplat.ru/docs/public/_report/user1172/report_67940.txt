@@ -1,0 +1,388 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>52 400</td>
+<td>54 500</td>
+<td>62 186</td>
+<td>60 000</td>
+<td>70 250</td>
+<td>75 620</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>35 600</td>
+<td>43 100</td>
+<td>53 450</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>71 520</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>42 400</td>
+<td>58 750</td>
+<td>69 250</td>
+<td>67 500</td>
+<td>85 000</td>
+<td>94 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>39 950</td>
+<td>43 750</td>
+<td>54 950</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>65 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>45 000</td>
+<td>46 500</td>
+<td>53 083</td>
+<td>52 500</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>39 700</td>
+<td>45 000</td>
+<td>50 700</td>
+<td>50 000</td>
+<td>55 000</td>
+<td>61 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1464&lang=0" target="_blank" class="job">Главный архитектор проекта</a></td>
+<td>55 000</td>
+<td>72 500</td>
+<td>92 727</td>
+<td>85 000</td>
+<td>110 000</td>
+<td>140 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>49 200</td>
+<td>60 000</td>
+<td>77 079</td>
+<td>75 800</td>
+<td>90 000</td>
+<td>100 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>41 000</td>
+<td>46 350</td>
+<td>52 463</td>
+<td>53 000</td>
+<td>58 000</td>
+<td>62 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>30 000</td>
+<td>40 000</td>
+<td>47 551</td>
+<td>45 000</td>
+<td>55 700</td>
+<td>68 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1967&lang=0" target="_blank" class="job">Инженер (Группа слаботочных систем - ГСС)</a></td>
+<td>30 000</td>
+<td>33 750</td>
+<td>40 000</td>
+<td>37 500</td>
+<td>42 500</td>
+<td>53 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>50 381</td>
+<td>49 000</td>
+<td>55 300</td>
+<td>60 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>39 000</td>
+<td>45 000</td>
+<td>50 429</td>
+<td>50 000</td>
+<td>56 500</td>
+<td>64 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1973&lang=0" target="_blank" class="job">Инженер-проектировщик 1-ой категории</a></td>
+<td>41 000</td>
+<td>47 500</td>
+<td>53 143</td>
+<td>55 000</td>
+<td>58 500</td>
+<td>64 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2029&lang=0" target="_blank" class="job">Инженер-проектировщик 2-ой категории</a></td>
+<td>28 800</td>
+<td>30 500</td>
+<td>35 143</td>
+<td>35 000</td>
+<td>39 000</td>
+<td>42 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>67 500</td>
+<td>72 500</td>
+<td>81 833</td>
+<td>83 000</td>
+<td>89 000</td>
+<td>95 000</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>82 050</td>
+<td>84 875</td>
+<td>90 405</td>
+<td>90 583</td>
+<td>96 500</td>
+<td>98 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>46 460</td>
+<td>54 800</td>
+<td>71 775</td>
+<td>65 500</td>
+<td>80 500</td>
+<td>113 980</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>59 100</td>
+<td>74 325</td>
+<td>79 642</td>
+<td>78 750</td>
+<td>91 125</td>
+<td>96 450</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>56 750</td>
+<td>64 950</td>
+<td>71 793</td>
+<td>72 750</td>
+<td>79 625</td>
+<td>82 930</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>60 500</td>
+<td>61 250</td>
+<td>71 551</td>
+<td>72 042</td>
+<td>80 125</td>
+<td>80 680</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>58 400</td>
+<td>62 292</td>
+<td>68 406</td>
+<td>68 000</td>
+<td>74 543</td>
+<td>78 350</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1464&lang=0" target="_blank" class="job">Главный архитектор проекта</a></td>
+<td>76 000</td>
+<td>96 100</td>
+<td>133 870</td>
+<td>146 500</td>
+<td>166 350</td>
+<td>190 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>66 940</td>
+<td>83 750</td>
+<td>107 709</td>
+<td>105 000</td>
+<td>121 550</td>
+<td>153 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>46 000</td>
+<td>51 950</td>
+<td>63 454</td>
+<td>58 900</td>
+<td>74 150</td>
+<td>88 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>40 060</td>
+<td>47 300</td>
+<td>60 137</td>
+<td>57 250</td>
+<td>66 925</td>
+<td>90 640</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1967&lang=0" target="_blank" class="job">Инженер (Группа слаботочных систем - ГСС)</a></td>
+<td>41 425</td>
+<td>48 543</td>
+<td>55 372</td>
+<td>54 917</td>
+<td>60 250</td>
+<td>68 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>46 948</td>
+<td>53 900</td>
+<td>66 262</td>
+<td>65 900</td>
+<td>77 500</td>
+<td>86 320</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>51 000</td>
+<td>52 725</td>
+<td>61 352</td>
+<td>58 850</td>
+<td>69 334</td>
+<td>75 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1973&lang=0" target="_blank" class="job">Инженер-проектировщик 1-ой категории</a></td>
+<td>59 467</td>
+<td>63 350</td>
+<td>67 045</td>
+<td>67 450</td>
+<td>71 250</td>
+<td>74 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2029&lang=0" target="_blank" class="job">Инженер-проектировщик 2-ой категории</a></td>
+<td>35 320</td>
+<td>39 225</td>
+<td>43 174</td>
+<td>45 500</td>
+<td>47 959</td>
+<td>49 470</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>113 850</td>
+<td>122 042</td>
+<td>129 470</td>
+<td>128 834</td>
+<td>135 562</td>
+<td>145 725</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.03.2017)</p>
+</div>

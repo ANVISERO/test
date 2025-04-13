@@ -1,0 +1,388 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>25 747</td>
+<td>34 598</td>
+<td>49 118</td>
+<td>46 121</td>
+<td>62 349</td>
+<td>79 943</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>22 780</td>
+<td>24 242</td>
+<td>27 655</td>
+<td>28 736</td>
+<td>29 885</td>
+<td>31 587</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>25 065</td>
+<td>32 134</td>
+<td>36 539</td>
+<td>38 271</td>
+<td>40 771</td>
+<td>43 462</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>13 169</td>
+<td>14 333</td>
+<td>15 725</td>
+<td>15 862</td>
+<td>16 725</td>
+<td>18 142</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>15 338</td>
+<td>18 497</td>
+<td>25 585</td>
+<td>23 333</td>
+<td>30 178</td>
+<td>36 986</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>36 207</td>
+<td>39 568</td>
+<td>51 943</td>
+<td>52 874</td>
+<td>67 807</td>
+<td>68 391</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>28 678</td>
+<td>31 297</td>
+<td>39 868</td>
+<td>38 506</td>
+<td>46 808</td>
+<td>56 897</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>15 934</td>
+<td>17 413</td>
+<td>19 865</td>
+<td>20 575</td>
+<td>21 429</td>
+<td>24 341</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>21 295</td>
+<td>23 215</td>
+<td>27 276</td>
+<td>27 218</td>
+<td>31 490</td>
+<td>33 648</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>25 920</td>
+<td>46 873</td>
+<td>62 583</td>
+<td>71 846</td>
+<td>86 207</td>
+<td>86 207</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>37 793</td>
+<td>40 069</td>
+<td>45 499</td>
+<td>45 977</td>
+<td>49 310</td>
+<td>53 241</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1460&lang=0" target="_blank" class="job">Начальник отдела жилой недвижимости</a></td>
+<td>36 133</td>
+<td>38 017</td>
+<td>45 426</td>
+<td>49 084</td>
+<td>50 575</td>
+<td>52 587</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1648&lang=0" target="_blank" class="job">Рабочий по комплексному обслуживанию и ремонту зданий и сооружений </a></td>
+<td>10 716</td>
+<td>12 660</td>
+<td>16 281</td>
+<td>17 423</td>
+<td>19 553</td>
+<td>22 013</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1463&lang=0" target="_blank" class="job">Руководитель службы эксплуатации недвижимости</a></td>
+<td>60 747</td>
+<td>75 762</td>
+<td>90 574</td>
+<td>97 867</td>
+<td>112 907</td>
+<td>114 943</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1453&lang=0" target="_blank" class="job">Специалист отдела управления</a></td>
+<td>43 183</td>
+<td>45 634</td>
+<td>51 561</td>
+<td>51 167</td>
+<td>57 049</td>
+<td>60 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>25 601</td>
+<td>26 437</td>
+<td>28 858</td>
+<td>28 736</td>
+<td>30 483</td>
+<td>34 483</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>33 103</td>
+<td>49 201</td>
+<td>56 311</td>
+<td>53 448</td>
+<td>65 346</td>
+<td>80 502</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>37 509</td>
+<td>37 931</td>
+<td>45 140</td>
+<td>45 402</td>
+<td>51 724</td>
+<td>54 251</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>43 793</td>
+<td>52 011</td>
+<td>55 738</td>
+<td>58 882</td>
+<td>59 151</td>
+<td>59 856</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>24 335</td>
+<td>26 486</td>
+<td>29 056</td>
+<td>29 310</td>
+<td>30 904</td>
+<td>33 524</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>23 513</td>
+<td>26 437</td>
+<td>37 548</td>
+<td>38 619</td>
+<td>43 838</td>
+<td>52 874</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>49 328</td>
+<td>51 988</td>
+<td>57 742</td>
+<td>52 874</td>
+<td>68 391</td>
+<td>68 391</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>40 219</td>
+<td>41 092</td>
+<td>45 916</td>
+<td>43 678</td>
+<td>49 386</td>
+<td>56 897</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>27 307</td>
+<td>28 226</td>
+<td>35 568</td>
+<td>37 254</td>
+<td>42 178</td>
+<td>44 120</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>30 449</td>
+<td>32 517</td>
+<td>39 955</td>
+<td>40 253</td>
+<td>44 907</td>
+<td>49 784</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>32 471</td>
+<td>50 922</td>
+<td>65 617</td>
+<td>75 330</td>
+<td>86 207</td>
+<td>86 207</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>41 572</td>
+<td>44 076</td>
+<td>50 049</td>
+<td>50 575</td>
+<td>54 241</td>
+<td>58 566</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1460&lang=0" target="_blank" class="job">Начальник отдела жилой недвижимости</a></td>
+<td>46 310</td>
+<td>49 354</td>
+<td>54 819</td>
+<td>50 575</td>
+<td>61 886</td>
+<td>65 565</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1648&lang=0" target="_blank" class="job">Рабочий по комплексному обслуживанию и ремонту зданий и сооружений </a></td>
+<td>18 788</td>
+<td>18 915</td>
+<td>26 704</td>
+<td>32 179</td>
+<td>32 292</td>
+<td>32 471</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1463&lang=0" target="_blank" class="job">Руководитель службы эксплуатации недвижимости</a></td>
+<td>98 842</td>
+<td>108 838</td>
+<td>117 004</td>
+<td>114 943</td>
+<td>125 091</td>
+<td>133 146</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1453&lang=0" target="_blank" class="job">Специалист отдела управления</a></td>
+<td>43 183</td>
+<td>45 634</td>
+<td>51 561</td>
+<td>51 167</td>
+<td>57 049</td>
+<td>60 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>28 740</td>
+<td>31 862</td>
+<td>36 301</td>
+<td>34 483</td>
+<td>38 792</td>
+<td>45 465</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.04.2013)</p>
+</div>

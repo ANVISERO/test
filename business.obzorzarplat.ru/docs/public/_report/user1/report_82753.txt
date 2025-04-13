@@ -1,0 +1,408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1475&lang=0" target="_blank" class="job">Ведущий инженер (отдел телекоммуникаций)</a></td>
+<td>33 200</td>
+<td>39 000</td>
+<td>44 200</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>51 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>35 000</td>
+<td>38 425</td>
+<td>48 175</td>
+<td>46 500</td>
+<td>55 125</td>
+<td>66 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>24 000</td>
+<td>25 375</td>
+<td>29 100</td>
+<td>28 750</td>
+<td>32 500</td>
+<td>34 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1476&lang=0" target="_blank" class="job">Инженер (телекоммуникаций)</a></td>
+<td>30 000</td>
+<td>31 000</td>
+<td>35 400</td>
+<td>35 000</td>
+<td>37 000</td>
+<td>47 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2988&lang=0" target="_blank" class="job">Младший специалист технической поддержки</a></td>
+<td>36 120</td>
+<td>41 350</td>
+<td>49 868</td>
+<td>48 850</td>
+<td>57 650</td>
+<td>65 450</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1864&lang=0" target="_blank" class="job">Монтажник радиоэлектронной аппаратуры и приборов</a></td>
+<td>22 600</td>
+<td>28 000</td>
+<td>32 257</td>
+<td>35 000</td>
+<td>37 000</td>
+<td>40 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1472&lang=0" target="_blank" class="job">Начальник отдела проектирования</a></td>
+<td>87 280</td>
+<td>89 900</td>
+<td>93 722</td>
+<td>95 000</td>
+<td>98 000</td>
+<td>100 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1960&lang=0" target="_blank" class="job">Начальник отдела электрических и слаботочных систем (ОЭСС)</a></td>
+<td>53 440</td>
+<td>56 500</td>
+<td>67 479</td>
+<td>63 000</td>
+<td>80 000</td>
+<td>82 820</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>20 000</td>
+<td>24 900</td>
+<td>29 619</td>
+<td>30 000</td>
+<td>34 500</td>
+<td>37 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1875&lang=0" target="_blank" class="job">Радиомеханик по ремонту радиоэлектроники</a></td>
+<td>19 350</td>
+<td>21 500</td>
+<td>26 943</td>
+<td>26 250</td>
+<td>30 750</td>
+<td>35 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1877&lang=0" target="_blank" class="job">Регулировщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>20 000</td>
+<td>23 750</td>
+<td>28 926</td>
+<td>27 000</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1489&lang=0" target="_blank" class="job">Руководитель департамента (телекоммуникации)</a></td>
+<td>49 550</td>
+<td>50 000</td>
+<td>56 792</td>
+<td>58 500</td>
+<td>63 000</td>
+<td>63 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2892&lang=0" target="_blank" class="job">Руководитель отдела технической поддержки</a></td>
+<td>74 800</td>
+<td>97 850</td>
+<td>119 894</td>
+<td>130 525</td>
+<td>138 513</td>
+<td>150 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1481&lang=0" target="_blank" class="job">Руководитель проекта (телекоммуникации)</a></td>
+<td>54 000</td>
+<td>80 172</td>
+<td>84 505</td>
+<td>92 483</td>
+<td>95 435</td>
+<td>101 707</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1885&lang=0" target="_blank" class="job">Слесарь-сборщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>22 000</td>
+<td>22 500</td>
+<td>26 846</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>34 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2987&lang=0" target="_blank" class="job">Старший специалист технической поддержки</a></td>
+<td>51 950</td>
+<td>56 500</td>
+<td>69 681</td>
+<td>68 250</td>
+<td>81 325</td>
+<td>92 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>30 960</td>
+<td>34 000</td>
+<td>38 733</td>
+<td>38 000</td>
+<td>44 000</td>
+<td>48 820</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1475&lang=0" target="_blank" class="job">Ведущий инженер (отдел телекоммуникаций)</a></td>
+<td>50 360</td>
+<td>50 950</td>
+<td>57 107</td>
+<td>56 700</td>
+<td>61 000</td>
+<td>65 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>57 542</td>
+<td>62 384</td>
+<td>80 367</td>
+<td>76 317</td>
+<td>90 794</td>
+<td>110 084</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>36 167</td>
+<td>43 375</td>
+<td>50 946</td>
+<td>46 492</td>
+<td>63 313</td>
+<td>65 217</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1476&lang=0" target="_blank" class="job">Инженер (телекоммуникаций)</a></td>
+<td>39 820</td>
+<td>45 100</td>
+<td>48 637</td>
+<td>48 700</td>
+<td>55 000</td>
+<td>57 360</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2988&lang=0" target="_blank" class="job">Младший специалист технической поддержки</a></td>
+<td>40 220</td>
+<td>49 950</td>
+<td>63 679</td>
+<td>57 878</td>
+<td>76 334</td>
+<td>96 517</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1864&lang=0" target="_blank" class="job">Монтажник радиоэлектронной аппаратуры и приборов</a></td>
+<td>34 840</td>
+<td>39 600</td>
+<td>43 560</td>
+<td>44 300</td>
+<td>45 920</td>
+<td>53 372</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1472&lang=0" target="_blank" class="job">Начальник отдела проектирования</a></td>
+<td>102 060</td>
+<td>102 900</td>
+<td>105 222</td>
+<td>105 000</td>
+<td>107 600</td>
+<td>108 700</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1960&lang=0" target="_blank" class="job">Начальник отдела электрических и слаботочных систем (ОЭСС)</a></td>
+<td>83 241</td>
+<td>90 350</td>
+<td>100 640</td>
+<td>100 707</td>
+<td>104 859</td>
+<td>115 647</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>28 295</td>
+<td>32 911</td>
+<td>37 026</td>
+<td>37 334</td>
+<td>40 983</td>
+<td>44 975</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1875&lang=0" target="_blank" class="job">Радиомеханик по ремонту радиоэлектроники</a></td>
+<td>27 310</td>
+<td>30 875</td>
+<td>34 734</td>
+<td>34 300</td>
+<td>38 625</td>
+<td>41 530</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1877&lang=0" target="_blank" class="job">Регулировщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>25 140</td>
+<td>27 800</td>
+<td>34 489</td>
+<td>36 200</td>
+<td>39 425</td>
+<td>44 599</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1489&lang=0" target="_blank" class="job">Руководитель департамента (телекоммуникации)</a></td>
+<td>64 480</td>
+<td>67 900</td>
+<td>71 783</td>
+<td>71 700</td>
+<td>76 000</td>
+<td>76 810</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2892&lang=0" target="_blank" class="job">Руководитель отдела технической поддержки</a></td>
+<td>90 948</td>
+<td>121 121</td>
+<td>154 386</td>
+<td>167 694</td>
+<td>181 436</td>
+<td>195 439</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1481&lang=0" target="_blank" class="job">Руководитель проекта (телекоммуникации)</a></td>
+<td>61 720</td>
+<td>153 512</td>
+<td>135 571</td>
+<td>154 003</td>
+<td>154 409</td>
+<td>154 452</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1885&lang=0" target="_blank" class="job">Слесарь-сборщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>30 220</td>
+<td>32 500</td>
+<td>39 449</td>
+<td>34 400</td>
+<td>40 000</td>
+<td>58 580</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2987&lang=0" target="_blank" class="job">Старший специалист технической поддержки</a></td>
+<td>56 750</td>
+<td>68 797</td>
+<td>88 217</td>
+<td>90 917</td>
+<td>102 387</td>
+<td>122 617</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>37 210</td>
+<td>40 959</td>
+<td>52 424</td>
+<td>53 017</td>
+<td>60 050</td>
+<td>66 953</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 13.11.2019)</p>
+</div>

@@ -1,0 +1,708 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Сегежский район (республика Карелия)</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>11 465</td>
+<td>12 155</td>
+<td>13 802</td>
+<td>13 947</td>
+<td>14 958</td>
+<td>16 151</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1716&lang=0" target="_blank" class="job">Ведущий инженер по метрологии</a></td>
+<td>10 236</td>
+<td>10 853</td>
+<td>12 323</td>
+<td>12 453</td>
+<td>13 356</td>
+<td>14 420</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>10 851</td>
+<td>11 505</td>
+<td>13 064</td>
+<td>13 201</td>
+<td>14 158</td>
+<td>15 287</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1711&lang=0" target="_blank" class="job">Ведущий инженер по релейной защите и автоматике</a></td>
+<td>10 122</td>
+<td>10 346</td>
+<td>12 071</td>
+<td>11 936</td>
+<td>13 721</td>
+<td>14 736</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1715&lang=0" target="_blank" class="job">Ведущий инженер по системам регулирования и технологической автоматике</a></td>
+<td>11 798</td>
+<td>12 509</td>
+<td>14 204</td>
+<td>14 353</td>
+<td>15 393</td>
+<td>16 621</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1244&lang=0" target="_blank" class="job">Заведующий лабораторией</a></td>
+<td>13 175</td>
+<td>13 960</td>
+<td>15 320</td>
+<td>14 928</td>
+<td>16 655</td>
+<td>17 345</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>8 838</td>
+<td>9 326</td>
+<td>9 901</td>
+<td>9 852</td>
+<td>10 323</td>
+<td>10 909</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>8 811</td>
+<td>9 341</td>
+<td>10 607</td>
+<td>10 718</td>
+<td>11 495</td>
+<td>12 412</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1414&lang=0" target="_blank" class="job">Инженер по метрологии</a></td>
+<td>8 667</td>
+<td>9 039</td>
+<td>10 438</td>
+<td>11 103</td>
+<td>11 405</td>
+<td>12 029</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>8 717</td>
+<td>9 337</td>
+<td>10 408</td>
+<td>10 499</td>
+<td>11 221</td>
+<td>12 009</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1714&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту</a></td>
+<td>9 047</td>
+<td>9 352</td>
+<td>10 686</td>
+<td>10 464</td>
+<td>12 172</td>
+<td>12 441</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>9 718</td>
+<td>10 156</td>
+<td>11 600</td>
+<td>11 534</td>
+<td>12 733</td>
+<td>13 785</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>9 124</td>
+<td>9 674</td>
+<td>10 985</td>
+<td>11 100</td>
+<td>11 905</td>
+<td>12 854</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>9 768</td>
+<td>10 374</td>
+<td>11 359</td>
+<td>10 909</td>
+<td>12 253</td>
+<td>13 654</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>9 006</td>
+<td>9 568</td>
+<td>10 753</td>
+<td>10 774</td>
+<td>11 744</td>
+<td>12 480</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>4 299</td>
+<td>4 558</td>
+<td>5 175</td>
+<td>5 230</td>
+<td>5 609</td>
+<td>6 056</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1657&lang=0" target="_blank" class="job">Лаборант химического анализа</a></td>
+<td>5 393</td>
+<td>5 718</td>
+<td>6 493</td>
+<td>6 561</td>
+<td>7 037</td>
+<td>7 598</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>11 126</td>
+<td>11 628</td>
+<td>12 585</td>
+<td>12 527</td>
+<td>13 552</td>
+<td>14 335</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>11 552</td>
+<td>12 573</td>
+<td>13 793</td>
+<td>13 914</td>
+<td>14 670</td>
+<td>15 914</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>12 944</td>
+<td>13 673</td>
+<td>15 456</td>
+<td>15 326</td>
+<td>17 119</td>
+<td>18 097</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1682&lang=0" target="_blank" class="job">Начальник сектора</a></td>
+<td>8 748</td>
+<td>9 275</td>
+<td>10 532</td>
+<td>10 643</td>
+<td>11 414</td>
+<td>12 324</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1671&lang=0" target="_blank" class="job">Начальник станции</a></td>
+<td>14 514</td>
+<td>14 782</td>
+<td>16 638</td>
+<td>16 917</td>
+<td>17 440</td>
+<td>18 940</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1383&lang=0" target="_blank" class="job">Начальник цеха</a></td>
+<td>20 043</td>
+<td>20 220</td>
+<td>22 918</td>
+<td>21 884</td>
+<td>25 624</td>
+<td>27 193</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>7 284</td>
+<td>7 531</td>
+<td>8 320</td>
+<td>8 632</td>
+<td>9 043</td>
+<td>9 216</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>7 962</td>
+<td>8 665</td>
+<td>9 507</td>
+<td>9 590</td>
+<td>10 111</td>
+<td>10 968</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1718&lang=0" target="_blank" class="job">Старший начальник смены</a></td>
+<td>8 234</td>
+<td>8 730</td>
+<td>9 913</td>
+<td>10 017</td>
+<td>10 743</td>
+<td>11 600</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1613&lang=0" target="_blank" class="job">Электромонтер главного щита управления</a></td>
+<td>6 856</td>
+<td>8 018</td>
+<td>7 972</td>
+<td>8 018</td>
+<td>8 018</td>
+<td>8 828</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1608&lang=0" target="_blank" class="job">Электромонтер по обслуживанию электрооборудования</a></td>
+<td>6 585</td>
+<td>7 167</td>
+<td>7 862</td>
+<td>7 931</td>
+<td>8 362</td>
+<td>9 071</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1607&lang=0" target="_blank" class="job">Электромонтер по ремонту аппаратуры, релейной защиты и автоматики</a></td>
+<td>6 676</td>
+<td>7 263</td>
+<td>8 046</td>
+<td>8 461</td>
+<td>8 635</td>
+<td>9 038</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1604&lang=0" target="_blank" class="job">Электромонтер по ремонту и обслуживанию электрооборудования</a></td>
+<td>9 231</td>
+<td>10 460</td>
+<td>15 507</td>
+<td>12 257</td>
+<td>22 989</td>
+<td>22 989</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1598&lang=0" target="_blank" class="job">Электрослесарь по ремонту оборудования распределительных устройств</a></td>
+<td>5 836</td>
+<td>6 188</td>
+<td>7 026</td>
+<td>7 100</td>
+<td>7 615</td>
+<td>8 222</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1596&lang=0" target="_blank" class="job">Электрослесарь по ремонту электрооборудования</a></td>
+<td>5 820</td>
+<td>5 874</td>
+<td>6 654</td>
+<td>6 561</td>
+<td>7 355</td>
+<td>7 485</td>
+<td>3 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>44 538</td>
+<td>47 220</td>
+<td>53 619</td>
+<td>54 183</td>
+<td>58 111</td>
+<td>62 744</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1716&lang=0" target="_blank" class="job">Ведущий инженер по метрологии</a></td>
+<td>40 074</td>
+<td>42 487</td>
+<td>48 245</td>
+<td>48 752</td>
+<td>52 286</td>
+<td>56 454</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>37 380</td>
+<td>39 631</td>
+<td>45 002</td>
+<td>45 475</td>
+<td>48 772</td>
+<td>52 660</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1711&lang=0" target="_blank" class="job">Ведущий инженер по релейной защите и автоматике</a></td>
+<td>39 626</td>
+<td>42 788</td>
+<td>51 292</td>
+<td>48 191</td>
+<td>58 944</td>
+<td>64 334</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1715&lang=0" target="_blank" class="job">Ведущий инженер по системам регулирования и технологической автоматике</a></td>
+<td>46 189</td>
+<td>48 970</td>
+<td>55 606</td>
+<td>56 191</td>
+<td>60 265</td>
+<td>65 069</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1244&lang=0" target="_blank" class="job">Заведующий лабораторией</a></td>
+<td>52 351</td>
+<td>53 395</td>
+<td>63 712</td>
+<td>64 601</td>
+<td>68 728</td>
+<td>78 593</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>37 514</td>
+<td>41 584</td>
+<td>45 175</td>
+<td>43 829</td>
+<td>49 243</td>
+<td>51 595</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>39 628</td>
+<td>42 014</td>
+<td>47 708</td>
+<td>48 209</td>
+<td>51 704</td>
+<td>55 826</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1414&lang=0" target="_blank" class="job">Инженер по метрологии</a></td>
+<td>34 873</td>
+<td>37 149</td>
+<td>44 412</td>
+<td>47 988</td>
+<td>50 002</td>
+<td>52 313</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>35 885</td>
+<td>37 751</td>
+<td>42 848</td>
+<td>42 177</td>
+<td>47 924</td>
+<td>50 481</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1714&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту</a></td>
+<td>34 431</td>
+<td>38 388</td>
+<td>44 823</td>
+<td>44 455</td>
+<td>54 060</td>
+<td>54 404</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>37 820</td>
+<td>39 236</td>
+<td>49 698</td>
+<td>49 712</td>
+<td>57 236</td>
+<td>64 855</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>31 617</td>
+<td>33 521</td>
+<td>38 063</td>
+<td>38 463</td>
+<td>41 252</td>
+<td>44 540</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>43 312</td>
+<td>46 213</td>
+<td>50 364</td>
+<td>48 399</td>
+<td>54 329</td>
+<td>60 771</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>33 673</td>
+<td>34 785</td>
+<td>42 592</td>
+<td>41 761</td>
+<td>50 671</td>
+<td>52 342</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>18 127</td>
+<td>19 218</td>
+<td>21 822</td>
+<td>22 052</td>
+<td>23 650</td>
+<td>25 536</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1657&lang=0" target="_blank" class="job">Лаборант химического анализа</a></td>
+<td>21 113</td>
+<td>22 385</td>
+<td>25 418</td>
+<td>25 685</td>
+<td>27 547</td>
+<td>29 743</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>17 958</td>
+<td>19 952</td>
+<td>19 959</td>
+<td>20 030</td>
+<td>20 142</td>
+<td>21 236</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>47 062</td>
+<td>49 781</td>
+<td>56 193</td>
+<td>55 858</td>
+<td>62 032</td>
+<td>65 658</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>50 168</td>
+<td>53 549</td>
+<td>65 567</td>
+<td>64 288</td>
+<td>78 004</td>
+<td>82 245</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1682&lang=0" target="_blank" class="job">Начальник сектора</a></td>
+<td>30 088</td>
+<td>31 900</td>
+<td>36 223</td>
+<td>36 603</td>
+<td>39 257</td>
+<td>42 387</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1671&lang=0" target="_blank" class="job">Начальник станции</a></td>
+<td>56 482</td>
+<td>63 331</td>
+<td>72 378</td>
+<td>75 366</td>
+<td>77 937</td>
+<td>87 739</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1383&lang=0" target="_blank" class="job">Начальник цеха</a></td>
+<td>34 297</td>
+<td>38 618</td>
+<td>38 639</td>
+<td>38 819</td>
+<td>38 952</td>
+<td>41 353</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>13 003</td>
+<td>14 062</td>
+<td>14 068</td>
+<td>14 102</td>
+<td>14 183</td>
+<td>14 773</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>30 960</td>
+<td>32 437</td>
+<td>37 132</td>
+<td>36 408</td>
+<td>41 952</td>
+<td>44 027</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1718&lang=0" target="_blank" class="job">Старший начальник смены</a></td>
+<td>31 865</td>
+<td>33 784</td>
+<td>38 362</td>
+<td>38 766</td>
+<td>41 576</td>
+<td>44 890</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1613&lang=0" target="_blank" class="job">Электромонтер главного щита управления</a></td>
+<td>33 192</td>
+<td>38 061</td>
+<td>38 597</td>
+<td>38 795</td>
+<td>40 101</td>
+<td>42 742</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1608&lang=0" target="_blank" class="job">Электромонтер по обслуживанию электрооборудования</a></td>
+<td>27 187</td>
+<td>29 235</td>
+<td>32 462</td>
+<td>32 746</td>
+<td>34 882</td>
+<td>37 453</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1607&lang=0" target="_blank" class="job">Электромонтер по ремонту аппаратуры, релейной защиты и автоматики</a></td>
+<td>26 249</td>
+<td>28 481</td>
+<td>32 950</td>
+<td>34 617</td>
+<td>36 373</td>
+<td>39 642</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1604&lang=0" target="_blank" class="job">Электромонтер по ремонту и обслуживанию электрооборудования</a></td>
+<td>17 619</td>
+<td>17 641</td>
+<td>28 934</td>
+<td>17 760</td>
+<td>45 977</td>
+<td>45 977</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1598&lang=0" target="_blank" class="job">Электрослесарь по ремонту оборудования распределительных устройств</a></td>
+<td>24 599</td>
+<td>26 080</td>
+<td>29 614</td>
+<td>29 925</td>
+<td>32 095</td>
+<td>34 653</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1596&lang=0" target="_blank" class="job">Электрослесарь по ремонту электрооборудования</a></td>
+<td>24 501</td>
+<td>25 987</td>
+<td>28 732</td>
+<td>28 491</td>
+<td>30 356</td>
+<td>34 363</td>
+<td>3 квартал 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 05.10.2011)</p>
+</div>

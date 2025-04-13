@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>132 000</td>
+<td>200 300</td>
+<td>326 294</td>
+<td>300 360</td>
+<td>450 000</td>
+<td>569 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2678&lang=0" target="_blank" class="job">Директор по закупкам и логистике</a></td>
+<td>118 000</td>
+<td>130 000</td>
+<td>177 750</td>
+<td>190 000</td>
+<td>213 750</td>
+<td>242 100</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>80 000</td>
+<td>87 500</td>
+<td>143 040</td>
+<td>122 500</td>
+<td>185 000</td>
+<td>263 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>90 200</td>
+<td>98 000</td>
+<td>164 990</td>
+<td>170 000</td>
+<td>197 500</td>
+<td>260 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>90 000</td>
+<td>115 000</td>
+<td>170 142</td>
+<td>165 000</td>
+<td>215 000</td>
+<td>280 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>80 000</td>
+<td>105 000</td>
+<td>142 500</td>
+<td>165 000</td>
+<td>173 750</td>
+<td>185 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>105 400</td>
+<td>133 000</td>
+<td>175 250</td>
+<td>175 000</td>
+<td>211 250</td>
+<td>251 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2331&lang=0" target="_blank" class="job">Директор по рекламе</a></td>
+<td>98 918</td>
+<td>112 500</td>
+<td>144 152</td>
+<td>148 242</td>
+<td>175 451</td>
+<td>190 890</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2187&lang=0" target="_blank" class="job">Директор по экономической безопасности</a></td>
+<td>125 000</td>
+<td>141 250</td>
+<td>155 920</td>
+<td>153 000</td>
+<td>172 250</td>
+<td>187 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>65 000</td>
+<td>72 500</td>
+<td>105 500</td>
+<td>100 000</td>
+<td>128 750</td>
+<td>160 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>70 000</td>
+<td>95 000</td>
+<td>125 000</td>
+<td>120 000</td>
+<td>152 500</td>
+<td>200 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1680&lang=0" target="_blank" class="job">Заместитель директора</a></td>
+<td>60 000</td>
+<td>75 250</td>
+<td>87 630</td>
+<td>80 000</td>
+<td>103 975</td>
+<td>120 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>80 000</td>
+<td>122 875</td>
+<td>169 810</td>
+<td>146 000</td>
+<td>201 700</td>
+<td>300 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>90 000</td>
+<td>107 500</td>
+<td>172 273</td>
+<td>180 000</td>
+<td>225 000</td>
+<td>270 000</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>202 350</td>
+<td>426 240</td>
+<td>654 832</td>
+<td>639 500</td>
+<td>841 000</td>
+<td>1 085 460</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2678&lang=0" target="_blank" class="job">Директор по закупкам и логистике</a></td>
+<td>148 823</td>
+<td>206 700</td>
+<td>305 380</td>
+<td>303 650</td>
+<td>421 292</td>
+<td>463 487</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>100 525</td>
+<td>110 438</td>
+<td>184 495</td>
+<td>157 050</td>
+<td>215 150</td>
+<td>338 660</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>112 000</td>
+<td>127 500</td>
+<td>194 704</td>
+<td>186 300</td>
+<td>235 958</td>
+<td>289 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>150 175</td>
+<td>193 834</td>
+<td>317 326</td>
+<td>297 300</td>
+<td>386 334</td>
+<td>525 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>106 380</td>
+<td>166 447</td>
+<td>228 994</td>
+<td>265 167</td>
+<td>277 825</td>
+<td>325 140</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>151 763</td>
+<td>204 809</td>
+<td>296 273</td>
+<td>262 500</td>
+<td>420 817</td>
+<td>455 992</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2331&lang=0" target="_blank" class="job">Директор по рекламе</a></td>
+<td>112 850</td>
+<td>127 825</td>
+<td>172 399</td>
+<td>170 422</td>
+<td>201 175</td>
+<td>252 520</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2187&lang=0" target="_blank" class="job">Директор по экономической безопасности</a></td>
+<td>136 830</td>
+<td>156 278</td>
+<td>228 424</td>
+<td>218 050</td>
+<td>297 575</td>
+<td>328 830</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>82 465</td>
+<td>105 775</td>
+<td>169 492</td>
+<td>168 484</td>
+<td>185 750</td>
+<td>300 140</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>102 850</td>
+<td>156 250</td>
+<td>251 632</td>
+<td>227 400</td>
+<td>273 000</td>
+<td>487 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1680&lang=0" target="_blank" class="job">Заместитель директора</a></td>
+<td>94 992</td>
+<td>107 958</td>
+<td>135 616</td>
+<td>122 724</td>
+<td>147 175</td>
+<td>205 980</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>130 057</td>
+<td>195 020</td>
+<td>282 655</td>
+<td>228 275</td>
+<td>303 068</td>
+<td>558 640</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>141 000</td>
+<td>186 750</td>
+<td>311 770</td>
+<td>291 500</td>
+<td>346 124</td>
+<td>594 850</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.03.2017)</p>
+</div>

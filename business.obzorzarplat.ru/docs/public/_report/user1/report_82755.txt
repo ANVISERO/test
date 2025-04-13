@@ -1,0 +1,768 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>40 000</td>
+<td>44 600</td>
+<td>58 288</td>
+<td>56 150</td>
+<td>70 000</td>
+<td>80 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1954&lang=0" target="_blank" class="job">Ведущий инженер (Архитектурно-строительная группа)</a></td>
+<td>47 700</td>
+<td>50 000</td>
+<td>55 500</td>
+<td>55 000</td>
+<td>60 000</td>
+<td>65 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1959&lang=0" target="_blank" class="job">Ведущий инженер (Группа инженерных систем и коммуникаций)</a></td>
+<td>45 000</td>
+<td>47 000</td>
+<td>56 444</td>
+<td>54 000</td>
+<td>67 000</td>
+<td>71 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1951&lang=0" target="_blank" class="job">Ведущий инженер (Группа нефтяной и газовой технологии)</a></td>
+<td>45 450</td>
+<td>49 750</td>
+<td>58 381</td>
+<td>55 650</td>
+<td>66 200</td>
+<td>73 050</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1961&lang=0" target="_blank" class="job">Ведущий инженер (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>31 200</td>
+<td>35 000</td>
+<td>41 894</td>
+<td>42 000</td>
+<td>50 000</td>
+<td>50 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1475&lang=0" target="_blank" class="job">Ведущий инженер (отдел телекоммуникаций)</a></td>
+<td>33 200</td>
+<td>39 000</td>
+<td>44 200</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>51 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=3010&lang=0" target="_blank" class="job">Ведущий инженер - программист технической поддержки </a></td>
+<td>95 537</td>
+<td>98 689</td>
+<td>101 613</td>
+<td>101 195</td>
+<td>104 375</td>
+<td>108 219</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1958&lang=0" target="_blank" class="job">Ведущий инженер ВиК (внутренние инженерные коммуникации)</a></td>
+<td>41 500</td>
+<td>46 250</td>
+<td>56 143</td>
+<td>55 000</td>
+<td>67 250</td>
+<td>69 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1957&lang=0" target="_blank" class="job">Ведущий инженер ОВ (вентиляция)</a></td>
+<td>48 000</td>
+<td>55 750</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>66 500</td>
+<td>69 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>35 000</td>
+<td>38 425</td>
+<td>48 175</td>
+<td>46 500</td>
+<td>55 125</td>
+<td>66 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>38 500</td>
+<td>41 750</td>
+<td>54 817</td>
+<td>52 500</td>
+<td>63 675</td>
+<td>73 770</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>45 480</td>
+<td>49 000</td>
+<td>55 394</td>
+<td>55 000</td>
+<td>62 000</td>
+<td>67 560</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1716&lang=0" target="_blank" class="job">Ведущий инженер по метрологии</a></td>
+<td>42 360</td>
+<td>49 750</td>
+<td>58 421</td>
+<td>59 500</td>
+<td>66 725</td>
+<td>70 210</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1828&lang=0" target="_blank" class="job">Ведущий инженер по надзору</a></td>
+<td>43 800</td>
+<td>50 000</td>
+<td>57 663</td>
+<td>55 000</td>
+<td>67 500</td>
+<td>70 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1821&lang=0" target="_blank" class="job">Ведущий инженер по наладке и испытаниям</a></td>
+<td>37 250</td>
+<td>41 500</td>
+<td>51 063</td>
+<td>48 500</td>
+<td>59 900</td>
+<td>67 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1703&lang=0" target="_blank" class="job">Ведущий инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>29 400</td>
+<td>32 775</td>
+<td>41 825</td>
+<td>41 400</td>
+<td>49 400</td>
+<td>55 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>43 580</td>
+<td>50 150</td>
+<td>59 746</td>
+<td>60 800</td>
+<td>69 450</td>
+<td>75 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>43 800</td>
+<td>44 875</td>
+<td>52 113</td>
+<td>53 950</td>
+<td>58 050</td>
+<td>60 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1708&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации оборудования гидроэлектростанций</a></td>
+<td>29 700</td>
+<td>30 000</td>
+<td>41 125</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>53 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>28 000</td>
+<td>32 100</td>
+<td>48 060</td>
+<td>44 700</td>
+<td>61 200</td>
+<td>71 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1830&lang=0" target="_blank" class="job">Ведущий инженер по расчетам и режимам</a></td>
+<td>29 600</td>
+<td>30 000</td>
+<td>35 603</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>42 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1711&lang=0" target="_blank" class="job">Ведущий инженер по релейной защите и автоматике</a></td>
+<td>42 900</td>
+<td>54 500</td>
+<td>61 427</td>
+<td>60 000</td>
+<td>71 500</td>
+<td>74 180</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1827&lang=0" target="_blank" class="job">Ведущий инженер по ремонту электрического оборудования</a></td>
+<td>27 140</td>
+<td>27 650</td>
+<td>31 250</td>
+<td>28 000</td>
+<td>34 275</td>
+<td>38 230</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1715&lang=0" target="_blank" class="job">Ведущий инженер по системам регулирования и технологической автоматике</a></td>
+<td>25 150</td>
+<td>25 375</td>
+<td>26 625</td>
+<td>25 750</td>
+<td>27 000</td>
+<td>28 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>44 600</td>
+<td>58 750</td>
+<td>72 580</td>
+<td>70 800</td>
+<td>85 500</td>
+<td>95 420</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1728&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>23 300</td>
+<td>23 750</td>
+<td>26 500</td>
+<td>25 500</td>
+<td>28 250</td>
+<td>30 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1696&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации электрических станций и сетей</a></td>
+<td>25 400</td>
+<td>28 250</td>
+<td>41 125</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>53 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>50 500</td>
+<td>55 000</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>65 000</td>
+<td>69 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1965&lang=0" target="_blank" class="job">Ведущий инженер систем связи (СС) и охранно-пожарной сигнализации (ОПС)</a></td>
+<td>34 220</td>
+<td>41 000</td>
+<td>50 870</td>
+<td>50 000</td>
+<td>58 625</td>
+<td>69 920</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>55 300</td>
+<td>66 200</td>
+<td>83 050</td>
+<td>82 400</td>
+<td>95 825</td>
+<td>116 300</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам (удалено)</a></td>
+<td>34 680</td>
+<td>36 400</td>
+<td>43 540</td>
+<td>42 500</td>
+<td>45 000</td>
+<td>52 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>67 000</td>
+<td>85 000</td>
+<td>112 373</td>
+<td>110 000</td>
+<td>141 250</td>
+<td>160 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>44 780</td>
+<td>49 250</td>
+<td>55 935</td>
+<td>55 000</td>
+<td>60 500</td>
+<td>70 270</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>40 800</td>
+<td>45 000</td>
+<td>54 056</td>
+<td>54 200</td>
+<td>60 000</td>
+<td>70 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>54 600</td>
+<td>61 025</td>
+<td>76 644</td>
+<td>75 300</td>
+<td>91 400</td>
+<td>100 000</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>58 700</td>
+<td>66 094</td>
+<td>91 164</td>
+<td>89 000</td>
+<td>112 050</td>
+<td>126 450</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1954&lang=0" target="_blank" class="job">Ведущий инженер (Архитектурно-строительная группа)</a></td>
+<td>61 248</td>
+<td>64 667</td>
+<td>72 012</td>
+<td>70 500</td>
+<td>76 500</td>
+<td>88 610</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1959&lang=0" target="_blank" class="job">Ведущий инженер (Группа инженерных систем и коммуникаций)</a></td>
+<td>61 200</td>
+<td>63 000</td>
+<td>74 109</td>
+<td>70 800</td>
+<td>80 000</td>
+<td>91 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1951&lang=0" target="_blank" class="job">Ведущий инженер (Группа нефтяной и газовой технологии)</a></td>
+<td>66 500</td>
+<td>69 768</td>
+<td>85 854</td>
+<td>80 309</td>
+<td>87 517</td>
+<td>110 350</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1961&lang=0" target="_blank" class="job">Ведущий инженер (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>43 287</td>
+<td>51 100</td>
+<td>62 314</td>
+<td>62 000</td>
+<td>75 010</td>
+<td>81 300</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1475&lang=0" target="_blank" class="job">Ведущий инженер (отдел телекоммуникаций)</a></td>
+<td>50 360</td>
+<td>50 950</td>
+<td>57 107</td>
+<td>56 700</td>
+<td>61 000</td>
+<td>65 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=3010&lang=0" target="_blank" class="job">Ведущий инженер - программист технической поддержки </a></td>
+<td>110 920</td>
+<td>127 213</td>
+<td>138 882</td>
+<td>139 340</td>
+<td>151 690</td>
+<td>164 390</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1958&lang=0" target="_blank" class="job">Ведущий инженер ВиК (внутренние инженерные коммуникации)</a></td>
+<td>67 610</td>
+<td>72 500</td>
+<td>75 437</td>
+<td>75 500</td>
+<td>80 342</td>
+<td>82 267</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1957&lang=0" target="_blank" class="job">Ведущий инженер ОВ (вентиляция)</a></td>
+<td>60 710</td>
+<td>65 250</td>
+<td>72 410</td>
+<td>71 000</td>
+<td>83 025</td>
+<td>86 550</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>57 542</td>
+<td>62 384</td>
+<td>80 367</td>
+<td>76 317</td>
+<td>90 794</td>
+<td>110 084</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>53 580</td>
+<td>56 683</td>
+<td>82 324</td>
+<td>78 284</td>
+<td>95 983</td>
+<td>117 127</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>61 383</td>
+<td>66 750</td>
+<td>74 092</td>
+<td>70 500</td>
+<td>79 683</td>
+<td>93 357</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1716&lang=0" target="_blank" class="job">Ведущий инженер по метрологии</a></td>
+<td>59 690</td>
+<td>68 348</td>
+<td>77 934</td>
+<td>77 467</td>
+<td>84 869</td>
+<td>93 879</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1828&lang=0" target="_blank" class="job">Ведущий инженер по надзору</a></td>
+<td>56 676</td>
+<td>61 000</td>
+<td>75 333</td>
+<td>75 367</td>
+<td>80 850</td>
+<td>102 827</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1821&lang=0" target="_blank" class="job">Ведущий инженер по наладке и испытаниям</a></td>
+<td>48 300</td>
+<td>52 956</td>
+<td>74 962</td>
+<td>74 317</td>
+<td>94 467</td>
+<td>102 767</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1703&lang=0" target="_blank" class="job">Ведущий инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>58 363</td>
+<td>62 021</td>
+<td>75 276</td>
+<td>73 458</td>
+<td>89 738</td>
+<td>95 721</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>46 250</td>
+<td>59 454</td>
+<td>73 571</td>
+<td>73 200</td>
+<td>89 358</td>
+<td>102 005</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>53 600</td>
+<td>56 825</td>
+<td>68 738</td>
+<td>66 379</td>
+<td>77 250</td>
+<td>81 450</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1708&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации оборудования гидроэлектростанций</a></td>
+<td>37 000</td>
+<td>44 050</td>
+<td>48 900</td>
+<td>51 150</td>
+<td>54 225</td>
+<td>60 360</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>31 500</td>
+<td>42 750</td>
+<td>60 646</td>
+<td>53 867</td>
+<td>75 200</td>
+<td>97 558</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1830&lang=0" target="_blank" class="job">Ведущий инженер по расчетам и режимам</a></td>
+<td>33 907</td>
+<td>36 620</td>
+<td>44 608</td>
+<td>43 000</td>
+<td>50 000</td>
+<td>61 305</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1711&lang=0" target="_blank" class="job">Ведущий инженер по релейной защите и автоматике</a></td>
+<td>65 055</td>
+<td>78 195</td>
+<td>89 834</td>
+<td>86 658</td>
+<td>98 842</td>
+<td>108 177</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1827&lang=0" target="_blank" class="job">Ведущий инженер по ремонту электрического оборудования</a></td>
+<td>38 040</td>
+<td>42 200</td>
+<td>44 756</td>
+<td>44 000</td>
+<td>48 395</td>
+<td>52 574</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1715&lang=0" target="_blank" class="job">Ведущий инженер по системам регулирования и технологической автоматике</a></td>
+<td>36 850</td>
+<td>38 875</td>
+<td>42 625</td>
+<td>41 500</td>
+<td>45 250</td>
+<td>49 300</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>62 930</td>
+<td>74 325</td>
+<td>87 276</td>
+<td>86 609</td>
+<td>97 125</td>
+<td>108 678</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1728&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>28 200</td>
+<td>34 500</td>
+<td>39 000</td>
+<td>40 000</td>
+<td>44 500</td>
+<td>49 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1696&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации электрических станций и сетей</a></td>
+<td>35 200</td>
+<td>44 050</td>
+<td>47 688</td>
+<td>52 300</td>
+<td>52 725</td>
+<td>56 160</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>68 700</td>
+<td>70 500</td>
+<td>74 900</td>
+<td>73 350</td>
+<td>80 500</td>
+<td>82 930</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1965&lang=0" target="_blank" class="job">Ведущий инженер систем связи (СС) и охранно-пожарной сигнализации (ОПС)</a></td>
+<td>54 260</td>
+<td>58 938</td>
+<td>71 158</td>
+<td>70 421</td>
+<td>84 317</td>
+<td>96 057</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>80 672</td>
+<td>95 398</td>
+<td>127 265</td>
+<td>113 517</td>
+<td>152 150</td>
+<td>202 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам (удалено)</a></td>
+<td>45 900</td>
+<td>47 100</td>
+<td>52 470</td>
+<td>50 000</td>
+<td>53 750</td>
+<td>61 450</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>93 733</td>
+<td>103 000</td>
+<td>136 793</td>
+<td>125 500</td>
+<td>163 721</td>
+<td>198 545</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>60 500</td>
+<td>69 625</td>
+<td>87 685</td>
+<td>80 250</td>
+<td>92 675</td>
+<td>125 182</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>54 647</td>
+<td>62 750</td>
+<td>76 069</td>
+<td>72 358</td>
+<td>86 267</td>
+<td>94 877</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>66 520</td>
+<td>75 442</td>
+<td>110 984</td>
+<td>102 125</td>
+<td>145 448</td>
+<td>163 783</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 13.11.2019)</p>
+</div>

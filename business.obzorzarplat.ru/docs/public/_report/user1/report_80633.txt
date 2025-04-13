@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>18 000</td>
+<td>24 836</td>
+<td>30 662</td>
+<td>30 000</td>
+<td>38 996</td>
+<td>43 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2890&lang=0" target="_blank" class="job">Старший товаровед</a></td>
+<td>29 710</td>
+<td>32 286</td>
+<td>37 222</td>
+<td>36 000</td>
+<td>42 250</td>
+<td>50 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2183&lang=0" target="_blank" class="job">Товаровед</a></td>
+<td>23 900</td>
+<td>28 709</td>
+<td>32 977</td>
+<td>32 650</td>
+<td>37 750</td>
+<td>43 848</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>20 880</td>
+<td>33 622</td>
+<td>39 861</td>
+<td>41 500</td>
+<td>48 827</td>
+<td>57 603</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>12 500</td>
+<td>29 160</td>
+<td>32 872</td>
+<td>30 000</td>
+<td>40 000</td>
+<td>48 584</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>15 282</td>
+<td>24 262</td>
+<td>29 082</td>
+<td>30 000</td>
+<td>35 613</td>
+<td>41 975</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>26 000</td>
+<td>30 000</td>
+<td>32 394</td>
+<td>30 000</td>
+<td>35 800</td>
+<td>40 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>19 000</td>
+<td>28 555</td>
+<td>32 786</td>
+<td>35 297</td>
+<td>40 194</td>
+<td>43 750</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>41 220</td>
+<td>45 000</td>
+<td>69 125</td>
+<td>62 435</td>
+<td>84 179</td>
+<td>118 208</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1631&lang=0" target="_blank" class="job">Старший кладовщик</a></td>
+<td>18 700</td>
+<td>29 768</td>
+<td>35 277</td>
+<td>37 000</td>
+<td>44 471</td>
+<td>48 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2382&lang=0" target="_blank" class="job">Упаковщик</a></td>
+<td>24 950</td>
+<td>26 869</td>
+<td>32 313</td>
+<td>33 800</td>
+<td>38 600</td>
+<td>41 497</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>35 323</td>
+<td>38 312</td>
+<td>44 520</td>
+<td>46 750</td>
+<td>51 875</td>
+<td>55 867</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1338&lang=0" target="_blank" class="job">Контролер качества</a></td>
+<td>14 000</td>
+<td>22 000</td>
+<td>24 388</td>
+<td>25 000</td>
+<td>28 000</td>
+<td>30 161</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1894&lang=0" target="_blank" class="job">Энергетик</a></td>
+<td>29 100</td>
+<td>35 265</td>
+<td>40 681</td>
+<td>40 000</td>
+<td>48 750</td>
+<td>53 800</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>30 590</td>
+<td>34 084</td>
+<td>39 501</td>
+<td>40 000</td>
+<td>47 521</td>
+<td>49 381</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2890&lang=0" target="_blank" class="job">Старший товаровед</a></td>
+<td>35 610</td>
+<td>39 050</td>
+<td>45 849</td>
+<td>46 242</td>
+<td>54 413</td>
+<td>60 297</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2183&lang=0" target="_blank" class="job">Товаровед</a></td>
+<td>29 450</td>
+<td>33 694</td>
+<td>38 209</td>
+<td>36 850</td>
+<td>44 050</td>
+<td>50 490</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>32 200</td>
+<td>41 686</td>
+<td>51 147</td>
+<td>45 699</td>
+<td>65 105</td>
+<td>72 516</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>35 000</td>
+<td>35 729</td>
+<td>43 962</td>
+<td>43 000</td>
+<td>49 414</td>
+<td>59 833</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>28 754</td>
+<td>31 301</td>
+<td>37 214</td>
+<td>35 000</td>
+<td>44 878</td>
+<td>51 884</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>34 000</td>
+<td>38 475</td>
+<td>45 579</td>
+<td>45 000</td>
+<td>55 238</td>
+<td>60 600</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>29 500</td>
+<td>35 762</td>
+<td>41 061</td>
+<td>40 150</td>
+<td>48 617</td>
+<td>56 064</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>58 733</td>
+<td>68 950</td>
+<td>91 799</td>
+<td>81 030</td>
+<td>113 212</td>
+<td>144 507</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1631&lang=0" target="_blank" class="job">Старший кладовщик</a></td>
+<td>36 593</td>
+<td>39 352</td>
+<td>45 781</td>
+<td>47 000</td>
+<td>53 883</td>
+<td>59 604</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2382&lang=0" target="_blank" class="job">Упаковщик</a></td>
+<td>31 855</td>
+<td>33 748</td>
+<td>38 756</td>
+<td>37 959</td>
+<td>45 548</td>
+<td>51 819</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>40 335</td>
+<td>47 369</td>
+<td>56 965</td>
+<td>56 025</td>
+<td>68 419</td>
+<td>80 793</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1338&lang=0" target="_blank" class="job">Контролер качества</a></td>
+<td>25 860</td>
+<td>27 360</td>
+<td>32 200</td>
+<td>30 000</td>
+<td>37 000</td>
+<td>47 591</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1894&lang=0" target="_blank" class="job">Энергетик</a></td>
+<td>35 317</td>
+<td>38 729</td>
+<td>44 402</td>
+<td>44 167</td>
+<td>53 360</td>
+<td>56 080</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.01.2018)</p>
+</div>

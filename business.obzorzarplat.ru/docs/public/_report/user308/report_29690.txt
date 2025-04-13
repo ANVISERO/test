@@ -1,0 +1,488 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Воронеж</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1542&lang=0" target="_blank" class="job">Аппаратчик по приготовлению химреагентов</a></td>
+<td>13 359</td>
+<td>13 960</td>
+<td>17 383</td>
+<td>17 450</td>
+<td>19 544</td>
+<td>22 964</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>24 570</td>
+<td>30 014</td>
+<td>37 218</td>
+<td>34 900</td>
+<td>45 370</td>
+<td>50 144</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1961&lang=0" target="_blank" class="job">Ведущий инженер (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>20 940</td>
+<td>24 430</td>
+<td>28 488</td>
+<td>27 920</td>
+<td>34 899</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>26 923</td>
+<td>27 920</td>
+<td>33 387</td>
+<td>33 504</td>
+<td>38 390</td>
+<td>40 706</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1830&lang=0" target="_blank" class="job">Ведущий инженер по расчетам и режимам</a></td>
+<td>19 249</td>
+<td>20 940</td>
+<td>23 545</td>
+<td>23 609</td>
+<td>27 222</td>
+<td>28 620</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>26 980</td>
+<td>28 618</td>
+<td>34 352</td>
+<td>34 900</td>
+<td>38 390</td>
+<td>41 880</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>38 669</td>
+<td>47 464</td>
+<td>55 562</td>
+<td>55 840</td>
+<td>66 310</td>
+<td>69 800</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1962&lang=0" target="_blank" class="job">Главный специалист (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>24 033</td>
+<td>26 253</td>
+<td>29 680</td>
+<td>30 712</td>
+<td>33 504</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>28 967</td>
+<td>34 900</td>
+<td>42 330</td>
+<td>41 880</td>
+<td>50 135</td>
+<td>55 840</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>55 840</td>
+<td>69 800</td>
+<td>108 025</td>
+<td>104 700</td>
+<td>132 620</td>
+<td>175 896</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>24 430</td>
+<td>26 594</td>
+<td>32 016</td>
+<td>29 316</td>
+<td>34 900</td>
+<td>45 370</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1553&lang=0" target="_blank" class="job">Заместитель начальника цеха</a></td>
+<td>23 187</td>
+<td>29 633</td>
+<td>37 777</td>
+<td>38 390</td>
+<td>43 451</td>
+<td>53 320</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>20 940</td>
+<td>27 920</td>
+<td>33 137</td>
+<td>31 410</td>
+<td>39 088</td>
+<td>47 464</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>27 920</td>
+<td>31 410</td>
+<td>35 086</td>
+<td>34 202</td>
+<td>38 774</td>
+<td>42 438</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1963&lang=0" target="_blank" class="job">Инженер 1-ой категории (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>24 764</td>
+<td>27 920</td>
+<td>32 546</td>
+<td>31 968</td>
+<td>38 390</td>
+<td>41 542</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>18 706</td>
+<td>20 940</td>
+<td>26 299</td>
+<td>26 524</td>
+<td>30 084</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>13 960</td>
+<td>17 450</td>
+<td>22 856</td>
+<td>20 940</td>
+<td>27 920</td>
+<td>33 150</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>21 758</td>
+<td>25 389</td>
+<td>28 702</td>
+<td>27 920</td>
+<td>31 410</td>
+<td>35 197</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>23 767</td>
+<td>26 779</td>
+<td>31 277</td>
+<td>31 410</td>
+<td>34 900</td>
+<td>39 046</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1755&lang=0" target="_blank" class="job">Наполнитель тары</a></td>
+<td>11 866</td>
+<td>13 960</td>
+<td>16 621</td>
+<td>17 450</td>
+<td>19 544</td>
+<td>20 940</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1655&lang=0" target="_blank" class="job">Начальник химической лаборатории</a></td>
+<td>24 430</td>
+<td>27 920</td>
+<td>32 644</td>
+<td>31 410</td>
+<td>34 900</td>
+<td>41 880</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1542&lang=0" target="_blank" class="job">Аппаратчик по приготовлению химреагентов</a></td>
+<td>13 359</td>
+<td>18 148</td>
+<td>24 602</td>
+<td>23 034</td>
+<td>29 316</td>
+<td>37 622</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>24 570</td>
+<td>30 014</td>
+<td>48 870</td>
+<td>45 021</td>
+<td>61 145</td>
+<td>79 740</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1961&lang=0" target="_blank" class="job">Ведущий инженер (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>27 920</td>
+<td>34 202</td>
+<td>40 811</td>
+<td>40 484</td>
+<td>51 083</td>
+<td>54 363</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>29 067</td>
+<td>31 410</td>
+<td>42 200</td>
+<td>40 345</td>
+<td>51 365</td>
+<td>60 738</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1830&lang=0" target="_blank" class="job">Ведущий инженер по расчетам и режимам</a></td>
+<td>19 249</td>
+<td>21 838</td>
+<td>26 631</td>
+<td>27 099</td>
+<td>32 108</td>
+<td>34 801</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>26 980</td>
+<td>28 618</td>
+<td>38 715</td>
+<td>38 251</td>
+<td>46 068</td>
+<td>52 824</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>38 669</td>
+<td>63 780</td>
+<td>75 122</td>
+<td>76 955</td>
+<td>91 089</td>
+<td>105 224</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1962&lang=0" target="_blank" class="job">Главный специалист (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>24 033</td>
+<td>26 253</td>
+<td>35 758</td>
+<td>37 921</td>
+<td>43 974</td>
+<td>45 749</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>28 967</td>
+<td>34 900</td>
+<td>52 772</td>
+<td>47 988</td>
+<td>68 385</td>
+<td>86 420</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>62 820</td>
+<td>83 760</td>
+<td>190 734</td>
+<td>152 164</td>
+<td>269 242</td>
+<td>372 051</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>24 430</td>
+<td>26 594</td>
+<td>43 039</td>
+<td>39 786</td>
+<td>52 350</td>
+<td>71 650</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1553&lang=0" target="_blank" class="job">Заместитель начальника цеха</a></td>
+<td>23 187</td>
+<td>31 665</td>
+<td>45 506</td>
+<td>46 668</td>
+<td>55 888</td>
+<td>68 279</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>20 940</td>
+<td>33 155</td>
+<td>40 707</td>
+<td>39 088</td>
+<td>49 209</td>
+<td>63 867</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>27 920</td>
+<td>33 504</td>
+<td>45 235</td>
+<td>42 578</td>
+<td>56 224</td>
+<td>64 076</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1963&lang=0" target="_blank" class="job">Инженер 1-ой категории (Группа электрохимической защиты - ЭХЗ)</a></td>
+<td>24 764</td>
+<td>27 920</td>
+<td>37 455</td>
+<td>38 057</td>
+<td>46 716</td>
+<td>52 012</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>18 706</td>
+<td>20 940</td>
+<td>31 291</td>
+<td>29 316</td>
+<td>39 856</td>
+<td>48 162</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>13 960</td>
+<td>17 450</td>
+<td>28 482</td>
+<td>27 018</td>
+<td>37 279</td>
+<td>44 572</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>21 758</td>
+<td>25 389</td>
+<td>34 051</td>
+<td>34 263</td>
+<td>40 033</td>
+<td>45 667</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>23 767</td>
+<td>26 779</td>
+<td>36 130</td>
+<td>32 946</td>
+<td>45 180</td>
+<td>50 580</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1755&lang=0" target="_blank" class="job">Наполнитель тары</a></td>
+<td>11 866</td>
+<td>15 705</td>
+<td>19 469</td>
+<td>20 451</td>
+<td>23 243</td>
+<td>26 175</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1655&lang=0" target="_blank" class="job">Начальник химической лаборатории</a></td>
+<td>24 430</td>
+<td>31 061</td>
+<td>40 428</td>
+<td>39 466</td>
+<td>46 417</td>
+<td>56 119</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.09.2015)</p>
+</div>

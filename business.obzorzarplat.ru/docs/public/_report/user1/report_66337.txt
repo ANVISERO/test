@@ -1,0 +1,328 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2651&lang=0" target="_blank" class="job">Менеджер по логистике</a></td>
+<td>32 751</td>
+<td>39 000</td>
+<td>55 661</td>
+<td>55 500</td>
+<td>71 500</td>
+<td>84 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2649&lang=0" target="_blank" class="job">Начальник отдела логистики</a></td>
+<td>39 800</td>
+<td>45 000</td>
+<td>61 444</td>
+<td>52 000</td>
+<td>70 000</td>
+<td>93 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2102&lang=0" target="_blank" class="job">Начальник снабжения</a></td>
+<td>50 000</td>
+<td>56 250</td>
+<td>72 500</td>
+<td>75 000</td>
+<td>83 750</td>
+<td>95 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>35 600</td>
+<td>43 100</td>
+<td>53 450</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>71 520</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1959&lang=0" target="_blank" class="job">Ведущий инженер (Группа инженерных систем и коммуникаций)</a></td>
+<td>45 000</td>
+<td>47 000</td>
+<td>56 444</td>
+<td>54 000</td>
+<td>67 000</td>
+<td>71 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1958&lang=0" target="_blank" class="job">Ведущий инженер ВиК (внутренние инженерные коммуникации)</a></td>
+<td>41 500</td>
+<td>46 250</td>
+<td>56 143</td>
+<td>55 000</td>
+<td>67 250</td>
+<td>69 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>50 500</td>
+<td>55 000</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>65 000</td>
+<td>69 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1965&lang=0" target="_blank" class="job">Ведущий инженер систем связи (СС) и охранно-пожарной сигнализации (ОПС)</a></td>
+<td>33 000</td>
+<td>37 500</td>
+<td>46 571</td>
+<td>46 000</td>
+<td>52 500</td>
+<td>61 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>45 000</td>
+<td>46 500</td>
+<td>53 083</td>
+<td>52 500</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>39 000</td>
+<td>45 000</td>
+<td>50 429</td>
+<td>50 000</td>
+<td>56 500</td>
+<td>64 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>67 500</td>
+<td>72 500</td>
+<td>81 833</td>
+<td>83 000</td>
+<td>89 000</td>
+<td>95 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1466&lang=0" target="_blank" class="job">Начальник сметно-договорного отдела</a></td>
+<td>54 000</td>
+<td>62 500</td>
+<td>72 857</td>
+<td>70 000</td>
+<td>85 000</td>
+<td>94 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1536&lang=0" target="_blank" class="job">Специалист тендерного отдела</a></td>
+<td>29 200</td>
+<td>32 500</td>
+<td>37 714</td>
+<td>36 000</td>
+<td>42 500</td>
+<td>47 000</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2651&lang=0" target="_blank" class="job">Менеджер по логистике</a></td>
+<td>42 858</td>
+<td>51 248</td>
+<td>79 594</td>
+<td>72 500</td>
+<td>107 250</td>
+<td>125 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2649&lang=0" target="_blank" class="job">Начальник отдела логистики</a></td>
+<td>67 140</td>
+<td>76 753</td>
+<td>88 260</td>
+<td>90 500</td>
+<td>100 500</td>
+<td>103 212</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2102&lang=0" target="_blank" class="job">Начальник снабжения</a></td>
+<td>68 670</td>
+<td>73 968</td>
+<td>97 028</td>
+<td>98 400</td>
+<td>114 750</td>
+<td>127 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>46 460</td>
+<td>54 800</td>
+<td>71 775</td>
+<td>65 500</td>
+<td>80 500</td>
+<td>113 980</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1959&lang=0" target="_blank" class="job">Ведущий инженер (Группа инженерных систем и коммуникаций)</a></td>
+<td>61 200</td>
+<td>63 000</td>
+<td>73 859</td>
+<td>69 550</td>
+<td>80 000</td>
+<td>91 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1958&lang=0" target="_blank" class="job">Ведущий инженер ВиК (внутренние инженерные коммуникации)</a></td>
+<td>67 610</td>
+<td>72 062</td>
+<td>74 972</td>
+<td>74 000</td>
+<td>80 342</td>
+<td>82 267</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>68 700</td>
+<td>70 500</td>
+<td>74 483</td>
+<td>73 350</td>
+<td>78 000</td>
+<td>82 680</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1965&lang=0" target="_blank" class="job">Ведущий инженер систем связи (СС) и охранно-пожарной сигнализации (ОПС)</a></td>
+<td>52 100</td>
+<td>56 750</td>
+<td>65 904</td>
+<td>60 580</td>
+<td>71 000</td>
+<td>81 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>60 500</td>
+<td>61 250</td>
+<td>71 551</td>
+<td>72 042</td>
+<td>80 125</td>
+<td>80 680</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1903&lang=0" target="_blank" class="job">Инженер-проектировщик</a></td>
+<td>51 000</td>
+<td>52 725</td>
+<td>61 352</td>
+<td>58 850</td>
+<td>69 334</td>
+<td>75 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>113 850</td>
+<td>122 042</td>
+<td>129 470</td>
+<td>128 834</td>
+<td>135 562</td>
+<td>145 725</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1466&lang=0" target="_blank" class="job">Начальник сметно-договорного отдела</a></td>
+<td>78 903</td>
+<td>81 975</td>
+<td>99 017</td>
+<td>90 500</td>
+<td>112 567</td>
+<td>134 280</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1536&lang=0" target="_blank" class="job">Специалист тендерного отдела</a></td>
+<td>41 550</td>
+<td>45 725</td>
+<td>51 655</td>
+<td>51 500</td>
+<td>58 417</td>
+<td>60 820</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 09.02.2017)</p>
+</div>

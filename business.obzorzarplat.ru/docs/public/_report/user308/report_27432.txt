@@ -1,0 +1,428 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Брянск</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1545&lang=0" target="_blank" class="job">Водолаз</a></td>
+<td>14 238</td>
+<td>15 563</td>
+<td>19 149</td>
+<td>18 238</td>
+<td>19 569</td>
+<td>26 903</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1974&lang=0" target="_blank" class="job">Геофизик</a></td>
+<td>19 554</td>
+<td>24 718</td>
+<td>29 424</td>
+<td>32 000</td>
+<td>34 525</td>
+<td>38 016</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>34 916</td>
+<td>37 745</td>
+<td>41 854</td>
+<td>42 144</td>
+<td>47 622</td>
+<td>51 606</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1513&lang=0" target="_blank" class="job">Главный гидролог</a></td>
+<td>34 816</td>
+<td>38 400</td>
+<td>51 016</td>
+<td>51 200</td>
+<td>60 574</td>
+<td>73 726</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>35 456</td>
+<td>43 520</td>
+<td>50 945</td>
+<td>51 200</td>
+<td>60 800</td>
+<td>64 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>25 229</td>
+<td>31 747</td>
+<td>39 456</td>
+<td>37 326</td>
+<td>48 664</td>
+<td>58 201</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>19 200</td>
+<td>25 600</td>
+<td>30 384</td>
+<td>28 800</td>
+<td>35 840</td>
+<td>43 520</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>9 303</td>
+<td>10 742</td>
+<td>13 571</td>
+<td>12 357</td>
+<td>14 994</td>
+<td>19 615</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1364&lang=0" target="_blank" class="job">Инженер-геодезист</a></td>
+<td>25 686</td>
+<td>27 075</td>
+<td>31 714</td>
+<td>29 184</td>
+<td>38 704</td>
+<td>41 190</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1519&lang=0" target="_blank" class="job">Инженер-геолог</a></td>
+<td>19 712</td>
+<td>24 993</td>
+<td>30 307</td>
+<td>32 000</td>
+<td>37 976</td>
+<td>41 600</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1521&lang=0" target="_blank" class="job">Инженер-гидролог</a></td>
+<td>19 347</td>
+<td>21 968</td>
+<td>25 395</td>
+<td>22 681</td>
+<td>31 912</td>
+<td>37 454</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1520&lang=0" target="_blank" class="job">Инженер-гидрометеоролог</a></td>
+<td>22 579</td>
+<td>23 952</td>
+<td>29 495</td>
+<td>32 000</td>
+<td>35 840</td>
+<td>38 112</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>16 115</td>
+<td>16 960</td>
+<td>19 754</td>
+<td>18 335</td>
+<td>23 374</td>
+<td>26 430</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>19 200</td>
+<td>22 400</td>
+<td>25 082</td>
+<td>25 312</td>
+<td>28 928</td>
+<td>31 904</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>19 200</td>
+<td>20 436</td>
+<td>25 751</td>
+<td>25 600</td>
+<td>28 800</td>
+<td>32 896</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>15 104</td>
+<td>19 200</td>
+<td>23 001</td>
+<td>22 400</td>
+<td>26 080</td>
+<td>31 040</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1948&lang=0" target="_blank" class="job">Начальник отдела инженерных изысканий</a></td>
+<td>28 246</td>
+<td>38 664</td>
+<td>43 344</td>
+<td>45 440</td>
+<td>50 353</td>
+<td>58 440</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>21 887</td>
+<td>34 468</td>
+<td>43 901</td>
+<td>44 800</td>
+<td>54 450</td>
+<td>62 024</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1545&lang=0" target="_blank" class="job">Водолаз</a></td>
+<td>19 362</td>
+<td>23 499</td>
+<td>29 252</td>
+<td>27 561</td>
+<td>31 454</td>
+<td>41 725</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1974&lang=0" target="_blank" class="job">Геофизик</a></td>
+<td>19 554</td>
+<td>24 718</td>
+<td>30 092</td>
+<td>32 304</td>
+<td>35 739</td>
+<td>39 678</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>34 916</td>
+<td>39 830</td>
+<td>47 064</td>
+<td>47 091</td>
+<td>55 713</td>
+<td>61 459</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1513&lang=0" target="_blank" class="job">Главный гидролог</a></td>
+<td>34 816</td>
+<td>39 878</td>
+<td>53 263</td>
+<td>53 760</td>
+<td>63 742</td>
+<td>77 188</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>35 456</td>
+<td>58 480</td>
+<td>68 880</td>
+<td>70 560</td>
+<td>83 520</td>
+<td>96 480</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>25 229</td>
+<td>32 236</td>
+<td>45 472</td>
+<td>45 486</td>
+<td>57 624</td>
+<td>67 539</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>19 200</td>
+<td>30 400</td>
+<td>37 325</td>
+<td>35 840</td>
+<td>45 120</td>
+<td>58 560</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>12 778</td>
+<td>16 140</td>
+<td>20 946</td>
+<td>18 725</td>
+<td>24 349</td>
+<td>32 087</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1364&lang=0" target="_blank" class="job">Инженер-геодезист</a></td>
+<td>25 686</td>
+<td>27 075</td>
+<td>33 928</td>
+<td>32 335</td>
+<td>42 511</td>
+<td>45 171</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1519&lang=0" target="_blank" class="job">Инженер-геолог</a></td>
+<td>19 712</td>
+<td>24 993</td>
+<td>31 445</td>
+<td>32 000</td>
+<td>40 376</td>
+<td>44 384</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1521&lang=0" target="_blank" class="job">Инженер-гидролог</a></td>
+<td>19 347</td>
+<td>23 964</td>
+<td>33 681</td>
+<td>32 501</td>
+<td>44 539</td>
+<td>51 395</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1520&lang=0" target="_blank" class="job">Инженер-гидрометеоролог</a></td>
+<td>23 033</td>
+<td>31 698</td>
+<td>37 524</td>
+<td>41 600</td>
+<td>46 369</td>
+<td>49 792</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>16 115</td>
+<td>16 960</td>
+<td>27 320</td>
+<td>26 564</td>
+<td>36 236</td>
+<td>42 107</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>19 200</td>
+<td>22 400</td>
+<td>28 007</td>
+<td>27 164</td>
+<td>34 750</td>
+<td>39 488</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>19 200</td>
+<td>20 436</td>
+<td>28 767</td>
+<td>28 640</td>
+<td>34 623</td>
+<td>39 680</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>15 104</td>
+<td>19 200</td>
+<td>26 963</td>
+<td>25 600</td>
+<td>32 750</td>
+<td>39 507</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1948&lang=0" target="_blank" class="job">Начальник отдела инженерных изысканий</a></td>
+<td>28 246</td>
+<td>38 664</td>
+<td>43 344</td>
+<td>45 440</td>
+<td>50 353</td>
+<td>58 440</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>21 887</td>
+<td>37 146</td>
+<td>56 270</td>
+<td>53 813</td>
+<td>71 132</td>
+<td>95 322</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.08.2015)</p>
+</div>

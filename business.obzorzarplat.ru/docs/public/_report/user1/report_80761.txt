@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2282&lang=0" target="_blank" class="job">SMM-менеджер</a></td>
+<td>30 000</td>
+<td>34 446</td>
+<td>40 592</td>
+<td>41 250</td>
+<td>48 500</td>
+<td>52 742</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>40 000</td>
+<td>57 353</td>
+<td>81 733</td>
+<td>82 500</td>
+<td>101 500</td>
+<td>129 952</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>100 978</td>
+<td>115 547</td>
+<td>165 507</td>
+<td>162 500</td>
+<td>209 379</td>
+<td>247 995</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>98 800</td>
+<td>130 215</td>
+<td>165 649</td>
+<td>160 000</td>
+<td>203 169</td>
+<td>245 953</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2648&lang=0" target="_blank" class="job">Менеджер по ассортиментной логистике</a></td>
+<td>32 957</td>
+<td>37 543</td>
+<td>43 290</td>
+<td>42 998</td>
+<td>53 012</td>
+<td>57 647</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>30 000</td>
+<td>35 621</td>
+<td>50 095</td>
+<td>40 000</td>
+<td>54 043</td>
+<td>79 359</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td>62 500</td>
+<td>69 798</td>
+<td>85 674</td>
+<td>85 000</td>
+<td>101 638</td>
+<td>121 167</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1921&lang=0" target="_blank" class="job">Начальник отдела развития</a></td>
+<td>52 000</td>
+<td>69 319</td>
+<td>85 363</td>
+<td>85 000</td>
+<td>106 746</td>
+<td>126 055</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>32 870</td>
+<td>43 350</td>
+<td>54 365</td>
+<td>57 043</td>
+<td>67 750</td>
+<td>72 998</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>64 230</td>
+<td>90 615</td>
+<td>114 095</td>
+<td>113 903</td>
+<td>148 095</td>
+<td>167 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>34 904</td>
+<td>38 730</td>
+<td>43 054</td>
+<td>41 615</td>
+<td>49 285</td>
+<td>55 600</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1943&lang=0" target="_blank" class="job">Специалист по рекламе</a></td>
+<td>28 436</td>
+<td>33 596</td>
+<td>39 224</td>
+<td>39 000</td>
+<td>47 960</td>
+<td>53 550</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>21 200</td>
+<td>26 290</td>
+<td>30 328</td>
+<td>30 000</td>
+<td>35 950</td>
+<td>44 536</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1310&lang=0" target="_blank" class="job">Торговый представитель</a></td>
+<td>25 650</td>
+<td>30 000</td>
+<td>32 799</td>
+<td>30 000</td>
+<td>33 275</td>
+<td>44 250</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2282&lang=0" target="_blank" class="job">SMM-менеджер</a></td>
+<td>34 800</td>
+<td>46 101</td>
+<td>59 289</td>
+<td>58 067</td>
+<td>73 559</td>
+<td>85 894</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>51 500</td>
+<td>70 175</td>
+<td>99 223</td>
+<td>97 850</td>
+<td>122 197</td>
+<td>143 532</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>146 292</td>
+<td>165 234</td>
+<td>254 827</td>
+<td>248 162</td>
+<td>331 860</td>
+<td>394 580</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>126 680</td>
+<td>186 962</td>
+<td>225 315</td>
+<td>236 867</td>
+<td>281 483</td>
+<td>331 903</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2648&lang=0" target="_blank" class="job">Менеджер по ассортиментной логистике</a></td>
+<td>44 695</td>
+<td>52 310</td>
+<td>62 348</td>
+<td>62 924</td>
+<td>76 601</td>
+<td>85 450</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>42 888</td>
+<td>55 808</td>
+<td>89 291</td>
+<td>81 125</td>
+<td>115 106</td>
+<td>151 157</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td>89 225</td>
+<td>95 371</td>
+<td>118 567</td>
+<td>108 865</td>
+<td>145 949</td>
+<td>166 696</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1921&lang=0" target="_blank" class="job">Начальник отдела развития</a></td>
+<td>64 466</td>
+<td>89 790</td>
+<td>110 572</td>
+<td>114 167</td>
+<td>138 270</td>
+<td>155 306</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>42 225</td>
+<td>52 436</td>
+<td>67 307</td>
+<td>66 409</td>
+<td>82 818</td>
+<td>96 071</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>110 070</td>
+<td>151 288</td>
+<td>184 344</td>
+<td>191 780</td>
+<td>224 708</td>
+<td>261 451</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>43 341</td>
+<td>49 713</td>
+<td>55 317</td>
+<td>58 733</td>
+<td>62 433</td>
+<td>67 835</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1943&lang=0" target="_blank" class="job">Специалист по рекламе</a></td>
+<td>37 154</td>
+<td>47 217</td>
+<td>55 649</td>
+<td>55 392</td>
+<td>66 271</td>
+<td>78 926</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>29 713</td>
+<td>30 696</td>
+<td>43 208</td>
+<td>36 548</td>
+<td>55 046</td>
+<td>67 110</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1310&lang=0" target="_blank" class="job">Торговый представитель</a></td>
+<td>46 195</td>
+<td>63 086</td>
+<td>72 536</td>
+<td>68 345</td>
+<td>83 851</td>
+<td>95 350</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.01.2018)</p>
+</div>

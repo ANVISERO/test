@@ -1,0 +1,528 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1667&lang=0" target="_blank" class="job">Мастер по ремонту</a></td>
+<td>17 979</td>
+<td>19 586</td>
+<td>22 199</td>
+<td>21 805</td>
+<td>23 874</td>
+<td>25 514</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2024&lang=0" target="_blank" class="job">Машинист автомобильного крана</a></td>
+<td>25 057</td>
+<td>26 689</td>
+<td>33 631</td>
+<td>36 279</td>
+<td>39 902</td>
+<td>40 142</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1568&lang=0" target="_blank" class="job">Машинист береговых насосных станций</a></td>
+<td>8 308</td>
+<td>8 506</td>
+<td>8 698</td>
+<td>8 534</td>
+<td>9 074</td>
+<td>9 468</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1819&lang=0" target="_blank" class="job">Машинист блочной системы управления агрегатами</a></td>
+<td>19 908</td>
+<td>19 908</td>
+<td>20 094</td>
+<td>19 908</td>
+<td>20 609</td>
+<td>20 609</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1344&lang=0" target="_blank" class="job">Машинист бульдозера</a></td>
+<td>19 375</td>
+<td>22 997</td>
+<td>29 545</td>
+<td>27 002</td>
+<td>33 064</td>
+<td>45 360</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1570&lang=0" target="_blank" class="job">Машинист гидроагрегатов</a></td>
+<td>8 048</td>
+<td>8 981</td>
+<td>9 526</td>
+<td>9 598</td>
+<td>9 946</td>
+<td>10 841</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1571&lang=0" target="_blank" class="job">Машинист компрессора передвижного с двигателем внутреннего сгорания</a></td>
+<td>10 719</td>
+<td>11 365</td>
+<td>12 905</td>
+<td>13 040</td>
+<td>13 986</td>
+<td>15 101</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1572&lang=0" target="_blank" class="job">Машинист компрессорных установок </a></td>
+<td>10 189</td>
+<td>10 965</td>
+<td>12 496</td>
+<td>12 414</td>
+<td>14 023</td>
+<td>14 820</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1573&lang=0" target="_blank" class="job">Машинист котлов</a></td>
+<td>10 448</td>
+<td>11 487</td>
+<td>12 958</td>
+<td>12 966</td>
+<td>15 009</td>
+<td>15 717</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>11 974</td>
+<td>13 185</td>
+<td>17 403</td>
+<td>14 966</td>
+<td>19 184</td>
+<td>26 664</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2025&lang=0" target="_blank" class="job">Машинист мостового крана</a></td>
+<td>19 841</td>
+<td>21 036</td>
+<td>23 887</td>
+<td>24 138</td>
+<td>25 888</td>
+<td>27 952</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1575&lang=0" target="_blank" class="job">Машинист насосных установок</a></td>
+<td>8 529</td>
+<td>8 807</td>
+<td>11 236</td>
+<td>11 139</td>
+<td>12 402</td>
+<td>14 738</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1577&lang=0" target="_blank" class="job">Машинист паровых турбин</a></td>
+<td>10 339</td>
+<td>12 966</td>
+<td>13 185</td>
+<td>13 345</td>
+<td>13 655</td>
+<td>15 041</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1754&lang=0" target="_blank" class="job">Машинист по стирке и ремонту спецодежды</a></td>
+<td>6 337</td>
+<td>6 925</td>
+<td>7 501</td>
+<td>7 667</td>
+<td>7 923</td>
+<td>8 536</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1578&lang=0" target="_blank" class="job">Машинист тепловоза </a></td>
+<td>12 625</td>
+<td>14 011</td>
+<td>17 750</td>
+<td>15 213</td>
+<td>19 061</td>
+<td>28 607</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1579&lang=0" target="_blank" class="job">Машинист топливоподачи </a></td>
+<td>9 603</td>
+<td>14 000</td>
+<td>17 711</td>
+<td>17 989</td>
+<td>23 178</td>
+<td>25 128</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1580&lang=0" target="_blank" class="job">Машинист центрального теплового щита управления котлами</a></td>
+<td>12 224</td>
+<td>12 354</td>
+<td>13 340</td>
+<td>12 739</td>
+<td>14 644</td>
+<td>14 747</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1581&lang=0" target="_blank" class="job">Машинист центрального теплового щита управления паровыми турбинами</a></td>
+<td>13 855</td>
+<td>14 425</td>
+<td>15 090</td>
+<td>14 757</td>
+<td>15 991</td>
+<td>16 847</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>15 998</td>
+<td>17 808</td>
+<td>21 781</td>
+<td>19 781</td>
+<td>23 337</td>
+<td>26 900</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1583&lang=0" target="_blank" class="job">Машинист энергоблока</a></td>
+<td>18 005</td>
+<td>19 305</td>
+<td>19 116</td>
+<td>19 305</td>
+<td>19 475</td>
+<td>19 646</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1822&lang=0" target="_blank" class="job">Машинист-обходчик по вспомогательному оборудованию</a></td>
+<td>13 990</td>
+<td>16 362</td>
+<td>16 268</td>
+<td>16 362</td>
+<td>16 362</td>
+<td>18 015</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1584&lang=0" target="_blank" class="job">Машинист-обходчик по котельному оборудованию</a></td>
+<td>10 508</td>
+<td>11 207</td>
+<td>12 863</td>
+<td>12 846</td>
+<td>14 230</td>
+<td>15 868</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1585&lang=0" target="_blank" class="job">Машинист-обходчик по турбинному оборудованию</a></td>
+<td>10 190</td>
+<td>10 349</td>
+<td>12 504</td>
+<td>12 080</td>
+<td>14 641</td>
+<td>15 854</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1667&lang=0" target="_blank" class="job">Мастер по ремонту</a></td>
+<td>30 891</td>
+<td>33 129</td>
+<td>37 562</td>
+<td>37 756</td>
+<td>41 251</td>
+<td>43 544</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2024&lang=0" target="_blank" class="job">Машинист автомобильного крана</a></td>
+<td>25 057</td>
+<td>26 689</td>
+<td>33 631</td>
+<td>36 279</td>
+<td>39 902</td>
+<td>40 142</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1568&lang=0" target="_blank" class="job">Машинист береговых насосных станций</a></td>
+<td>15 230</td>
+<td>15 771</td>
+<td>17 519</td>
+<td>17 486</td>
+<td>19 179</td>
+<td>19 363</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1819&lang=0" target="_blank" class="job">Машинист блочной системы управления агрегатами</a></td>
+<td>41 058</td>
+<td>43 845</td>
+<td>44 597</td>
+<td>44 840</td>
+<td>46 418</td>
+<td>46 418</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1344&lang=0" target="_blank" class="job">Машинист бульдозера</a></td>
+<td>35 160</td>
+<td>35 404</td>
+<td>47 150</td>
+<td>46 936</td>
+<td>47 370</td>
+<td>70 744</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1570&lang=0" target="_blank" class="job">Машинист гидроагрегатов</a></td>
+<td>14 188</td>
+<td>15 593</td>
+<td>16 795</td>
+<td>16 921</td>
+<td>17 774</td>
+<td>19 111</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1571&lang=0" target="_blank" class="job">Машинист компрессора передвижного с двигателем внутреннего сгорания</a></td>
+<td>18 774</td>
+<td>19 904</td>
+<td>22 602</td>
+<td>22 839</td>
+<td>24 495</td>
+<td>26 448</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1572&lang=0" target="_blank" class="job">Машинист компрессорных установок </a></td>
+<td>16 552</td>
+<td>17 596</td>
+<td>19 005</td>
+<td>17 727</td>
+<td>22 242</td>
+<td>23 585</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1573&lang=0" target="_blank" class="job">Машинист котлов</a></td>
+<td>21 771</td>
+<td>23 817</td>
+<td>27 829</td>
+<td>29 089</td>
+<td>31 455</td>
+<td>33 811</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1574&lang=0" target="_blank" class="job">Машинист крана</a></td>
+<td>21 168</td>
+<td>21 361</td>
+<td>27 736</td>
+<td>24 138</td>
+<td>29 685</td>
+<td>47 000</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2025&lang=0" target="_blank" class="job">Машинист мостового крана</a></td>
+<td>19 841</td>
+<td>21 036</td>
+<td>23 887</td>
+<td>24 138</td>
+<td>25 888</td>
+<td>27 952</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1575&lang=0" target="_blank" class="job">Машинист насосных установок</a></td>
+<td>17 092</td>
+<td>17 661</td>
+<td>20 871</td>
+<td>20 230</td>
+<td>21 855</td>
+<td>25 924</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1577&lang=0" target="_blank" class="job">Машинист паровых турбин</a></td>
+<td>22 848</td>
+<td>26 884</td>
+<td>28 048</td>
+<td>28 045</td>
+<td>30 047</td>
+<td>31 755</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1754&lang=0" target="_blank" class="job">Машинист по стирке и ремонту спецодежды</a></td>
+<td>10 670</td>
+<td>11 154</td>
+<td>12 997</td>
+<td>12 957</td>
+<td>14 735</td>
+<td>15 620</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1578&lang=0" target="_blank" class="job">Машинист тепловоза </a></td>
+<td>23 630</td>
+<td>25 671</td>
+<td>32 494</td>
+<td>29 287</td>
+<td>34 894</td>
+<td>46 998</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1579&lang=0" target="_blank" class="job">Машинист топливоподачи </a></td>
+<td>19 537</td>
+<td>24 058</td>
+<td>30 417</td>
+<td>32 703</td>
+<td>36 492</td>
+<td>40 021</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1580&lang=0" target="_blank" class="job">Машинист центрального теплового щита управления котлами</a></td>
+<td>22 441</td>
+<td>22 998</td>
+<td>26 403</td>
+<td>25 834</td>
+<td>30 994</td>
+<td>31 960</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1581&lang=0" target="_blank" class="job">Машинист центрального теплового щита управления паровыми турбинами</a></td>
+<td>25 586</td>
+<td>27 698</td>
+<td>29 317</td>
+<td>29 120</td>
+<td>31 506</td>
+<td>32 622</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1582&lang=0" target="_blank" class="job">Машинист экскаватора </a></td>
+<td>29 315</td>
+<td>29 425</td>
+<td>34 651</td>
+<td>35 076</td>
+<td>35 448</td>
+<td>47 106</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1583&lang=0" target="_blank" class="job">Машинист энергоблока</a></td>
+<td>30 501</td>
+<td>39 318</td>
+<td>38 685</td>
+<td>40 301</td>
+<td>41 368</td>
+<td>42 418</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1822&lang=0" target="_blank" class="job">Машинист-обходчик по вспомогательному оборудованию</a></td>
+<td>27 415</td>
+<td>31 574</td>
+<td>31 879</td>
+<td>31 574</td>
+<td>33 210</td>
+<td>35 303</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1584&lang=0" target="_blank" class="job">Машинист-обходчик по котельному оборудованию</a></td>
+<td>21 009</td>
+<td>23 853</td>
+<td>26 845</td>
+<td>26 648</td>
+<td>28 615</td>
+<td>32 903</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1585&lang=0" target="_blank" class="job">Машинист-обходчик по турбинному оборудованию</a></td>
+<td>20 570</td>
+<td>21 657</td>
+<td>25 686</td>
+<td>24 772</td>
+<td>28 075</td>
+<td>33 318</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.09.2012)</p>
+</div>

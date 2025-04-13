@@ -1,0 +1,548 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>34 000</td>
+<td>40 000</td>
+<td>46 583</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>60 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>48 000</td>
+<td>55 000</td>
+<td>72 143</td>
+<td>75 000</td>
+<td>87 500</td>
+<td>97 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1791&lang=0" target="_blank" class="job">Главный специалист отдела стратегического планирования</a></td>
+<td>53 600</td>
+<td>61 250</td>
+<td>81 200</td>
+<td>79 000</td>
+<td>97 500</td>
+<td>115 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1811&lang=0" target="_blank" class="job">Главный специалист по планированию</a></td>
+<td>34 600</td>
+<td>42 000</td>
+<td>47 667</td>
+<td>45 000</td>
+<td>55 000</td>
+<td>61 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>105 400</td>
+<td>133 000</td>
+<td>175 250</td>
+<td>175 000</td>
+<td>211 250</td>
+<td>251 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2709&lang=0" target="_blank" class="job">Заместитель директора по развитию</a></td>
+<td>71 800</td>
+<td>76 500</td>
+<td>96 143</td>
+<td>90 000</td>
+<td>115 000</td>
+<td>124 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2612&lang=0" target="_blank" class="job">Заместитель начальника отдела бизнес-планирования</a></td>
+<td>50 500</td>
+<td>54 750</td>
+<td>65 500</td>
+<td>64 000</td>
+<td>75 500</td>
+<td>82 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>27 400</td>
+<td>30 500</td>
+<td>35 643</td>
+<td>35 000</td>
+<td>41 750</td>
+<td>44 100</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1469&lang=0" target="_blank" class="job">Менеджер инвестиционного проекта</a></td>
+<td>39 200</td>
+<td>40 000</td>
+<td>47 929</td>
+<td>50 000</td>
+<td>53 750</td>
+<td>57 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2121&lang=0" target="_blank" class="job">Менеджер по планированию</a></td>
+<td>33 800</td>
+<td>37 500</td>
+<td>45 071</td>
+<td>45 000</td>
+<td>52 500</td>
+<td>56 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>41 500</td>
+<td>46 250</td>
+<td>79 929</td>
+<td>80 000</td>
+<td>110 000</td>
+<td>122 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2687&lang=0" target="_blank" class="job">Менеджер по региональному развитию</a></td>
+<td>52 000</td>
+<td>67 500</td>
+<td>88 143</td>
+<td>85 000</td>
+<td>113 500</td>
+<td>125 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>45 000</td>
+<td>47 500</td>
+<td>55 714</td>
+<td>55 000</td>
+<td>62 500</td>
+<td>67 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2611&lang=0" target="_blank" class="job">Начальник отдела бизнес-планирования</a></td>
+<td>66 000</td>
+<td>72 500</td>
+<td>83 571</td>
+<td>80 000</td>
+<td>95 000</td>
+<td>104 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1921&lang=0" target="_blank" class="job">Начальник отдела развития</a></td>
+<td>55 000</td>
+<td>66 250</td>
+<td>90 833</td>
+<td>92 500</td>
+<td>115 000</td>
+<td>125 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1792&lang=0" target="_blank" class="job">Начальник отдела стратегического планирования</a></td>
+<td>58 000</td>
+<td>65 000</td>
+<td>87 857</td>
+<td>85 000</td>
+<td>110 000</td>
+<td>119 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1789&lang=0" target="_blank" class="job">Начальник управления проектами</a></td>
+<td>72 200</td>
+<td>88 500</td>
+<td>123 143</td>
+<td>120 000</td>
+<td>160 000</td>
+<td>174 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2686&lang=0" target="_blank" class="job">Региональный менеджер по развитию</a></td>
+<td>56 000</td>
+<td>65 000</td>
+<td>85 714</td>
+<td>85 000</td>
+<td>107 500</td>
+<td>117 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2270&lang=0" target="_blank" class="job">Риск-менеджер</a></td>
+<td>38 600</td>
+<td>40 000</td>
+<td>45 500</td>
+<td>45 000</td>
+<td>48 000</td>
+<td>52 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2745&lang=0" target="_blank" class="job">Руководитель отдела проектов</a></td>
+<td>48 500</td>
+<td>65 000</td>
+<td>88 750</td>
+<td>92 500</td>
+<td>112 500</td>
+<td>123 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>53 000</td>
+<td>57 500</td>
+<td>70 000</td>
+<td>70 000</td>
+<td>82 500</td>
+<td>87 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>53 000</td>
+<td>56 000</td>
+<td>62 714</td>
+<td>62 000</td>
+<td>70 000</td>
+<td>73 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>60 000</td>
+<td>67 500</td>
+<td>77 500</td>
+<td>77 500</td>
+<td>87 500</td>
+<td>95 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2002&lang=0" target="_blank" class="job">Специалист по стандартизации</a></td>
+<td>30 600</td>
+<td>32 000</td>
+<td>37 429</td>
+<td>35 000</td>
+<td>42 500</td>
+<td>46 200</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>40 200</td>
+<td>47 917</td>
+<td>61 556</td>
+<td>51 250</td>
+<td>70 917</td>
+<td>92 183</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>51 800</td>
+<td>62 500</td>
+<td>90 994</td>
+<td>86 250</td>
+<td>112 438</td>
+<td>142 458</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1791&lang=0" target="_blank" class="job">Главный специалист отдела стратегического планирования</a></td>
+<td>66 595</td>
+<td>76 913</td>
+<td>106 624</td>
+<td>98 000</td>
+<td>114 625</td>
+<td>171 471</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1811&lang=0" target="_blank" class="job">Главный специалист по планированию</a></td>
+<td>41 209</td>
+<td>46 000</td>
+<td>62 036</td>
+<td>64 500</td>
+<td>66 617</td>
+<td>93 183</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>151 763</td>
+<td>204 809</td>
+<td>296 273</td>
+<td>262 500</td>
+<td>420 817</td>
+<td>455 992</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2709&lang=0" target="_blank" class="job">Заместитель директора по развитию</a></td>
+<td>94 233</td>
+<td>103 000</td>
+<td>163 137</td>
+<td>151 500</td>
+<td>214 271</td>
+<td>257 733</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2612&lang=0" target="_blank" class="job">Заместитель начальника отдела бизнес-планирования</a></td>
+<td>58 115</td>
+<td>66 172</td>
+<td>78 523</td>
+<td>78 184</td>
+<td>93 092</td>
+<td>99 271</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2214&lang=0" target="_blank" class="job">Координатор отдела</a></td>
+<td>33 550</td>
+<td>38 459</td>
+<td>45 831</td>
+<td>46 229</td>
+<td>53 517</td>
+<td>57 455</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1469&lang=0" target="_blank" class="job">Менеджер инвестиционного проекта</a></td>
+<td>44 004</td>
+<td>54 504</td>
+<td>71 846</td>
+<td>68 333</td>
+<td>85 292</td>
+<td>104 125</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2121&lang=0" target="_blank" class="job">Менеджер по планированию</a></td>
+<td>39 629</td>
+<td>43 719</td>
+<td>57 881</td>
+<td>56 250</td>
+<td>71 063</td>
+<td>81 350</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>48 185</td>
+<td>60 321</td>
+<td>93 770</td>
+<td>87 667</td>
+<td>125 000</td>
+<td>150 133</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2687&lang=0" target="_blank" class="job">Менеджер по региональному развитию</a></td>
+<td>63 933</td>
+<td>82 500</td>
+<td>116 113</td>
+<td>118 208</td>
+<td>150 109</td>
+<td>161 293</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>56 138</td>
+<td>65 465</td>
+<td>91 284</td>
+<td>87 958</td>
+<td>111 459</td>
+<td>129 223</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2611&lang=0" target="_blank" class="job">Начальник отдела бизнес-планирования</a></td>
+<td>96 000</td>
+<td>100 042</td>
+<td>124 393</td>
+<td>117 167</td>
+<td>143 417</td>
+<td>167 067</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1921&lang=0" target="_blank" class="job">Начальник отдела развития</a></td>
+<td>70 646</td>
+<td>88 021</td>
+<td>113 674</td>
+<td>116 958</td>
+<td>141 458</td>
+<td>153 417</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1792&lang=0" target="_blank" class="job">Начальник отдела стратегического планирования</a></td>
+<td>71 533</td>
+<td>81 417</td>
+<td>116 166</td>
+<td>110 396</td>
+<td>145 942</td>
+<td>174 887</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1789&lang=0" target="_blank" class="job">Начальник управления проектами</a></td>
+<td>93 749</td>
+<td>105 881</td>
+<td>167 444</td>
+<td>152 500</td>
+<td>227 184</td>
+<td>261 420</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2686&lang=0" target="_blank" class="job">Региональный менеджер по развитию</a></td>
+<td>69 467</td>
+<td>80 717</td>
+<td>103 509</td>
+<td>106 333</td>
+<td>119 317</td>
+<td>138 100</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2270&lang=0" target="_blank" class="job">Риск-менеджер</a></td>
+<td>43 683</td>
+<td>45 750</td>
+<td>49 418</td>
+<td>47 800</td>
+<td>53 000</td>
+<td>57 300</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2745&lang=0" target="_blank" class="job">Руководитель отдела проектов</a></td>
+<td>74 117</td>
+<td>91 729</td>
+<td>111 990</td>
+<td>111 000</td>
+<td>132 200</td>
+<td>151 970</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>68 742</td>
+<td>73 729</td>
+<td>91 262</td>
+<td>89 167</td>
+<td>107 042</td>
+<td>116 433</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>66 842</td>
+<td>72 667</td>
+<td>88 816</td>
+<td>77 042</td>
+<td>104 584</td>
+<td>120 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>138 375</td>
+<td>146 292</td>
+<td>195 646</td>
+<td>174 896</td>
+<td>243 906</td>
+<td>273 667</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2002&lang=0" target="_blank" class="job">Специалист по стандартизации</a></td>
+<td>34 753</td>
+<td>37 111</td>
+<td>44 202</td>
+<td>43 500</td>
+<td>50 517</td>
+<td>57 085</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 28.02.2017)</p>
+</div>

@@ -1,0 +1,288 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>25 747</td>
+<td>25 747</td>
+<td>32 277</td>
+<td>34 598</td>
+<td>37 011</td>
+<td>39 309</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>33 069</td>
+<td>35 060</td>
+<td>39 811</td>
+<td>40 230</td>
+<td>43 147</td>
+<td>46 586</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>40 541</td>
+<td>45 576</td>
+<td>49 512</td>
+<td>49 770</td>
+<td>53 878</td>
+<td>56 552</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1693&lang=0" target="_blank" class="job">Заместитель начальника отдела</a></td>
+<td>14 729</td>
+<td>16 105</td>
+<td>20 375</td>
+<td>18 321</td>
+<td>21 750</td>
+<td>24 237</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1527&lang=0" target="_blank" class="job">Инженер ПТО 1-ой категории</a></td>
+<td>35 919</td>
+<td>41 609</td>
+<td>41 393</td>
+<td>41 609</td>
+<td>41 609</td>
+<td>45 219</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1526&lang=0" target="_blank" class="job">Инженер ПТО 2-ой категории</a></td>
+<td>28 649</td>
+<td>29 425</td>
+<td>32 718</td>
+<td>32 874</td>
+<td>35 445</td>
+<td>37 011</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>26 926</td>
+<td>27 311</td>
+<td>31 452</td>
+<td>29 843</td>
+<td>33 853</td>
+<td>38 768</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>26 233</td>
+<td>34 391</td>
+<td>43 613</td>
+<td>38 448</td>
+<td>46 872</td>
+<td>74 299</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1383&lang=0" target="_blank" class="job">Начальник цеха</a></td>
+<td>28 333</td>
+<td>29 852</td>
+<td>33 642</td>
+<td>33 863</td>
+<td>36 700</td>
+<td>40 224</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>13 350</td>
+<td>14 424</td>
+<td>17 662</td>
+<td>17 317</td>
+<td>21 012</td>
+<td>22 318</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1618&lang=0" target="_blank" class="job">Техник </a></td>
+<td>11 494</td>
+<td>12 299</td>
+<td>13 935</td>
+<td>13 507</td>
+<td>14 615</td>
+<td>16 509</td>
+<td>4 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>33 103</td>
+<td>38 046</td>
+<td>46 398</td>
+<td>49 425</td>
+<td>53 448</td>
+<td>57 277</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>47 241</td>
+<td>50 086</td>
+<td>56 874</td>
+<td>57 471</td>
+<td>61 638</td>
+<td>66 552</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>57 511</td>
+<td>63 428</td>
+<td>66 110</td>
+<td>65 766</td>
+<td>67 343</td>
+<td>78 500</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1693&lang=0" target="_blank" class="job">Заместитель начальника отдела</a></td>
+<td>25 774</td>
+<td>25 846</td>
+<td>31 476</td>
+<td>27 480</td>
+<td>35 366</td>
+<td>35 490</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1527&lang=0" target="_blank" class="job">Инженер ПТО 1-ой категории</a></td>
+<td>51 220</td>
+<td>59 334</td>
+<td>59 026</td>
+<td>59 334</td>
+<td>59 334</td>
+<td>64 482</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1526&lang=0" target="_blank" class="job">Инженер ПТО 2-ой категории</a></td>
+<td>46 245</td>
+<td>52 826</td>
+<td>52 813</td>
+<td>53 063</td>
+<td>53 302</td>
+<td>56 911</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>45 888</td>
+<td>46 885</td>
+<td>53 282</td>
+<td>52 141</td>
+<td>56 598</td>
+<td>65 491</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>44 293</td>
+<td>55 922</td>
+<td>67 078</td>
+<td>63 218</td>
+<td>75 663</td>
+<td>88 634</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1383&lang=0" target="_blank" class="job">Начальник цеха</a></td>
+<td>48 292</td>
+<td>52 246</td>
+<td>58 710</td>
+<td>58 838</td>
+<td>63 412</td>
+<td>70 003</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>19 563</td>
+<td>21 149</td>
+<td>23 359</td>
+<td>23 563</td>
+<td>24 988</td>
+<td>26 950</td>
+<td>4 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1618&lang=0" target="_blank" class="job">Техник </a></td>
+<td>14 943</td>
+<td>16 092</td>
+<td>20 187</td>
+<td>18 130</td>
+<td>22 993</td>
+<td>26 807</td>
+<td>4 квартал 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 22.02.2012)</p>
+</div>

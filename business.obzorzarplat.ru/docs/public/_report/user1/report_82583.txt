@@ -1,0 +1,568 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1946&lang=0" target="_blank" class="job">Ведущий геолог</a></td>
+<td>51 500</td>
+<td>55 750</td>
+<td>64 000</td>
+<td>60 000</td>
+<td>68 750</td>
+<td>84 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>39 000</td>
+<td>44 000</td>
+<td>54 302</td>
+<td>53 800</td>
+<td>65 000</td>
+<td>72 597</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1974&lang=0" target="_blank" class="job">Геофизик</a></td>
+<td>31 632</td>
+<td>40 250</td>
+<td>46 886</td>
+<td>50 000</td>
+<td>51 890</td>
+<td>58 548</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>59 670</td>
+<td>62 085</td>
+<td>67 168</td>
+<td>65 850</td>
+<td>71 975</td>
+<td>76 148</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>69 690</td>
+<td>79 500</td>
+<td>91 038</td>
+<td>92 500</td>
+<td>103 750</td>
+<td>116 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1513&lang=0" target="_blank" class="job">Главный гидролог</a></td>
+<td>54 800</td>
+<td>60 000</td>
+<td>81 722</td>
+<td>80 000</td>
+<td>90 000</td>
+<td>116 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>47 500</td>
+<td>53 600</td>
+<td>69 869</td>
+<td>64 950</td>
+<td>79 275</td>
+<td>95 850</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2202&lang=0" target="_blank" class="job">Инженер горных работ</a></td>
+<td>40 000</td>
+<td>41 550</td>
+<td>54 229</td>
+<td>52 000</td>
+<td>59 183</td>
+<td>76 684</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1802&lang=0" target="_blank" class="job">Инженер по гидротехническим расчетам</a></td>
+<td>40 120</td>
+<td>40 925</td>
+<td>48 448</td>
+<td>50 000</td>
+<td>53 500</td>
+<td>57 114</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1364&lang=0" target="_blank" class="job">Инженер-геодезист</a></td>
+<td>40 800</td>
+<td>42 610</td>
+<td>50 535</td>
+<td>45 600</td>
+<td>60 000</td>
+<td>63 390</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1976&lang=0" target="_blank" class="job">Инженер-геодезист 1-ой категории</a></td>
+<td>44 910</td>
+<td>48 075</td>
+<td>49 478</td>
+<td>50 550</td>
+<td>51 525</td>
+<td>52 566</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1519&lang=0" target="_blank" class="job">Инженер-геолог</a></td>
+<td>31 800</td>
+<td>40 000</td>
+<td>48 292</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>63 620</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1975&lang=0" target="_blank" class="job">Инженер-геолог 1-ой категории</a></td>
+<td>42 000</td>
+<td>45 700</td>
+<td>54 609</td>
+<td>56 000</td>
+<td>64 000</td>
+<td>66 072</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1521&lang=0" target="_blank" class="job">Инженер-гидролог</a></td>
+<td>32 500</td>
+<td>35 050</td>
+<td>40 938</td>
+<td>35 200</td>
+<td>46 473</td>
+<td>55 115</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1978&lang=0" target="_blank" class="job">Инженер-гидролог 1-ой категории</a></td>
+<td>49 000</td>
+<td>50 500</td>
+<td>53 500</td>
+<td>53 500</td>
+<td>56 500</td>
+<td>58 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1520&lang=0" target="_blank" class="job">Инженер-гидрометеоролог</a></td>
+<td>35 440</td>
+<td>40 300</td>
+<td>47 433</td>
+<td>50 000</td>
+<td>53 100</td>
+<td>57 612</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1852&lang=0" target="_blank" class="job">Инженер-исследователь</a></td>
+<td>30 160</td>
+<td>30 200</td>
+<td>34 357</td>
+<td>32 300</td>
+<td>39 000</td>
+<td>40 102</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1518&lang=0" target="_blank" class="job">Инженер-картограф</a></td>
+<td>36 500</td>
+<td>40 000</td>
+<td>44 286</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>50 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>41 100</td>
+<td>50 875</td>
+<td>62 319</td>
+<td>62 500</td>
+<td>73 750</td>
+<td>82 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1516&lang=0" target="_blank" class="job">Инженер-топограф</a></td>
+<td>37 500</td>
+<td>40 000</td>
+<td>43 000</td>
+<td>42 500</td>
+<td>47 250</td>
+<td>49 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1907&lang=0" target="_blank" class="job">Маркшейдер</a></td>
+<td>42 000</td>
+<td>50 000</td>
+<td>64 593</td>
+<td>65 000</td>
+<td>80 640</td>
+<td>88 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1411&lang=0" target="_blank" class="job">Начальник геодезического отдела</a></td>
+<td>49 296</td>
+<td>55 000</td>
+<td>67 002</td>
+<td>60 200</td>
+<td>85 000</td>
+<td>90 340</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1948&lang=0" target="_blank" class="job">Начальник отдела инженерных изысканий</a></td>
+<td>45 000</td>
+<td>49 500</td>
+<td>64 818</td>
+<td>70 000</td>
+<td>77 500</td>
+<td>80 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1517&lang=0" target="_blank" class="job">Рабочий-реечник (помощник геодезиста)</a></td>
+<td>25 000</td>
+<td>25 500</td>
+<td>27 571</td>
+<td>27 000</td>
+<td>29 000</td>
+<td>30 800</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1977&lang=0" target="_blank" class="job">Техник-топограф</a></td>
+<td>27 500</td>
+<td>30 750</td>
+<td>34 000</td>
+<td>34 000</td>
+<td>35 750</td>
+<td>40 500</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1946&lang=0" target="_blank" class="job">Ведущий геолог</a></td>
+<td>71 700</td>
+<td>74 325</td>
+<td>82 638</td>
+<td>81 000</td>
+<td>89 625</td>
+<td>94 000</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>49 920</td>
+<td>63 200</td>
+<td>74 514</td>
+<td>71 000</td>
+<td>87 571</td>
+<td>98 402</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1974&lang=0" target="_blank" class="job">Геофизик</a></td>
+<td>35 554</td>
+<td>45 100</td>
+<td>49 716</td>
+<td>50 310</td>
+<td>53 890</td>
+<td>61 625</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>68 031</td>
+<td>68 835</td>
+<td>77 009</td>
+<td>71 175</td>
+<td>83 793</td>
+<td>93 769</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1512&lang=0" target="_blank" class="job">Главный геолог</a></td>
+<td>79 213</td>
+<td>94 300</td>
+<td>102 285</td>
+<td>103 225</td>
+<td>113 830</td>
+<td>127 894</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1513&lang=0" target="_blank" class="job">Главный гидролог</a></td>
+<td>60 872</td>
+<td>64 000</td>
+<td>87 493</td>
+<td>85 400</td>
+<td>99 400</td>
+<td>120 604</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>53 900</td>
+<td>62 100</td>
+<td>83 855</td>
+<td>80 913</td>
+<td>99 050</td>
+<td>114 779</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2202&lang=0" target="_blank" class="job">Инженер горных работ</a></td>
+<td>43 060</td>
+<td>48 930</td>
+<td>61 184</td>
+<td>59 090</td>
+<td>66 000</td>
+<td>89 838</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1802&lang=0" target="_blank" class="job">Инженер по гидротехническим расчетам</a></td>
+<td>44 580</td>
+<td>45 297</td>
+<td>51 554</td>
+<td>53 400</td>
+<td>54 500</td>
+<td>58 394</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1364&lang=0" target="_blank" class="job">Инженер-геодезист</a></td>
+<td>46 128</td>
+<td>47 300</td>
+<td>54 638</td>
+<td>50 500</td>
+<td>62 100</td>
+<td>65 918</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1976&lang=0" target="_blank" class="job">Инженер-геодезист 1-ой категории</a></td>
+<td>47 665</td>
+<td>51 213</td>
+<td>52 583</td>
+<td>53 760</td>
+<td>54 324</td>
+<td>55 386</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1519&lang=0" target="_blank" class="job">Инженер-геолог</a></td>
+<td>33 420</td>
+<td>40 000</td>
+<td>50 427</td>
+<td>50 000</td>
+<td>62 600</td>
+<td>69 700</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1975&lang=0" target="_blank" class="job">Инженер-геолог 1-ой категории</a></td>
+<td>44 570</td>
+<td>47 600</td>
+<td>56 354</td>
+<td>57 400</td>
+<td>64 500</td>
+<td>66 972</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1521&lang=0" target="_blank" class="job">Инженер-гидролог</a></td>
+<td>32 600</td>
+<td>36 550</td>
+<td>53 689</td>
+<td>49 200</td>
+<td>67 948</td>
+<td>79 266</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1978&lang=0" target="_blank" class="job">Инженер-гидролог 1-ой категории</a></td>
+<td>54 035</td>
+<td>57 700</td>
+<td>64 923</td>
+<td>68 500</td>
+<td>70 420</td>
+<td>72 235</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1520&lang=0" target="_blank" class="job">Инженер-гидрометеоролог</a></td>
+<td>43 510</td>
+<td>49 025</td>
+<td>59 758</td>
+<td>67 230</td>
+<td>70 200</td>
+<td>73 631</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1852&lang=0" target="_blank" class="job">Инженер-исследователь</a></td>
+<td>35 700</td>
+<td>36 400</td>
+<td>39 046</td>
+<td>38 101</td>
+<td>42 000</td>
+<td>42 608</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1518&lang=0" target="_blank" class="job">Инженер-картограф</a></td>
+<td>46 633</td>
+<td>50 250</td>
+<td>63 148</td>
+<td>62 000</td>
+<td>76 675</td>
+<td>79 900</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>56 217</td>
+<td>64 842</td>
+<td>83 004</td>
+<td>83 193</td>
+<td>96 106</td>
+<td>114 275</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1516&lang=0" target="_blank" class="job">Инженер-топограф</a></td>
+<td>46 000</td>
+<td>50 500</td>
+<td>59 498</td>
+<td>63 084</td>
+<td>67 892</td>
+<td>69 410</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1907&lang=0" target="_blank" class="job">Маркшейдер</a></td>
+<td>49 820</td>
+<td>67 000</td>
+<td>77 180</td>
+<td>68 730</td>
+<td>101 850</td>
+<td>105 128</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1411&lang=0" target="_blank" class="job">Начальник геодезического отдела</a></td>
+<td>51 408</td>
+<td>60 400</td>
+<td>79 346</td>
+<td>70 000</td>
+<td>95 200</td>
+<td>126 346</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1948&lang=0" target="_blank" class="job">Начальник отдела инженерных изысканий</a></td>
+<td>56 000</td>
+<td>59 500</td>
+<td>72 399</td>
+<td>77 500</td>
+<td>83 195</td>
+<td>86 500</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1517&lang=0" target="_blank" class="job">Рабочий-реечник (помощник геодезиста)</a></td>
+<td>29 300</td>
+<td>30 700</td>
+<td>32 843</td>
+<td>32 000</td>
+<td>34 350</td>
+<td>36 820</td>
+<td>1 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1977&lang=0" target="_blank" class="job">Техник-топограф</a></td>
+<td>40 100</td>
+<td>44 667</td>
+<td>47 478</td>
+<td>46 834</td>
+<td>49 625</td>
+<td>55 500</td>
+<td>1 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.04.2019)</p>
+</div>

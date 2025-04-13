@@ -1,0 +1,708 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>7 175</td>
+<td>8 288</td>
+<td>16 116</td>
+<td>14 274</td>
+<td>20 000</td>
+<td>27 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>24 150</td>
+<td>26 275</td>
+<td>32 362</td>
+<td>28 664</td>
+<td>39 836</td>
+<td>44 637</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2719&lang=0" target="_blank" class="job">Менеджер по документообороту</a></td>
+<td>20 810</td>
+<td>25 000</td>
+<td>29 460</td>
+<td>30 660</td>
+<td>36 500</td>
+<td>38 781</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1886&lang=0" target="_blank" class="job">Специалист по автоматизированному документообороту</a></td>
+<td>20 500</td>
+<td>21 792</td>
+<td>26 211</td>
+<td>24 000</td>
+<td>30 650</td>
+<td>37 900</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2275&lang=0" target="_blank" class="job">Финансовый аналитик</a></td>
+<td>33 360</td>
+<td>40 000</td>
+<td>52 387</td>
+<td>48 305</td>
+<td>61 000</td>
+<td>83 610</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>33 141</td>
+<td>33 838</td>
+<td>41 228</td>
+<td>39 951</td>
+<td>52 612</td>
+<td>53 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1495&lang=0" target="_blank" class="job">Архитектор информационных систем</a></td>
+<td>40 000</td>
+<td>40 000</td>
+<td>58 307</td>
+<td>60 000</td>
+<td>81 204</td>
+<td>89 194</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>40 000</td>
+<td>45 895</td>
+<td>59 960</td>
+<td>56 000</td>
+<td>73 836</td>
+<td>87 918</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1493&lang=0" target="_blank" class="job">Ведущий проектировщик информационных систем</a></td>
+<td>35 579</td>
+<td>46 766</td>
+<td>55 631</td>
+<td>56 500</td>
+<td>68 124</td>
+<td>80 387</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2593&lang=0" target="_blank" class="job">Ведущий системный администратор ОС Windows</a></td>
+<td>48 600</td>
+<td>56 866</td>
+<td>68 885</td>
+<td>72 500</td>
+<td>84 471</td>
+<td>92 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2666&lang=0" target="_blank" class="job">Графический дизайнер</a></td>
+<td>29 536</td>
+<td>32 025</td>
+<td>35 975</td>
+<td>35 800</td>
+<td>43 329</td>
+<td>45 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Инженер-программист</a></td>
+<td>30 125</td>
+<td>33 065</td>
+<td>41 289</td>
+<td>41 525</td>
+<td>47 812</td>
+<td>50 946</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>47 120</td>
+<td>54 893</td>
+<td>68 436</td>
+<td>60 900</td>
+<td>74 040</td>
+<td>99 156</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>16 450</td>
+<td>18 000</td>
+<td>21 297</td>
+<td>20 000</td>
+<td>24 250</td>
+<td>28 200</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1494&lang=0" target="_blank" class="job">Проектировщик информационных систем</a></td>
+<td>30 638</td>
+<td>42 005</td>
+<td>49 258</td>
+<td>55 000</td>
+<td>55 000</td>
+<td>60 815</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1498&lang=0" target="_blank" class="job">Руководитель проекта в сфере информационных технологий</a></td>
+<td>42 000</td>
+<td>52 074</td>
+<td>64 127</td>
+<td>57 519</td>
+<td>76 000</td>
+<td>92 704</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>26 500</td>
+<td>30 647</td>
+<td>38 825</td>
+<td>42 000</td>
+<td>45 000</td>
+<td>48 095</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2609&lang=0" target="_blank" class="job">Системный инженер</a></td>
+<td>28 225</td>
+<td>35 500</td>
+<td>39 958</td>
+<td>42 000</td>
+<td>47 500</td>
+<td>52 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>35 924</td>
+<td>45 918</td>
+<td>51 817</td>
+<td>53 200</td>
+<td>61 111</td>
+<td>67 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2149&lang=0" target="_blank" class="job">Инженер-электрик</a></td>
+<td>24 712</td>
+<td>27 143</td>
+<td>34 230</td>
+<td>35 000</td>
+<td>41 845</td>
+<td>48 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>28 720</td>
+<td>34 271</td>
+<td>39 217</td>
+<td>35 000</td>
+<td>45 800</td>
+<td>51 700</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2688&lang=0" target="_blank" class="job">Региональный менеджер по закупкам</a></td>
+<td>43 035</td>
+<td>55 366</td>
+<td>60 924</td>
+<td>62 513</td>
+<td>70 000</td>
+<td>80 199</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1251&lang=0" target="_blank" class="job">Руководитель товарного направления</a></td>
+<td>34 046</td>
+<td>36 306</td>
+<td>49 490</td>
+<td>48 350</td>
+<td>60 000</td>
+<td>71 009</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>20 000</td>
+<td>22 232</td>
+<td>25 424</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>30 527</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>24 400</td>
+<td>26 910</td>
+<td>33 603</td>
+<td>30 000</td>
+<td>36 579</td>
+<td>47 848</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>19 500</td>
+<td>32 300</td>
+<td>57 999</td>
+<td>45 000</td>
+<td>81 494</td>
+<td>103 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>18 000</td>
+<td>20 000</td>
+<td>31 999</td>
+<td>28 900</td>
+<td>35 000</td>
+<td>45 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>19 009</td>
+<td>20 000</td>
+<td>21 989</td>
+<td>22 228</td>
+<td>24 875</td>
+<td>25 683</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>19 050</td>
+<td>20 600</td>
+<td>27 067</td>
+<td>26 860</td>
+<td>32 681</td>
+<td>40 037</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2728&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>25 014</td>
+<td>30 781</td>
+<td>35 413</td>
+<td>35 000</td>
+<td>44 866</td>
+<td>46 724</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>14 097</td>
+<td>18 449</td>
+<td>23 142</td>
+<td>20 680</td>
+<td>29 288</td>
+<td>30 276</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>15 973</td>
+<td>20 200</td>
+<td>28 434</td>
+<td>25 000</td>
+<td>35 000</td>
+<td>45 000</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>7 175</td>
+<td>9 950</td>
+<td>22 334</td>
+<td>21 509</td>
+<td>28 968</td>
+<td>38 788</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>24 150</td>
+<td>26 275</td>
+<td>38 568</td>
+<td>29 580</td>
+<td>51 961</td>
+<td>61 111</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2719&lang=0" target="_blank" class="job">Менеджер по документообороту</a></td>
+<td>21 799</td>
+<td>29 222</td>
+<td>33 997</td>
+<td>36 000</td>
+<td>42 238</td>
+<td>45 535</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1886&lang=0" target="_blank" class="job">Специалист по автоматизированному документообороту</a></td>
+<td>20 500</td>
+<td>21 792</td>
+<td>26 211</td>
+<td>24 000</td>
+<td>30 650</td>
+<td>37 900</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2275&lang=0" target="_blank" class="job">Финансовый аналитик</a></td>
+<td>33 360</td>
+<td>43 982</td>
+<td>62 647</td>
+<td>58 805</td>
+<td>76 428</td>
+<td>103 801</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>33 141</td>
+<td>34 841</td>
+<td>67 390</td>
+<td>58 813</td>
+<td>100 032</td>
+<td>108 714</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1495&lang=0" target="_blank" class="job">Архитектор информационных систем</a></td>
+<td>40 000</td>
+<td>40 000</td>
+<td>93 773</td>
+<td>86 300</td>
+<td>149 094</td>
+<td>178 319</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>40 000</td>
+<td>45 895</td>
+<td>89 116</td>
+<td>71 343</td>
+<td>120 429</td>
+<td>159 383</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1493&lang=0" target="_blank" class="job">Ведущий проектировщик информационных систем</a></td>
+<td>38 530</td>
+<td>53 003</td>
+<td>67 882</td>
+<td>70 297</td>
+<td>85 935</td>
+<td>100 448</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2593&lang=0" target="_blank" class="job">Ведущий системный администратор ОС Windows</a></td>
+<td>48 600</td>
+<td>56 866</td>
+<td>72 222</td>
+<td>75 679</td>
+<td>90 510</td>
+<td>99 794</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2666&lang=0" target="_blank" class="job">Графический дизайнер</a></td>
+<td>31 652</td>
+<td>34 465</td>
+<td>38 754</td>
+<td>38 813</td>
+<td>46 393</td>
+<td>48 443</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Инженер-программист</a></td>
+<td>30 125</td>
+<td>33 065</td>
+<td>59 841</td>
+<td>51 167</td>
+<td>80 725</td>
+<td>99 831</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>47 120</td>
+<td>54 893</td>
+<td>90 274</td>
+<td>73 600</td>
+<td>105 330</td>
+<td>161 389</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>16 450</td>
+<td>18 000</td>
+<td>25 686</td>
+<td>24 000</td>
+<td>29 933</td>
+<td>40 178</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1494&lang=0" target="_blank" class="job">Проектировщик информационных систем</a></td>
+<td>30 638</td>
+<td>42 005</td>
+<td>62 659</td>
+<td>58 777</td>
+<td>81 653</td>
+<td>94 078</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1498&lang=0" target="_blank" class="job">Руководитель проекта в сфере информационных технологий</a></td>
+<td>42 756</td>
+<td>60 474</td>
+<td>84 843</td>
+<td>80 722</td>
+<td>109 044</td>
+<td>131 462</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>26 500</td>
+<td>30 647</td>
+<td>49 640</td>
+<td>48 130</td>
+<td>65 000</td>
+<td>78 910</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2609&lang=0" target="_blank" class="job">Системный инженер</a></td>
+<td>35 424</td>
+<td>44 000</td>
+<td>50 150</td>
+<td>52 875</td>
+<td>60 008</td>
+<td>66 016</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>35 924</td>
+<td>50 530</td>
+<td>73 379</td>
+<td>67 962</td>
+<td>101 361</td>
+<td>112 235</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2149&lang=0" target="_blank" class="job">Инженер-электрик</a></td>
+<td>24 712</td>
+<td>29 508</td>
+<td>42 842</td>
+<td>40 916</td>
+<td>55 415</td>
+<td>68 299</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>28 720</td>
+<td>34 271</td>
+<td>47 361</td>
+<td>35 000</td>
+<td>56 857</td>
+<td>80 850</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2688&lang=0" target="_blank" class="job">Региональный менеджер по закупкам</a></td>
+<td>44 984</td>
+<td>61 022</td>
+<td>67 799</td>
+<td>69 713</td>
+<td>78 710</td>
+<td>90 983</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1251&lang=0" target="_blank" class="job">Руководитель товарного направления</a></td>
+<td>40 220</td>
+<td>54 708</td>
+<td>86 540</td>
+<td>81 637</td>
+<td>114 765</td>
+<td>135 267</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>20 000</td>
+<td>22 232</td>
+<td>31 598</td>
+<td>25 000</td>
+<td>42 994</td>
+<td>46 707</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>24 400</td>
+<td>28 410</td>
+<td>40 367</td>
+<td>35 536</td>
+<td>45 295</td>
+<td>62 726</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1287&lang=0" target="_blank" class="job">Менеджер по развитию</a></td>
+<td>19 500</td>
+<td>32 300</td>
+<td>64 757</td>
+<td>46 000</td>
+<td>89 995</td>
+<td>127 511</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>18 000</td>
+<td>20 000</td>
+<td>51 489</td>
+<td>31 200</td>
+<td>63 122</td>
+<td>104 945</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>19 581</td>
+<td>22 125</td>
+<td>25 061</td>
+<td>25 269</td>
+<td>29 098</td>
+<td>30 681</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>19 050</td>
+<td>21 750</td>
+<td>31 432</td>
+<td>31 004</td>
+<td>39 356</td>
+<td>48 161</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2728&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>26 204</td>
+<td>32 281</td>
+<td>37 338</td>
+<td>36 749</td>
+<td>47 305</td>
+<td>49 685</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>14 097</td>
+<td>19 468</td>
+<td>31 855</td>
+<td>30 366</td>
+<td>43 222</td>
+<td>46 049</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>15 973</td>
+<td>25 200</td>
+<td>40 067</td>
+<td>34 750</td>
+<td>50 600</td>
+<td>68 479</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 28.10.2014)</p>
+</div>

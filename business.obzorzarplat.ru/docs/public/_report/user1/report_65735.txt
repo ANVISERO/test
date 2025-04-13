@@ -1,0 +1,528 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>27 000</td>
+<td>30 000</td>
+<td>40 009</td>
+<td>37 400</td>
+<td>47 200</td>
+<td>55 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2006&lang=0" target="_blank" class="job">Бухгалтер 1 категории</a></td>
+<td>30 000</td>
+<td>30 000</td>
+<td>45 271</td>
+<td>37 500</td>
+<td>54 250</td>
+<td>72 100</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2007&lang=0" target="_blank" class="job">Бухгалтер 2 категории</a></td>
+<td>26 100</td>
+<td>27 600</td>
+<td>37 638</td>
+<td>31 600</td>
+<td>40 250</td>
+<td>59 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2008&lang=0" target="_blank" class="job">Бухгалтер 3 категории</a></td>
+<td>22 050</td>
+<td>22 875</td>
+<td>25 975</td>
+<td>25 500</td>
+<td>30 025</td>
+<td>30 130</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2619&lang=0" target="_blank" class="job">Бухгалтер интернет-магазина</a></td>
+<td>24 630</td>
+<td>24 975</td>
+<td>30 701</td>
+<td>26 056</td>
+<td>36 350</td>
+<td>39 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1298&lang=0" target="_blank" class="job">Бухгалтер магазина</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>33 667</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>40 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2260&lang=0" target="_blank" class="job">Бухгалтер на первичную документацию</a></td>
+<td>25 000</td>
+<td>25 000</td>
+<td>29 333</td>
+<td>30 000</td>
+<td>30 500</td>
+<td>35 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2261&lang=0" target="_blank" class="job">Бухгалтер на участок Банк-Клиент</a></td>
+<td>28 400</td>
+<td>30 000</td>
+<td>33 246</td>
+<td>33 000</td>
+<td>35 000</td>
+<td>37 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2262&lang=0" target="_blank" class="job">Бухгалтер на участок налогового учета</a></td>
+<td>30 040</td>
+<td>30 500</td>
+<td>36 462</td>
+<td>35 800</td>
+<td>40 000</td>
+<td>43 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2263&lang=0" target="_blank" class="job">Бухгалтер на участок основные средства</a></td>
+<td>29 800</td>
+<td>30 000</td>
+<td>33 900</td>
+<td>34 000</td>
+<td>35 750</td>
+<td>40 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2264&lang=0" target="_blank" class="job">Бухгалтер на участок реализация</a></td>
+<td>27 750</td>
+<td>28 650</td>
+<td>29 900</td>
+<td>29 550</td>
+<td>31 350</td>
+<td>32 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2622&lang=0" target="_blank" class="job">Бухгалтер по авансовым отчетам</a></td>
+<td>25 000</td>
+<td>27 063</td>
+<td>30 494</td>
+<td>29 800</td>
+<td>32 664</td>
+<td>38 866</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2736&lang=0" target="_blank" class="job">Бухгалтер по аренде</a></td>
+<td>34 850</td>
+<td>35 000</td>
+<td>44 063</td>
+<td>42 500</td>
+<td>51 500</td>
+<td>56 300</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2620&lang=0" target="_blank" class="job">Бухгалтер по банковским операциям</a></td>
+<td>26 512</td>
+<td>31 900</td>
+<td>36 389</td>
+<td>35 000</td>
+<td>39 125</td>
+<td>47 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2618&lang=0" target="_blank" class="job">Бухгалтер по ВЭД</a></td>
+<td>40 000</td>
+<td>40 425</td>
+<td>44 068</td>
+<td>44 440</td>
+<td>46 250</td>
+<td>49 250</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>29 700</td>
+<td>33 784</td>
+<td>43 146</td>
+<td>44 393</td>
+<td>48 500</td>
+<td>64 100</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2621&lang=0" target="_blank" class="job">Бухгалтер по учету затрат</a></td>
+<td>38 103</td>
+<td>39 000</td>
+<td>41 524</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>49 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2623&lang=0" target="_blank" class="job">Бухгалтер по учету кассовых операций</a></td>
+<td>27 750</td>
+<td>30 090</td>
+<td>34 170</td>
+<td>33 750</td>
+<td>36 850</td>
+<td>42 255</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2047&lang=0" target="_blank" class="job">Бухгалтер по учету себестоимости</a></td>
+<td>22 020</td>
+<td>28 381</td>
+<td>34 392</td>
+<td>35 000</td>
+<td>41 933</td>
+<td>44 898</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>26 100</td>
+<td>30 000</td>
+<td>37 015</td>
+<td>30 500</td>
+<td>40 000</td>
+<td>54 580</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1299&lang=0" target="_blank" class="job">Бухгалтер склада</a></td>
+<td>20 112</td>
+<td>20 700</td>
+<td>28 413</td>
+<td>26 800</td>
+<td>30 000</td>
+<td>36 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2234&lang=0" target="_blank" class="job">Бухгалтер-кассир</a></td>
+<td>24 130</td>
+<td>26 575</td>
+<td>31 587</td>
+<td>29 010</td>
+<td>37 000</td>
+<td>41 350</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2341&lang=0" target="_blank" class="job">Бухгалтер-экономист</a></td>
+<td>28 284</td>
+<td>33 960</td>
+<td>37 287</td>
+<td>35 990</td>
+<td>41 090</td>
+<td>44 900</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>27 790</td>
+<td>32 500</td>
+<td>44 846</td>
+<td>41 540</td>
+<td>51 500</td>
+<td>69 248</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2006&lang=0" target="_blank" class="job">Бухгалтер 1 категории</a></td>
+<td>32 617</td>
+<td>34 370</td>
+<td>51 388</td>
+<td>48 170</td>
+<td>62 850</td>
+<td>79 286</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2007&lang=0" target="_blank" class="job">Бухгалтер 2 категории</a></td>
+<td>27 090</td>
+<td>28 875</td>
+<td>40 705</td>
+<td>35 503</td>
+<td>45 963</td>
+<td>61 395</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2008&lang=0" target="_blank" class="job">Бухгалтер 3 категории</a></td>
+<td>22 050</td>
+<td>23 625</td>
+<td>26 325</td>
+<td>25 950</td>
+<td>30 050</td>
+<td>30 440</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2619&lang=0" target="_blank" class="job">Бухгалтер интернет-магазина</a></td>
+<td>24 921</td>
+<td>25 703</td>
+<td>32 085</td>
+<td>28 875</td>
+<td>38 658</td>
+<td>40 900</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1298&lang=0" target="_blank" class="job">Бухгалтер магазина</a></td>
+<td>28 384</td>
+<td>30 000</td>
+<td>36 433</td>
+<td>37 140</td>
+<td>42 160</td>
+<td>43 596</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2260&lang=0" target="_blank" class="job">Бухгалтер на первичную документацию</a></td>
+<td>25 400</td>
+<td>26 225</td>
+<td>30 682</td>
+<td>30 857</td>
+<td>32 850</td>
+<td>36 810</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2261&lang=0" target="_blank" class="job">Бухгалтер на участок Банк-Клиент</a></td>
+<td>30 350</td>
+<td>32 350</td>
+<td>34 822</td>
+<td>35 000</td>
+<td>36 500</td>
+<td>37 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2262&lang=0" target="_blank" class="job">Бухгалтер на участок налогового учета</a></td>
+<td>31 438</td>
+<td>32 400</td>
+<td>38 298</td>
+<td>36 110</td>
+<td>42 450</td>
+<td>46 579</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2263&lang=0" target="_blank" class="job">Бухгалтер на участок основные средства</a></td>
+<td>31 080</td>
+<td>33 285</td>
+<td>36 462</td>
+<td>37 020</td>
+<td>38 225</td>
+<td>42 190</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2264&lang=0" target="_blank" class="job">Бухгалтер на участок реализация</a></td>
+<td>28 250</td>
+<td>28 875</td>
+<td>31 117</td>
+<td>30 150</td>
+<td>33 038</td>
+<td>34 950</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2622&lang=0" target="_blank" class="job">Бухгалтер по авансовым отчетам</a></td>
+<td>26 200</td>
+<td>27 803</td>
+<td>32 264</td>
+<td>30 900</td>
+<td>36 280</td>
+<td>42 060</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2736&lang=0" target="_blank" class="job">Бухгалтер по аренде</a></td>
+<td>35 480</td>
+<td>37 475</td>
+<td>45 416</td>
+<td>43 015</td>
+<td>55 250</td>
+<td>56 570</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2620&lang=0" target="_blank" class="job">Бухгалтер по банковским операциям</a></td>
+<td>26 912</td>
+<td>33 077</td>
+<td>37 753</td>
+<td>37 000</td>
+<td>41 275</td>
+<td>49 566</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2618&lang=0" target="_blank" class="job">Бухгалтер по ВЭД</a></td>
+<td>45 500</td>
+<td>46 663</td>
+<td>50 531</td>
+<td>49 450</td>
+<td>53 860</td>
+<td>58 100</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>32 822</td>
+<td>37 280</td>
+<td>45 988</td>
+<td>45 500</td>
+<td>54 850</td>
+<td>66 363</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2621&lang=0" target="_blank" class="job">Бухгалтер по учету затрат</a></td>
+<td>38 323</td>
+<td>40 000</td>
+<td>43 543</td>
+<td>44 120</td>
+<td>46 500</td>
+<td>50 546</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2623&lang=0" target="_blank" class="job">Бухгалтер по учету кассовых операций</a></td>
+<td>29 747</td>
+<td>32 138</td>
+<td>36 740</td>
+<td>35 843</td>
+<td>42 313</td>
+<td>45 088</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2047&lang=0" target="_blank" class="job">Бухгалтер по учету себестоимости</a></td>
+<td>26 874</td>
+<td>33 581</td>
+<td>38 696</td>
+<td>39 488</td>
+<td>44 235</td>
+<td>48 443</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>28 970</td>
+<td>31 120</td>
+<td>41 688</td>
+<td>36 100</td>
+<td>45 000</td>
+<td>61 553</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1299&lang=0" target="_blank" class="job">Бухгалтер склада</a></td>
+<td>20 542</td>
+<td>24 700</td>
+<td>30 451</td>
+<td>28 360</td>
+<td>32 000</td>
+<td>38 448</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2234&lang=0" target="_blank" class="job">Бухгалтер-кассир</a></td>
+<td>26 303</td>
+<td>27 158</td>
+<td>33 085</td>
+<td>32 140</td>
+<td>38 500</td>
+<td>41 350</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2341&lang=0" target="_blank" class="job">Бухгалтер-экономист</a></td>
+<td>32 575</td>
+<td>36 025</td>
+<td>40 017</td>
+<td>40 800</td>
+<td>43 715</td>
+<td>45 710</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 31.01.2017)</p>
+</div>

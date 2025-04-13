@@ -1,0 +1,588 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Краснодар</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1824&lang=0" target="_blank" class="job">Балансировщик</a></td>
+<td>18 394</td>
+<td>23 842</td>
+<td>33 848</td>
+<td>31 637</td>
+<td>48 784</td>
+<td>54 250</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>25 451</td>
+<td>27 510</td>
+<td>34 104</td>
+<td>32 095</td>
+<td>41 265</td>
+<td>46 279</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>32 278</td>
+<td>39 431</td>
+<td>48 895</td>
+<td>45 850</td>
+<td>59 605</td>
+<td>65 877</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>28 427</td>
+<td>38 744</td>
+<td>42 472</td>
+<td>43 007</td>
+<td>48 991</td>
+<td>52 225</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>29 454</td>
+<td>36 680</td>
+<td>43 363</td>
+<td>41 174</td>
+<td>50 435</td>
+<td>56 258</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1821&lang=0" target="_blank" class="job">Ведущий инженер по наладке и испытаниям</a></td>
+<td>26 382</td>
+<td>29 294</td>
+<td>33 146</td>
+<td>33 471</td>
+<td>37 139</td>
+<td>41 513</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1703&lang=0" target="_blank" class="job">Ведущий инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>21 239</td>
+<td>27 510</td>
+<td>32 726</td>
+<td>32 554</td>
+<td>40 505</td>
+<td>46 328</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1835&lang=0" target="_blank" class="job">Ведущий специалист по сборке и испытаниям</a></td>
+<td>18 024</td>
+<td>19 515</td>
+<td>26 127</td>
+<td>25 539</td>
+<td>31 752</td>
+<td>37 070</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1838&lang=0" target="_blank" class="job">Гальваник</a></td>
+<td>22 925</td>
+<td>24 759</td>
+<td>29 523</td>
+<td>32 095</td>
+<td>33 012</td>
+<td>36 680</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>44 383</td>
+<td>55 020</td>
+<td>70 511</td>
+<td>69 509</td>
+<td>82 530</td>
+<td>91 700</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>36 149</td>
+<td>45 487</td>
+<td>56 534</td>
+<td>53 482</td>
+<td>69 726</td>
+<td>83 391</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>38 056</td>
+<td>45 850</td>
+<td>55 611</td>
+<td>55 020</td>
+<td>65 865</td>
+<td>73 360</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1841&lang=0" target="_blank" class="job">Дефектоскопист по газовому и жидкостному контролю</a></td>
+<td>21 162</td>
+<td>23 689</td>
+<td>26 410</td>
+<td>28 427</td>
+<td>31 178</td>
+<td>33 379</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1547&lang=0" target="_blank" class="job">Дефектоскопист по магнитному и ультразвуковому контролю</a></td>
+<td>18 011</td>
+<td>22 008</td>
+<td>25 074</td>
+<td>25 676</td>
+<td>31 356</td>
+<td>32 829</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1548&lang=0" target="_blank" class="job">Дефектоскопист рентгено-гаммаграфирования </a></td>
+<td>23 178</td>
+<td>24 759</td>
+<td>29 787</td>
+<td>32 095</td>
+<td>36 680</td>
+<td>37 139</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>32 095</td>
+<td>34 938</td>
+<td>42 062</td>
+<td>38 514</td>
+<td>45 850</td>
+<td>59 605</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>33 929</td>
+<td>37 806</td>
+<td>48 441</td>
+<td>46 675</td>
+<td>54 396</td>
+<td>70 119</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1906&lang=0" target="_blank" class="job">Заместитель главного энергетика</a></td>
+<td>27 638</td>
+<td>30 315</td>
+<td>34 516</td>
+<td>36 146</td>
+<td>37 327</td>
+<td>44 388</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1848&lang=0" target="_blank" class="job">Заместитель начальника КБ</a></td>
+<td>26 596</td>
+<td>27 143</td>
+<td>32 578</td>
+<td>32 095</td>
+<td>40 194</td>
+<td>42 732</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1850&lang=0" target="_blank" class="job">Заточник</a></td>
+<td>20 981</td>
+<td>22 897</td>
+<td>29 563</td>
+<td>32 095</td>
+<td>36 655</td>
+<td>37 780</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>27 510</td>
+<td>36 680</td>
+<td>43 534</td>
+<td>41 265</td>
+<td>51 352</td>
+<td>62 356</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>36 680</td>
+<td>41 265</td>
+<td>46 095</td>
+<td>44 933</td>
+<td>50 940</td>
+<td>55 754</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>24 576</td>
+<td>27 510</td>
+<td>34 551</td>
+<td>34 846</td>
+<td>39 523</td>
+<td>45 850</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1904&lang=0" target="_blank" class="job">Инженер лаборатории металлов</a></td>
+<td>18 962</td>
+<td>20 128</td>
+<td>22 296</td>
+<td>22 381</td>
+<td>24 537</td>
+<td>27 700</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>18 340</td>
+<td>22 925</td>
+<td>30 027</td>
+<td>27 510</td>
+<td>36 680</td>
+<td>43 550</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2857&lang=0" target="_blank" class="job">Инженер по автоматической орбитальной сварке</a></td>
+<td>33 640</td>
+<td>46 164</td>
+<td>60 855</td>
+<td>59 524</td>
+<td>74 323</td>
+<td>91 506</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1824&lang=0" target="_blank" class="job">Балансировщик</a></td>
+<td>22 943</td>
+<td>28 610</td>
+<td>46 983</td>
+<td>41 724</td>
+<td>64 949</td>
+<td>82 393</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>25 451</td>
+<td>30 048</td>
+<td>41 660</td>
+<td>40 173</td>
+<td>55 020</td>
+<td>60 835</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>32 278</td>
+<td>39 431</td>
+<td>64 203</td>
+<td>59 147</td>
+<td>80 329</td>
+<td>104 758</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>45 850</td>
+<td>56 557</td>
+<td>63 262</td>
+<td>61 319</td>
+<td>68 202</td>
+<td>82 776</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>35 873</td>
+<td>44 005</td>
+<td>60 563</td>
+<td>56 277</td>
+<td>75 125</td>
+<td>86 519</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1821&lang=0" target="_blank" class="job">Ведущий инженер по наладке и испытаниям</a></td>
+<td>26 382</td>
+<td>29 294</td>
+<td>40 890</td>
+<td>40 467</td>
+<td>50 985</td>
+<td>59 531</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1703&lang=0" target="_blank" class="job">Ведущий инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>40 516</td>
+<td>48 601</td>
+<td>55 409</td>
+<td>54 562</td>
+<td>66 059</td>
+<td>74 417</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1835&lang=0" target="_blank" class="job">Ведущий специалист по сборке и испытаниям</a></td>
+<td>26 199</td>
+<td>28 794</td>
+<td>36 636</td>
+<td>35 970</td>
+<td>43 490</td>
+<td>49 929</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1838&lang=0" target="_blank" class="job">Гальваник</a></td>
+<td>22 925</td>
+<td>24 759</td>
+<td>32 028</td>
+<td>34 296</td>
+<td>37 754</td>
+<td>43 099</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>44 383</td>
+<td>67 858</td>
+<td>95 346</td>
+<td>96 735</td>
+<td>114 625</td>
+<td>136 633</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>36 149</td>
+<td>46 188</td>
+<td>65 153</td>
+<td>65 174</td>
+<td>82 564</td>
+<td>96 770</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>38 056</td>
+<td>45 850</td>
+<td>69 329</td>
+<td>63 044</td>
+<td>89 841</td>
+<td>113 535</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1841&lang=0" target="_blank" class="job">Дефектоскопист по газовому и жидкостному контролю</a></td>
+<td>21 162</td>
+<td>24 734</td>
+<td>29 760</td>
+<td>32 554</td>
+<td>35 967</td>
+<td>38 744</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1547&lang=0" target="_blank" class="job">Дефектоскопист по магнитному и ультразвуковому контролю</a></td>
+<td>18 917</td>
+<td>31 178</td>
+<td>41 120</td>
+<td>41 157</td>
+<td>55 195</td>
+<td>64 190</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1548&lang=0" target="_blank" class="job">Дефектоскопист рентгено-гаммаграфирования </a></td>
+<td>27 763</td>
+<td>29 344</td>
+<td>40 541</td>
+<td>40 828</td>
+<td>50 128</td>
+<td>60 522</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>32 095</td>
+<td>34 938</td>
+<td>56 542</td>
+<td>52 269</td>
+<td>68 775</td>
+<td>94 130</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>34 663</td>
+<td>39 211</td>
+<td>60 088</td>
+<td>55 845</td>
+<td>73 468</td>
+<td>94 053</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1906&lang=0" target="_blank" class="job">Заместитель главного энергетика</a></td>
+<td>27 638</td>
+<td>33 730</td>
+<td>43 451</td>
+<td>40 830</td>
+<td>53 379</td>
+<td>64 364</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1848&lang=0" target="_blank" class="job">Заместитель начальника КБ</a></td>
+<td>28 705</td>
+<td>31 628</td>
+<td>37 949</td>
+<td>36 938</td>
+<td>47 237</td>
+<td>50 801</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1850&lang=0" target="_blank" class="job">Заточник</a></td>
+<td>20 981</td>
+<td>22 897</td>
+<td>37 141</td>
+<td>36 680</td>
+<td>50 814</td>
+<td>56 120</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>27 510</td>
+<td>43 558</td>
+<td>53 479</td>
+<td>51 352</td>
+<td>64 649</td>
+<td>83 906</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>36 680</td>
+<td>44 016</td>
+<td>59 427</td>
+<td>55 937</td>
+<td>73 865</td>
+<td>84 181</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>24 576</td>
+<td>27 510</td>
+<td>41 108</td>
+<td>38 514</td>
+<td>52 361</td>
+<td>63 273</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1904&lang=0" target="_blank" class="job">Инженер лаборатории металлов</a></td>
+<td>30 021</td>
+<td>32 627</td>
+<td>36 315</td>
+<td>36 686</td>
+<td>40 720</td>
+<td>45 070</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>18 340</td>
+<td>22 925</td>
+<td>38 113</td>
+<td>35 494</td>
+<td>48 975</td>
+<td>62 788</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2857&lang=0" target="_blank" class="job">Инженер по автоматической орбитальной сварке</a></td>
+<td>33 640</td>
+<td>46 164</td>
+<td>69 940</td>
+<td>70 472</td>
+<td>90 120</td>
+<td>110 126</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.11.2015)</p>
+</div>

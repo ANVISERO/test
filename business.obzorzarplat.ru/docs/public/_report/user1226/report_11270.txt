@@ -1,0 +1,328 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Воронеж</p>
+<p>Сфера деятельности компании: Производство</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>36 300</td>
+<td>111 753</td>
+<td>138 564</td>
+<td>148 576</td>
+<td>165 000</td>
+<td>189 207</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1470&lang=0" target="_blank" class="job">Главный агроном</a></td>
+<td>15 931</td>
+<td>18 064</td>
+<td>20 577</td>
+<td>19 800</td>
+<td>25 946</td>
+<td>26 400</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>23 735</td>
+<td>26 400</td>
+<td>33 834</td>
+<td>28 829</td>
+<td>36 936</td>
+<td>43 956</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>23 427</td>
+<td>30 140</td>
+<td>33 166</td>
+<td>35 112</td>
+<td>37 091</td>
+<td>43 659</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>33 908</td>
+<td>45 063</td>
+<td>52 033</td>
+<td>53 022</td>
+<td>64 089</td>
+<td>70 155</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>74 686</td>
+<td>109 593</td>
+<td>125 042</td>
+<td>132 000</td>
+<td>150 975</td>
+<td>172 894</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>2 987</td>
+<td>4 384</td>
+<td>5 002</td>
+<td>5 280</td>
+<td>6 039</td>
+<td>6 916</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>26 004</td>
+<td>51 580</td>
+<td>84 070</td>
+<td>69 477</td>
+<td>93 798</td>
+<td>136 737</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>42 108</td>
+<td>59 400</td>
+<td>85 082</td>
+<td>79 200</td>
+<td>124 080</td>
+<td>124 080</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>16 532</td>
+<td>24 258</td>
+<td>27 678</td>
+<td>29 218</td>
+<td>33 418</td>
+<td>38 270</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>10 679</td>
+<td>11 929</td>
+<td>16 943</td>
+<td>14 600</td>
+<td>23 100</td>
+<td>26 334</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>33 568</td>
+<td>39 600</td>
+<td>45 759</td>
+<td>41 044</td>
+<td>57 221</td>
+<td>66 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>29 700</td>
+<td>41 729</td>
+<td>64 216</td>
+<td>61 870</td>
+<td>83 968</td>
+<td>96 017</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>36 300</td>
+<td>111 753</td>
+<td>182 328</td>
+<td>148 576</td>
+<td>262 782</td>
+<td>315 937</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1470&lang=0" target="_blank" class="job">Главный агроном</a></td>
+<td>19 426</td>
+<td>27 295</td>
+<td>40 691</td>
+<td>38 650</td>
+<td>51 105</td>
+<td>58 828</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>23 735</td>
+<td>26 400</td>
+<td>49 274</td>
+<td>36 080</td>
+<td>68 795</td>
+<td>88 173</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>25 116</td>
+<td>37 830</td>
+<td>51 128</td>
+<td>55 157</td>
+<td>63 063</td>
+<td>74 533</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>40 971</td>
+<td>71 448</td>
+<td>86 797</td>
+<td>91 352</td>
+<td>110 557</td>
+<td>124 794</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>74 686</td>
+<td>109 593</td>
+<td>125 042</td>
+<td>132 000</td>
+<td>150 975</td>
+<td>172 894</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>2 987</td>
+<td>4 384</td>
+<td>5 002</td>
+<td>5 280</td>
+<td>6 039</td>
+<td>6 916</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>26 004</td>
+<td>51 580</td>
+<td>107 572</td>
+<td>71 556</td>
+<td>142 870</td>
+<td>200 539</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>42 108</td>
+<td>59 400</td>
+<td>99 412</td>
+<td>84 185</td>
+<td>151 415</td>
+<td>162 114</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>24 000</td>
+<td>35 218</td>
+<td>40 182</td>
+<td>42 418</td>
+<td>48 516</td>
+<td>55 559</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>10 679</td>
+<td>11 929</td>
+<td>24 735</td>
+<td>20 620</td>
+<td>35 133</td>
+<td>46 342</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>34 366</td>
+<td>49 500</td>
+<td>63 155</td>
+<td>57 581</td>
+<td>84 017</td>
+<td>96 275</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>29 700</td>
+<td>46 728</td>
+<td>111 703</td>
+<td>107 506</td>
+<td>158 579</td>
+<td>192 186</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 27.05.2014)</p>
+</div>

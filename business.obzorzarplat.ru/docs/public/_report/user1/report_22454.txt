@@ -1,0 +1,388 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1440&lang=0" target="_blank" class="job">Заведующий аптекой</a></td>
+<td>29 837</td>
+<td>31 456</td>
+<td>37 159</td>
+<td>35 000</td>
+<td>40 251</td>
+<td>50 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>26 724</td>
+<td>30 000</td>
+<td>32 622</td>
+<td>35 000</td>
+<td>36 000</td>
+<td>39 366</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>20 120</td>
+<td>23 000</td>
+<td>27 947</td>
+<td>25 100</td>
+<td>32 580</td>
+<td>39 620</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>30 854</td>
+<td>33 159</td>
+<td>42 048</td>
+<td>40 548</td>
+<td>50 474</td>
+<td>58 397</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>60 270</td>
+<td>91 850</td>
+<td>119 229</td>
+<td>103 862</td>
+<td>150 050</td>
+<td>187 457</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>18 000</td>
+<td>20 000</td>
+<td>25 769</td>
+<td>25 000</td>
+<td>29 960</td>
+<td>30 500</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>96 000</td>
+<td>101 370</td>
+<td>124 836</td>
+<td>123 288</td>
+<td>150 000</td>
+<td>178 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2751&lang=0" target="_blank" class="job">Менеджер по регистрации лекарственных препаратов</a></td>
+<td>104 795</td>
+<td>131 747</td>
+<td>157 085</td>
+<td>156 271</td>
+<td>190 585</td>
+<td>218 753</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>20 227</td>
+<td>23 304</td>
+<td>24 820</td>
+<td>25 000</td>
+<td>27 027</td>
+<td>30 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>22 784</td>
+<td>25 000</td>
+<td>27 483</td>
+<td>30 000</td>
+<td>30 336</td>
+<td>33 694</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>24 150</td>
+<td>28 337</td>
+<td>32 927</td>
+<td>30 576</td>
+<td>35 540</td>
+<td>45 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>20 000</td>
+<td>30 000</td>
+<td>40 947</td>
+<td>36 728</td>
+<td>51 204</td>
+<td>60 953</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>18 281</td>
+<td>18 393</td>
+<td>21 486</td>
+<td>20 000</td>
+<td>23 875</td>
+<td>29 100</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>25 000</td>
+<td>27 500</td>
+<td>38 993</td>
+<td>31 205</td>
+<td>46 950</td>
+<td>61 462</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>19 400</td>
+<td>20 000</td>
+<td>28 952</td>
+<td>28 750</td>
+<td>35 063</td>
+<td>41 556</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>20 366</td>
+<td>22 240</td>
+<td>24 367</td>
+<td>25 000</td>
+<td>26 381</td>
+<td>30 285</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1440&lang=0" target="_blank" class="job">Заведующий аптекой</a></td>
+<td>29 837</td>
+<td>31 456</td>
+<td>44 303</td>
+<td>39 663</td>
+<td>52 149</td>
+<td>66 897</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>26 724</td>
+<td>30 000</td>
+<td>37 381</td>
+<td>39 400</td>
+<td>43 881</td>
+<td>50 368</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>20 120</td>
+<td>23 000</td>
+<td>30 564</td>
+<td>25 100</td>
+<td>37 769</td>
+<td>47 539</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>30 854</td>
+<td>33 159</td>
+<td>58 397</td>
+<td>54 262</td>
+<td>78 337</td>
+<td>97 013</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>60 270</td>
+<td>91 850</td>
+<td>135 669</td>
+<td>120 362</td>
+<td>174 116</td>
+<td>228 927</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>18 000</td>
+<td>20 000</td>
+<td>46 310</td>
+<td>25 000</td>
+<td>61 381</td>
+<td>100 402</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>96 000</td>
+<td>101 370</td>
+<td>135 671</td>
+<td>131 788</td>
+<td>167 841</td>
+<td>201 424</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2751&lang=0" target="_blank" class="job">Менеджер по регистрации лекарственных препаратов</a></td>
+<td>104 795</td>
+<td>131 747</td>
+<td>169 133</td>
+<td>166 271</td>
+<td>212 651</td>
+<td>246 461</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>20 227</td>
+<td>23 304</td>
+<td>33 622</td>
+<td>32 200</td>
+<td>42 608</td>
+<td>50 675</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>24 176</td>
+<td>32 000</td>
+<td>35 848</td>
+<td>38 149</td>
+<td>41 697</td>
+<td>47 015</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>24 150</td>
+<td>28 337</td>
+<td>46 246</td>
+<td>39 256</td>
+<td>60 560</td>
+<td>77 400</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>30 084</td>
+<td>60 000</td>
+<td>75 243</td>
+<td>76 728</td>
+<td>97 779</td>
+<td>114 953</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>18 281</td>
+<td>18 393</td>
+<td>32 012</td>
+<td>23 628</td>
+<td>45 848</td>
+<td>55 812</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>25 000</td>
+<td>27 500</td>
+<td>54 810</td>
+<td>43 571</td>
+<td>72 191</td>
+<td>98 074</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>19 400</td>
+<td>20 000</td>
+<td>38 805</td>
+<td>31 460</td>
+<td>49 902</td>
+<td>68 816</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>20 366</td>
+<td>23 492</td>
+<td>32 318</td>
+<td>33 012</td>
+<td>39 846</td>
+<td>47 127</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 22.05.2015)</p>
+</div>

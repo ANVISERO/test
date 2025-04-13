@@ -1,0 +1,508 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>25 747</td>
+<td>34 598</td>
+<td>49 003</td>
+<td>46 264</td>
+<td>63 218</td>
+<td>79 885</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>25 192</td>
+<td>29 425</td>
+<td>28 865</td>
+<td>29 425</td>
+<td>29 425</td>
+<td>30 062</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>54 253</td>
+<td>66 061</td>
+<td>81 292</td>
+<td>92 606</td>
+<td>97 701</td>
+<td>97 701</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>24 514</td>
+<td>31 203</td>
+<td>34 813</td>
+<td>37 236</td>
+<td>39 724</td>
+<td>41 423</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>25 287</td>
+<td>27 011</td>
+<td>31 115</td>
+<td>29 655</td>
+<td>35 572</td>
+<td>39 310</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам</a></td>
+<td>33 592</td>
+<td>36 560</td>
+<td>40 109</td>
+<td>40 460</td>
+<td>42 660</td>
+<td>46 276</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>25 227</td>
+<td>26 071</td>
+<td>29 066</td>
+<td>29 560</td>
+<td>31 710</td>
+<td>32 851</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>36 376</td>
+<td>38 566</td>
+<td>43 793</td>
+<td>44 253</td>
+<td>47 461</td>
+<td>51 245</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1464&lang=0" target="_blank" class="job">Главный архитектор проекта</a></td>
+<td>42 752</td>
+<td>43 459</td>
+<td>49 667</td>
+<td>49 133</td>
+<td>53 482</td>
+<td>59 422</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>24 330</td>
+<td>25 760</td>
+<td>29 050</td>
+<td>28 926</td>
+<td>31 995</td>
+<td>33 894</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>21 749</td>
+<td>25 162</td>
+<td>30 081</td>
+<td>26 437</td>
+<td>34 663</td>
+<td>40 484</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>38 077</td>
+<td>40 369</td>
+<td>45 840</td>
+<td>46 322</td>
+<td>49 680</td>
+<td>53 641</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>15 302</td>
+<td>18 362</td>
+<td>25 536</td>
+<td>23 333</td>
+<td>29 932</td>
+<td>37 011</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1967&lang=0" target="_blank" class="job">Инженер (Группа слаботочных систем - ГСС)</a></td>
+<td>43 462</td>
+<td>46 079</td>
+<td>52 324</td>
+<td>52 874</td>
+<td>56 707</td>
+<td>61 228</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>36 207</td>
+<td>40 305</td>
+<td>52 414</td>
+<td>52 874</td>
+<td>68 391</td>
+<td>68 391</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>29 762</td>
+<td>31 554</td>
+<td>35 830</td>
+<td>36 207</td>
+<td>38 832</td>
+<td>41 928</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>28 506</td>
+<td>30 575</td>
+<td>40 496</td>
+<td>40 230</td>
+<td>49 353</td>
+<td>56 897</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1973&lang=0" target="_blank" class="job">Инженер-проектировщик 1-ой категории</a></td>
+<td>13 626</td>
+<td>15 575</td>
+<td>15 987</td>
+<td>16 092</td>
+<td>16 384</td>
+<td>17 947</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1485&lang=0" target="_blank" class="job">Инженер-сметчик</a></td>
+<td>20 009</td>
+<td>22 088</td>
+<td>28 043</td>
+<td>25 200</td>
+<td>32 197</td>
+<td>41 609</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>33 069</td>
+<td>35 060</td>
+<td>39 811</td>
+<td>40 230</td>
+<td>43 147</td>
+<td>46 586</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1971&lang=0" target="_blank" class="job">Оператор проекта (строительство)</a></td>
+<td>12 283</td>
+<td>13 022</td>
+<td>14 787</td>
+<td>14 943</td>
+<td>16 026</td>
+<td>17 303</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2057&lang=0" target="_blank" class="job">Реставратор/Художник</a></td>
+<td>22 131</td>
+<td>25 666</td>
+<td>32 342</td>
+<td>28 350</td>
+<td>39 524</td>
+<td>42 662</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>33 103</td>
+<td>48 765</td>
+<td>55 890</td>
+<td>52 874</td>
+<td>66 055</td>
+<td>79 885</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>32 172</td>
+<td>33 448</td>
+<td>34 651</td>
+<td>33 448</td>
+<td>33 448</td>
+<td>39 214</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1964&lang=0" target="_blank" class="job">Ведущий инженер по КИПиА</a></td>
+<td>57 471</td>
+<td>67 457</td>
+<td>83 010</td>
+<td>93 530</td>
+<td>97 701</td>
+<td>97 701</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>43 460</td>
+<td>53 550</td>
+<td>55 322</td>
+<td>58 925</td>
+<td>59 139</td>
+<td>59 314</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>30 805</td>
+<td>37 356</td>
+<td>43 636</td>
+<td>41 389</td>
+<td>52 823</td>
+<td>54 023</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам</a></td>
+<td>44 948</td>
+<td>48 920</td>
+<td>53 669</td>
+<td>54 138</td>
+<td>57 082</td>
+<td>61 920</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>46 792</td>
+<td>46 933</td>
+<td>47 071</td>
+<td>47 098</td>
+<td>47 251</td>
+<td>47 383</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1972&lang=0" target="_blank" class="job">Ведущий инженер-сметчик</a></td>
+<td>51 966</td>
+<td>55 095</td>
+<td>62 561</td>
+<td>63 218</td>
+<td>67 802</td>
+<td>73 207</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1464&lang=0" target="_blank" class="job">Главный архитектор проекта</a></td>
+<td>64 533</td>
+<td>81 932</td>
+<td>79 764</td>
+<td>82 008</td>
+<td>82 605</td>
+<td>85 296</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>41 025</td>
+<td>43 792</td>
+<td>48 984</td>
+<td>49 413</td>
+<td>52 958</td>
+<td>56 516</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>26 261</td>
+<td>26 437</td>
+<td>32 705</td>
+<td>28 716</td>
+<td>37 687</td>
+<td>42 411</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>38 077</td>
+<td>40 369</td>
+<td>45 840</td>
+<td>46 322</td>
+<td>49 680</td>
+<td>53 641</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>23 508</td>
+<td>26 437</td>
+<td>37 579</td>
+<td>38 721</td>
+<td>43 853</td>
+<td>52 874</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1967&lang=0" target="_blank" class="job">Инженер (Группа слаботочных систем - ГСС)</a></td>
+<td>43 462</td>
+<td>46 079</td>
+<td>52 324</td>
+<td>52 874</td>
+<td>56 707</td>
+<td>61 228</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>50 911</td>
+<td>52 515</td>
+<td>57 949</td>
+<td>52 874</td>
+<td>68 391</td>
+<td>68 391</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>42 517</td>
+<td>45 078</td>
+<td>51 186</td>
+<td>51 724</td>
+<td>55 474</td>
+<td>59 897</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>40 230</td>
+<td>40 671</td>
+<td>46 525</td>
+<td>43 678</td>
+<td>50 051</td>
+<td>56 897</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1973&lang=0" target="_blank" class="job">Инженер-проектировщик 1-ой категории</a></td>
+<td>19 466</td>
+<td>22 250</td>
+<td>22 839</td>
+<td>22 989</td>
+<td>23 405</td>
+<td>25 638</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1485&lang=0" target="_blank" class="job">Инженер-сметчик</a></td>
+<td>35 169</td>
+<td>35 395</td>
+<td>44 514</td>
+<td>41 092</td>
+<td>47 032</td>
+<td>65 955</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>47 241</td>
+<td>50 086</td>
+<td>56 874</td>
+<td>57 471</td>
+<td>61 638</td>
+<td>66 552</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1971&lang=0" target="_blank" class="job">Оператор проекта (строительство)</a></td>
+<td>17 007</td>
+<td>18 031</td>
+<td>20 474</td>
+<td>20 690</td>
+<td>22 190</td>
+<td>23 959</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2057&lang=0" target="_blank" class="job">Реставратор/Художник</a></td>
+<td>22 131</td>
+<td>25 666</td>
+<td>32 342</td>
+<td>28 350</td>
+<td>39 524</td>
+<td>42 662</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 26.11.2012)</p>
+</div>

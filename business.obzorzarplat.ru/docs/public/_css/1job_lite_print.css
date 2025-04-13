@@ -1,0 +1,24 @@
+/* 
+    Document   : lite_single_print
+    Created on : 20.08.2009, 19:12:11
+    Author     : ANT
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.lite_single{border:0px; width:100%; font-family: Verdana;}
+.lite_single h3{font-size:15px; color: #000; border-bottom: 1px solid gray; padding: 4px 4px 6px 4px; font-weight:bold;}
+
+.lite_single table{border-collapse:collapse; border:1px solid #DBDBDB; width:100%;}
+.lite_single table th{font-weight:bold; font-size:13px; text-align:center;}
+.lite_single table td{font-weight:normal; font-size:12px; text-align:center; border-top:1px solid #DBDBDB; padding:2px;}
+.lite_single table td.X1_left{font-weight:bold; font-size:12px; text-align:left; padding:4px; border-top:1px solid #DBDBDB;}
+
+.lite_single table.data{border-collapse:collapse; width:100%;}
+.lite_single table.data td{padding:5px; border:1px solid #DBDBDB;}
+.lite_single table.data td.title{background-color:#DBDBDB; border:2px solid silver;}
+.lite_single table.data td.title_none{border-top:1px solid #fff; border-right:1px solid #fff;}
+.lite_single table.data th{font-weight:bold; font-size:13px; text-align:left; background:none; border:1px solid #DBDBDB;}
+
+.lite_single table.job_description{border-collapse:collapse; border:1px solid #DBDBDB; width:100%;}
+.lite_single table.job_description td{text-align:left; border-bottom:1px dashed #B1CBE4; vertical-align:top;}

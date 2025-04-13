@@ -1,0 +1,83 @@
+
+<link href="/_css/summary/summary_print.css" rel="stylesheet" type="text/css">
+<div class="summary">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<p align="right"><em>Таблица 1.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+  <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">63 771</td>
+<td class="X1_right">91 859</td>
+<td class="X1_right">89 770</td>
+<td class="X1_right">112 000</td>
+<td class="X1_right">170 115</td>
+<td class="X1_right">апрель 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td class="X1_right">86 011</td>
+<td class="X1_right">131 727</td>
+<td class="X1_right">177 591</td>
+<td class="X1_right">153 201</td>
+<td class="X1_right">190 824</td>
+<td class="X1_right">506 810</td>
+<td class="X1_right">апрель 2010</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+<br>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<p align="right"><em>Таблица 2.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+   <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td class="X1_right">26 437</td>
+<td class="X1_right">63 218</td>
+<td class="X1_right">90 890</td>
+<td class="X1_right">88 506</td>
+<td class="X1_right">111 839</td>
+<td class="X1_right">168 174</td>
+<td class="X1_right">апрель 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td class="X1_right">86 011</td>
+<td class="X1_right">127 586</td>
+<td class="X1_right">175 220</td>
+<td class="X1_right">150 903</td>
+<td class="X1_right">181 708</td>
+<td class="X1_right">505 747</td>
+<td class="X1_right">апрель 2010</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+</div>

@@ -1,0 +1,428 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Уфа</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1440&lang=0" target="_blank" class="job">Заведующий аптекой</a></td>
+<td>39 218</td>
+<td>42 160</td>
+<td>49 582</td>
+<td>47 430</td>
+<td>53 027</td>
+<td>68 510</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>31 620</td>
+<td>35 028</td>
+<td>41 151</td>
+<td>42 160</td>
+<td>47 430</td>
+<td>50 171</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>22 598</td>
+<td>26 350</td>
+<td>30 862</td>
+<td>28 458</td>
+<td>36 890</td>
+<td>42 160</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>42 160</td>
+<td>45 059</td>
+<td>53 732</td>
+<td>56 916</td>
+<td>63 240</td>
+<td>66 402</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>60 605</td>
+<td>81 685</td>
+<td>119 336</td>
+<td>105 400</td>
+<td>158 153</td>
+<td>200 260</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>21 080</td>
+<td>26 350</td>
+<td>33 020</td>
+<td>31 620</td>
+<td>36 890</td>
+<td>43 788</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2869&lang=0" target="_blank" class="job">Менеджер по продажам медицинских услуг</a></td>
+<td>35 109</td>
+<td>36 890</td>
+<td>40 963</td>
+<td>42 160</td>
+<td>46 376</td>
+<td>48 483</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2870&lang=0" target="_blank" class="job">Менеджер по продажам медицинского оборудования</a></td>
+<td>27 193</td>
+<td>33 724</td>
+<td>39 831</td>
+<td>42 160</td>
+<td>47 430</td>
+<td>52 700</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>88 536</td>
+<td>102 983</td>
+<td>128 234</td>
+<td>128 588</td>
+<td>150 367</td>
+<td>191 196</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2751&lang=0" target="_blank" class="job">Менеджер по регистрации лекарственных препаратов</a></td>
+<td>81 158</td>
+<td>91 306</td>
+<td>114 998</td>
+<td>94 860</td>
+<td>150 673</td>
+<td>173 910</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>33 042</td>
+<td>36 890</td>
+<td>41 143</td>
+<td>42 160</td>
+<td>46 376</td>
+<td>47 430</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>31 121</td>
+<td>33 891</td>
+<td>36 934</td>
+<td>37 944</td>
+<td>41 385</td>
+<td>45 322</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>30 355</td>
+<td>37 735</td>
+<td>43 663</td>
+<td>47 430</td>
+<td>52 700</td>
+<td>52 700</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>35 836</td>
+<td>43 755</td>
+<td>55 706</td>
+<td>57 970</td>
+<td>70 406</td>
+<td>73 780</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>21 080</td>
+<td>23 987</td>
+<td>26 154</td>
+<td>26 350</td>
+<td>29 776</td>
+<td>31 620</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>29 196</td>
+<td>34 308</td>
+<td>44 057</td>
+<td>39 585</td>
+<td>53 159</td>
+<td>66 613</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>23 926</td>
+<td>30 236</td>
+<td>34 879</td>
+<td>34 255</td>
+<td>42 160</td>
+<td>46 481</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>21 682</td>
+<td>30 358</td>
+<td>33 775</td>
+<td>36 890</td>
+<td>39 262</td>
+<td>41 633</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1440&lang=0" target="_blank" class="job">Заведующий аптекой</a></td>
+<td>39 218</td>
+<td>42 160</td>
+<td>56 879</td>
+<td>54 808</td>
+<td>66 890</td>
+<td>86 006</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>31 620</td>
+<td>36 002</td>
+<td>47 128</td>
+<td>48 813</td>
+<td>57 074</td>
+<td>60 711</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>22 598</td>
+<td>26 350</td>
+<td>34 243</td>
+<td>28 458</td>
+<td>44 341</td>
+<td>52 700</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>42 160</td>
+<td>45 059</td>
+<td>71 850</td>
+<td>63 240</td>
+<td>94 411</td>
+<td>114 886</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>60 605</td>
+<td>81 685</td>
+<td>141 316</td>
+<td>126 480</td>
+<td>200 393</td>
+<td>249 271</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>36 890</td>
+<td>62 713</td>
+<td>81 525</td>
+<td>81 158</td>
+<td>100 183</td>
+<td>116 092</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2869&lang=0" target="_blank" class="job">Менеджер по продажам медицинских услуг</a></td>
+<td>35 109</td>
+<td>47 430</td>
+<td>74 767</td>
+<td>73 780</td>
+<td>97 600</td>
+<td>115 939</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2870&lang=0" target="_blank" class="job">Менеджер по продажам медицинского оборудования</a></td>
+<td>34 807</td>
+<td>54 804</td>
+<td>75 895</td>
+<td>74 668</td>
+<td>96 175</td>
+<td>113 208</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>88 536</td>
+<td>112 007</td>
+<td>153 433</td>
+<td>156 910</td>
+<td>191 189</td>
+<td>233 356</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2751&lang=0" target="_blank" class="job">Менеджер по регистрации лекарственных препаратов</a></td>
+<td>81 158</td>
+<td>94 094</td>
+<td>132 104</td>
+<td>105 400</td>
+<td>178 279</td>
+<td>213 225</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>33 042</td>
+<td>36 890</td>
+<td>45 671</td>
+<td>45 322</td>
+<td>55 523</td>
+<td>57 970</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>31 121</td>
+<td>34 670</td>
+<td>41 714</td>
+<td>43 266</td>
+<td>49 172</td>
+<td>53 754</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>30 355</td>
+<td>37 735</td>
+<td>56 165</td>
+<td>57 970</td>
+<td>75 612</td>
+<td>87 555</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>35 836</td>
+<td>50 147</td>
+<td>82 523</td>
+<td>83 063</td>
+<td>117 197</td>
+<td>126 480</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>21 080</td>
+<td>23 987</td>
+<td>36 463</td>
+<td>29 117</td>
+<td>51 266</td>
+<td>58 075</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>29 196</td>
+<td>34 308</td>
+<td>60 811</td>
+<td>48 544</td>
+<td>85 083</td>
+<td>112 040</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>23 926</td>
+<td>30 236</td>
+<td>48 509</td>
+<td>39 597</td>
+<td>67 600</td>
+<td>81 158</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>21 682</td>
+<td>30 358</td>
+<td>38 149</td>
+<td>38 998</td>
+<td>47 478</td>
+<td>52 701</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 18.08.2015)</p>
+</div>

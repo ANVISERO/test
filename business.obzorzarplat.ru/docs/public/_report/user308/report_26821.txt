@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1475&lang=0" target="_blank" class="job">Ведущий инженер (отдел телекоммуникаций)</a></td>
+<td>32 000</td>
+<td>38 000</td>
+<td>43 423</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>53 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>40 600</td>
+<td>42 937</td>
+<td>47 919</td>
+<td>44 500</td>
+<td>54 354</td>
+<td>64 750</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>19 574</td>
+<td>20 000</td>
+<td>23 479</td>
+<td>23 000</td>
+<td>28 000</td>
+<td>30 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1476&lang=0" target="_blank" class="job">Инженер (телекоммуникаций)</a></td>
+<td>29 634</td>
+<td>31 050</td>
+<td>35 727</td>
+<td>35 000</td>
+<td>39 780</td>
+<td>49 650</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1864&lang=0" target="_blank" class="job">Монтажник радиоэлектронной аппаратуры и приборов</a></td>
+<td>20 480</td>
+<td>26 030</td>
+<td>31 145</td>
+<td>34 064</td>
+<td>38 795</td>
+<td>40 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1472&lang=0" target="_blank" class="job">Начальник отдела проектирования</a></td>
+<td>71 697</td>
+<td>80 000</td>
+<td>85 077</td>
+<td>85 000</td>
+<td>96 773</td>
+<td>103 585</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1960&lang=0" target="_blank" class="job">Начальник отдела электрических и слаботочных систем (ОЭСС)</a></td>
+<td>45 513</td>
+<td>50 562</td>
+<td>58 043</td>
+<td>55 000</td>
+<td>65 725</td>
+<td>76 509</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>12 000</td>
+<td>15 008</td>
+<td>18 843</td>
+<td>20 000</td>
+<td>22 614</td>
+<td>25 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1875&lang=0" target="_blank" class="job">Радиомеханик по ремонту радиоэлектроники</a></td>
+<td>12 900</td>
+<td>15 000</td>
+<td>19 392</td>
+<td>19 000</td>
+<td>23 947</td>
+<td>26 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1877&lang=0" target="_blank" class="job">Регулировщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>15 200</td>
+<td>16 800</td>
+<td>21 600</td>
+<td>19 051</td>
+<td>25 780</td>
+<td>31 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1489&lang=0" target="_blank" class="job">Руководитель департамента (телекоммуникации)</a></td>
+<td>22 000</td>
+<td>40 757</td>
+<td>46 795</td>
+<td>50 000</td>
+<td>58 649</td>
+<td>62 500</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1481&lang=0" target="_blank" class="job">Руководитель проекта (телекоммуникации)</a></td>
+<td>50 000</td>
+<td>73 646</td>
+<td>83 020</td>
+<td>90 631</td>
+<td>95 435</td>
+<td>102 673</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1885&lang=0" target="_blank" class="job">Слесарь-сборщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>16 420</td>
+<td>22 000</td>
+<td>25 373</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>21 000</td>
+<td>24 100</td>
+<td>30 332</td>
+<td>30 000</td>
+<td>36 000</td>
+<td>43 581</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1475&lang=0" target="_blank" class="job">Ведущий инженер (отдел телекоммуникаций)</a></td>
+<td>37 000</td>
+<td>43 000</td>
+<td>54 307</td>
+<td>57 000</td>
+<td>65 000</td>
+<td>70 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>56 317</td>
+<td>61 549</td>
+<td>69 011</td>
+<td>66 500</td>
+<td>79 229</td>
+<td>91 366</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>32 574</td>
+<td>37 000</td>
+<td>45 179</td>
+<td>46 790</td>
+<td>55 000</td>
+<td>60 883</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1476&lang=0" target="_blank" class="job">Инженер (телекоммуникаций)</a></td>
+<td>37 634</td>
+<td>40 353</td>
+<td>47 196</td>
+<td>47 779</td>
+<td>53 780</td>
+<td>63 958</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1864&lang=0" target="_blank" class="job">Монтажник радиоэлектронной аппаратуры и приборов</a></td>
+<td>23 480</td>
+<td>29 780</td>
+<td>38 476</td>
+<td>40 580</td>
+<td>49 223</td>
+<td>52 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1472&lang=0" target="_blank" class="job">Начальник отдела проектирования</a></td>
+<td>73 439</td>
+<td>89 000</td>
+<td>100 956</td>
+<td>100 000</td>
+<td>116 885</td>
+<td>129 178</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1960&lang=0" target="_blank" class="job">Начальник отдела электрических и слаботочных систем (ОЭСС)</a></td>
+<td>45 513</td>
+<td>50 562</td>
+<td>77 931</td>
+<td>67 000</td>
+<td>99 601</td>
+<td>133 385</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>12 561</td>
+<td>18 008</td>
+<td>26 779</td>
+<td>27 029</td>
+<td>32 614</td>
+<td>41 254</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1875&lang=0" target="_blank" class="job">Радиомеханик по ремонту радиоэлектроники</a></td>
+<td>12 900</td>
+<td>17 153</td>
+<td>28 692</td>
+<td>24 000</td>
+<td>37 999</td>
+<td>48 840</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1877&lang=0" target="_blank" class="job">Регулировщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>15 200</td>
+<td>18 582</td>
+<td>31 239</td>
+<td>28 851</td>
+<td>41 478</td>
+<td>51 500</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1489&lang=0" target="_blank" class="job">Руководитель департамента (телекоммуникации)</a></td>
+<td>22 000</td>
+<td>43 350</td>
+<td>62 805</td>
+<td>66 404</td>
+<td>83 789</td>
+<td>93 971</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1481&lang=0" target="_blank" class="job">Руководитель проекта (телекоммуникации)</a></td>
+<td>50 000</td>
+<td>121 775</td>
+<td>138 152</td>
+<td>149 131</td>
+<td>169 743</td>
+<td>187 756</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1885&lang=0" target="_blank" class="job">Слесарь-сборщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>16 420</td>
+<td>23 800</td>
+<td>33 901</td>
+<td>28 500</td>
+<td>44 100</td>
+<td>53 536</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>21 000</td>
+<td>24 100</td>
+<td>38 382</td>
+<td>36 000</td>
+<td>51 000</td>
+<td>63 479</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.08.2015)</p>
+</div>

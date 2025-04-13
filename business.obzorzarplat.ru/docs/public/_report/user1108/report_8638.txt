@@ -1,0 +1,428 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>24 395</td>
+<td>28 736</td>
+<td>33 350</td>
+<td>32 184</td>
+<td>37 376</td>
+<td>43 621</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2006&lang=0" target="_blank" class="job">Бухгалтер 1 категории</a></td>
+<td>39 770</td>
+<td>41 688</td>
+<td>52 628</td>
+<td>47 022</td>
+<td>67 510</td>
+<td>68 966</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2007&lang=0" target="_blank" class="job">Бухгалтер 2 категории</a></td>
+<td>24 105</td>
+<td>31 034</td>
+<td>37 177</td>
+<td>33 119</td>
+<td>46 173</td>
+<td>59 770</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2008&lang=0" target="_blank" class="job">Бухгалтер 3 категории</a></td>
+<td>19 406</td>
+<td>22 163</td>
+<td>23 880</td>
+<td>24 368</td>
+<td>26 437</td>
+<td>28 882</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>27 641</td>
+<td>28 247</td>
+<td>34 369</td>
+<td>30 575</td>
+<td>37 761</td>
+<td>46 694</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>25 287</td>
+<td>28 736</td>
+<td>34 024</td>
+<td>32 184</td>
+<td>39 010</td>
+<td>45 977</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>36 782</td>
+<td>46 946</td>
+<td>58 455</td>
+<td>57 529</td>
+<td>63 218</td>
+<td>86 395</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>41 903</td>
+<td>50 286</td>
+<td>69 375</td>
+<td>57 655</td>
+<td>73 529</td>
+<td>103 448</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>41 356</td>
+<td>46 552</td>
+<td>54 278</td>
+<td>54 023</td>
+<td>66 604</td>
+<td>70 115</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>29 154</td>
+<td>33 333</td>
+<td>50 717</td>
+<td>42 529</td>
+<td>52 299</td>
+<td>85 057</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>25 977</td>
+<td>35 057</td>
+<td>50 243</td>
+<td>50 575</td>
+<td>57 471</td>
+<td>61 923</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>45 841</td>
+<td>51 724</td>
+<td>79 442</td>
+<td>59 195</td>
+<td>80 460</td>
+<td>114 943</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>109 634</td>
+<td>160 876</td>
+<td>183 553</td>
+<td>193 768</td>
+<td>221 622</td>
+<td>253 797</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>34 086</td>
+<td>41 669</td>
+<td>77 278</td>
+<td>61 586</td>
+<td>83 333</td>
+<td>131 943</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1397&lang=0" target="_blank" class="job">Старший менеджер по городским продажам</a></td>
+<td>21 572</td>
+<td>22 989</td>
+<td>30 999</td>
+<td>27 615</td>
+<td>37 931</td>
+<td>48 295</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>56 897</td>
+<td>82 819</td>
+<td>128 381</td>
+<td>113 798</td>
+<td>156 585</td>
+<td>194 851</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>28 161</td>
+<td>35 948</td>
+<td>45 152</td>
+<td>47 414</td>
+<td>51 724</td>
+<td>56 322</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>17 701</td>
+<td>39 368</td>
+<td>46 158</td>
+<td>45 977</td>
+<td>52 586</td>
+<td>64 556</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>28 736</td>
+<td>34 253</td>
+<td>41 610</td>
+<td>40 230</td>
+<td>46 222</td>
+<td>52 251</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2006&lang=0" target="_blank" class="job">Бухгалтер 1 категории</a></td>
+<td>41 335</td>
+<td>45 977</td>
+<td>55 281</td>
+<td>53 046</td>
+<td>68 913</td>
+<td>68 966</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2007&lang=0" target="_blank" class="job">Бухгалтер 2 категории</a></td>
+<td>24 309</td>
+<td>31 987</td>
+<td>39 661</td>
+<td>40 345</td>
+<td>49 258</td>
+<td>59 770</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2008&lang=0" target="_blank" class="job">Бухгалтер 3 категории</a></td>
+<td>19 406</td>
+<td>22 163</td>
+<td>23 880</td>
+<td>24 368</td>
+<td>26 437</td>
+<td>28 882</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>30 354</td>
+<td>33 678</td>
+<td>38 227</td>
+<td>34 483</td>
+<td>40 733</td>
+<td>49 214</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>28 736</td>
+<td>32 184</td>
+<td>38 272</td>
+<td>35 057</td>
+<td>45 977</td>
+<td>52 644</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>40 460</td>
+<td>51 954</td>
+<td>63 939</td>
+<td>63 218</td>
+<td>66 494</td>
+<td>94 500</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>52 230</td>
+<td>63 218</td>
+<td>90 669</td>
+<td>91 954</td>
+<td>101 537</td>
+<td>133 175</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>54 847</td>
+<td>60 022</td>
+<td>66 294</td>
+<td>66 092</td>
+<td>78 601</td>
+<td>82 048</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1681&lang=0" target="_blank" class="job">Начальник отдела</a></td>
+<td>40 161</td>
+<td>44 138</td>
+<td>66 452</td>
+<td>56 897</td>
+<td>77 126</td>
+<td>107 126</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>46 301</td>
+<td>51 592</td>
+<td>62 996</td>
+<td>58 348</td>
+<td>67 514</td>
+<td>91 512</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>57 471</td>
+<td>59 195</td>
+<td>106 437</td>
+<td>83 152</td>
+<td>114 734</td>
+<td>159 802</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>122 966</td>
+<td>180 439</td>
+<td>205 875</td>
+<td>217 331</td>
+<td>248 572</td>
+<td>284 660</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>49 586</td>
+<td>67 697</td>
+<td>98 583</td>
+<td>86 207</td>
+<td>106 796</td>
+<td>137 144</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1397&lang=0" target="_blank" class="job">Старший менеджер по городским продажам</a></td>
+<td>38 407</td>
+<td>40 230</td>
+<td>49 287</td>
+<td>51 724</td>
+<td>57 471</td>
+<td>64 603</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>74 138</td>
+<td>103 448</td>
+<td>175 761</td>
+<td>157 575</td>
+<td>190 252</td>
+<td>272 414</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>39 940</td>
+<td>41 724</td>
+<td>57 449</td>
+<td>57 471</td>
+<td>74 713</td>
+<td>80 460</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>29 000</td>
+<td>41 928</td>
+<td>51 284</td>
+<td>51 724</td>
+<td>61 357</td>
+<td>74 857</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 03.09.2013)</p>
+</div>

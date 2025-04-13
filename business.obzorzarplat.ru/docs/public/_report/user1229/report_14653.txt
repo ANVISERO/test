@@ -1,0 +1,548 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Штат компании: от 101 до 200 человек</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>30 025</td>
+<td>33 171</td>
+<td>40 580</td>
+<td>43 331</td>
+<td>47 476</td>
+<td>52 974</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>19 950</td>
+<td>29 274</td>
+<td>33 400</td>
+<td>35 259</td>
+<td>40 327</td>
+<td>46 182</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2742&lang=0" target="_blank" class="job">Ведущий финансовый аналитик</a></td>
+<td>52 560</td>
+<td>87 600</td>
+<td>120 330</td>
+<td>119 553</td>
+<td>149 119</td>
+<td>187 717</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2275&lang=0" target="_blank" class="job">Финансовый аналитик</a></td>
+<td>44 585</td>
+<td>51 100</td>
+<td>58 769</td>
+<td>58 400</td>
+<td>73 000</td>
+<td>73 392</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2748&lang=0" target="_blank" class="job">Заместитель IT-директора</a></td>
+<td>109 208</td>
+<td>121 910</td>
+<td>177 694</td>
+<td>158 766</td>
+<td>222 362</td>
+<td>279 256</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>100 416</td>
+<td>131 400</td>
+<td>185 923</td>
+<td>172 373</td>
+<td>231 700</td>
+<td>290 731</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2747&lang=0" target="_blank" class="job">Дизайнер интерфейсов</a></td>
+<td>43 800</td>
+<td>56 940</td>
+<td>78 327</td>
+<td>71 437</td>
+<td>91 148</td>
+<td>131 938</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>65 700</td>
+<td>87 600</td>
+<td>121 926</td>
+<td>112 420</td>
+<td>152 391</td>
+<td>181 273</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2746&lang=0" target="_blank" class="job">Проектировщик пользовательских интерфейсов</a></td>
+<td>49 056</td>
+<td>73 000</td>
+<td>94 838</td>
+<td>87 600</td>
+<td>103 971</td>
+<td>160 018</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>36 379</td>
+<td>44 340</td>
+<td>56 714</td>
+<td>60 822</td>
+<td>73 998</td>
+<td>75 073</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1251&lang=0" target="_blank" class="job">Руководитель товарного направления</a></td>
+<td>38 542</td>
+<td>50 487</td>
+<td>59 145</td>
+<td>60 268</td>
+<td>73 584</td>
+<td>79 744</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>29 485</td>
+<td>36 500</td>
+<td>45 309</td>
+<td>43 800</td>
+<td>54 294</td>
+<td>66 712</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2738&lang=0" target="_blank" class="job">Руководитель группы по работе с рекламациями </a></td>
+<td>58 400</td>
+<td>73 000</td>
+<td>106 491</td>
+<td>95 406</td>
+<td>133 137</td>
+<td>160 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2739&lang=0" target="_blank" class="job">Специалист по работе с рекламациями</a></td>
+<td>40 734</td>
+<td>45 260</td>
+<td>61 876</td>
+<td>58 400</td>
+<td>67 762</td>
+<td>100 788</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>29 485</td>
+<td>36 500</td>
+<td>45 309</td>
+<td>43 800</td>
+<td>54 294</td>
+<td>66 712</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>100 416</td>
+<td>131 400</td>
+<td>185 923</td>
+<td>172 373</td>
+<td>231 700</td>
+<td>290 731</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>47 304</td>
+<td>67 525</td>
+<td>92 843</td>
+<td>85 351</td>
+<td>112 461</td>
+<td>159 578</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2738&lang=0" target="_blank" class="job">Руководитель группы по работе с рекламациями </a></td>
+<td>58 400</td>
+<td>73 000</td>
+<td>106 491</td>
+<td>95 406</td>
+<td>133 137</td>
+<td>160 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>22 790</td>
+<td>31 196</td>
+<td>34 972</td>
+<td>36 650</td>
+<td>40 647</td>
+<td>47 152</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2739&lang=0" target="_blank" class="job">Специалист по работе с рекламациями</a></td>
+<td>40 734</td>
+<td>45 260</td>
+<td>61 876</td>
+<td>58 400</td>
+<td>67 762</td>
+<td>100 788</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2741&lang=0" target="_blank" class="job">Старший специалист по информационной безопасности</a></td>
+<td>36 500</td>
+<td>41 610</td>
+<td>77 739</td>
+<td>65 894</td>
+<td>94 223</td>
+<td>142 785</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>65 700</td>
+<td>87 600</td>
+<td>121 926</td>
+<td>112 420</td>
+<td>152 391</td>
+<td>181 273</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>44 873</td>
+<td>57 431</td>
+<td>66 982</td>
+<td>69 350</td>
+<td>84 143</td>
+<td>88 622</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>31 444</td>
+<td>37 407</td>
+<td>46 324</td>
+<td>51 100</td>
+<td>52 962</td>
+<td>65 280</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>30 025</td>
+<td>40 286</td>
+<td>76 561</td>
+<td>84 576</td>
+<td>100 269</td>
+<td>125 946</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>28 499</td>
+<td>41 820</td>
+<td>47 715</td>
+<td>50 370</td>
+<td>57 611</td>
+<td>65 975</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2742&lang=0" target="_blank" class="job">Ведущий финансовый аналитик</a></td>
+<td>52 560</td>
+<td>87 600</td>
+<td>133 947</td>
+<td>129 608</td>
+<td>172 277</td>
+<td>219 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2275&lang=0" target="_blank" class="job">Финансовый аналитик</a></td>
+<td>55 097</td>
+<td>65 700</td>
+<td>78 021</td>
+<td>75 668</td>
+<td>97 074</td>
+<td>102 506</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2748&lang=0" target="_blank" class="job">Заместитель IT-директора</a></td>
+<td>109 208</td>
+<td>121 910</td>
+<td>204 853</td>
+<td>158 766</td>
+<td>279 851</td>
+<td>350 400</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>100 416</td>
+<td>131 400</td>
+<td>230 533</td>
+<td>227 966</td>
+<td>302 749</td>
+<td>375 271</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2747&lang=0" target="_blank" class="job">Дизайнер интерфейсов</a></td>
+<td>43 800</td>
+<td>56 940</td>
+<td>86 807</td>
+<td>75 874</td>
+<td>106 295</td>
+<td>153 301</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>65 700</td>
+<td>87 600</td>
+<td>133 368</td>
+<td>125 944</td>
+<td>170 918</td>
+<td>206 161</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2746&lang=0" target="_blank" class="job">Проектировщик пользовательских интерфейсов</a></td>
+<td>49 056</td>
+<td>73 000</td>
+<td>101 207</td>
+<td>91 250</td>
+<td>116 208</td>
+<td>175 201</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>36 379</td>
+<td>44 340</td>
+<td>70 155</td>
+<td>75 117</td>
+<td>96 286</td>
+<td>105 180</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1251&lang=0" target="_blank" class="job">Руководитель товарного направления</a></td>
+<td>83 915</td>
+<td>118 497</td>
+<td>136 775</td>
+<td>142 573</td>
+<td>165 769</td>
+<td>186 735</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>29 485</td>
+<td>36 500</td>
+<td>45 309</td>
+<td>43 800</td>
+<td>54 294</td>
+<td>66 712</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2738&lang=0" target="_blank" class="job">Руководитель группы по работе с рекламациями </a></td>
+<td>58 400</td>
+<td>73 000</td>
+<td>109 027</td>
+<td>98 798</td>
+<td>137 517</td>
+<td>165 824</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2739&lang=0" target="_blank" class="job">Специалист по работе с рекламациями</a></td>
+<td>40 734</td>
+<td>45 260</td>
+<td>65 093</td>
+<td>62 050</td>
+<td>73 855</td>
+<td>108 537</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>29 485</td>
+<td>36 500</td>
+<td>45 309</td>
+<td>43 800</td>
+<td>54 294</td>
+<td>66 712</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>100 416</td>
+<td>131 400</td>
+<td>230 533</td>
+<td>227 966</td>
+<td>302 749</td>
+<td>375 271</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>47 304</td>
+<td>67 525</td>
+<td>100 277</td>
+<td>88 210</td>
+<td>127 390</td>
+<td>177 630</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2738&lang=0" target="_blank" class="job">Руководитель группы по работе с рекламациями </a></td>
+<td>58 400</td>
+<td>73 000</td>
+<td>109 027</td>
+<td>98 798</td>
+<td>137 517</td>
+<td>165 824</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>38 056</td>
+<td>52 430</td>
+<td>61 523</td>
+<td>63 706</td>
+<td>75 166</td>
+<td>84 909</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2739&lang=0" target="_blank" class="job">Специалист по работе с рекламациями</a></td>
+<td>40 734</td>
+<td>45 260</td>
+<td>65 093</td>
+<td>62 050</td>
+<td>73 855</td>
+<td>108 537</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2741&lang=0" target="_blank" class="job">Старший специалист по информационной безопасности</a></td>
+<td>36 500</td>
+<td>41 610</td>
+<td>81 625</td>
+<td>66 765</td>
+<td>101 962</td>
+<td>153 300</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>65 700</td>
+<td>87 600</td>
+<td>133 368</td>
+<td>125 944</td>
+<td>170 918</td>
+<td>206 161</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>44 873</td>
+<td>57 431</td>
+<td>70 298</td>
+<td>73 679</td>
+<td>89 777</td>
+<td>94 900</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>31 444</td>
+<td>37 407</td>
+<td>62 037</td>
+<td>67 306</td>
+<td>80 342</td>
+<td>100 571</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 05.11.2014)</p>
+</div>

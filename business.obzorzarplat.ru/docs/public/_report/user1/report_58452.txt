@@ -1,0 +1,508 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2706&lang=0" target="_blank" class="job">Менеджер по коллекции</a></td>
+<td>14 882</td>
+<td>20 854</td>
+<td>24 526</td>
+<td>30 808</td>
+<td>31 339</td>
+<td>31 658</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2676&lang=0" target="_blank" class="job">Менеджер по производству</a></td>
+<td>41 360</td>
+<td>42 913</td>
+<td>47 528</td>
+<td>45 500</td>
+<td>51 130</td>
+<td>54 508</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2679&lang=0" target="_blank" class="job">Менеджер по работе с тканями (Удалено)</a></td>
+<td>44 959</td>
+<td>48 880</td>
+<td>52 282</td>
+<td>55 415</td>
+<td>57 250</td>
+<td>58 351</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2677&lang=0" target="_blank" class="job">Менеджер по тканям</a></td>
+<td>28 724</td>
+<td>29 390</td>
+<td>30 260</td>
+<td>30 500</td>
+<td>31 250</td>
+<td>31 700</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2705&lang=0" target="_blank" class="job">Менеджер-конструктор</a></td>
+<td>38 800</td>
+<td>40 000</td>
+<td>44 143</td>
+<td>42 000</td>
+<td>47 500</td>
+<td>52 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2702&lang=0" target="_blank" class="job">Начальник участка изготовления раскладок и копировок (Удалено)</a></td>
+<td>29 236</td>
+<td>31 006</td>
+<td>36 392</td>
+<td>33 956</td>
+<td>40 561</td>
+<td>44 523</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2698&lang=0" target="_blank" class="job">Начальник экспериментального производства</a></td>
+<td>62 500</td>
+<td>66 250</td>
+<td>71 667</td>
+<td>72 500</td>
+<td>77 500</td>
+<td>80 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2703&lang=0" target="_blank" class="job">Оператор - раскладчик</a></td>
+<td>11 852</td>
+<td>18 658</td>
+<td>24 105</td>
+<td>30 000</td>
+<td>32 500</td>
+<td>34 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1285&lang=0" target="_blank" class="job">Портной</a></td>
+<td>25 500</td>
+<td>30 000</td>
+<td>33 125</td>
+<td>35 000</td>
+<td>39 250</td>
+<td>40 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2044&lang=0" target="_blank" class="job">Раскройщик</a></td>
+<td>24 350</td>
+<td>24 875</td>
+<td>27 069</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>30 914</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2042&lang=0" target="_blank" class="job">Ревизор</a></td>
+<td>29 500</td>
+<td>35 000</td>
+<td>43 616</td>
+<td>40 000</td>
+<td>47 750</td>
+<td>67 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2659&lang=0" target="_blank" class="job">Руководитель группы дизайна одежды</a></td>
+<td>61 600</td>
+<td>63 149</td>
+<td>64 163</td>
+<td>65 729</td>
+<td>65 961</td>
+<td>66 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2670&lang=0" target="_blank" class="job">Руководитель коллекции аксессуаров</a></td>
+<td>50 030</td>
+<td>50 333</td>
+<td>55 466</td>
+<td>50 837</td>
+<td>58 285</td>
+<td>62 753</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2669&lang=0" target="_blank" class="job">Руководитель коллекции одежды</a></td>
+<td>39 131</td>
+<td>52 708</td>
+<td>63 479</td>
+<td>75 336</td>
+<td>80 178</td>
+<td>83 083</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>47 760</td>
+<td>48 000</td>
+<td>58 094</td>
+<td>54 000</td>
+<td>70 000</td>
+<td>71 400</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2697&lang=0" target="_blank" class="job">Руководитель службы подготовки производства</a></td>
+<td>28 392</td>
+<td>46 245</td>
+<td>59 747</td>
+<td>76 000</td>
+<td>81 375</td>
+<td>84 600</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2708&lang=0" target="_blank" class="job">Слесарь-ремонтник швейного оборудования</a></td>
+<td>21 600</td>
+<td>22 000</td>
+<td>32 778</td>
+<td>35 000</td>
+<td>37 000</td>
+<td>46 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>21 600</td>
+<td>23 500</td>
+<td>28 068</td>
+<td>31 200</td>
+<td>32 125</td>
+<td>32 700</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2022&lang=0" target="_blank" class="job">Специалист по учету</a></td>
+<td>24 440</td>
+<td>25 275</td>
+<td>29 880</td>
+<td>28 750</td>
+<td>31 500</td>
+<td>40 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2707&lang=0" target="_blank" class="job">Технолог - нормировщик</a></td>
+<td>22 796</td>
+<td>23 063</td>
+<td>23 764</td>
+<td>23 508</td>
+<td>24 338</td>
+<td>24 835</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2043&lang=0" target="_blank" class="job">Швея</a></td>
+<td>20 500</td>
+<td>25 000</td>
+<td>30 333</td>
+<td>30 000</td>
+<td>36 250</td>
+<td>40 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2166&lang=0" target="_blank" class="job">Ювелир</a></td>
+<td>25 200</td>
+<td>27 000</td>
+<td>35 154</td>
+<td>38 000</td>
+<td>40 000</td>
+<td>43 200</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2706&lang=0" target="_blank" class="job">Менеджер по коллекции</a></td>
+<td>25 566</td>
+<td>30 030</td>
+<td>32 583</td>
+<td>37 470</td>
+<td>37 579</td>
+<td>37 644</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2676&lang=0" target="_blank" class="job">Менеджер по производству</a></td>
+<td>44 071</td>
+<td>45 666</td>
+<td>50 301</td>
+<td>48 325</td>
+<td>53 948</td>
+<td>57 321</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2679&lang=0" target="_blank" class="job">Менеджер по работе с тканями (Удалено)</a></td>
+<td>46 605</td>
+<td>50 669</td>
+<td>54 183</td>
+<td>57 443</td>
+<td>59 327</td>
+<td>60 457</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2677&lang=0" target="_blank" class="job">Менеджер по тканям</a></td>
+<td>32 899</td>
+<td>33 062</td>
+<td>33 745</td>
+<td>33 334</td>
+<td>34 223</td>
+<td>34 756</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2705&lang=0" target="_blank" class="job">Менеджер-конструктор</a></td>
+<td>56 700</td>
+<td>63 000</td>
+<td>64 840</td>
+<td>66 200</td>
+<td>69 792</td>
+<td>70 940</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2702&lang=0" target="_blank" class="job">Начальник участка изготовления раскладок и копировок (Удалено)</a></td>
+<td>39 243</td>
+<td>42 280</td>
+<td>65 942</td>
+<td>47 340</td>
+<td>80 303</td>
+<td>100 081</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2698&lang=0" target="_blank" class="job">Начальник экспериментального производства</a></td>
+<td>78 781</td>
+<td>85 979</td>
+<td>95 292</td>
+<td>97 975</td>
+<td>105 946</td>
+<td>110 729</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2703&lang=0" target="_blank" class="job">Оператор - раскладчик</a></td>
+<td>11 922</td>
+<td>18 832</td>
+<td>24 394</td>
+<td>30 348</td>
+<td>32 934</td>
+<td>34 485</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1285&lang=0" target="_blank" class="job">Портной</a></td>
+<td>28 750</td>
+<td>32 000</td>
+<td>34 972</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>40 600</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2044&lang=0" target="_blank" class="job">Раскройщик</a></td>
+<td>25 000</td>
+<td>26 125</td>
+<td>31 950</td>
+<td>29 250</td>
+<td>37 387</td>
+<td>40 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2042&lang=0" target="_blank" class="job">Ревизор</a></td>
+<td>33 195</td>
+<td>38 250</td>
+<td>49 341</td>
+<td>42 475</td>
+<td>54 833</td>
+<td>78 680</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2659&lang=0" target="_blank" class="job">Руководитель группы дизайна одежды</a></td>
+<td>71 636</td>
+<td>72 302</td>
+<td>73 329</td>
+<td>73 411</td>
+<td>74 397</td>
+<td>74 989</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2670&lang=0" target="_blank" class="job">Руководитель коллекции аксессуаров</a></td>
+<td>56 528</td>
+<td>57 267</td>
+<td>61 394</td>
+<td>58 498</td>
+<td>64 073</td>
+<td>67 417</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2669&lang=0" target="_blank" class="job">Руководитель коллекции одежды</a></td>
+<td>67 713</td>
+<td>88 975</td>
+<td>104 328</td>
+<td>124 411</td>
+<td>129 723</td>
+<td>132 910</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2710&lang=0" target="_blank" class="job">Руководитель ремонтно-эксплуатационной службы</a></td>
+<td>60 700</td>
+<td>64 000</td>
+<td>87 481</td>
+<td>84 000</td>
+<td>108 100</td>
+<td>117 196</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2697&lang=0" target="_blank" class="job">Руководитель службы подготовки производства</a></td>
+<td>55 044</td>
+<td>73 462</td>
+<td>89 980</td>
+<td>104 158</td>
+<td>113 588</td>
+<td>119 245</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2708&lang=0" target="_blank" class="job">Слесарь-ремонтник швейного оборудования</a></td>
+<td>24 060</td>
+<td>24 800</td>
+<td>42 785</td>
+<td>46 000</td>
+<td>52 000</td>
+<td>60 873</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>29 200</td>
+<td>32 000</td>
+<td>37 441</td>
+<td>36 400</td>
+<td>43 875</td>
+<td>44 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2022&lang=0" target="_blank" class="job">Специалист по учету</a></td>
+<td>30 650</td>
+<td>31 250</td>
+<td>35 629</td>
+<td>34 695</td>
+<td>37 250</td>
+<td>43 700</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2707&lang=0" target="_blank" class="job">Технолог - нормировщик</a></td>
+<td>25 631</td>
+<td>26 001</td>
+<td>33 756</td>
+<td>26 618</td>
+<td>37 942</td>
+<td>44 736</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2043&lang=0" target="_blank" class="job">Швея</a></td>
+<td>20 685</td>
+<td>27 188</td>
+<td>31 913</td>
+<td>30 000</td>
+<td>36 250</td>
+<td>42 340</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2166&lang=0" target="_blank" class="job">Ювелир</a></td>
+<td>26 840</td>
+<td>27 000</td>
+<td>45 693</td>
+<td>50 000</td>
+<td>61 000</td>
+<td>64 432</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 08.09.2016)</p>
+</div>

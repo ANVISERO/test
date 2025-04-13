@@ -1,0 +1,121 @@
+
+<link href="/_css/summary/summary_print.css" rel="stylesheet" type="text/css">
+<div class="summary">
+<h2>Сводный аналитический обзор по заработным платам</h2>
+<p>Город: Все города</p>
+<p>Сфера деятельности компании: Высокие технологии</p>
+
+
+<h3>1.	Рыночная тенденция по значениям компенсации труда (руб. в месяц)</h3>
+<p align="right"><em>Таблица 1.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+  <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td class="X1_right">67 313</td>
+<td class="X1_right">71 299</td>
+<td class="X1_right">78 983</td>
+<td class="X1_right">80 000</td>
+<td class="X1_right">86 328</td>
+<td class="X1_right">89 975</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Программист</a></td>
+<td class="X1_right">37 240</td>
+<td class="X1_right">39 187</td>
+<td class="X1_right">45 145</td>
+<td class="X1_right">42 044</td>
+<td class="X1_right">49 889</td>
+<td class="X1_right">66 643</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td class="X1_right">43 776</td>
+<td class="X1_right">58 225</td>
+<td class="X1_right">62 585</td>
+<td class="X1_right">65 000</td>
+<td class="X1_right">69 927</td>
+<td class="X1_right">75 999</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1249&lang=0" target="_blank" class="job">Старший программист</a></td>
+<td class="X1_right">38 600</td>
+<td class="X1_right">49 945</td>
+<td class="X1_right">62 576</td>
+<td class="X1_right">58 114</td>
+<td class="X1_right">68 296</td>
+<td class="X1_right">142 833</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>с учетом НДФЛ</b></p>
+<br>
+
+<h3>2.	Рыночная тенденция по значениям заработной платы (руб. в месяц)</h3>
+<p align="right"><em>Таблица 2.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+   <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td class="X1_right">51 624</td>
+<td class="X1_right">70 115</td>
+<td class="X1_right">71 944</td>
+<td class="X1_right">72 603</td>
+<td class="X1_right">80 000</td>
+<td class="X1_right">85 380</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1250&lang=0" target="_blank" class="job">Программист</a></td>
+<td class="X1_right">22 509</td>
+<td class="X1_right">27 586</td>
+<td class="X1_right">34 328</td>
+<td class="X1_right">33 783</td>
+<td class="X1_right">40 569</td>
+<td class="X1_right">50 964</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td class="X1_right">34 483</td>
+<td class="X1_right">59 109</td>
+<td class="X1_right">57 809</td>
+<td class="X1_right">61 168</td>
+<td class="X1_right">65 000</td>
+<td class="X1_right">69 284</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1249&lang=0" target="_blank" class="job">Старший программист</a></td>
+<td class="X1_right">26 934</td>
+<td class="X1_right">39 180</td>
+<td class="X1_right">51 994</td>
+<td class="X1_right">48 727</td>
+<td class="X1_right">57 368</td>
+<td class="X1_right">127 168</td>
+<td class="X1_right">сентябрь 2009</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>с учетом НДФЛ</b></p>
+</div>

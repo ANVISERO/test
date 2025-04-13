@@ -1,0 +1,448 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2681&lang=0" target="_blank" class="job">Ассистент менеджера по международным расчетам</a></td>
+<td>24 000</td>
+<td>25 000</td>
+<td>26 833</td>
+<td>26 000</td>
+<td>29 250</td>
+<td>30 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2618&lang=0" target="_blank" class="job">Бухгалтер по ВЭД</a></td>
+<td>40 000</td>
+<td>40 425</td>
+<td>44 068</td>
+<td>44 440</td>
+<td>46 250</td>
+<td>49 250</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2013&lang=0" target="_blank" class="job">Водитель международных и междугородных перевозок</a></td>
+<td>30 000</td>
+<td>33 750</td>
+<td>46 667</td>
+<td>47 500</td>
+<td>57 500</td>
+<td>62 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1390&lang=0" target="_blank" class="job">Водитель-экспедитор на большегрузных автомобилях</a></td>
+<td>37 120</td>
+<td>42 000</td>
+<td>47 660</td>
+<td>46 800</td>
+<td>50 500</td>
+<td>60 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1391&lang=0" target="_blank" class="job">Водитель-экспедитор на легковых и легковесных автомобилях</a></td>
+<td>30 000</td>
+<td>30 000</td>
+<td>37 669</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>30 000</td>
+<td>35 000</td>
+<td>41 000</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>58 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>146 000</td>
+<td>155 000</td>
+<td>180 714</td>
+<td>180 000</td>
+<td>192 500</td>
+<td>220 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2162&lang=0" target="_blank" class="job">Досмотровый</a></td>
+<td>26 500</td>
+<td>28 500</td>
+<td>34 667</td>
+<td>32 500</td>
+<td>38 750</td>
+<td>45 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2680&lang=0" target="_blank" class="job">Менеджер по международным расчетам</a></td>
+<td>29 200</td>
+<td>31 500</td>
+<td>37 286</td>
+<td>35 000</td>
+<td>42 500</td>
+<td>47 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>61 000</td>
+<td>85 000</td>
+<td>105 000</td>
+<td>97 500</td>
+<td>121 750</td>
+<td>163 900</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1256&lang=0" target="_blank" class="job">Начальник таможенной группы</a></td>
+<td>74 000</td>
+<td>85 000</td>
+<td>107 857</td>
+<td>100 000</td>
+<td>135 000</td>
+<td>150 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1649&lang=0" target="_blank" class="job">Приемосдатчик груза и багажа </a></td>
+<td>19 600</td>
+<td>22 500</td>
+<td>24 929</td>
+<td>25 000</td>
+<td>27 750</td>
+<td>29 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2682&lang=0" target="_blank" class="job">Руководитель отдела международной логистики и ВЭД</a></td>
+<td>94 600</td>
+<td>96 000</td>
+<td>114 111</td>
+<td>100 000</td>
+<td>130 000</td>
+<td>153 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>74 000</td>
+<td>87 500</td>
+<td>117 500</td>
+<td>115 000</td>
+<td>152 500</td>
+<td>163 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2684&lang=0" target="_blank" class="job">Специалист ВЭД по работе с таможней</a></td>
+<td>27 000</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>47 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>35 000</td>
+<td>40 000</td>
+<td>44 700</td>
+<td>44 000</td>
+<td>49 250</td>
+<td>55 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>40 030</td>
+<td>40 825</td>
+<td>55 608</td>
+<td>51 500</td>
+<td>67 000</td>
+<td>74 800</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2197&lang=0" target="_blank" class="job">Таможенный брокер</a></td>
+<td>34 000</td>
+<td>38 500</td>
+<td>43 000</td>
+<td>42 500</td>
+<td>48 750</td>
+<td>52 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>30 000</td>
+<td>34 500</td>
+<td>43 458</td>
+<td>42 500</td>
+<td>50 000</td>
+<td>59 400</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2681&lang=0" target="_blank" class="job">Ассистент менеджера по международным расчетам</a></td>
+<td>28 350</td>
+<td>29 150</td>
+<td>32 197</td>
+<td>31 000</td>
+<td>32 125</td>
+<td>37 242</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2618&lang=0" target="_blank" class="job">Бухгалтер по ВЭД</a></td>
+<td>45 500</td>
+<td>46 663</td>
+<td>50 531</td>
+<td>49 450</td>
+<td>53 860</td>
+<td>58 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2013&lang=0" target="_blank" class="job">Водитель международных и междугородных перевозок</a></td>
+<td>50 084</td>
+<td>58 425</td>
+<td>71 320</td>
+<td>73 350</td>
+<td>79 250</td>
+<td>90 525</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1390&lang=0" target="_blank" class="job">Водитель-экспедитор на большегрузных автомобилях</a></td>
+<td>44 748</td>
+<td>51 130</td>
+<td>64 564</td>
+<td>61 500</td>
+<td>80 805</td>
+<td>91 566</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1391&lang=0" target="_blank" class="job">Водитель-экспедитор на легковых и легковесных автомобилях</a></td>
+<td>32 614</td>
+<td>38 800</td>
+<td>47 006</td>
+<td>45 655</td>
+<td>52 903</td>
+<td>64 262</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>42 040</td>
+<td>50 500</td>
+<td>60 572</td>
+<td>55 500</td>
+<td>65 890</td>
+<td>92 400</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>168 900</td>
+<td>194 084</td>
+<td>225 452</td>
+<td>227 500</td>
+<td>258 500</td>
+<td>279 300</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2162&lang=0" target="_blank" class="job">Досмотровый</a></td>
+<td>36 375</td>
+<td>39 688</td>
+<td>45 342</td>
+<td>43 800</td>
+<td>53 275</td>
+<td>55 850</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2680&lang=0" target="_blank" class="job">Менеджер по международным расчетам</a></td>
+<td>37 570</td>
+<td>39 625</td>
+<td>52 179</td>
+<td>45 500</td>
+<td>61 750</td>
+<td>71 780</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>93 670</td>
+<td>116 125</td>
+<td>146 875</td>
+<td>141 100</td>
+<td>162 500</td>
+<td>227 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1256&lang=0" target="_blank" class="job">Начальник таможенной группы</a></td>
+<td>113 300</td>
+<td>129 500</td>
+<td>160 921</td>
+<td>155 000</td>
+<td>170 850</td>
+<td>212 420</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1649&lang=0" target="_blank" class="job">Приемосдатчик груза и багажа </a></td>
+<td>37 630</td>
+<td>38 275</td>
+<td>39 640</td>
+<td>38 750</td>
+<td>39 700</td>
+<td>42 733</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2682&lang=0" target="_blank" class="job">Руководитель отдела международной логистики и ВЭД</a></td>
+<td>133 740</td>
+<td>146 500</td>
+<td>171 800</td>
+<td>161 500</td>
+<td>185 500</td>
+<td>227 300</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>133 890</td>
+<td>151 800</td>
+<td>189 079</td>
+<td>195 900</td>
+<td>215 333</td>
+<td>238 523</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2684&lang=0" target="_blank" class="job">Специалист ВЭД по работе с таможней</a></td>
+<td>34 000</td>
+<td>35 500</td>
+<td>48 800</td>
+<td>45 000</td>
+<td>59 000</td>
+<td>66 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>45 630</td>
+<td>51 317</td>
+<td>55 857</td>
+<td>56 750</td>
+<td>62 250</td>
+<td>64 350</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>56 700</td>
+<td>60 000</td>
+<td>77 958</td>
+<td>73 000</td>
+<td>88 500</td>
+<td>114 900</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2197&lang=0" target="_blank" class="job">Таможенный брокер</a></td>
+<td>54 250</td>
+<td>55 563</td>
+<td>63 408</td>
+<td>59 875</td>
+<td>73 000</td>
+<td>76 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>36 050</td>
+<td>42 168</td>
+<td>53 714</td>
+<td>56 500</td>
+<td>63 500</td>
+<td>67 450</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.11.2016)</p>
+</div>

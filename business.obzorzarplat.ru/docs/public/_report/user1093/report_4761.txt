@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Сфера деятельности компании: Строительство / Недвижимость</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>23 047</td>
+<td>25 083</td>
+<td>27 518</td>
+<td>27 759</td>
+<td>29 268</td>
+<td>31 749</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>22 020</td>
+<td>28 034</td>
+<td>37 358</td>
+<td>35 890</td>
+<td>41 668</td>
+<td>52 633</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>47 739</td>
+<td>51 951</td>
+<td>57 002</td>
+<td>57 500</td>
+<td>60 634</td>
+<td>65 766</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>45 963</td>
+<td>47 471</td>
+<td>57 751</td>
+<td>53 218</td>
+<td>66 283</td>
+<td>79 885</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>21 721</td>
+<td>23 029</td>
+<td>26 149</td>
+<td>26 424</td>
+<td>28 340</td>
+<td>30 599</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1534&lang=0" target="_blank" class="job">Инженер по согласованию</a></td>
+<td>26 161</td>
+<td>27 796</td>
+<td>45 719</td>
+<td>50 977</td>
+<td>56 897</td>
+<td>68 391</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>16 288</td>
+<td>17 759</td>
+<td>21 697</td>
+<td>19 956</td>
+<td>23 331</td>
+<td>30 557</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1527&lang=0" target="_blank" class="job">Инженер ПТО 1-ой категории</a></td>
+<td>35 919</td>
+<td>41 609</td>
+<td>41 393</td>
+<td>41 609</td>
+<td>41 609</td>
+<td>45 219</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1526&lang=0" target="_blank" class="job">Инженер ПТО 2-ой категории</a></td>
+<td>28 649</td>
+<td>29 425</td>
+<td>32 718</td>
+<td>32 874</td>
+<td>35 445</td>
+<td>37 011</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1485&lang=0" target="_blank" class="job">Инженер-сметчик</a></td>
+<td>20 004</td>
+<td>22 235</td>
+<td>28 946</td>
+<td>25 323</td>
+<td>33 930</td>
+<td>43 274</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>16 408</td>
+<td>17 522</td>
+<td>32 246</td>
+<td>21 101</td>
+<td>47 991</td>
+<td>57 701</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>54 444</td>
+<td>64 368</td>
+<td>80 150</td>
+<td>76 437</td>
+<td>85 544</td>
+<td>121 571</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>37 887</td>
+<td>59 540</td>
+<td>81 552</td>
+<td>74 483</td>
+<td>105 747</td>
+<td>140 402</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1466&lang=0" target="_blank" class="job">Начальник СДО</a></td>
+<td>44 052</td>
+<td>46 264</td>
+<td>59 087</td>
+<td>51 256</td>
+<td>72 524</td>
+<td>74 023</td>
+<td>1 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>32 924</td>
+<td>35 833</td>
+<td>39 311</td>
+<td>39 655</td>
+<td>41 811</td>
+<td>45 356</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>27 964</td>
+<td>32 690</td>
+<td>39 820</td>
+<td>36 970</td>
+<td>44 414</td>
+<td>54 741</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>47 739</td>
+<td>51 951</td>
+<td>57 002</td>
+<td>57 500</td>
+<td>60 634</td>
+<td>65 766</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1522&lang=0" target="_blank" class="job">Ведущий инженер ПТО</a></td>
+<td>58 911</td>
+<td>65 379</td>
+<td>69 833</td>
+<td>66 054</td>
+<td>79 598</td>
+<td>79 885</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1940&lang=0" target="_blank" class="job">Главный геодезист</a></td>
+<td>43 441</td>
+<td>46 057</td>
+<td>52 299</td>
+<td>52 848</td>
+<td>56 680</td>
+<td>61 198</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1534&lang=0" target="_blank" class="job">Инженер по согласованию</a></td>
+<td>34 885</td>
+<td>36 351</td>
+<td>49 030</td>
+<td>52 758</td>
+<td>56 897</td>
+<td>68 391</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>29 288</td>
+<td>29 369</td>
+<td>33 346</td>
+<td>29 528</td>
+<td>35 381</td>
+<td>40 502</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1527&lang=0" target="_blank" class="job">Инженер ПТО 1-ой категории</a></td>
+<td>51 220</td>
+<td>59 334</td>
+<td>59 026</td>
+<td>59 334</td>
+<td>59 334</td>
+<td>64 482</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1526&lang=0" target="_blank" class="job">Инженер ПТО 2-ой категории</a></td>
+<td>46 245</td>
+<td>52 826</td>
+<td>52 813</td>
+<td>53 063</td>
+<td>53 302</td>
+<td>56 911</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1485&lang=0" target="_blank" class="job">Инженер-сметчик</a></td>
+<td>35 184</td>
+<td>35 373</td>
+<td>45 669</td>
+<td>41 066</td>
+<td>52 778</td>
+<td>68 190</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>29 302</td>
+<td>29 400</td>
+<td>50 623</td>
+<td>29 721</td>
+<td>71 999</td>
+<td>87 255</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>80 788</td>
+<td>90 550</td>
+<td>102 981</td>
+<td>98 421</td>
+<td>118 833</td>
+<td>129 924</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1483&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО)</a></td>
+<td>54 703</td>
+<td>63 218</td>
+<td>94 109</td>
+<td>93 103</td>
+<td>118 998</td>
+<td>140 402</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1466&lang=0" target="_blank" class="job">Начальник СДО</a></td>
+<td>62 931</td>
+<td>66 092</td>
+<td>83 896</td>
+<td>72 999</td>
+<td>103 089</td>
+<td>105 747</td>
+<td>1 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 13.04.2012)</p>
+</div>

@@ -1,0 +1,728 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2961&lang=0" target="_blank" class="job">Аналитик отдела персонала</a></td>
+<td>29 690</td>
+<td>32 750</td>
+<td>38 590</td>
+<td>37 750</td>
+<td>44 440</td>
+<td>48 250</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера </a></td>
+<td>22 680</td>
+<td>24 900</td>
+<td>28 789</td>
+<td>28 000</td>
+<td>32 000</td>
+<td>34 880</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1837&lang=0" target="_blank" class="job">Ведущий cпециалист по компенсациям и льготам</a></td>
+<td>51 580</td>
+<td>60 275</td>
+<td>72 119</td>
+<td>73 300</td>
+<td>82 700</td>
+<td>92 700</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>41 600</td>
+<td>48 825</td>
+<td>57 450</td>
+<td>59 200</td>
+<td>65 050</td>
+<td>72 050</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>28 000</td>
+<td>32 000</td>
+<td>46 184</td>
+<td>43 250</td>
+<td>58 500</td>
+<td>70 556</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>27 000</td>
+<td>33 000</td>
+<td>42 304</td>
+<td>40 000</td>
+<td>53 600</td>
+<td>61 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>36 520</td>
+<td>44 750</td>
+<td>56 006</td>
+<td>53 750</td>
+<td>68 700</td>
+<td>76 060</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу</a></td>
+<td>92 350</td>
+<td>100 000</td>
+<td>154 035</td>
+<td>141 001</td>
+<td>184 850</td>
+<td>255 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>61 000</td>
+<td>72 000</td>
+<td>91 944</td>
+<td>85 000</td>
+<td>115 700</td>
+<td>132 120</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>22 932</td>
+<td>26 000</td>
+<td>33 194</td>
+<td>31 500</td>
+<td>39 100</td>
+<td>49 390</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>29 690</td>
+<td>36 175</td>
+<td>44 277</td>
+<td>45 600</td>
+<td>52 300</td>
+<td>58 150</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>23 880</td>
+<td>27 200</td>
+<td>36 976</td>
+<td>35 000</td>
+<td>45 000</td>
+<td>50 290</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>28 180</td>
+<td>30 900</td>
+<td>39 447</td>
+<td>38 325</td>
+<td>46 150</td>
+<td>52 700</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2945&lang=0" target="_blank" class="job">Консультант по подбору персонала</a></td>
+<td>44 000</td>
+<td>54 000</td>
+<td>61 471</td>
+<td>62 300</td>
+<td>72 500</td>
+<td>77 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2729&lang=0" target="_blank" class="job">Менеджер по корпоративной культуре</a></td>
+<td>28 000</td>
+<td>35 263</td>
+<td>42 437</td>
+<td>41 400</td>
+<td>50 900</td>
+<td>58 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>36 200</td>
+<td>40 150</td>
+<td>48 920</td>
+<td>50 000</td>
+<td>56 100</td>
+<td>64 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=3009&lang=0" target="_blank" class="job">Менеджер по персоналу</a></td>
+<td>30 750</td>
+<td>36 950</td>
+<td>61 576</td>
+<td>62 667</td>
+<td>87 189</td>
+<td>91 272</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>44 800</td>
+<td>52 100</td>
+<td>63 716</td>
+<td>62 300</td>
+<td>74 200</td>
+<td>81 060</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>33 775</td>
+<td>44 100</td>
+<td>56 850</td>
+<td>58 400</td>
+<td>70 300</td>
+<td>78 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1844&lang=0" target="_blank" class="job">Начальник отдела обучения</a></td>
+<td>54 500</td>
+<td>60 000</td>
+<td>83 883</td>
+<td>78 800</td>
+<td>98 800</td>
+<td>123 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1523&lang=0" target="_blank" class="job">Начальник отдела охраны труда</a></td>
+<td>52 000</td>
+<td>55 875</td>
+<td>63 150</td>
+<td>60 725</td>
+<td>67 325</td>
+<td>71 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом</a></td>
+<td>64 400</td>
+<td>84 188</td>
+<td>103 577</td>
+<td>102 850</td>
+<td>124 575</td>
+<td>145 250</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1446&lang=0" target="_blank" class="job">Начальник отдела труда и заработной платы</a></td>
+<td>55 000</td>
+<td>60 700</td>
+<td>84 930</td>
+<td>73 000</td>
+<td>107 000</td>
+<td>129 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2727&lang=0" target="_blank" class="job">Руководитель группы подбора персонала</a></td>
+<td>39 608</td>
+<td>45 950</td>
+<td>58 989</td>
+<td>59 750</td>
+<td>68 300</td>
+<td>84 950</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2877&lang=0" target="_blank" class="job">Специалист по воинскому учету</a></td>
+<td>22 680</td>
+<td>26 325</td>
+<td>33 533</td>
+<td>30 250</td>
+<td>43 575</td>
+<td>49 230</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>26 950</td>
+<td>32 425</td>
+<td>39 281</td>
+<td>39 350</td>
+<td>47 250</td>
+<td>50 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>25 284</td>
+<td>29 831</td>
+<td>41 639</td>
+<td>36 325</td>
+<td>52 425</td>
+<td>61 010</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>21 120</td>
+<td>24 800</td>
+<td>34 493</td>
+<td>29 500</td>
+<td>39 800</td>
+<td>54 424</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1636&lang=0" target="_blank" class="job">Специалист по социальной работе</a></td>
+<td>20 530</td>
+<td>22 729</td>
+<td>27 178</td>
+<td>25 430</td>
+<td>28 625</td>
+<td>36 080</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1633&lang=0" target="_blank" class="job">Старший инспектор по охране труда и технике безопасности</a></td>
+<td>25 650</td>
+<td>32 750</td>
+<td>40 428</td>
+<td>39 500</td>
+<td>49 025</td>
+<td>52 350</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2889&lang=0" target="_blank" class="job">Тренер</a></td>
+<td>39 000</td>
+<td>40 000</td>
+<td>55 588</td>
+<td>50 000</td>
+<td>70 300</td>
+<td>84 440</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2279&lang=0" target="_blank" class="job">Тренинг-менеджер</a></td>
+<td>25 900</td>
+<td>31 275</td>
+<td>44 191</td>
+<td>40 250</td>
+<td>58 625</td>
+<td>66 652</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>33 850</td>
+<td>41 835</td>
+<td>51 333</td>
+<td>50 950</td>
+<td>62 050</td>
+<td>68 145</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2961&lang=0" target="_blank" class="job">Аналитик отдела персонала</a></td>
+<td>36 685</td>
+<td>39 275</td>
+<td>44 839</td>
+<td>44 679</td>
+<td>49 879</td>
+<td>52 460</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера </a></td>
+<td>24 660</td>
+<td>28 250</td>
+<td>34 613</td>
+<td>34 740</td>
+<td>40 440</td>
+<td>42 825</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1837&lang=0" target="_blank" class="job">Ведущий cпециалист по компенсациям и льготам</a></td>
+<td>69 584</td>
+<td>75 105</td>
+<td>94 304</td>
+<td>91 942</td>
+<td>106 042</td>
+<td>122 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>47 750</td>
+<td>58 612</td>
+<td>69 386</td>
+<td>68 967</td>
+<td>79 390</td>
+<td>92 654</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>32 200</td>
+<td>41 000</td>
+<td>57 904</td>
+<td>52 500</td>
+<td>70 800</td>
+<td>93 969</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>38 000</td>
+<td>40 400</td>
+<td>54 167</td>
+<td>50 000</td>
+<td>65 300</td>
+<td>77 617</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>51 780</td>
+<td>57 500</td>
+<td>72 706</td>
+<td>73 017</td>
+<td>82 621</td>
+<td>100 899</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу</a></td>
+<td>120 150</td>
+<td>147 375</td>
+<td>206 635</td>
+<td>197 490</td>
+<td>245 321</td>
+<td>299 043</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>81 700</td>
+<td>93 300</td>
+<td>131 548</td>
+<td>121 500</td>
+<td>159 858</td>
+<td>191 350</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>29 125</td>
+<td>32 580</td>
+<td>43 933</td>
+<td>44 229</td>
+<td>51 433</td>
+<td>60 192</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>35 217</td>
+<td>46 061</td>
+<td>55 690</td>
+<td>55 671</td>
+<td>66 721</td>
+<td>76 013</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>33 000</td>
+<td>37 000</td>
+<td>48 085</td>
+<td>46 000</td>
+<td>55 875</td>
+<td>69 992</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>35 598</td>
+<td>38 921</td>
+<td>51 999</td>
+<td>50 104</td>
+<td>61 727</td>
+<td>73 958</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2945&lang=0" target="_blank" class="job">Консультант по подбору персонала</a></td>
+<td>75 840</td>
+<td>84 792</td>
+<td>97 652</td>
+<td>92 633</td>
+<td>112 050</td>
+<td>126 520</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2729&lang=0" target="_blank" class="job">Менеджер по корпоративной культуре</a></td>
+<td>36 300</td>
+<td>42 142</td>
+<td>54 027</td>
+<td>53 983</td>
+<td>61 067</td>
+<td>72 142</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>42 040</td>
+<td>44 200</td>
+<td>56 869</td>
+<td>50 000</td>
+<td>66 117</td>
+<td>77 520</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=3009&lang=0" target="_blank" class="job">Менеджер по персоналу</a></td>
+<td>40 680</td>
+<td>44 396</td>
+<td>80 147</td>
+<td>80 013</td>
+<td>112 312</td>
+<td>120 075</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>54 026</td>
+<td>64 208</td>
+<td>81 289</td>
+<td>77 292</td>
+<td>99 483</td>
+<td>114 433</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>47 300</td>
+<td>52 550</td>
+<td>78 789</td>
+<td>79 100</td>
+<td>99 233</td>
+<td>120 958</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1844&lang=0" target="_blank" class="job">Начальник отдела обучения</a></td>
+<td>81 920</td>
+<td>89 567</td>
+<td>123 190</td>
+<td>110 950</td>
+<td>155 400</td>
+<td>172 592</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1523&lang=0" target="_blank" class="job">Начальник отдела охраны труда</a></td>
+<td>60 095</td>
+<td>64 456</td>
+<td>76 333</td>
+<td>74 575</td>
+<td>82 250</td>
+<td>95 363</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом</a></td>
+<td>84 763</td>
+<td>99 525</td>
+<td>134 287</td>
+<td>142 150</td>
+<td>164 465</td>
+<td>169 517</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1446&lang=0" target="_blank" class="job">Начальник отдела труда и заработной платы</a></td>
+<td>61 328</td>
+<td>71 950</td>
+<td>100 708</td>
+<td>88 017</td>
+<td>130 000</td>
+<td>159 273</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2727&lang=0" target="_blank" class="job">Руководитель группы подбора персонала</a></td>
+<td>48 903</td>
+<td>57 000</td>
+<td>72 693</td>
+<td>70 650</td>
+<td>85 992</td>
+<td>102 005</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2877&lang=0" target="_blank" class="job">Специалист по воинскому учету</a></td>
+<td>25 095</td>
+<td>35 525</td>
+<td>43 876</td>
+<td>41 850</td>
+<td>55 925</td>
+<td>64 783</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>34 159</td>
+<td>40 815</td>
+<td>51 675</td>
+<td>49 200</td>
+<td>63 692</td>
+<td>71 363</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>31 965</td>
+<td>43 000</td>
+<td>54 337</td>
+<td>50 575</td>
+<td>66 704</td>
+<td>76 540</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>28 000</td>
+<td>30 000</td>
+<td>47 615</td>
+<td>40 000</td>
+<td>60 000</td>
+<td>74 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1636&lang=0" target="_blank" class="job">Специалист по социальной работе</a></td>
+<td>23 995</td>
+<td>27 175</td>
+<td>36 491</td>
+<td>33 999</td>
+<td>40 350</td>
+<td>51 275</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1633&lang=0" target="_blank" class="job">Старший инспектор по охране труда и технике безопасности</a></td>
+<td>40 150</td>
+<td>42 288</td>
+<td>53 827</td>
+<td>51 300</td>
+<td>63 252</td>
+<td>71 523</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2889&lang=0" target="_blank" class="job">Тренер</a></td>
+<td>47 467</td>
+<td>51 750</td>
+<td>81 785</td>
+<td>70 500</td>
+<td>97 300</td>
+<td>141 825</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2279&lang=0" target="_blank" class="job">Тренинг-менеджер</a></td>
+<td>33 760</td>
+<td>44 915</td>
+<td>60 942</td>
+<td>57 095</td>
+<td>73 578</td>
+<td>91 503</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>39 348</td>
+<td>50 190</td>
+<td>61 225</td>
+<td>61 102</td>
+<td>71 390</td>
+<td>80 047</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 30.10.2019)</p>
+</div>

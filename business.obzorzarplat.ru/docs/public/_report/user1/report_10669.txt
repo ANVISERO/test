@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Мурманск</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>37 024</td>
+<td>50 680</td>
+<td>56 815</td>
+<td>59 562</td>
+<td>66 002</td>
+<td>76 603</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>20 510</td>
+<td>22 398</td>
+<td>24 971</td>
+<td>25 691</td>
+<td>27 640</td>
+<td>30 749</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>9 540</td>
+<td>13 059</td>
+<td>14 640</td>
+<td>15 348</td>
+<td>17 008</td>
+<td>19 739</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>10 332</td>
+<td>11 328</td>
+<td>15 784</td>
+<td>15 630</td>
+<td>21 297</td>
+<td>21 936</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1667&lang=0" target="_blank" class="job">Мастер по ремонту</a></td>
+<td>9 353</td>
+<td>11 494</td>
+<td>11 191</td>
+<td>11 494</td>
+<td>11 494</td>
+<td>13 474</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1344&lang=0" target="_blank" class="job">Машинист бульдозера</a></td>
+<td>8 795</td>
+<td>9 836</td>
+<td>10 773</td>
+<td>11 160</td>
+<td>12 188</td>
+<td>13 544</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>12 011</td>
+<td>13 506</td>
+<td>13 657</td>
+<td>13 793</td>
+<td>13 907</td>
+<td>16 508</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1372&lang=0" target="_blank" class="job">Наладчик</a></td>
+<td>11 184</td>
+<td>12 245</td>
+<td>13 596</td>
+<td>14 226</td>
+<td>15 135</td>
+<td>16 880</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1618&lang=0" target="_blank" class="job">Техник </a></td>
+<td>10 915</td>
+<td>16 016</td>
+<td>18 274</td>
+<td>19 291</td>
+<td>22 064</td>
+<td>25 267</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>22 672</td>
+<td>26 889</td>
+<td>27 772</td>
+<td>28 736</td>
+<td>29 777</td>
+<td>34 914</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1901&lang=0" target="_blank" class="job">Электромеханик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>37 024</td>
+<td>50 680</td>
+<td>56 815</td>
+<td>59 562</td>
+<td>66 002</td>
+<td>76 603</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>32 762</td>
+<td>35 871</td>
+<td>39 991</td>
+<td>40 978</td>
+<td>44 537</td>
+<td>50 276</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>15 307</td>
+<td>21 075</td>
+<td>23 862</td>
+<td>24 960</td>
+<td>28 018</td>
+<td>32 409</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>16 143</td>
+<td>18 484</td>
+<td>24 857</td>
+<td>24 615</td>
+<td>32 883</td>
+<td>34 864</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1667&lang=0" target="_blank" class="job">Мастер по ремонту</a></td>
+<td>37 414</td>
+<td>45 977</td>
+<td>44 765</td>
+<td>45 977</td>
+<td>45 977</td>
+<td>53 897</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1344&lang=0" target="_blank" class="job">Машинист бульдозера</a></td>
+<td>13 965</td>
+<td>15 364</td>
+<td>17 105</td>
+<td>17 711</td>
+<td>19 580</td>
+<td>21 504</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>19 312</td>
+<td>22 701</td>
+<td>41 565</td>
+<td>50 575</td>
+<td>51 378</td>
+<td>57 132</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1372&lang=0" target="_blank" class="job">Наладчик</a></td>
+<td>18 759</td>
+<td>20 525</td>
+<td>22 806</td>
+<td>23 536</td>
+<td>25 594</td>
+<td>28 397</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1618&lang=0" target="_blank" class="job">Техник </a></td>
+<td>19 637</td>
+<td>28 814</td>
+<td>32 876</td>
+<td>34 706</td>
+<td>39 695</td>
+<td>45 458</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>22 672</td>
+<td>26 889</td>
+<td>27 772</td>
+<td>28 736</td>
+<td>29 777</td>
+<td>34 914</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1901&lang=0" target="_blank" class="job">Электромеханик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 11.02.2014)</p>
+</div>

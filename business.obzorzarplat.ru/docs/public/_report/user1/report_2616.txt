@@ -1,0 +1,142 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>24 479</td>
+<td>25 000</td>
+<td>36 992</td>
+<td>35 612</td>
+<td>42 419</td>
+<td>57 519</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1674&lang=0" target="_blank" class="job">Водитель автомобиля </a></td>
+<td>22 912</td>
+<td>23 062</td>
+<td>27 004</td>
+<td>24 414</td>
+<td>30 152</td>
+<td>32 447</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>19 379</td>
+<td>22 897</td>
+<td>30 703</td>
+<td>28 575</td>
+<td>35 539</td>
+<td>41 448</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1241&lang=0" target="_blank" class="job">Секретарь отдела</a></td>
+<td>17 293</td>
+<td>18 286</td>
+<td>23 946</td>
+<td>23 455</td>
+<td>27 061</td>
+<td>32 184</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>10 559</td>
+<td>12 522</td>
+<td>14 169</td>
+<td>14 414</td>
+<td>14 989</td>
+<td>17 862</td>
+<td>ноябрь 2010</td>
+</tr>
+</table>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></th>
+<td>22 989</td>
+<td>25 000</td>
+<td>36 619</td>
+<td>35 111</td>
+<td>42 419</td>
+<td>57 519</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1674&lang=0" target="_blank" class="job">Водитель автомобиля </a></th>
+<td>22 280</td>
+<td>22 368</td>
+<td>26 582</td>
+<td>23 954</td>
+<td>29 740</td>
+<td>32 079</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></th>
+<td>18 391</td>
+<td>21 218</td>
+<td>29 379</td>
+<td>27 134</td>
+<td>32 786</td>
+<td>41 379</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1241&lang=0" target="_blank" class="job">Секретарь отдела</a></th>
+<td>14 483</td>
+<td>17 586</td>
+<td>22 500</td>
+<td>22 363</td>
+<td>26 480</td>
+<td>32 183</td>
+<td>ноябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></th>
+<td>9 469</td>
+<td>10 920</td>
+<td>12 928</td>
+<td>13 218</td>
+<td>13 793</td>
+<td>16 667</td>
+<td>ноябрь 2010</td>
+</tr>
+</table>
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.12.2010)</p>
+</div>

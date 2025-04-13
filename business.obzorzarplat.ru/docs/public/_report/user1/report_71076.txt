@@ -1,0 +1,388 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2051&lang=0" target="_blank" class="job">Адвокат</a></td>
+<td>35 000</td>
+<td>35 000</td>
+<td>54 000</td>
+<td>46 000</td>
+<td>61 250</td>
+<td>86 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1834&lang=0" target="_blank" class="job">Ведущий специалист по налогообложению</a></td>
+<td>37 400</td>
+<td>39 500</td>
+<td>51 286</td>
+<td>50 000</td>
+<td>62 500</td>
+<td>67 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>43 000</td>
+<td>50 000</td>
+<td>58 600</td>
+<td>54 000</td>
+<td>67 500</td>
+<td>80 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1790&lang=0" target="_blank" class="job">Ведущий юрист</a></td>
+<td>38 000</td>
+<td>45 000</td>
+<td>66 708</td>
+<td>60 000</td>
+<td>75 000</td>
+<td>100 782</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>44 000</td>
+<td>52 000</td>
+<td>66 914</td>
+<td>70 000</td>
+<td>84 700</td>
+<td>89 640</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>96 600</td>
+<td>98 500</td>
+<td>145 143</td>
+<td>118 000</td>
+<td>200 000</td>
+<td>202 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2034&lang=0" target="_blank" class="job">Заместитель начальника юридического отдела</a></td>
+<td>55 000</td>
+<td>66 750</td>
+<td>85 333</td>
+<td>91 000</td>
+<td>98 750</td>
+<td>110 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>75 000</td>
+<td>85 000</td>
+<td>100 000</td>
+<td>100 000</td>
+<td>115 000</td>
+<td>125 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2238&lang=0" target="_blank" class="job">Помощник адвоката</a></td>
+<td>19 000</td>
+<td>20 750</td>
+<td>23 833</td>
+<td>24 000</td>
+<td>26 500</td>
+<td>28 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2277&lang=0" target="_blank" class="job">Помощник юриста</a></td>
+<td>18 000</td>
+<td>18 500</td>
+<td>24 000</td>
+<td>25 000</td>
+<td>29 000</td>
+<td>30 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2216&lang=0" target="_blank" class="job">Специалист по урегулированию убытков</a></td>
+<td>28 000</td>
+<td>32 500</td>
+<td>39 571</td>
+<td>40 000</td>
+<td>47 500</td>
+<td>50 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2172&lang=0" target="_blank" class="job">Судебный пристав</a></td>
+<td>15 000</td>
+<td>21 250</td>
+<td>29 371</td>
+<td>25 300</td>
+<td>37 500</td>
+<td>50 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>29 800</td>
+<td>35 400</td>
+<td>43 694</td>
+<td>45 100</td>
+<td>52 625</td>
+<td>56 020</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2540&lang=0" target="_blank" class="job">Юрисконсульт (МВД)</a></td>
+<td>26 550</td>
+<td>26 800</td>
+<td>27 050</td>
+<td>27 050</td>
+<td>27 300</td>
+<td>27 550</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>29 000</td>
+<td>30 000</td>
+<td>41 506</td>
+<td>39 550</td>
+<td>50 000</td>
+<td>61 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2278&lang=0" target="_blank" class="job">Юрист по регистрации юридических лиц</a></td>
+<td>28 000</td>
+<td>30 000</td>
+<td>36 429</td>
+<td>35 000</td>
+<td>42 500</td>
+<td>47 000</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2051&lang=0" target="_blank" class="job">Адвокат</a></td>
+<td>50 650</td>
+<td>55 375</td>
+<td>84 667</td>
+<td>79 517</td>
+<td>92 000</td>
+<td>129 140</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1834&lang=0" target="_blank" class="job">Ведущий специалист по налогообложению</a></td>
+<td>41 610</td>
+<td>46 925</td>
+<td>63 043</td>
+<td>63 000</td>
+<td>78 350</td>
+<td>86 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>58 733</td>
+<td>60 500</td>
+<td>75 797</td>
+<td>66 737</td>
+<td>94 625</td>
+<td>99 700</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1790&lang=0" target="_blank" class="job">Ведущий юрист</a></td>
+<td>58 600</td>
+<td>69 584</td>
+<td>91 538</td>
+<td>95 500</td>
+<td>109 984</td>
+<td>126 554</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>78 340</td>
+<td>90 650</td>
+<td>97 679</td>
+<td>101 500</td>
+<td>106 425</td>
+<td>115 850</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>126 390</td>
+<td>197 825</td>
+<td>299 771</td>
+<td>278 250</td>
+<td>300 250</td>
+<td>464 900</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2034&lang=0" target="_blank" class="job">Заместитель начальника юридического отдела</a></td>
+<td>62 254</td>
+<td>78 793</td>
+<td>97 621</td>
+<td>107 000</td>
+<td>117 813</td>
+<td>123 609</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>102 723</td>
+<td>123 209</td>
+<td>198 810</td>
+<td>136 834</td>
+<td>157 979</td>
+<td>356 875</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2238&lang=0" target="_blank" class="job">Помощник адвоката</a></td>
+<td>24 225</td>
+<td>25 125</td>
+<td>27 789</td>
+<td>26 542</td>
+<td>31 271</td>
+<td>32 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2277&lang=0" target="_blank" class="job">Помощник юриста</a></td>
+<td>23 740</td>
+<td>26 550</td>
+<td>29 536</td>
+<td>30 000</td>
+<td>32 000</td>
+<td>34 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2216&lang=0" target="_blank" class="job">Специалист по урегулированию убытков</a></td>
+<td>36 470</td>
+<td>41 975</td>
+<td>46 300</td>
+<td>45 000</td>
+<td>52 625</td>
+<td>56 460</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2172&lang=0" target="_blank" class="job">Судебный пристав</a></td>
+<td>17 300</td>
+<td>22 550</td>
+<td>30 976</td>
+<td>27 480</td>
+<td>40 550</td>
+<td>50 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>40 755</td>
+<td>49 637</td>
+<td>55 150</td>
+<td>57 484</td>
+<td>61 244</td>
+<td>66 473</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2540&lang=0" target="_blank" class="job">Юрисконсульт (МВД)</a></td>
+<td>42 572</td>
+<td>45 506</td>
+<td>50 359</td>
+<td>51 132</td>
+<td>54 542</td>
+<td>58 220</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>37 150</td>
+<td>40 083</td>
+<td>50 971</td>
+<td>50 500</td>
+<td>54 550</td>
+<td>66 762</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2278&lang=0" target="_blank" class="job">Юрист по регистрации юридических лиц</a></td>
+<td>35 000</td>
+<td>42 925</td>
+<td>48 205</td>
+<td>49 400</td>
+<td>53 259</td>
+<td>59 077</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 18.05.2017)</p>
+</div>

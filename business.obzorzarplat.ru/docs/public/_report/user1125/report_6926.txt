@@ -1,0 +1,408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td>15 316</td>
+<td>20 191</td>
+<td>24 138</td>
+<td>26 082</td>
+<td>30 636</td>
+<td>31 724</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>19 086</td>
+<td>20 891</td>
+<td>25 502</td>
+<td>23 563</td>
+<td>27 543</td>
+<td>32 071</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>13 736</td>
+<td>20 639</td>
+<td>28 883</td>
+<td>25 632</td>
+<td>34 483</td>
+<td>40 241</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1686&lang=0" target="_blank" class="job">Помощник директора</a></td>
+<td>22 570</td>
+<td>25 287</td>
+<td>36 639</td>
+<td>32 184</td>
+<td>39 366</td>
+<td>49 317</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1242&lang=0" target="_blank" class="job">Секретарь-ресепшионист</a></td>
+<td>13 561</td>
+<td>16 260</td>
+<td>21 265</td>
+<td>20 729</td>
+<td>25 468</td>
+<td>32 184</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>28 161</td>
+<td>33 557</td>
+<td>43 478</td>
+<td>47 414</td>
+<td>51 724</td>
+<td>56 322</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>119 253</td>
+<td>120 690</td>
+<td>235 080</td>
+<td>201 149</td>
+<td>275 862</td>
+<td>396 644</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>43 908</td>
+<td>86 494</td>
+<td>142 537</td>
+<td>120 998</td>
+<td>172 414</td>
+<td>285 057</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>63 218</td>
+<td>83 276</td>
+<td>125 109</td>
+<td>103 448</td>
+<td>150 988</td>
+<td>172 414</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>18 379</td>
+<td>23 218</td>
+<td>36 291</td>
+<td>34 529</td>
+<td>48 908</td>
+<td>52 069</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>25 287</td>
+<td>27 011</td>
+<td>31 130</td>
+<td>29 655</td>
+<td>35 571</td>
+<td>39 310</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>19 139</td>
+<td>25 862</td>
+<td>36 582</td>
+<td>34 483</td>
+<td>41 236</td>
+<td>51 402</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>28 736</td>
+<td>34 483</td>
+<td>40 371</td>
+<td>40 230</td>
+<td>48 723</td>
+<td>54 385</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>21 241</td>
+<td>22 989</td>
+<td>30 066</td>
+<td>29 074</td>
+<td>36 565</td>
+<td>39 971</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2107&lang=0" target="_blank" class="job">Начальник автоколонны</a></td>
+<td>13 653</td>
+<td>14 475</td>
+<td>16 436</td>
+<td>16 609</td>
+<td>17 813</td>
+<td>19 233</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>18 749</td>
+<td>23 752</td>
+<td>31 840</td>
+<td>30 379</td>
+<td>38 216</td>
+<td>46 374</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>28 046</td>
+<td>33 621</td>
+<td>41 696</td>
+<td>36 782</td>
+<td>50 706</td>
+<td>57 506</td>
+<td>1 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td>23 111</td>
+<td>24 255</td>
+<td>28 704</td>
+<td>31 015</td>
+<td>31 724</td>
+<td>33 089</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>20 260</td>
+<td>21 580</td>
+<td>25 960</td>
+<td>23 563</td>
+<td>28 529</td>
+<td>32 127</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>14 910</td>
+<td>25 287</td>
+<td>33 861</td>
+<td>28 736</td>
+<td>40 230</td>
+<td>49 479</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1686&lang=0" target="_blank" class="job">Помощник директора</a></td>
+<td>31 034</td>
+<td>34 493</td>
+<td>52 765</td>
+<td>42 020</td>
+<td>66 983</td>
+<td>81 031</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1242&lang=0" target="_blank" class="job">Секретарь-ресепшионист</a></td>
+<td>19 447</td>
+<td>21 494</td>
+<td>25 148</td>
+<td>23 563</td>
+<td>29 745</td>
+<td>32 184</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>40 056</td>
+<td>43 128</td>
+<td>56 465</td>
+<td>57 471</td>
+<td>71 710</td>
+<td>78 161</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>154 023</td>
+<td>172 414</td>
+<td>290 301</td>
+<td>258 753</td>
+<td>287 356</td>
+<td>482 759</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>69 882</td>
+<td>117 944</td>
+<td>166 119</td>
+<td>132 093</td>
+<td>199 216</td>
+<td>286 684</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>80 460</td>
+<td>103 448</td>
+<td>159 585</td>
+<td>138 605</td>
+<td>177 227</td>
+<td>206 385</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>26 437</td>
+<td>32 591</td>
+<td>46 673</td>
+<td>45 977</td>
+<td>59 103</td>
+<td>68 966</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>30 805</td>
+<td>37 356</td>
+<td>43 626</td>
+<td>41 389</td>
+<td>52 822</td>
+<td>54 023</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>23 161</td>
+<td>31 034</td>
+<td>43 348</td>
+<td>41 667</td>
+<td>48 333</td>
+<td>56 920</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>39 339</td>
+<td>40 230</td>
+<td>49 736</td>
+<td>49 100</td>
+<td>57 471</td>
+<td>63 601</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>25 931</td>
+<td>29 885</td>
+<td>43 290</td>
+<td>44 828</td>
+<td>53 593</td>
+<td>59 330</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2107&lang=0" target="_blank" class="job">Начальник автоколонны</a></td>
+<td>15 781</td>
+<td>16 731</td>
+<td>18 998</td>
+<td>19 198</td>
+<td>20 590</td>
+<td>22 231</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>28 736</td>
+<td>36 920</td>
+<td>45 210</td>
+<td>44 037</td>
+<td>55 392</td>
+<td>60 962</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>45 650</td>
+<td>49 218</td>
+<td>57 382</td>
+<td>57 471</td>
+<td>62 488</td>
+<td>69 564</td>
+<td>1 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 20.02.2013)</p>
+</div>

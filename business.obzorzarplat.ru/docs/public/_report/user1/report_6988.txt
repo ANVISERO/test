@@ -1,0 +1,928 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td>18 836</td>
+<td>22 209</td>
+<td>25 055</td>
+<td>26 724</td>
+<td>30 135</td>
+<td>31 724</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1382&lang=0" target="_blank" class="job">Администратор торгового зала (непищевые продукты)</a></td>
+<td>19 029</td>
+<td>21 966</td>
+<td>24 893</td>
+<td>24 193</td>
+<td>27 663</td>
+<td>30 478</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1315&lang=0" target="_blank" class="job">Администратор торгового зала (пищевые продукты)</a></td>
+<td>21 125</td>
+<td>23 335</td>
+<td>27 824</td>
+<td>29 366</td>
+<td>34 358</td>
+<td>34 483</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>28 736</td>
+<td>34 483</td>
+<td>40 371</td>
+<td>40 230</td>
+<td>48 723</td>
+<td>54 385</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1313&lang=0" target="_blank" class="job">Директор магазина</a></td>
+<td>29 801</td>
+<td>34 483</td>
+<td>41 613</td>
+<td>43 678</td>
+<td>48 326</td>
+<td>51 724</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>143 147</td>
+<td>152 924</td>
+<td>170 920</td>
+<td>172 414</td>
+<td>184 662</td>
+<td>197 198</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>37 379</td>
+<td>40 494</td>
+<td>59 560</td>
+<td>62 296</td>
+<td>72 261</td>
+<td>88 734</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1381&lang=0" target="_blank" class="job">Заведующий отделом (непищевые продукты)</a></td>
+<td>12 644</td>
+<td>13 793</td>
+<td>16 579</td>
+<td>15 287</td>
+<td>18 106</td>
+<td>22 606</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1314&lang=0" target="_blank" class="job">Заведующий отделом (пищевые продукты)</a></td>
+<td>15 034</td>
+<td>18 546</td>
+<td>24 655</td>
+<td>22 529</td>
+<td>31 896</td>
+<td>36 864</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1398&lang=0" target="_blank" class="job">Заместитель директора магазина</a></td>
+<td>20 278</td>
+<td>24 138</td>
+<td>29 207</td>
+<td>30 034</td>
+<td>34 483</td>
+<td>40 230</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1319&lang=0" target="_blank" class="job">Кассир-операционист</a></td>
+<td>12 644</td>
+<td>15 517</td>
+<td>18 099</td>
+<td>17 241</td>
+<td>18 391</td>
+<td>25 862</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>9 252</td>
+<td>12 561</td>
+<td>15 733</td>
+<td>15 666</td>
+<td>19 284</td>
+<td>22 415</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>63 782</td>
+<td>86 868</td>
+<td>128 051</td>
+<td>104 406</td>
+<td>166 583</td>
+<td>216 092</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1354&lang=0" target="_blank" class="job">Контролер торгового зала</a></td>
+<td>21 494</td>
+<td>22 989</td>
+<td>29 185</td>
+<td>25 479</td>
+<td>31 015</td>
+<td>34 807</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2100&lang=0" target="_blank" class="job">Менеджер коммерческого отдела</a></td>
+<td>22 989</td>
+<td>25 630</td>
+<td>30 724</td>
+<td>28 736</td>
+<td>35 308</td>
+<td>40 230</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1307&lang=0" target="_blank" class="job">Менеджер по городским продажам</a></td>
+<td>14 122</td>
+<td>19 891</td>
+<td>29 292</td>
+<td>27 816</td>
+<td>45 977</td>
+<td>45 977</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>22 529</td>
+<td>28 295</td>
+<td>35 206</td>
+<td>31 034</td>
+<td>45 182</td>
+<td>47 471</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>33 014</td>
+<td>40 230</td>
+<td>79 433</td>
+<td>65 860</td>
+<td>123 590</td>
+<td>156 795</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>20 690</td>
+<td>25 345</td>
+<td>35 989</td>
+<td>34 437</td>
+<td>38 621</td>
+<td>51 397</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>21 552</td>
+<td>25 993</td>
+<td>31 153</td>
+<td>29 655</td>
+<td>35 356</td>
+<td>40 230</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>28 992</td>
+<td>33 688</td>
+<td>35 764</td>
+<td>34 483</td>
+<td>38 950</td>
+<td>43 301</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>19 207</td>
+<td>32 184</td>
+<td>35 988</td>
+<td>34 483</td>
+<td>40 230</td>
+<td>45 540</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2148&lang=0" target="_blank" class="job">Менеджер телефонных продаж</a></td>
+<td>21 622</td>
+<td>23 284</td>
+<td>26 714</td>
+<td>28 161</td>
+<td>28 938</td>
+<td>31 908</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>45 807</td>
+<td>52 874</td>
+<td>81 680</td>
+<td>59 195</td>
+<td>80 460</td>
+<td>114 943</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>17 316</td>
+<td>18 290</td>
+<td>20 552</td>
+<td>19 986</td>
+<td>23 114</td>
+<td>24 544</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1320&lang=0" target="_blank" class="job">Приемосдатчик</a></td>
+<td>8 851</td>
+<td>10 460</td>
+<td>14 250</td>
+<td>13 793</td>
+<td>17 697</td>
+<td>20 356</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1385&lang=0" target="_blank" class="job">Продавец (непищевые продукты)</a></td>
+<td>12 299</td>
+<td>12 299</td>
+<td>16 324</td>
+<td>12 299</td>
+<td>21 270</td>
+<td>25 547</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1317&lang=0" target="_blank" class="job">Продавец (пищевые продукты)</a></td>
+<td>7 670</td>
+<td>10 115</td>
+<td>12 327</td>
+<td>12 018</td>
+<td>14 195</td>
+<td>16 280</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1386&lang=0" target="_blank" class="job">Продавец-кассир (непищевые продукты)</a></td>
+<td>24 755</td>
+<td>26 943</td>
+<td>29 558</td>
+<td>29 816</td>
+<td>31 437</td>
+<td>34 102</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1318&lang=0" target="_blank" class="job">Продавец-кассир (пищевые продукты)</a></td>
+<td>21 682</td>
+<td>23 598</td>
+<td>25 889</td>
+<td>26 115</td>
+<td>27 535</td>
+<td>29 869</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2104&lang=0" target="_blank" class="job">Продавец-консультант</a></td>
+<td>10 351</td>
+<td>10 467</td>
+<td>13 314</td>
+<td>11 690</td>
+<td>15 342</td>
+<td>17 595</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1271&lang=0" target="_blank" class="job">Промоутер</a></td>
+<td>11 494</td>
+<td>14 172</td>
+<td>17 890</td>
+<td>18 391</td>
+<td>22 780</td>
+<td>22 947</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2136&lang=0" target="_blank" class="job">Сортировщик </a></td>
+<td>17 594</td>
+<td>18 912</td>
+<td>22 193</td>
+<td>22 989</td>
+<td>23 452</td>
+<td>27 093</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>18 458</td>
+<td>22 538</td>
+<td>30 641</td>
+<td>32 184</td>
+<td>36 573</td>
+<td>40 885</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1397&lang=0" target="_blank" class="job">Старший менеджер по городским продажам</a></td>
+<td>22 354</td>
+<td>22 989</td>
+<td>31 577</td>
+<td>27 615</td>
+<td>37 852</td>
+<td>46 434</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1384&lang=0" target="_blank" class="job">Старший продавец (непищевые продукты)</a></td>
+<td>13 276</td>
+<td>14 483</td>
+<td>16 286</td>
+<td>15 690</td>
+<td>16 940</td>
+<td>19 489</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1316&lang=0" target="_blank" class="job">Старший продавец (пищевые продукты)</a></td>
+<td>15 299</td>
+<td>16 437</td>
+<td>19 012</td>
+<td>18 080</td>
+<td>20 646</td>
+<td>22 317</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2058&lang=0" target="_blank" class="job">Страховой агент</a></td>
+<td>18 068</td>
+<td>21 030</td>
+<td>27 844</td>
+<td>28 985</td>
+<td>34 179</td>
+<td>34 414</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2183&lang=0" target="_blank" class="job">Товаровед</a></td>
+<td>20 470</td>
+<td>21 650</td>
+<td>25 822</td>
+<td>27 825</td>
+<td>28 736</td>
+<td>28 736</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1310&lang=0" target="_blank" class="job">Торговый представитель</a></td>
+<td>10 345</td>
+<td>10 805</td>
+<td>14 325</td>
+<td>11 749</td>
+<td>15 607</td>
+<td>21 146</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1421&lang=0" target="_blank" class="job">Торговый супервайзер</a></td>
+<td>21 609</td>
+<td>24 526</td>
+<td>26 769</td>
+<td>27 586</td>
+<td>29 767</td>
+<td>31 958</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2144&lang=0" target="_blank" class="job">Укладчик</a></td>
+<td>18 037</td>
+<td>19 253</td>
+<td>20 562</td>
+<td>20 690</td>
+<td>21 054</td>
+<td>24 698</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2157&lang=0" target="_blank" class="job">Флорист</a></td>
+<td>18 146</td>
+<td>19 828</td>
+<td>22 216</td>
+<td>20 690</td>
+<td>23 684</td>
+<td>28 243</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td>23 617</td>
+<td>26 777</td>
+<td>29 821</td>
+<td>30 805</td>
+<td>32 043</td>
+<td>34 677</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1382&lang=0" target="_blank" class="job">Администратор торгового зала (непищевые продукты)</a></td>
+<td>20 240</td>
+<td>24 907</td>
+<td>28 331</td>
+<td>27 067</td>
+<td>30 938</td>
+<td>34 031</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1315&lang=0" target="_blank" class="job">Администратор торгового зала (пищевые продукты)</a></td>
+<td>25 672</td>
+<td>28 880</td>
+<td>33 458</td>
+<td>34 483</td>
+<td>39 190</td>
+<td>41 375</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>39 339</td>
+<td>40 230</td>
+<td>49 736</td>
+<td>49 100</td>
+<td>57 471</td>
+<td>63 601</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1313&lang=0" target="_blank" class="job">Директор магазина</a></td>
+<td>37 931</td>
+<td>41 614</td>
+<td>50 979</td>
+<td>54 023</td>
+<td>58 046</td>
+<td>67 588</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>181 319</td>
+<td>194 470</td>
+<td>216 498</td>
+<td>218 391</td>
+<td>233 139</td>
+<td>249 784</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>83 293</td>
+<td>92 586</td>
+<td>104 473</td>
+<td>103 320</td>
+<td>115 171</td>
+<td>127 942</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1381&lang=0" target="_blank" class="job">Заведующий отделом (непищевые продукты)</a></td>
+<td>29 195</td>
+<td>30 402</td>
+<td>32 880</td>
+<td>32 356</td>
+<td>35 077</td>
+<td>38 182</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1314&lang=0" target="_blank" class="job">Заведующий отделом (пищевые продукты)</a></td>
+<td>23 218</td>
+<td>25 874</td>
+<td>32 499</td>
+<td>32 184</td>
+<td>38 373</td>
+<td>42 950</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1398&lang=0" target="_blank" class="job">Заместитель директора магазина</a></td>
+<td>25 414</td>
+<td>28 146</td>
+<td>35 104</td>
+<td>32 345</td>
+<td>41 033</td>
+<td>48 975</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1319&lang=0" target="_blank" class="job">Кассир-операционист</a></td>
+<td>16 667</td>
+<td>19 540</td>
+<td>23 315</td>
+<td>21 264</td>
+<td>26 149</td>
+<td>29 787</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>16 572</td>
+<td>19 425</td>
+<td>24 666</td>
+<td>23 590</td>
+<td>29 671</td>
+<td>34 483</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>89 092</td>
+<td>105 747</td>
+<td>151 065</td>
+<td>131 946</td>
+<td>191 905</td>
+<td>216 092</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1354&lang=0" target="_blank" class="job">Контролер торгового зала</a></td>
+<td>23 896</td>
+<td>25 479</td>
+<td>31 313</td>
+<td>27 477</td>
+<td>33 019</td>
+<td>35 585</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2100&lang=0" target="_blank" class="job">Менеджер коммерческого отдела</a></td>
+<td>34 592</td>
+<td>39 219</td>
+<td>43 635</td>
+<td>40 230</td>
+<td>47 648</td>
+<td>53 268</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1307&lang=0" target="_blank" class="job">Менеджер по городским продажам</a></td>
+<td>25 033</td>
+<td>32 054</td>
+<td>42 542</td>
+<td>45 977</td>
+<td>50 575</td>
+<td>57 374</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>28 368</td>
+<td>31 034</td>
+<td>37 988</td>
+<td>39 195</td>
+<td>46 876</td>
+<td>47 471</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>46 207</td>
+<td>57 471</td>
+<td>93 125</td>
+<td>68 966</td>
+<td>125 534</td>
+<td>173 525</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>28 724</td>
+<td>32 552</td>
+<td>41 587</td>
+<td>37 931</td>
+<td>47 030</td>
+<td>57 471</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>27 901</td>
+<td>30 115</td>
+<td>35 354</td>
+<td>34 483</td>
+<td>39 799</td>
+<td>41 663</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>38 161</td>
+<td>40 485</td>
+<td>46 350</td>
+<td>43 678</td>
+<td>48 689</td>
+<td>55 897</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>35 747</td>
+<td>37 754</td>
+<td>53 808</td>
+<td>47 126</td>
+<td>67 531</td>
+<td>78 851</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2148&lang=0" target="_blank" class="job">Менеджер телефонных продаж</a></td>
+<td>30 521</td>
+<td>33 996</td>
+<td>39 781</td>
+<td>38 711</td>
+<td>43 633</td>
+<td>48 288</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>57 471</td>
+<td>59 195</td>
+<td>108 815</td>
+<td>83 391</td>
+<td>109 195</td>
+<td>149 425</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1420&lang=0" target="_blank" class="job">Оператор Call центра</a></td>
+<td>20 601</td>
+<td>22 230</td>
+<td>25 984</td>
+<td>27 716</td>
+<td>29 492</td>
+<td>30 958</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1320&lang=0" target="_blank" class="job">Приемосдатчик</a></td>
+<td>14 601</td>
+<td>15 821</td>
+<td>17 840</td>
+<td>17 520</td>
+<td>19 195</td>
+<td>20 793</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1385&lang=0" target="_blank" class="job">Продавец (непищевые продукты)</a></td>
+<td>12 778</td>
+<td>16 128</td>
+<td>19 977</td>
+<td>17 398</td>
+<td>25 287</td>
+<td>27 839</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1317&lang=0" target="_blank" class="job">Продавец (пищевые продукты)</a></td>
+<td>16 588</td>
+<td>17 705</td>
+<td>19 624</td>
+<td>19 278</td>
+<td>21 162</td>
+<td>23 016</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1386&lang=0" target="_blank" class="job">Продавец-кассир (непищевые продукты)</a></td>
+<td>24 755</td>
+<td>26 943</td>
+<td>29 558</td>
+<td>29 816</td>
+<td>31 437</td>
+<td>34 102</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1318&lang=0" target="_blank" class="job">Продавец-кассир (пищевые продукты)</a></td>
+<td>21 682</td>
+<td>23 598</td>
+<td>25 889</td>
+<td>26 115</td>
+<td>27 535</td>
+<td>29 869</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2104&lang=0" target="_blank" class="job">Продавец-консультант</a></td>
+<td>16 071</td>
+<td>17 739</td>
+<td>19 024</td>
+<td>19 182</td>
+<td>20 048</td>
+<td>21 648</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1271&lang=0" target="_blank" class="job">Промоутер</a></td>
+<td>17 043</td>
+<td>18 770</td>
+<td>21 451</td>
+<td>22 780</td>
+<td>23 099</td>
+<td>25 992</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2136&lang=0" target="_blank" class="job">Сортировщик </a></td>
+<td>18 391</td>
+<td>22 604</td>
+<td>27 096</td>
+<td>28 736</td>
+<td>32 631</td>
+<td>33 103</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>32 301</td>
+<td>33 258</td>
+<td>45 622</td>
+<td>40 230</td>
+<td>61 080</td>
+<td>61 351</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1397&lang=0" target="_blank" class="job">Старший менеджер по городским продажам</a></td>
+<td>39 135</td>
+<td>42 068</td>
+<td>50 206</td>
+<td>51 724</td>
+<td>55 752</td>
+<td>61 502</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1384&lang=0" target="_blank" class="job">Старший продавец (непищевые продукты)</a></td>
+<td>18 920</td>
+<td>20 747</td>
+<td>22 531</td>
+<td>22 011</td>
+<td>24 253</td>
+<td>25 523</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1316&lang=0" target="_blank" class="job">Старший продавец (пищевые продукты)</a></td>
+<td>17 585</td>
+<td>18 736</td>
+<td>21 786</td>
+<td>20 379</td>
+<td>23 000</td>
+<td>24 961</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2058&lang=0" target="_blank" class="job">Страховой агент</a></td>
+<td>30 613</td>
+<td>33 669</td>
+<td>38 267</td>
+<td>35 240</td>
+<td>40 954</td>
+<td>45 866</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2183&lang=0" target="_blank" class="job">Товаровед</a></td>
+<td>22 989</td>
+<td>27 647</td>
+<td>33 503</td>
+<td>29 336</td>
+<td>38 501</td>
+<td>51 724</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1310&lang=0" target="_blank" class="job">Торговый представитель</a></td>
+<td>28 146</td>
+<td>35 696</td>
+<td>42 407</td>
+<td>42 068</td>
+<td>48 467</td>
+<td>51 979</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1421&lang=0" target="_blank" class="job">Торговый супервайзер</a></td>
+<td>28 736</td>
+<td>36 054</td>
+<td>48 831</td>
+<td>51 724</td>
+<td>59 181</td>
+<td>66 552</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2144&lang=0" target="_blank" class="job">Укладчик</a></td>
+<td>19 655</td>
+<td>21 112</td>
+<td>24 281</td>
+<td>25 134</td>
+<td>26 513</td>
+<td>28 621</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2157&lang=0" target="_blank" class="job">Флорист</a></td>
+<td>26 437</td>
+<td>26 664</td>
+<td>31 263</td>
+<td>28 736</td>
+<td>34 276</td>
+<td>37 378</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 07.03.2013)</p>
+</div>

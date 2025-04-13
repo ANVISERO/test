@@ -1,0 +1,708 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Владимир</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>18 785</td>
+<td>21 945</td>
+<td>26 903</td>
+<td>23 782</td>
+<td>31 350</td>
+<td>39 723</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2479&lang=0" target="_blank" class="job">Ветеринарный врач (МВД)</a></td>
+<td>12 373</td>
+<td>15 048</td>
+<td>14 804</td>
+<td>15 205</td>
+<td>15 362</td>
+<td>17 824</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2285&lang=0" target="_blank" class="job">Врач акушер-гинеколог</a></td>
+<td>15 776</td>
+<td>22 790</td>
+<td>29 937</td>
+<td>31 350</td>
+<td>37 111</td>
+<td>44 070</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2286&lang=0" target="_blank" class="job">Врач анестезиолог-реаниматолог</a></td>
+<td>19 583</td>
+<td>21 945</td>
+<td>30 829</td>
+<td>25 174</td>
+<td>35 332</td>
+<td>44 009</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1994&lang=0" target="_blank" class="job">Врач общей практики</a></td>
+<td>25 512</td>
+<td>28 146</td>
+<td>31 885</td>
+<td>31 758</td>
+<td>36 491</td>
+<td>37 842</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>25 161</td>
+<td>30 027</td>
+<td>34 038</td>
+<td>36 815</td>
+<td>40 559</td>
+<td>42 094</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2289&lang=0" target="_blank" class="job">Врач-гастроэнтеролог</a></td>
+<td>21 820</td>
+<td>27 196</td>
+<td>30 529</td>
+<td>31 632</td>
+<td>36 053</td>
+<td>37 362</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2290&lang=0" target="_blank" class="job">Врач-кардиолог</a></td>
+<td>19 166</td>
+<td>25 649</td>
+<td>32 213</td>
+<td>33 068</td>
+<td>39 699</td>
+<td>44 188</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>18 892</td>
+<td>22 702</td>
+<td>28 474</td>
+<td>31 037</td>
+<td>35 086</td>
+<td>38 222</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>16 791</td>
+<td>27 494</td>
+<td>31 567</td>
+<td>35 163</td>
+<td>37 717</td>
+<td>39 161</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2292&lang=0" target="_blank" class="job">Врач-отоларинголог</a></td>
+<td>18 810</td>
+<td>22 559</td>
+<td>31 348</td>
+<td>29 030</td>
+<td>42 893</td>
+<td>45 394</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2293&lang=0" target="_blank" class="job">Врач-офтальмолог</a></td>
+<td>21 443</td>
+<td>23 766</td>
+<td>28 782</td>
+<td>25 493</td>
+<td>36 054</td>
+<td>38 724</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2294&lang=0" target="_blank" class="job">Врач-педиатр</a></td>
+<td>22 312</td>
+<td>28 593</td>
+<td>34 739</td>
+<td>37 379</td>
+<td>43 091</td>
+<td>45 059</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2288&lang=0" target="_blank" class="job">Врач-рентгенолог</a></td>
+<td>18 636</td>
+<td>24 387</td>
+<td>31 450</td>
+<td>28 591</td>
+<td>41 313</td>
+<td>44 426</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2213&lang=0" target="_blank" class="job">Врач-стоматолог</a></td>
+<td>19 139</td>
+<td>23 189</td>
+<td>36 163</td>
+<td>31 614</td>
+<td>46 441</td>
+<td>53 393</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2295&lang=0" target="_blank" class="job">Врач-терапевт</a></td>
+<td>17 054</td>
+<td>25 893</td>
+<td>30 582</td>
+<td>33 231</td>
+<td>37 307</td>
+<td>38 127</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2334&lang=0" target="_blank" class="job">Врач-травматолог</a></td>
+<td>18 939</td>
+<td>25 744</td>
+<td>32 055</td>
+<td>28 742</td>
+<td>43 263</td>
+<td>44 210</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2386&lang=0" target="_blank" class="job">Врач-хирург</a></td>
+<td>20 064</td>
+<td>26 961</td>
+<td>39 041</td>
+<td>31 638</td>
+<td>54 750</td>
+<td>62 700</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2296&lang=0" target="_blank" class="job">Врач-эндокринолог</a></td>
+<td>18 183</td>
+<td>21 788</td>
+<td>28 655</td>
+<td>25 383</td>
+<td>32 704</td>
+<td>40 104</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2239&lang=0" target="_blank" class="job">Заместитель главного врача</a></td>
+<td>34 796</td>
+<td>37 000</td>
+<td>45 003</td>
+<td>49 221</td>
+<td>51 931</td>
+<td>55 959</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2251&lang=0" target="_blank" class="job">Зубной техник</a></td>
+<td>19 951</td>
+<td>24 825</td>
+<td>30 714</td>
+<td>29 783</td>
+<td>40 091</td>
+<td>43 568</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2167&lang=0" target="_blank" class="job">Косметолог</a></td>
+<td>18 426</td>
+<td>24 506</td>
+<td>26 927</td>
+<td>28 215</td>
+<td>31 350</td>
+<td>33 921</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>13 443</td>
+<td>15 675</td>
+<td>18 359</td>
+<td>16 929</td>
+<td>21 945</td>
+<td>25 080</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>12 563</td>
+<td>15 585</td>
+<td>19 112</td>
+<td>18 685</td>
+<td>22 454</td>
+<td>27 309</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2158&lang=0" target="_blank" class="job">Медицинская сестра</a></td>
+<td>12 540</td>
+<td>15 675</td>
+<td>18 339</td>
+<td>18 810</td>
+<td>21 945</td>
+<td>25 080</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>36 053</td>
+<td>48 593</td>
+<td>70 990</td>
+<td>62 700</td>
+<td>94 081</td>
+<td>119 130</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1992&lang=0" target="_blank" class="job">Руководитель (Главный врач)</a></td>
+<td>31 594</td>
+<td>36 335</td>
+<td>51 442</td>
+<td>45 453</td>
+<td>63 065</td>
+<td>76 285</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1993&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Заведующий отделением)</a></td>
+<td>24 232</td>
+<td>27 947</td>
+<td>31 884</td>
+<td>31 566</td>
+<td>35 413</td>
+<td>41 006</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1998&lang=0" target="_blank" class="job">Санитар</a></td>
+<td>9 485</td>
+<td>9 737</td>
+<td>11 844</td>
+<td>11 387</td>
+<td>13 435</td>
+<td>17 133</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1997&lang=0" target="_blank" class="job">Сиделка</a></td>
+<td>9 490</td>
+<td>12 296</td>
+<td>14 828</td>
+<td>15 769</td>
+<td>18 733</td>
+<td>19 802</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2440&lang=0" target="_blank" class="job">Старшая медицинская сестра</a></td>
+<td>15 731</td>
+<td>18 810</td>
+<td>21 686</td>
+<td>22 202</td>
+<td>25 277</td>
+<td>26 396</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1404&lang=0" target="_blank" class="job">Фельдшер</a></td>
+<td>12 559</td>
+<td>13 996</td>
+<td>17 541</td>
+<td>16 076</td>
+<td>19 280</td>
+<td>25 727</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>18 785</td>
+<td>21 945</td>
+<td>28 916</td>
+<td>23 782</td>
+<td>35 844</td>
+<td>47 256</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2479&lang=0" target="_blank" class="job">Ветеринарный врач (МВД)</a></td>
+<td>13 887</td>
+<td>17 536</td>
+<td>20 750</td>
+<td>22 067</td>
+<td>23 787</td>
+<td>27 457</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2285&lang=0" target="_blank" class="job">Врач акушер-гинеколог</a></td>
+<td>15 776</td>
+<td>22 790</td>
+<td>31 242</td>
+<td>31 350</td>
+<td>39 745</td>
+<td>48 109</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2286&lang=0" target="_blank" class="job">Врач анестезиолог-реаниматолог</a></td>
+<td>19 583</td>
+<td>21 945</td>
+<td>32 473</td>
+<td>25 174</td>
+<td>38 733</td>
+<td>48 227</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1994&lang=0" target="_blank" class="job">Врач общей практики</a></td>
+<td>25 512</td>
+<td>28 146</td>
+<td>33 043</td>
+<td>31 758</td>
+<td>39 243</td>
+<td>41 358</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>25 161</td>
+<td>30 027</td>
+<td>34 457</td>
+<td>36 815</td>
+<td>41 605</td>
+<td>43 616</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2289&lang=0" target="_blank" class="job">Врач-гастроэнтеролог</a></td>
+<td>21 820</td>
+<td>27 196</td>
+<td>32 390</td>
+<td>34 140</td>
+<td>39 175</td>
+<td>40 723</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2290&lang=0" target="_blank" class="job">Врач-кардиолог</a></td>
+<td>19 166</td>
+<td>25 649</td>
+<td>33 837</td>
+<td>35 291</td>
+<td>42 465</td>
+<td>47 198</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>18 892</td>
+<td>22 702</td>
+<td>30 732</td>
+<td>31 037</td>
+<td>40 069</td>
+<td>44 717</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>22 735</td>
+<td>34 008</td>
+<td>38 561</td>
+<td>42 530</td>
+<td>45 308</td>
+<td>47 429</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2292&lang=0" target="_blank" class="job">Врач-отоларинголог</a></td>
+<td>18 810</td>
+<td>22 559</td>
+<td>32 157</td>
+<td>29 030</td>
+<td>44 649</td>
+<td>47 465</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2293&lang=0" target="_blank" class="job">Врач-офтальмолог</a></td>
+<td>21 443</td>
+<td>23 766</td>
+<td>29 535</td>
+<td>25 493</td>
+<td>37 720</td>
+<td>41 104</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2294&lang=0" target="_blank" class="job">Врач-педиатр</a></td>
+<td>22 312</td>
+<td>28 593</td>
+<td>35 624</td>
+<td>37 590</td>
+<td>44 901</td>
+<td>47 281</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2288&lang=0" target="_blank" class="job">Врач-рентгенолог</a></td>
+<td>18 636</td>
+<td>24 387</td>
+<td>33 215</td>
+<td>30 867</td>
+<td>44 302</td>
+<td>47 974</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2213&lang=0" target="_blank" class="job">Врач-стоматолог</a></td>
+<td>19 139</td>
+<td>23 189</td>
+<td>40 123</td>
+<td>36 215</td>
+<td>53 338</td>
+<td>62 131</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2295&lang=0" target="_blank" class="job">Врач-терапевт</a></td>
+<td>17 054</td>
+<td>27 841</td>
+<td>32 682</td>
+<td>35 645</td>
+<td>40 113</td>
+<td>41 235</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2334&lang=0" target="_blank" class="job">Врач-травматолог</a></td>
+<td>18 939</td>
+<td>25 744</td>
+<td>32 676</td>
+<td>29 557</td>
+<td>44 466</td>
+<td>45 527</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2386&lang=0" target="_blank" class="job">Врач-хирург</a></td>
+<td>20 064</td>
+<td>26 961</td>
+<td>51 394</td>
+<td>37 908</td>
+<td>77 683</td>
+<td>89 090</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2296&lang=0" target="_blank" class="job">Врач-эндокринолог</a></td>
+<td>18 183</td>
+<td>21 788</td>
+<td>30 301</td>
+<td>26 940</td>
+<td>35 873</td>
+<td>43 713</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2239&lang=0" target="_blank" class="job">Заместитель главного врача</a></td>
+<td>34 796</td>
+<td>37 000</td>
+<td>46 869</td>
+<td>51 102</td>
+<td>55 254</td>
+<td>60 170</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2251&lang=0" target="_blank" class="job">Зубной техник</a></td>
+<td>19 951</td>
+<td>24 825</td>
+<td>32 380</td>
+<td>31 821</td>
+<td>43 199</td>
+<td>47 096</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2167&lang=0" target="_blank" class="job">Косметолог</a></td>
+<td>18 426</td>
+<td>24 506</td>
+<td>28 564</td>
+<td>28 961</td>
+<td>34 806</td>
+<td>37 716</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>13 443</td>
+<td>15 675</td>
+<td>20 370</td>
+<td>16 929</td>
+<td>26 377</td>
+<td>31 350</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>12 563</td>
+<td>15 585</td>
+<td>20 936</td>
+<td>18 685</td>
+<td>26 444</td>
+<td>32 699</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2158&lang=0" target="_blank" class="job">Медицинская сестра</a></td>
+<td>12 540</td>
+<td>15 675</td>
+<td>19 879</td>
+<td>18 810</td>
+<td>23 826</td>
+<td>31 350</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>36 053</td>
+<td>48 593</td>
+<td>84 066</td>
+<td>75 240</td>
+<td>119 209</td>
+<td>148 286</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1992&lang=0" target="_blank" class="job">Руководитель (Главный врач)</a></td>
+<td>31 594</td>
+<td>36 335</td>
+<td>61 534</td>
+<td>54 231</td>
+<td>81 257</td>
+<td>100 231</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1993&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Заведующий отделением)</a></td>
+<td>24 232</td>
+<td>27 947</td>
+<td>34 888</td>
+<td>31 566</td>
+<td>41 691</td>
+<td>50 015</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1998&lang=0" target="_blank" class="job">Санитар</a></td>
+<td>9 485</td>
+<td>9 737</td>
+<td>14 786</td>
+<td>14 700</td>
+<td>18 340</td>
+<td>23 247</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1997&lang=0" target="_blank" class="job">Сиделка</a></td>
+<td>9 490</td>
+<td>12 296</td>
+<td>16 742</td>
+<td>17 560</td>
+<td>22 308</td>
+<td>23 919</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2440&lang=0" target="_blank" class="job">Старшая медицинская сестра</a></td>
+<td>15 731</td>
+<td>18 810</td>
+<td>24 820</td>
+<td>22 516</td>
+<td>31 998</td>
+<td>35 353</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1404&lang=0" target="_blank" class="job">Фельдшер</a></td>
+<td>12 559</td>
+<td>13 996</td>
+<td>19 852</td>
+<td>19 211</td>
+<td>23 230</td>
+<td>31 042</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 19.08.2015)</p>
+</div>

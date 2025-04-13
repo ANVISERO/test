@@ -1,0 +1,588 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1824&lang=0" target="_blank" class="job">Балансировщик</a></td>
+<td>20 059</td>
+<td>26 000</td>
+<td>36 912</td>
+<td>34 500</td>
+<td>53 200</td>
+<td>59 160</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>27 755</td>
+<td>30 000</td>
+<td>37 191</td>
+<td>35 000</td>
+<td>45 000</td>
+<td>50 467</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>35 200</td>
+<td>43 000</td>
+<td>53 321</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>71 840</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>31 000</td>
+<td>42 250</td>
+<td>46 316</td>
+<td>46 900</td>
+<td>53 425</td>
+<td>56 952</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>32 120</td>
+<td>40 000</td>
+<td>47 288</td>
+<td>44 900</td>
+<td>55 000</td>
+<td>61 350</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1821&lang=0" target="_blank" class="job">Ведущий инженер по наладке и испытаниям</a></td>
+<td>33 068</td>
+<td>39 000</td>
+<td>46 570</td>
+<td>46 700</td>
+<td>56 505</td>
+<td>63 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1703&lang=0" target="_blank" class="job">Ведущий инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>23 161</td>
+<td>30 000</td>
+<td>35 688</td>
+<td>35 500</td>
+<td>44 171</td>
+<td>50 521</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1835&lang=0" target="_blank" class="job">Ведущий специалист по сборке и испытаниям</a></td>
+<td>19 656</td>
+<td>21 281</td>
+<td>28 492</td>
+<td>27 850</td>
+<td>34 625</td>
+<td>40 425</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1838&lang=0" target="_blank" class="job">Гальваник</a></td>
+<td>25 000</td>
+<td>27 000</td>
+<td>32 195</td>
+<td>35 000</td>
+<td>36 000</td>
+<td>40 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>50 000</td>
+<td>60 000</td>
+<td>83 750</td>
+<td>80 000</td>
+<td>96 800</td>
+<td>120 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>39 420</td>
+<td>49 604</td>
+<td>61 651</td>
+<td>58 322</td>
+<td>76 037</td>
+<td>90 939</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>41 000</td>
+<td>50 000</td>
+<td>60 128</td>
+<td>60 000</td>
+<td>70 500</td>
+<td>80 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1841&lang=0" target="_blank" class="job">Дефектоскопист по газовому и жидкостному контролю</a></td>
+<td>23 078</td>
+<td>25 833</td>
+<td>28 801</td>
+<td>31 000</td>
+<td>34 000</td>
+<td>36 400</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1547&lang=0" target="_blank" class="job">Дефектоскопист по магнитному и ультразвуковому контролю</a></td>
+<td>19 641</td>
+<td>24 000</td>
+<td>27 344</td>
+<td>28 000</td>
+<td>34 194</td>
+<td>35 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1548&lang=0" target="_blank" class="job">Дефектоскопист рентгено-гаммаграфирования </a></td>
+<td>25 276</td>
+<td>27 000</td>
+<td>32 483</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>40 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>35 000</td>
+<td>38 100</td>
+<td>45 869</td>
+<td>42 000</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>49 252</td>
+<td>54 000</td>
+<td>60 421</td>
+<td>60 000</td>
+<td>75 500</td>
+<td>75 751</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1906&lang=0" target="_blank" class="job">Заместитель главного энергетика</a></td>
+<td>30 876</td>
+<td>35 000</td>
+<td>42 335</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>58 588</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1848&lang=0" target="_blank" class="job">Заместитель начальника КБ</a></td>
+<td>50 933</td>
+<td>55 000</td>
+<td>67 319</td>
+<td>70 000</td>
+<td>80 000</td>
+<td>88 836</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1850&lang=0" target="_blank" class="job">Заточник</a></td>
+<td>22 880</td>
+<td>24 970</td>
+<td>32 238</td>
+<td>35 000</td>
+<td>39 973</td>
+<td>41 200</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>30 000</td>
+<td>40 000</td>
+<td>47 474</td>
+<td>45 000</td>
+<td>56 000</td>
+<td>68 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>50 267</td>
+<td>49 000</td>
+<td>55 550</td>
+<td>60 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>26 800</td>
+<td>30 000</td>
+<td>37 678</td>
+<td>38 000</td>
+<td>43 100</td>
+<td>50 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1904&lang=0" target="_blank" class="job">Инженер лаборатории металлов</a></td>
+<td>30 109</td>
+<td>33 740</td>
+<td>37 615</td>
+<td>40 000</td>
+<td>43 000</td>
+<td>46 630</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>20 000</td>
+<td>25 000</td>
+<td>32 745</td>
+<td>30 000</td>
+<td>40 000</td>
+<td>47 492</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2857&lang=0" target="_blank" class="job">Инженер по автоматической орбитальной сварке</a></td>
+<td>36 685</td>
+<td>50 343</td>
+<td>66 363</td>
+<td>64 912</td>
+<td>81 050</td>
+<td>99 788</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1824&lang=0" target="_blank" class="job">Балансировщик</a></td>
+<td>28 219</td>
+<td>33 000</td>
+<td>52 471</td>
+<td>46 000</td>
+<td>64 574</td>
+<td>92 374</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>36 541</td>
+<td>41 128</td>
+<td>46 452</td>
+<td>49 200</td>
+<td>51 692</td>
+<td>56 069</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>46 220</td>
+<td>55 000</td>
+<td>71 667</td>
+<td>66 167</td>
+<td>81 000</td>
+<td>113 040</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1717&lang=0" target="_blank" class="job">Ведущий инженер по автоматизированным системам управления производством</a></td>
+<td>54 900</td>
+<td>65 956</td>
+<td>73 030</td>
+<td>71 000</td>
+<td>78 384</td>
+<td>99 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1825&lang=0" target="_blank" class="job">Ведущий инженер по качеству</a></td>
+<td>47 830</td>
+<td>51 150</td>
+<td>67 975</td>
+<td>63 384</td>
+<td>84 925</td>
+<td>95 820</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1821&lang=0" target="_blank" class="job">Ведущий инженер по наладке и испытаниям</a></td>
+<td>43 633</td>
+<td>50 956</td>
+<td>65 968</td>
+<td>65 500</td>
+<td>84 036</td>
+<td>93 600</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1703&lang=0" target="_blank" class="job">Ведущий инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>53 448</td>
+<td>58 000</td>
+<td>66 735</td>
+<td>65 500</td>
+<td>79 325</td>
+<td>87 998</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1835&lang=0" target="_blank" class="job">Ведущий специалист по сборке и испытаниям</a></td>
+<td>31 171</td>
+<td>33 906</td>
+<td>41 960</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>57 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1838&lang=0" target="_blank" class="job">Гальваник</a></td>
+<td>25 990</td>
+<td>29 640</td>
+<td>35 082</td>
+<td>37 400</td>
+<td>41 386</td>
+<td>43 882</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>68 860</td>
+<td>89 100</td>
+<td>116 882</td>
+<td>106 650</td>
+<td>142 356</td>
+<td>169 763</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>45 920</td>
+<td>60 588</td>
+<td>73 238</td>
+<td>73 350</td>
+<td>90 026</td>
+<td>107 310</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>46 989</td>
+<td>53 084</td>
+<td>74 984</td>
+<td>71 977</td>
+<td>91 847</td>
+<td>121 300</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1841&lang=0" target="_blank" class="job">Дефектоскопист по газовому и жидкостному контролю</a></td>
+<td>26 211</td>
+<td>29 882</td>
+<td>33 315</td>
+<td>35 223</td>
+<td>38 000</td>
+<td>41 148</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1547&lang=0" target="_blank" class="job">Дефектоскопист по магнитному и ультразвуковому контролю</a></td>
+<td>22 880</td>
+<td>37 002</td>
+<td>45 566</td>
+<td>42 500</td>
+<td>56 981</td>
+<td>70 805</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1548&lang=0" target="_blank" class="job">Дефектоскопист рентгено-гаммаграфирования </a></td>
+<td>38 440</td>
+<td>40 015</td>
+<td>49 277</td>
+<td>50 423</td>
+<td>57 493</td>
+<td>68 324</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>39 870</td>
+<td>45 925</td>
+<td>62 888</td>
+<td>56 975</td>
+<td>72 975</td>
+<td>99 600</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1846&lang=0" target="_blank" class="job">Заместитель главного конструктора</a></td>
+<td>73 195</td>
+<td>79 500</td>
+<td>88 290</td>
+<td>90 583</td>
+<td>97 500</td>
+<td>108 325</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1906&lang=0" target="_blank" class="job">Заместитель главного энергетика</a></td>
+<td>47 221</td>
+<td>51 253</td>
+<td>57 140</td>
+<td>56 000</td>
+<td>67 000</td>
+<td>74 691</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1848&lang=0" target="_blank" class="job">Заместитель начальника КБ</a></td>
+<td>61 610</td>
+<td>68 000</td>
+<td>83 390</td>
+<td>92 049</td>
+<td>97 033</td>
+<td>104 123</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1850&lang=0" target="_blank" class="job">Заточник</a></td>
+<td>23 800</td>
+<td>29 897</td>
+<td>40 011</td>
+<td>38 000</td>
+<td>51 588</td>
+<td>60 158</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>40 000</td>
+<td>47 450</td>
+<td>60 081</td>
+<td>57 250</td>
+<td>66 950</td>
+<td>90 610</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>46 916</td>
+<td>54 150</td>
+<td>66 148</td>
+<td>65 900</td>
+<td>77 550</td>
+<td>86 440</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>30 000</td>
+<td>34 900</td>
+<td>46 197</td>
+<td>41 200</td>
+<td>56 800</td>
+<td>66 960</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1904&lang=0" target="_blank" class="job">Инженер лаборатории металлов</a></td>
+<td>35 682</td>
+<td>39 000</td>
+<td>43 040</td>
+<td>43 300</td>
+<td>48 750</td>
+<td>52 897</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>24 150</td>
+<td>30 000</td>
+<td>42 583</td>
+<td>41 320</td>
+<td>52 075</td>
+<td>65 796</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2857&lang=0" target="_blank" class="job">Инженер по автоматической орбитальной сварке</a></td>
+<td>48 892</td>
+<td>61 572</td>
+<td>77 361</td>
+<td>72 951</td>
+<td>93 707</td>
+<td>115 282</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 13.11.2017)</p>
+</div>

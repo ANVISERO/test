@@ -1,0 +1,408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>68 440</td>
+<td>87 920</td>
+<td>145 177</td>
+<td>131 000</td>
+<td>173 200</td>
+<td>260 920</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>40 000</td>
+<td>41 789</td>
+<td>59 118</td>
+<td>56 000</td>
+<td>71 337</td>
+<td>86 693</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td>50 000</td>
+<td>64 462</td>
+<td>80 266</td>
+<td>80 000</td>
+<td>99 267</td>
+<td>115 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1748&lang=0" target="_blank" class="job">Начальник отдела рекламы</a></td>
+<td>41 000</td>
+<td>46 165</td>
+<td>57 240</td>
+<td>58 621</td>
+<td>67 500</td>
+<td>77 869</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1379&lang=0" target="_blank" class="job">Продакт-менеджер</a></td>
+<td>26 400</td>
+<td>35 000</td>
+<td>51 939</td>
+<td>46 000</td>
+<td>62 793</td>
+<td>73 246</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1269&lang=0" target="_blank" class="job">Специалист по PR</a></td>
+<td>21 890</td>
+<td>30 222</td>
+<td>35 007</td>
+<td>35 200</td>
+<td>37 450</td>
+<td>43 903</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>26 890</td>
+<td>32 048</td>
+<td>42 107</td>
+<td>35 875</td>
+<td>49 700</td>
+<td>77 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1943&lang=0" target="_blank" class="job">Специалист по рекламе</a></td>
+<td>25 000</td>
+<td>28 586</td>
+<td>36 468</td>
+<td>33 390</td>
+<td>45 005</td>
+<td>53 165</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>20 000</td>
+<td>22 232</td>
+<td>25 424</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>30 527</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>17 675</td>
+<td>29 878</td>
+<td>37 863</td>
+<td>35 000</td>
+<td>42 391</td>
+<td>53 273</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2646&lang=0" target="_blank" class="job">Менеджер розничной сети</a></td>
+<td>31 566</td>
+<td>37 000</td>
+<td>44 688</td>
+<td>45 996</td>
+<td>56 617</td>
+<td>58 972</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2347&lang=0" target="_blank" class="job">Водитель автомобиля 4 разряда</a></td>
+<td>21 020</td>
+<td>26 740</td>
+<td>32 191</td>
+<td>34 750</td>
+<td>39 928</td>
+<td>41 910</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2348&lang=0" target="_blank" class="job">Водитель автомобиля 5 разряда</a></td>
+<td>24 970</td>
+<td>27 588</td>
+<td>30 481</td>
+<td>31 725</td>
+<td>33 894</td>
+<td>37 576</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2349&lang=0" target="_blank" class="job">Водитель автомобиля 6 разряда</a></td>
+<td>23 550</td>
+<td>26 047</td>
+<td>28 558</td>
+<td>29 750</td>
+<td>31 489</td>
+<td>34 546</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1479&lang=0" target="_blank" class="job">Менеджер по транспортной логистике</a></td>
+<td>25 000</td>
+<td>29 000</td>
+<td>39 031</td>
+<td>38 900</td>
+<td>51 797</td>
+<td>55 600</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>29 383</td>
+<td>30 011</td>
+<td>33 073</td>
+<td>31 968</td>
+<td>36 211</td>
+<td>40 782</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>22 582</td>
+<td>25 000</td>
+<td>27 019</td>
+<td>28 000</td>
+<td>30 000</td>
+<td>32 901</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>68 440</td>
+<td>87 920</td>
+<td>214 443</td>
+<td>146 000</td>
+<td>272 479</td>
+<td>473 157</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>40 000</td>
+<td>41 789</td>
+<td>86 457</td>
+<td>70 374</td>
+<td>115 237</td>
+<td>154 720</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td>50 000</td>
+<td>66 462</td>
+<td>107 013</td>
+<td>89 127</td>
+<td>146 712</td>
+<td>179 066</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1748&lang=0" target="_blank" class="job">Начальник отдела рекламы</a></td>
+<td>48 000</td>
+<td>57 080</td>
+<td>71 590</td>
+<td>73 121</td>
+<td>85 674</td>
+<td>99 645</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1379&lang=0" target="_blank" class="job">Продакт-менеджер</a></td>
+<td>26 400</td>
+<td>40 000</td>
+<td>71 037</td>
+<td>55 000</td>
+<td>81 196</td>
+<td>125 615</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1269&lang=0" target="_blank" class="job">Специалист по PR</a></td>
+<td>21 890</td>
+<td>31 030</td>
+<td>47 776</td>
+<td>44 000</td>
+<td>54 359</td>
+<td>73 195</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>26 890</td>
+<td>32 048</td>
+<td>51 974</td>
+<td>36 275</td>
+<td>69 710</td>
+<td>107 363</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1943&lang=0" target="_blank" class="job">Специалист по рекламе</a></td>
+<td>25 000</td>
+<td>28 586</td>
+<td>47 837</td>
+<td>43 342</td>
+<td>65 246</td>
+<td>78 543</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>20 000</td>
+<td>22 232</td>
+<td>31 598</td>
+<td>25 000</td>
+<td>42 994</td>
+<td>46 707</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>17 675</td>
+<td>29 878</td>
+<td>57 845</td>
+<td>51 118</td>
+<td>66 065</td>
+<td>102 918</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2646&lang=0" target="_blank" class="job">Менеджер розничной сети</a></td>
+<td>39 390</td>
+<td>47 011</td>
+<td>55 765</td>
+<td>56 996</td>
+<td>70 257</td>
+<td>73 553</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2347&lang=0" target="_blank" class="job">Водитель автомобиля 4 разряда</a></td>
+<td>21 574</td>
+<td>30 240</td>
+<td>38 837</td>
+<td>41 736</td>
+<td>49 363</td>
+<td>53 041</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2348&lang=0" target="_blank" class="job">Водитель автомобиля 5 разряда</a></td>
+<td>24 970</td>
+<td>28 971</td>
+<td>34 354</td>
+<td>35 959</td>
+<td>39 894</td>
+<td>44 619</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2349&lang=0" target="_blank" class="job">Водитель автомобиля 6 разряда</a></td>
+<td>23 550</td>
+<td>26 220</td>
+<td>30 622</td>
+<td>32 557</td>
+<td>34 489</td>
+<td>38 063</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1479&lang=0" target="_blank" class="job">Менеджер по транспортной логистике</a></td>
+<td>25 000</td>
+<td>29 000</td>
+<td>45 500</td>
+<td>39 400</td>
+<td>62 474</td>
+<td>73 329</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>29 383</td>
+<td>31 092</td>
+<td>54 388</td>
+<td>50 435</td>
+<td>69 550</td>
+<td>82 676</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>23 450</td>
+<td>31 625</td>
+<td>37 431</td>
+<td>37 944</td>
+<td>44 782</td>
+<td>51 040</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 04.12.2014)</p>
+</div>

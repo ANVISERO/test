@@ -1,0 +1,768 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>20 000</td>
+<td>25 000</td>
+<td>30 479</td>
+<td>30 000</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2864&lang=0" target="_blank" class="job">Бариста</a></td>
+<td>21 800</td>
+<td>25 500</td>
+<td>29 154</td>
+<td>28 000</td>
+<td>30 000</td>
+<td>38 240</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>20 950</td>
+<td>23 250</td>
+<td>27 774</td>
+<td>26 500</td>
+<td>30 000</td>
+<td>37 333</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1277&lang=0" target="_blank" class="job">Гардеробщик</a></td>
+<td>13 900</td>
+<td>15 500</td>
+<td>17 459</td>
+<td>18 000</td>
+<td>19 000</td>
+<td>20 639</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1284&lang=0" target="_blank" class="job">Гладильщик</a></td>
+<td>18 800</td>
+<td>20 500</td>
+<td>20 995</td>
+<td>22 000</td>
+<td>22 000</td>
+<td>22 386</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1279&lang=0" target="_blank" class="job">Горничная</a></td>
+<td>18 950</td>
+<td>22 150</td>
+<td>23 956</td>
+<td>24 550</td>
+<td>27 000</td>
+<td>27 210</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1275&lang=0" target="_blank" class="job">Директор кафе</a></td>
+<td>45 424</td>
+<td>46 900</td>
+<td>55 088</td>
+<td>50 000</td>
+<td>62 475</td>
+<td>69 900</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2210&lang=0" target="_blank" class="job">Директор ресторана</a></td>
+<td>50 000</td>
+<td>50 000</td>
+<td>82 785</td>
+<td>70 000</td>
+<td>100 000</td>
+<td>138 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>58 300</td>
+<td>65 750</td>
+<td>88 921</td>
+<td>80 500</td>
+<td>103 750</td>
+<td>134 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>22 650</td>
+<td>23 500</td>
+<td>28 300</td>
+<td>25 000</td>
+<td>30 400</td>
+<td>38 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2207&lang=0" target="_blank" class="job">Кастелянша</a></td>
+<td>13 000</td>
+<td>14 250</td>
+<td>19 290</td>
+<td>19 700</td>
+<td>24 375</td>
+<td>25 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1280&lang=0" target="_blank" class="job">Консьерж</a></td>
+<td>14 400</td>
+<td>15 200</td>
+<td>18 744</td>
+<td>16 300</td>
+<td>20 000</td>
+<td>26 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>29 900</td>
+<td>31 625</td>
+<td>37 910</td>
+<td>35 700</td>
+<td>40 000</td>
+<td>51 280</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1281&lang=0" target="_blank" class="job">Метрдотель</a></td>
+<td>26 300</td>
+<td>28 000</td>
+<td>30 929</td>
+<td>30 600</td>
+<td>34 000</td>
+<td>34 950</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>12 720</td>
+<td>15 050</td>
+<td>17 060</td>
+<td>17 000</td>
+<td>19 000</td>
+<td>20 927</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>18 500</td>
+<td>20 375</td>
+<td>27 625</td>
+<td>25 000</td>
+<td>31 700</td>
+<td>42 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2054&lang=0" target="_blank" class="job">Парикмахер</a></td>
+<td>20 300</td>
+<td>27 500</td>
+<td>31 972</td>
+<td>33 440</td>
+<td>35 000</td>
+<td>40 980</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>26 300</td>
+<td>28 500</td>
+<td>30 280</td>
+<td>30 000</td>
+<td>32 175</td>
+<td>33 990</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1942&lang=0" target="_blank" class="job">Повар мясного цеха</a></td>
+<td>24 100</td>
+<td>26 500</td>
+<td>31 077</td>
+<td>31 000</td>
+<td>34 500</td>
+<td>39 180</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>23 500</td>
+<td>26 735</td>
+<td>28 462</td>
+<td>27 750</td>
+<td>30 875</td>
+<td>33 295</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>23 300</td>
+<td>24 250</td>
+<td>29 357</td>
+<td>28 000</td>
+<td>34 250</td>
+<td>37 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2201&lang=0" target="_blank" class="job">Повар японской кухни</a></td>
+<td>21 000</td>
+<td>28 000</td>
+<td>32 527</td>
+<td>32 000</td>
+<td>37 800</td>
+<td>43 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>17 440</td>
+<td>19 250</td>
+<td>21 943</td>
+<td>21 800</td>
+<td>23 600</td>
+<td>26 980</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1941&lang=0" target="_blank" class="job">Помощник управляющего</a></td>
+<td>26 480</td>
+<td>30 000</td>
+<td>35 615</td>
+<td>35 600</td>
+<td>40 200</td>
+<td>44 040</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1282&lang=0" target="_blank" class="job">Портье</a></td>
+<td>18 200</td>
+<td>19 800</td>
+<td>22 958</td>
+<td>23 000</td>
+<td>25 150</td>
+<td>28 834</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>17 760</td>
+<td>20 000</td>
+<td>21 359</td>
+<td>20 480</td>
+<td>25 000</td>
+<td>25 444</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2200&lang=0" target="_blank" class="job">Работник ресторана</a></td>
+<td>16 600</td>
+<td>20 000</td>
+<td>23 311</td>
+<td>25 000</td>
+<td>25 300</td>
+<td>30 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>30 000</td>
+<td>32 000</td>
+<td>40 242</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>51 800</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>35 680</td>
+<td>37 000</td>
+<td>42 898</td>
+<td>40 600</td>
+<td>45 800</td>
+<td>53 608</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2196&lang=0" target="_blank" class="job">Тестовод</a></td>
+<td>26 700</td>
+<td>28 800</td>
+<td>30 204</td>
+<td>30 500</td>
+<td>32 000</td>
+<td>33 160</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2169&lang=0" target="_blank" class="job">Управляющий гостиницей</a></td>
+<td>40 800</td>
+<td>42 400</td>
+<td>62 642</td>
+<td>46 620</td>
+<td>89 470</td>
+<td>100 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>38 000</td>
+<td>40 150</td>
+<td>46 955</td>
+<td>50 000</td>
+<td>50 100</td>
+<td>60 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1934&lang=0" target="_blank" class="job">Формовщик</a></td>
+<td>21 650</td>
+<td>23 000</td>
+<td>26 259</td>
+<td>25 500</td>
+<td>29 250</td>
+<td>32 130</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1283&lang=0" target="_blank" class="job">Швейцар</a></td>
+<td>15 760</td>
+<td>19 000</td>
+<td>20 011</td>
+<td>20 300</td>
+<td>21 000</td>
+<td>23 600</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>38 860</td>
+<td>45 000</td>
+<td>56 457</td>
+<td>50 800</td>
+<td>70 500</td>
+<td>78 128</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1490&lang=0" target="_blank" class="job">Администратор зала</a></td>
+<td>25 000</td>
+<td>31 781</td>
+<td>36 574</td>
+<td>36 415</td>
+<td>41 313</td>
+<td>51 294</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2864&lang=0" target="_blank" class="job">Бариста</a></td>
+<td>24 200</td>
+<td>28 700</td>
+<td>31 877</td>
+<td>32 600</td>
+<td>35 200</td>
+<td>39 440</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1378&lang=0" target="_blank" class="job">Бармен</a></td>
+<td>23 060</td>
+<td>26 446</td>
+<td>29 980</td>
+<td>29 250</td>
+<td>32 550</td>
+<td>37 783</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1277&lang=0" target="_blank" class="job">Гардеробщик</a></td>
+<td>17 096</td>
+<td>19 125</td>
+<td>20 000</td>
+<td>20 070</td>
+<td>21 875</td>
+<td>22 726</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1284&lang=0" target="_blank" class="job">Гладильщик</a></td>
+<td>20 540</td>
+<td>23 450</td>
+<td>24 025</td>
+<td>25 000</td>
+<td>26 106</td>
+<td>26 553</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1279&lang=0" target="_blank" class="job">Горничная</a></td>
+<td>20 780</td>
+<td>22 948</td>
+<td>25 314</td>
+<td>26 000</td>
+<td>27 701</td>
+<td>29 210</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1275&lang=0" target="_blank" class="job">Директор кафе</a></td>
+<td>47 829</td>
+<td>51 375</td>
+<td>61 729</td>
+<td>58 750</td>
+<td>70 375</td>
+<td>82 323</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2210&lang=0" target="_blank" class="job">Директор ресторана</a></td>
+<td>103 600</td>
+<td>131 000</td>
+<td>161 972</td>
+<td>156 000</td>
+<td>172 720</td>
+<td>239 080</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>71 827</td>
+<td>88 800</td>
+<td>127 274</td>
+<td>112 500</td>
+<td>158 908</td>
+<td>193 208</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1305&lang=0" target="_blank" class="job">Кассир</a></td>
+<td>22 650</td>
+<td>24 670</td>
+<td>30 508</td>
+<td>27 659</td>
+<td>35 310</td>
+<td>40 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2207&lang=0" target="_blank" class="job">Кастелянша</a></td>
+<td>13 990</td>
+<td>14 640</td>
+<td>20 148</td>
+<td>20 660</td>
+<td>25 000</td>
+<td>25 730</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1280&lang=0" target="_blank" class="job">Консьерж</a></td>
+<td>16 220</td>
+<td>17 200</td>
+<td>20 619</td>
+<td>20 000</td>
+<td>24 500</td>
+<td>26 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1393&lang=0" target="_blank" class="job">Менеджер по сервису</a></td>
+<td>31 160</td>
+<td>32 575</td>
+<td>42 170</td>
+<td>40 100</td>
+<td>46 875</td>
+<td>59 410</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1281&lang=0" target="_blank" class="job">Метрдотель</a></td>
+<td>29 600</td>
+<td>31 000</td>
+<td>34 388</td>
+<td>34 600</td>
+<td>37 350</td>
+<td>40 033</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1356&lang=0" target="_blank" class="job">Носильщик</a></td>
+<td>18 120</td>
+<td>18 350</td>
+<td>21 772</td>
+<td>20 000</td>
+<td>23 748</td>
+<td>27 526</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1278&lang=0" target="_blank" class="job">Официант</a></td>
+<td>24 800</td>
+<td>29 950</td>
+<td>40 759</td>
+<td>34 000</td>
+<td>49 325</td>
+<td>68 350</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2054&lang=0" target="_blank" class="job">Парикмахер</a></td>
+<td>28 300</td>
+<td>32 750</td>
+<td>43 817</td>
+<td>43 000</td>
+<td>52 500</td>
+<td>63 404</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1935&lang=0" target="_blank" class="job">Повар горячего цеха</a></td>
+<td>30 936</td>
+<td>32 125</td>
+<td>34 470</td>
+<td>34 501</td>
+<td>36 325</td>
+<td>38 530</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1942&lang=0" target="_blank" class="job">Повар мясного цеха</a></td>
+<td>29 780</td>
+<td>32 950</td>
+<td>36 924</td>
+<td>36 000</td>
+<td>37 400</td>
+<td>50 288</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>28 332</td>
+<td>31 355</td>
+<td>35 393</td>
+<td>34 700</td>
+<td>37 979</td>
+<td>43 570</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1932&lang=0" target="_blank" class="job">Повар холодного цеха</a></td>
+<td>26 190</td>
+<td>27 688</td>
+<td>34 176</td>
+<td>33 200</td>
+<td>39 550</td>
+<td>42 642</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2201&lang=0" target="_blank" class="job">Повар японской кухни</a></td>
+<td>23 500</td>
+<td>31 535</td>
+<td>38 645</td>
+<td>37 000</td>
+<td>45 400</td>
+<td>55 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1933&lang=0" target="_blank" class="job">Помощник повара</a></td>
+<td>18 000</td>
+<td>20 000</td>
+<td>25 001</td>
+<td>23 350</td>
+<td>26 950</td>
+<td>36 352</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1941&lang=0" target="_blank" class="job">Помощник управляющего</a></td>
+<td>26 660</td>
+<td>32 100</td>
+<td>37 721</td>
+<td>37 600</td>
+<td>46 500</td>
+<td>46 982</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1282&lang=0" target="_blank" class="job">Портье</a></td>
+<td>19 600</td>
+<td>22 500</td>
+<td>25 918</td>
+<td>24 800</td>
+<td>29 281</td>
+<td>33 900</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>18 560</td>
+<td>20 060</td>
+<td>22 132</td>
+<td>20 650</td>
+<td>25 800</td>
+<td>27 436</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2200&lang=0" target="_blank" class="job">Работник ресторана</a></td>
+<td>20 240</td>
+<td>25 300</td>
+<td>28 143</td>
+<td>26 560</td>
+<td>32 000</td>
+<td>35 420</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>31 736</td>
+<td>35 000</td>
+<td>47 698</td>
+<td>46 500</td>
+<td>55 918</td>
+<td>69 240</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1491&lang=0" target="_blank" class="job">Су Шеф</a></td>
+<td>38 580</td>
+<td>40 200</td>
+<td>45 584</td>
+<td>42 400</td>
+<td>48 100</td>
+<td>56 840</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2196&lang=0" target="_blank" class="job">Тестовод</a></td>
+<td>27 520</td>
+<td>28 800</td>
+<td>34 855</td>
+<td>32 900</td>
+<td>39 300</td>
+<td>45 760</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2169&lang=0" target="_blank" class="job">Управляющий гостиницей</a></td>
+<td>52 400</td>
+<td>55 350</td>
+<td>79 678</td>
+<td>70 200</td>
+<td>91 850</td>
+<td>132 800</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1937&lang=0" target="_blank" class="job">Управляющий рестораном/кафе</a></td>
+<td>50 000</td>
+<td>51 475</td>
+<td>55 600</td>
+<td>56 400</td>
+<td>59 000</td>
+<td>62 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1934&lang=0" target="_blank" class="job">Формовщик</a></td>
+<td>23 870</td>
+<td>26 250</td>
+<td>29 284</td>
+<td>28 650</td>
+<td>32 175</td>
+<td>32 924</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1283&lang=0" target="_blank" class="job">Швейцар</a></td>
+<td>15 760</td>
+<td>20 000</td>
+<td>21 058</td>
+<td>21 840</td>
+<td>22 710</td>
+<td>24 920</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1327&lang=0" target="_blank" class="job">Шеф-повар</a></td>
+<td>40 840</td>
+<td>51 750</td>
+<td>68 929</td>
+<td>60 000</td>
+<td>70 640</td>
+<td>116 330</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.08.2016)</p>
+</div>

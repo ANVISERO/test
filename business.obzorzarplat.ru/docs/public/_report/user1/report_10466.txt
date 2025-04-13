@@ -1,0 +1,468 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2361&lang=0" target="_blank" class="job">Начальник отдела по связям с общественностью</a></td>
+<td>53 832</td>
+<td>57 000</td>
+<td>65 939</td>
+<td>68 966</td>
+<td>77 586</td>
+<td>82 897</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2357&lang=0" target="_blank" class="job">Директор производственной базы</a></td>
+<td>113 343</td>
+<td>121 408</td>
+<td>139 019</td>
+<td>145 879</td>
+<td>162 529</td>
+<td>173 575</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2358&lang=0" target="_blank" class="job">Заместитель генерального директора по безопасности</a></td>
+<td>66 881</td>
+<td>70 690</td>
+<td>81 923</td>
+<td>75 186</td>
+<td>97 658</td>
+<td>114 943</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2377&lang=0" target="_blank" class="job">Заместитель директора по производству</a></td>
+<td>68 495</td>
+<td>85 249</td>
+<td>99 235</td>
+<td>98 506</td>
+<td>117 439</td>
+<td>144 441</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2360&lang=0" target="_blank" class="job">Заместитель начальника строительства объекта</a></td>
+<td>54 223</td>
+<td>82 724</td>
+<td>94 233</td>
+<td>103 448</td>
+<td>112 787</td>
+<td>117 807</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2362&lang=0" target="_blank" class="job">Начальник отдела снабжения управления механизации</a></td>
+<td>54 677</td>
+<td>55 511</td>
+<td>68 496</td>
+<td>70 374</td>
+<td>82 871</td>
+<td>91 345</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2363&lang=0" target="_blank" class="job">Начальник отдела субподрядных работ</a></td>
+<td>71 264</td>
+<td>79 820</td>
+<td>86 639</td>
+<td>89 448</td>
+<td>96 456</td>
+<td>107 567</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>75 064</td>
+<td>82 583</td>
+<td>91 258</td>
+<td>89 787</td>
+<td>106 185</td>
+<td>114 888</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2365&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО) управления механизации</a></td>
+<td>53 117</td>
+<td>62 852</td>
+<td>73 021</td>
+<td>78 014</td>
+<td>85 987</td>
+<td>92 947</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2366&lang=0" target="_blank" class="job">Начальник ремонтной службы управления механизации</a></td>
+<td>54 598</td>
+<td>61 120</td>
+<td>71 147</td>
+<td>74 172</td>
+<td>85 172</td>
+<td>89 444</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2367&lang=0" target="_blank" class="job">Начальник службы технического контроля управления механизации</a></td>
+<td>50 722</td>
+<td>62 840</td>
+<td>74 105</td>
+<td>79 793</td>
+<td>90 230</td>
+<td>92 800</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2368&lang=0" target="_blank" class="job">Начальник службы эксплуатации управления механизации</a></td>
+<td>48 281</td>
+<td>60 594</td>
+<td>72 080</td>
+<td>74 617</td>
+<td>89 881</td>
+<td>93 626</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2369&lang=0" target="_blank" class="job">Начальник строительства объекта</a></td>
+<td>55 517</td>
+<td>73 242</td>
+<td>91 726</td>
+<td>95 977</td>
+<td>114 953</td>
+<td>135 169</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2370&lang=0" target="_blank" class="job">Начальник управления механизации</a></td>
+<td>54 023</td>
+<td>73 673</td>
+<td>85 759</td>
+<td>91 954</td>
+<td>105 631</td>
+<td>114 943</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2371&lang=0" target="_blank" class="job">Начальник участка вспомогательных строительных машин</a></td>
+<td>37 776</td>
+<td>64 087</td>
+<td>77 896</td>
+<td>87 115</td>
+<td>98 690</td>
+<td>106 347</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2372&lang=0" target="_blank" class="job">Начальник участка грузоподъемных машин</a></td>
+<td>51 724</td>
+<td>57 827</td>
+<td>69 538</td>
+<td>67 540</td>
+<td>88 538</td>
+<td>91 954</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2373&lang=0" target="_blank" class="job">Начальник участка сваебойных и буровых машин</a></td>
+<td>59 694</td>
+<td>74 713</td>
+<td>84 510</td>
+<td>91 954</td>
+<td>97 701</td>
+<td>111 246</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2375&lang=0" target="_blank" class="job">Руководитель проекта по субподрядным работам</a></td>
+<td>87 075</td>
+<td>94 674</td>
+<td>106 302</td>
+<td>107 759</td>
+<td>126 437</td>
+<td>132 573</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2376&lang=0" target="_blank" class="job">Советник генерального директора по производственно-техническим вопросам</a></td>
+<td>125 034</td>
+<td>168 987</td>
+<td>191 871</td>
+<td>195 517</td>
+<td>233 513</td>
+<td>258 698</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>56 109</td>
+<td>68 825</td>
+<td>80 116</td>
+<td>83 057</td>
+<td>99 670</td>
+<td>102 729</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2361&lang=0" target="_blank" class="job">Начальник отдела по связям с общественностью</a></td>
+<td>57 696</td>
+<td>65 743</td>
+<td>80 585</td>
+<td>83 544</td>
+<td>96 718</td>
+<td>107 185</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2357&lang=0" target="_blank" class="job">Директор производственной базы</a></td>
+<td>136 332</td>
+<td>151 755</td>
+<td>179 311</td>
+<td>188 287</td>
+<td>213 916</td>
+<td>233 303</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2358&lang=0" target="_blank" class="job">Заместитель генерального директора по безопасности</a></td>
+<td>73 761</td>
+<td>82 554</td>
+<td>107 999</td>
+<td>98 685</td>
+<td>131 722</td>
+<td>158 187</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2377&lang=0" target="_blank" class="job">Заместитель директора по производству</a></td>
+<td>85 507</td>
+<td>105 396</td>
+<td>127 530</td>
+<td>129 884</td>
+<td>152 237</td>
+<td>186 952</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2360&lang=0" target="_blank" class="job">Заместитель начальника строительства объекта</a></td>
+<td>63 308</td>
+<td>105 712</td>
+<td>123 152</td>
+<td>133 190</td>
+<td>148 961</td>
+<td>164 432</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2362&lang=0" target="_blank" class="job">Начальник отдела снабжения управления механизации</a></td>
+<td>65 174</td>
+<td>67 795</td>
+<td>85 362</td>
+<td>85 054</td>
+<td>102 154</td>
+<td>116 199</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2363&lang=0" target="_blank" class="job">Начальник отдела субподрядных работ</a></td>
+<td>91 445</td>
+<td>101 316</td>
+<td>115 473</td>
+<td>114 367</td>
+<td>134 363</td>
+<td>153 266</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2364&lang=0" target="_blank" class="job">Начальник проектно-конструкторского отдела</a></td>
+<td>82 213</td>
+<td>102 534</td>
+<td>116 826</td>
+<td>114 170</td>
+<td>140 814</td>
+<td>156 110</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2365&lang=0" target="_blank" class="job">Начальник производственно-технического отдела (ПТО) управления механизации</a></td>
+<td>61 688</td>
+<td>74 093</td>
+<td>87 242</td>
+<td>91 060</td>
+<td>103 955</td>
+<td>113 959</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2366&lang=0" target="_blank" class="job">Начальник ремонтной службы управления механизации</a></td>
+<td>65 724</td>
+<td>73 177</td>
+<td>92 400</td>
+<td>93 337</td>
+<td>114 497</td>
+<td>123 926</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2367&lang=0" target="_blank" class="job">Начальник службы технического контроля управления механизации</a></td>
+<td>57 586</td>
+<td>74 697</td>
+<td>89 760</td>
+<td>93 586</td>
+<td>108 128</td>
+<td>115 870</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2368&lang=0" target="_blank" class="job">Начальник службы эксплуатации управления механизации</a></td>
+<td>59 161</td>
+<td>78 446</td>
+<td>94 425</td>
+<td>96 416</td>
+<td>117 244</td>
+<td>127 968</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2369&lang=0" target="_blank" class="job">Начальник строительства объекта</a></td>
+<td>68 161</td>
+<td>100 199</td>
+<td>126 467</td>
+<td>132 497</td>
+<td>160 930</td>
+<td>186 606</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2370&lang=0" target="_blank" class="job">Начальник управления механизации</a></td>
+<td>66 092</td>
+<td>91 316</td>
+<td>109 354</td>
+<td>113 231</td>
+<td>133 554</td>
+<td>150 391</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2371&lang=0" target="_blank" class="job">Начальник участка вспомогательных строительных машин</a></td>
+<td>37 776</td>
+<td>73 911</td>
+<td>109 230</td>
+<td>124 179</td>
+<td>144 302</td>
+<td>160 035</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2372&lang=0" target="_blank" class="job">Начальник участка грузоподъемных машин</a></td>
+<td>62 323</td>
+<td>70 803</td>
+<td>88 156</td>
+<td>84 329</td>
+<td>110 571</td>
+<td>119 925</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2373&lang=0" target="_blank" class="job">Начальник участка сваебойных и буровых машин</a></td>
+<td>65 145</td>
+<td>81 725</td>
+<td>92 226</td>
+<td>100 000</td>
+<td>106 330</td>
+<td>121 403</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2375&lang=0" target="_blank" class="job">Руководитель проекта по субподрядным работам</a></td>
+<td>105 523</td>
+<td>125 924</td>
+<td>145 712</td>
+<td>142 718</td>
+<td>177 282</td>
+<td>191 225</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2376&lang=0" target="_blank" class="job">Советник генерального директора по производственно-техническим вопросам</a></td>
+<td>162 794</td>
+<td>228 093</td>
+<td>268 620</td>
+<td>273 724</td>
+<td>335 568</td>
+<td>374 206</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>66 494</td>
+<td>82 419</td>
+<td>100 675</td>
+<td>101 597</td>
+<td>127 335</td>
+<td>133 618</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.12.2013)</p>
+</div>

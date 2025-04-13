@@ -1,0 +1,428 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>25 747</td>
+<td>25 747</td>
+<td>32 277</td>
+<td>34 598</td>
+<td>37 011</td>
+<td>39 309</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>25 287</td>
+<td>27 011</td>
+<td>31 046</td>
+<td>29 649</td>
+<td>35 570</td>
+<td>39 310</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам</a></td>
+<td>33 592</td>
+<td>36 560</td>
+<td>40 109</td>
+<td>40 460</td>
+<td>42 660</td>
+<td>46 276</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>25 227</td>
+<td>26 071</td>
+<td>29 066</td>
+<td>29 560</td>
+<td>31 710</td>
+<td>32 851</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>22 031</td>
+<td>23 425</td>
+<td>25 998</td>
+<td>25 632</td>
+<td>27 931</td>
+<td>29 679</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>60 221</td>
+<td>62 478</td>
+<td>70 658</td>
+<td>69 195</td>
+<td>78 070</td>
+<td>84 337</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1413&lang=0" target="_blank" class="job">Главный метролог</a></td>
+<td>37 793</td>
+<td>40 069</td>
+<td>45 499</td>
+<td>45 977</td>
+<td>49 310</td>
+<td>53 241</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>49 624</td>
+<td>53 148</td>
+<td>59 252</td>
+<td>59 770</td>
+<td>63 882</td>
+<td>68 362</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>16 363</td>
+<td>20 920</td>
+<td>25 827</td>
+<td>26 783</td>
+<td>30 597</td>
+<td>32 206</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>12 076</td>
+<td>14 072</td>
+<td>20 112</td>
+<td>17 224</td>
+<td>22 644</td>
+<td>29 885</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>33 069</td>
+<td>35 060</td>
+<td>39 811</td>
+<td>40 230</td>
+<td>43 147</td>
+<td>46 586</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1786&lang=0" target="_blank" class="job">Начальник конструкторского бюро</a></td>
+<td>42 715</td>
+<td>50 142</td>
+<td>53 882</td>
+<td>56 897</td>
+<td>57 480</td>
+<td>65 778</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td>69 941</td>
+<td>74 153</td>
+<td>84 202</td>
+<td>85 086</td>
+<td>91 255</td>
+<td>98 530</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1269&lang=0" target="_blank" class="job">Специалист по PR</a></td>
+<td>29 779</td>
+<td>32 725</td>
+<td>37 395</td>
+<td>40 460</td>
+<td>40 460</td>
+<td>40 460</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>19 828</td>
+<td>29 470</td>
+<td>38 149</td>
+<td>34 483</td>
+<td>40 931</td>
+<td>46 298</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1917&lang=0" target="_blank" class="job">Вахтер</a></td>
+<td>5 754</td>
+<td>6 061</td>
+<td>6 598</td>
+<td>6 649</td>
+<td>7 107</td>
+<td>7 254</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1538&lang=0" target="_blank" class="job">Контролер КПП</a></td>
+<td>6 556</td>
+<td>6 858</td>
+<td>10 155</td>
+<td>8 034</td>
+<td>13 793</td>
+<td>14 690</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1402&lang=0" target="_blank" class="job">Сотрудник службы безопасности</a></td>
+<td>16 540</td>
+<td>16 667</td>
+<td>21 012</td>
+<td>17 537</td>
+<td>22 905</td>
+<td>26 930</td>
+<td>3 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>33 103</td>
+<td>38 046</td>
+<td>46 398</td>
+<td>49 425</td>
+<td>53 448</td>
+<td>57 277</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>30 805</td>
+<td>37 356</td>
+<td>43 624</td>
+<td>41 384</td>
+<td>52 825</td>
+<td>54 023</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1831&lang=0" target="_blank" class="job">Ведущий инженер-конструктор по расчетам</a></td>
+<td>44 948</td>
+<td>48 920</td>
+<td>53 669</td>
+<td>54 138</td>
+<td>57 082</td>
+<td>61 920</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1905&lang=0" target="_blank" class="job">Ведущий инженер-проектировщик</a></td>
+<td>46 792</td>
+<td>46 933</td>
+<td>47 071</td>
+<td>47 098</td>
+<td>47 251</td>
+<td>47 383</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>32 989</td>
+<td>37 471</td>
+<td>39 566</td>
+<td>41 159</td>
+<td>41 335</td>
+<td>42 129</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>76 724</td>
+<td>81 678</td>
+<td>94 754</td>
+<td>86 552</td>
+<td>105 686</td>
+<td>120 426</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1413&lang=0" target="_blank" class="job">Главный метролог</a></td>
+<td>45 730</td>
+<td>48 483</td>
+<td>55 054</td>
+<td>55 632</td>
+<td>59 666</td>
+<td>64 422</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1323&lang=0" target="_blank" class="job">Главный технолог</a></td>
+<td>69 617</td>
+<td>74 922</td>
+<td>83 124</td>
+<td>83 851</td>
+<td>89 258</td>
+<td>95 904</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>25 017</td>
+<td>32 778</td>
+<td>40 285</td>
+<td>46 564</td>
+<td>46 800</td>
+<td>46 969</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>19 875</td>
+<td>23 459</td>
+<td>30 477</td>
+<td>25 970</td>
+<td>32 460</td>
+<td>40 762</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1968&lang=0" target="_blank" class="job">Начальник группы</a></td>
+<td>47 241</td>
+<td>50 086</td>
+<td>56 874</td>
+<td>57 471</td>
+<td>61 638</td>
+<td>66 552</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1786&lang=0" target="_blank" class="job">Начальник конструкторского бюро</a></td>
+<td>52 457</td>
+<td>57 126</td>
+<td>66 172</td>
+<td>59 310</td>
+<td>75 172</td>
+<td>80 781</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td>83 499</td>
+<td>88 528</td>
+<td>100 524</td>
+<td>101 581</td>
+<td>108 945</td>
+<td>117 630</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1269&lang=0" target="_blank" class="job">Специалист по PR</a></td>
+<td>36 576</td>
+<td>45 937</td>
+<td>48 136</td>
+<td>50 575</td>
+<td>50 575</td>
+<td>53 839</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>25 460</td>
+<td>32 184</td>
+<td>45 298</td>
+<td>39 615</td>
+<td>48 916</td>
+<td>55 206</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1917&lang=0" target="_blank" class="job">Вахтер</a></td>
+<td>9 376</td>
+<td>10 545</td>
+<td>10 564</td>
+<td>10 612</td>
+<td>10 661</td>
+<td>11 309</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1538&lang=0" target="_blank" class="job">Контролер КПП</a></td>
+<td>9 936</td>
+<td>10 550</td>
+<td>12 683</td>
+<td>10 666</td>
+<td>13 793</td>
+<td>16 868</td>
+<td>3 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1402&lang=0" target="_blank" class="job">Сотрудник службы безопасности</a></td>
+<td>33 101</td>
+<td>34 772</td>
+<td>38 145</td>
+<td>37 586</td>
+<td>40 426</td>
+<td>46 038</td>
+<td>3 квартал 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 07.09.2011)</p>
+</div>

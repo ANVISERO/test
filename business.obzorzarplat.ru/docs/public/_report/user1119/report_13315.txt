@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>30 000</td>
+<td>34 845</td>
+<td>42 569</td>
+<td>43 367</td>
+<td>50 270</td>
+<td>57 471</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2283&lang=0" target="_blank" class="job">Менеджер по международным перевозкам</a></td>
+<td>25 000</td>
+<td>27 051</td>
+<td>33 313</td>
+<td>35 000</td>
+<td>41 657</td>
+<td>45 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1253&lang=0" target="_blank" class="job">Начальник отдела закупок</a></td>
+<td>43 000</td>
+<td>50 000</td>
+<td>75 624</td>
+<td>63 700</td>
+<td>80 000</td>
+<td>145 700</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>38 500</td>
+<td>39 000</td>
+<td>49 524</td>
+<td>40 000</td>
+<td>54 065</td>
+<td>87 500</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>50 000</td>
+<td>74 614</td>
+<td>94 292</td>
+<td>82 058</td>
+<td>108 442</td>
+<td>154 361</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>28 400</td>
+<td>32 586</td>
+<td>37 452</td>
+<td>40 000</td>
+<td>41 726</td>
+<td>45 997</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>24 150</td>
+<td>28 036</td>
+<td>32 240</td>
+<td>30 197</td>
+<td>35 326</td>
+<td>40 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>28 208</td>
+<td>39 541</td>
+<td>42 983</td>
+<td>45 277</td>
+<td>49 750</td>
+<td>52 121</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>48 057</td>
+<td>61 827</td>
+<td>68 035</td>
+<td>65 488</td>
+<td>84 000</td>
+<td>89 559</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>30 357</td>
+<td>35 109</td>
+<td>39 142</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>48 558</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>22 784</td>
+<td>25 000</td>
+<td>27 483</td>
+<td>30 000</td>
+<td>30 336</td>
+<td>33 694</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>24 150</td>
+<td>28 036</td>
+<td>32 240</td>
+<td>30 197</td>
+<td>35 326</td>
+<td>40 000</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>30 000</td>
+<td>36 823</td>
+<td>54 267</td>
+<td>52 845</td>
+<td>70 331</td>
+<td>85 139</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2283&lang=0" target="_blank" class="job">Менеджер по международным перевозкам</a></td>
+<td>27 940</td>
+<td>32 051</td>
+<td>42 707</td>
+<td>44 151</td>
+<td>54 415</td>
+<td>60 197</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1253&lang=0" target="_blank" class="job">Начальник отдела закупок</a></td>
+<td>43 000</td>
+<td>57 064</td>
+<td>102 414</td>
+<td>81 700</td>
+<td>118 188</td>
+<td>213 085</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>38 500</td>
+<td>39 000</td>
+<td>61 310</td>
+<td>40 000</td>
+<td>77 109</td>
+<td>118 929</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>53 391</td>
+<td>87 589</td>
+<td>129 711</td>
+<td>104 753</td>
+<td>163 504</td>
+<td>232 450</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>28 400</td>
+<td>32 586</td>
+<td>45 548</td>
+<td>48 000</td>
+<td>55 739</td>
+<td>64 947</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>24 150</td>
+<td>28 036</td>
+<td>45 425</td>
+<td>38 877</td>
+<td>60 476</td>
+<td>72 623</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>28 208</td>
+<td>39 541</td>
+<td>46 798</td>
+<td>45 277</td>
+<td>58 786</td>
+<td>62 988</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>48 057</td>
+<td>66 505</td>
+<td>82 955</td>
+<td>83 136</td>
+<td>105 718</td>
+<td>115 123</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>31 819</td>
+<td>38 109</td>
+<td>43 317</td>
+<td>44 067</td>
+<td>50 670</td>
+<td>55 179</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>24 176</td>
+<td>32 000</td>
+<td>35 848</td>
+<td>38 149</td>
+<td>41 697</td>
+<td>47 015</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>24 150</td>
+<td>28 036</td>
+<td>45 425</td>
+<td>38 877</td>
+<td>60 476</td>
+<td>72 623</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 26.09.2014)</p>
+</div>

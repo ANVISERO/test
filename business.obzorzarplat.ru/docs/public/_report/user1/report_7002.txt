@@ -1,0 +1,668 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>13 188</td>
+<td>18 111</td>
+<td>24 769</td>
+<td>20 657</td>
+<td>26 589</td>
+<td>36 782</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1784&lang=0" target="_blank" class="job">Инженер по газовому хозяйству</a></td>
+<td>37 793</td>
+<td>40 069</td>
+<td>45 499</td>
+<td>45 977</td>
+<td>49 310</td>
+<td>53 241</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>21 241</td>
+<td>22 989</td>
+<td>30 066</td>
+<td>29 074</td>
+<td>36 565</td>
+<td>39 971</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1661&lang=0" target="_blank" class="job">Инженер по комплектации</a></td>
+<td>13 875</td>
+<td>14 284</td>
+<td>16 295</td>
+<td>16 264</td>
+<td>17 578</td>
+<td>19 532</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1557&lang=0" target="_blank" class="job">Инженер по контрольно-измерительным приборам</a></td>
+<td>20 160</td>
+<td>21 159</td>
+<td>23 442</td>
+<td>24 074</td>
+<td>25 248</td>
+<td>25 960</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>25 219</td>
+<td>26 988</td>
+<td>33 044</td>
+<td>32 400</td>
+<td>39 313</td>
+<td>41 514</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1414&lang=0" target="_blank" class="job">Инженер по метрологии</a></td>
+<td>14 213</td>
+<td>15 303</td>
+<td>17 405</td>
+<td>17 739</td>
+<td>18 502</td>
+<td>21 562</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1812&lang=0" target="_blank" class="job">Инженер по механизации</a></td>
+<td>18 203</td>
+<td>19 684</td>
+<td>21 735</td>
+<td>21 925</td>
+<td>23 245</td>
+<td>25 076</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>26 301</td>
+<td>28 697</td>
+<td>35 403</td>
+<td>32 305</td>
+<td>39 349</td>
+<td>50 254</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>18 531</td>
+<td>21 149</td>
+<td>23 628</td>
+<td>23 977</td>
+<td>24 098</td>
+<td>28 736</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1702&lang=0" target="_blank" class="job">Инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>51 841</td>
+<td>60 632</td>
+<td>60 282</td>
+<td>60 632</td>
+<td>60 632</td>
+<td>66 756</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>15 139</td>
+<td>16 595</td>
+<td>23 341</td>
+<td>19 819</td>
+<td>28 326</td>
+<td>37 863</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>15 934</td>
+<td>17 413</td>
+<td>19 865</td>
+<td>20 575</td>
+<td>21 429</td>
+<td>24 341</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1365&lang=0" target="_blank" class="job">Инженер по охране окружающей среды (Эколог)</a></td>
+<td>20 450</td>
+<td>31 925</td>
+<td>41 594</td>
+<td>48 920</td>
+<td>50 242</td>
+<td>56 897</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>12 381</td>
+<td>14 515</td>
+<td>26 046</td>
+<td>20 690</td>
+<td>32 398</td>
+<td>52 138</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1832&lang=0" target="_blank" class="job">Инженер по патентной и изобретальной работе</a></td>
+<td>22 784</td>
+<td>22 989</td>
+<td>27 678</td>
+<td>24 262</td>
+<td>29 857</td>
+<td>35 749</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1482&lang=0" target="_blank" class="job">Инженер по подготовке производства</a></td>
+<td>17 126</td>
+<td>18 657</td>
+<td>20 903</td>
+<td>20 920</td>
+<td>23 009</td>
+<td>25 287</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1561&lang=0" target="_blank" class="job">Инженер по расчетам и режимам</a></td>
+<td>17 186</td>
+<td>21 712</td>
+<td>28 912</td>
+<td>31 093</td>
+<td>34 853</td>
+<td>40 230</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>13 983</td>
+<td>14 826</td>
+<td>16 835</td>
+<td>17 011</td>
+<td>18 245</td>
+<td>19 699</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>16 912</td>
+<td>22 091</td>
+<td>25 936</td>
+<td>26 822</td>
+<td>30 575</td>
+<td>32 144</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1805&lang=0" target="_blank" class="job">Инженер по ремонту электрического оборудования</a></td>
+<td>16 568</td>
+<td>17 565</td>
+<td>19 946</td>
+<td>20 155</td>
+<td>21 616</td>
+<td>23 340</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1534&lang=0" target="_blank" class="job">Инженер по согласованию</a></td>
+<td>26 161</td>
+<td>27 796</td>
+<td>45 719</td>
+<td>50 977</td>
+<td>56 897</td>
+<td>68 391</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>21 295</td>
+<td>23 215</td>
+<td>27 276</td>
+<td>27 218</td>
+<td>31 490</td>
+<td>33 648</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>16 713</td>
+<td>19 195</td>
+<td>23 224</td>
+<td>21 777</td>
+<td>25 248</td>
+<td>30 799</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1521&lang=0" target="_blank" class="job">Инженер-гидролог</a></td>
+<td>36 258</td>
+<td>39 080</td>
+<td>40 959</td>
+<td>40 230</td>
+<td>43 678</td>
+<td>44 683</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1978&lang=0" target="_blank" class="job">Инженер-гидролог 1-ой категории</a></td>
+<td>20 345</td>
+<td>22 056</td>
+<td>27 793</td>
+<td>26 552</td>
+<td>33 964</td>
+<td>36 782</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1520&lang=0" target="_blank" class="job">Инженер-гидрометеоролог</a></td>
+<td>28 673</td>
+<td>28 736</td>
+<td>35 447</td>
+<td>29 895</td>
+<td>42 024</td>
+<td>49 425</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2149&lang=0" target="_blank" class="job">Инженер-электрик</a></td>
+<td>27 437</td>
+<td>28 596</td>
+<td>32 934</td>
+<td>31 034</td>
+<td>37 908</td>
+<td>40 263</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1665&lang=0" target="_blank" class="job">Инженер-электроник </a></td>
+<td>17 850</td>
+<td>18 618</td>
+<td>22 829</td>
+<td>21 839</td>
+<td>25 504</td>
+<td>28 457</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1733&lang=0" target="_blank" class="job">Инженер-энергетик</a></td>
+<td>19 290</td>
+<td>20 321</td>
+<td>29 894</td>
+<td>23 640</td>
+<td>39 902</td>
+<td>44 934</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1556&lang=0" target="_blank" class="job">Инженер по автоматизированным системам управления производством </a></td>
+<td>23 436</td>
+<td>25 230</td>
+<td>36 470</td>
+<td>34 984</td>
+<td>44 248</td>
+<td>53 497</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1784&lang=0" target="_blank" class="job">Инженер по газовому хозяйству</a></td>
+<td>37 793</td>
+<td>40 069</td>
+<td>45 499</td>
+<td>45 977</td>
+<td>49 310</td>
+<td>53 241</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>25 931</td>
+<td>29 885</td>
+<td>43 290</td>
+<td>44 828</td>
+<td>53 593</td>
+<td>59 330</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1661&lang=0" target="_blank" class="job">Инженер по комплектации</a></td>
+<td>20 384</td>
+<td>22 907</td>
+<td>26 133</td>
+<td>27 075</td>
+<td>28 191</td>
+<td>32 158</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1557&lang=0" target="_blank" class="job">Инженер по контрольно-измерительным приборам</a></td>
+<td>30 302</td>
+<td>35 222</td>
+<td>35 236</td>
+<td>35 453</td>
+<td>35 638</td>
+<td>39 020</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>34 355</td>
+<td>37 104</td>
+<td>41 021</td>
+<td>41 379</td>
+<td>43 917</td>
+<td>47 328</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1414&lang=0" target="_blank" class="job">Инженер по метрологии</a></td>
+<td>24 954</td>
+<td>25 811</td>
+<td>26 499</td>
+<td>25 898</td>
+<td>26 626</td>
+<td>29 255</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1812&lang=0" target="_blank" class="job">Инженер по механизации</a></td>
+<td>31 457</td>
+<td>34 020</td>
+<td>37 560</td>
+<td>37 889</td>
+<td>40 166</td>
+<td>43 335</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>46 906</td>
+<td>47 010</td>
+<td>54 584</td>
+<td>47 380</td>
+<td>62 484</td>
+<td>74 343</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>27 233</td>
+<td>34 081</td>
+<td>38 912</td>
+<td>39 562</td>
+<td>41 960</td>
+<td>50 153</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1702&lang=0" target="_blank" class="job">Инженер по оборудованию средств диспетчерского и технологического управления</a></td>
+<td>51 841</td>
+<td>60 632</td>
+<td>60 282</td>
+<td>60 632</td>
+<td>60 632</td>
+<td>66 756</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>23 398</td>
+<td>25 287</td>
+<td>35 876</td>
+<td>29 538</td>
+<td>45 160</td>
+<td>59 244</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>27 307</td>
+<td>28 226</td>
+<td>35 568</td>
+<td>37 254</td>
+<td>42 178</td>
+<td>44 120</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1365&lang=0" target="_blank" class="job">Инженер по охране окружающей среды (Эколог)</a></td>
+<td>30 226</td>
+<td>36 734</td>
+<td>45 240</td>
+<td>48 920</td>
+<td>53 502</td>
+<td>56 897</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>22 251</td>
+<td>22 377</td>
+<td>32 818</td>
+<td>28 736</td>
+<td>39 277</td>
+<td>54 828</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1832&lang=0" target="_blank" class="job">Инженер по патентной и изобретальной работе</a></td>
+<td>23 795</td>
+<td>26 092</td>
+<td>30 238</td>
+<td>28 506</td>
+<td>32 619</td>
+<td>38 252</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1482&lang=0" target="_blank" class="job">Инженер по подготовке производства</a></td>
+<td>19 885</td>
+<td>22 069</td>
+<td>28 964</td>
+<td>29 655</td>
+<td>35 321</td>
+<td>35 484</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1561&lang=0" target="_blank" class="job">Инженер по расчетам и режимам</a></td>
+<td>27 463</td>
+<td>29 887</td>
+<td>34 089</td>
+<td>34 483</td>
+<td>40 170</td>
+<td>40 230</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1560&lang=0" target="_blank" class="job">Инженер по релейной защите и автоматике</a></td>
+<td>19 747</td>
+<td>20 936</td>
+<td>23 773</td>
+<td>24 023</td>
+<td>25 765</td>
+<td>27 819</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1664&lang=0" target="_blank" class="job">Инженер по ремонту</a></td>
+<td>24 813</td>
+<td>32 436</td>
+<td>40 248</td>
+<td>46 522</td>
+<td>46 804</td>
+<td>46 992</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1805&lang=0" target="_blank" class="job">Инженер по ремонту электрического оборудования</a></td>
+<td>30 649</td>
+<td>32 495</td>
+<td>36 898</td>
+<td>37 286</td>
+<td>39 989</td>
+<td>43 177</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1534&lang=0" target="_blank" class="job">Инженер по согласованию</a></td>
+<td>34 885</td>
+<td>36 351</td>
+<td>49 030</td>
+<td>52 758</td>
+<td>56 897</td>
+<td>68 391</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>30 449</td>
+<td>32 517</td>
+<td>39 955</td>
+<td>40 253</td>
+<td>44 907</td>
+<td>49 784</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>29 304</td>
+<td>29 502</td>
+<td>36 343</td>
+<td>35 472</td>
+<td>41 244</td>
+<td>42 430</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1521&lang=0" target="_blank" class="job">Инженер-гидролог</a></td>
+<td>40 230</td>
+<td>43 786</td>
+<td>50 042</td>
+<td>53 103</td>
+<td>53 103</td>
+<td>53 729</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1978&lang=0" target="_blank" class="job">Инженер-гидролог 1-ой категории</a></td>
+<td>22 740</td>
+<td>25 684</td>
+<td>29 301</td>
+<td>26 552</td>
+<td>35 808</td>
+<td>36 782</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1520&lang=0" target="_blank" class="job">Инженер-гидрометеоролог</a></td>
+<td>35 991</td>
+<td>36 715</td>
+<td>41 622</td>
+<td>39 195</td>
+<td>48 287</td>
+<td>49 566</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2149&lang=0" target="_blank" class="job">Инженер-электрик</a></td>
+<td>33 447</td>
+<td>34 855</td>
+<td>40 121</td>
+<td>40 805</td>
+<td>44 665</td>
+<td>47 231</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1665&lang=0" target="_blank" class="job">Инженер-электроник </a></td>
+<td>25 884</td>
+<td>28 589</td>
+<td>35 077</td>
+<td>33 851</td>
+<td>40 241</td>
+<td>43 752</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1733&lang=0" target="_blank" class="job">Инженер-энергетик</a></td>
+<td>35 224</td>
+<td>35 353</td>
+<td>39 244</td>
+<td>35 424</td>
+<td>40 332</td>
+<td>47 427</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.03.2013)</p>
+</div>

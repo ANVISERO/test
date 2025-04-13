@@ -1,0 +1,708 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2693&lang=0" target="_blank" class="job">Ответственный за безопасность дорожного движения</a></td>
+<td>25 300</td>
+<td>30 000</td>
+<td>37 904</td>
+<td>37 500</td>
+<td>45 000</td>
+<td>55 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>19 600</td>
+<td>25 000</td>
+<td>31 704</td>
+<td>30 000</td>
+<td>39 017</td>
+<td>46 703</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2115&lang=0" target="_blank" class="job">Оценщик недвижимости</a></td>
+<td>26 400</td>
+<td>34 296</td>
+<td>40 505</td>
+<td>44 000</td>
+<td>48 000</td>
+<td>52 200</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1868&lang=0" target="_blank" class="job">Переводчик</a></td>
+<td>28 500</td>
+<td>30 816</td>
+<td>37 649</td>
+<td>40 500</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2109&lang=0" target="_blank" class="job">Персональный тренер</a></td>
+<td>29 000</td>
+<td>36 271</td>
+<td>42 240</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1686&lang=0" target="_blank" class="job">Помощник директора</a></td>
+<td>22 000</td>
+<td>30 000</td>
+<td>40 411</td>
+<td>40 000</td>
+<td>49 977</td>
+<td>65 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2124&lang=0" target="_blank" class="job">Помощник лесничего</a></td>
+<td>9 000</td>
+<td>9 755</td>
+<td>11 756</td>
+<td>10 889</td>
+<td>13 822</td>
+<td>16 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2627&lang=0" target="_blank" class="job">Помощник офис-менеджера</a></td>
+<td>13 500</td>
+<td>16 330</td>
+<td>19 468</td>
+<td>20 000</td>
+<td>23 861</td>
+<td>26 150</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2001&lang=0" target="_blank" class="job">Помощник секретаря</a></td>
+<td>10 400</td>
+<td>13 977</td>
+<td>17 211</td>
+<td>18 000</td>
+<td>21 523</td>
+<td>24 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>16 890</td>
+<td>19 307</td>
+<td>20 944</td>
+<td>20 480</td>
+<td>25 150</td>
+<td>25 670</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2206&lang=0" target="_blank" class="job">Промышленный альпинист</a></td>
+<td>30 000</td>
+<td>35 396</td>
+<td>44 614</td>
+<td>45 000</td>
+<td>50 250</td>
+<td>60 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2605&lang=0" target="_blank" class="job">Референт</a></td>
+<td>25 000</td>
+<td>29 000</td>
+<td>39 500</td>
+<td>40 200</td>
+<td>46 785</td>
+<td>60 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>32 870</td>
+<td>43 350</td>
+<td>54 365</td>
+<td>57 043</td>
+<td>67 750</td>
+<td>72 998</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1770&lang=0" target="_blank" class="job">Руководитель дирекции</a></td>
+<td>64 000</td>
+<td>70 000</td>
+<td>82 067</td>
+<td>80 000</td>
+<td>100 000</td>
+<td>105 349</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2114&lang=0" target="_blank" class="job">Сборщик мебели</a></td>
+<td>25 500</td>
+<td>30 658</td>
+<td>40 998</td>
+<td>40 000</td>
+<td>49 500</td>
+<td>55 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1240&lang=0" target="_blank" class="job">Секретарь генерального директора</a></td>
+<td>26 800</td>
+<td>30 000</td>
+<td>34 354</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>45 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1241&lang=0" target="_blank" class="job">Секретарь отдела</a></td>
+<td>20 000</td>
+<td>21 500</td>
+<td>25 183</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>31 145</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1242&lang=0" target="_blank" class="job">Секретарь-ресепшионист</a></td>
+<td>19 900</td>
+<td>21 621</td>
+<td>25 485</td>
+<td>26 423</td>
+<td>30 000</td>
+<td>31 055</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>37 361</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1507&lang=0" target="_blank" class="job">Советник генерального директора</a></td>
+<td>42 415</td>
+<td>50 000</td>
+<td>136 150</td>
+<td>148 913</td>
+<td>164 349</td>
+<td>281 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2607&lang=0" target="_blank" class="job">Советник президента</a></td>
+<td>106 000</td>
+<td>150 000</td>
+<td>252 844</td>
+<td>275 237</td>
+<td>355 000</td>
+<td>380 052</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1689&lang=0" target="_blank" class="job">Специалист</a></td>
+<td>18 700</td>
+<td>19 550</td>
+<td>22 323</td>
+<td>20 000</td>
+<td>24 585</td>
+<td>28 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>28 250</td>
+<td>30 718</td>
+<td>37 132</td>
+<td>38 750</td>
+<td>44 375</td>
+<td>48 901</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2271&lang=0" target="_blank" class="job">Специалист по взысканию задолженности</a></td>
+<td>30 000</td>
+<td>30 697</td>
+<td>38 296</td>
+<td>40 000</td>
+<td>45 657</td>
+<td>48 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2304&lang=0" target="_blank" class="job">Специалист по сопровождению договоров</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>36 808</td>
+<td>40 000</td>
+<td>42 750</td>
+<td>48 200</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2224&lang=0" target="_blank" class="job">Старший помощник директора</a></td>
+<td>43 641</td>
+<td>45 952</td>
+<td>51 583</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>67 200</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>30 000</td>
+<td>31 875</td>
+<td>39 763</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>53 000</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>16 000</td>
+<td>18 660</td>
+<td>23 390</td>
+<td>22 000</td>
+<td>26 350</td>
+<td>34 707</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1357&lang=0" target="_blank" class="job">Уборщик территории</a></td>
+<td>13 787</td>
+<td>17 650</td>
+<td>20 358</td>
+<td>21 300</td>
+<td>24 621</td>
+<td>26 943</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2222&lang=0" target="_blank" class="job">Управляющий</a></td>
+<td>35 372</td>
+<td>40 971</td>
+<td>45 630</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>61 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2268&lang=0" target="_blank" class="job">Фитнес-тренер</a></td>
+<td>27 590</td>
+<td>30 000</td>
+<td>32 739</td>
+<td>33 000</td>
+<td>37 499</td>
+<td>40 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2236&lang=0" target="_blank" class="job">Экскурсовод</a></td>
+<td>20 000</td>
+<td>21 500</td>
+<td>24 892</td>
+<td>25 000</td>
+<td>28 613</td>
+<td>35 000</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2693&lang=0" target="_blank" class="job">Ответственный за безопасность дорожного движения</a></td>
+<td>30 541</td>
+<td>36 063</td>
+<td>44 291</td>
+<td>45 450</td>
+<td>53 383</td>
+<td>59 930</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>25 480</td>
+<td>30 000</td>
+<td>40 908</td>
+<td>37 500</td>
+<td>45 000</td>
+<td>62 129</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2115&lang=0" target="_blank" class="job">Оценщик недвижимости</a></td>
+<td>40 529</td>
+<td>45 833</td>
+<td>53 745</td>
+<td>55 000</td>
+<td>60 867</td>
+<td>69 191</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1868&lang=0" target="_blank" class="job">Переводчик</a></td>
+<td>31 288</td>
+<td>36 095</td>
+<td>41 175</td>
+<td>42 800</td>
+<td>48 850</td>
+<td>52 891</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2109&lang=0" target="_blank" class="job">Персональный тренер</a></td>
+<td>33 840</td>
+<td>41 860</td>
+<td>48 179</td>
+<td>50 000</td>
+<td>56 250</td>
+<td>62 180</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1686&lang=0" target="_blank" class="job">Помощник директора</a></td>
+<td>31 500</td>
+<td>34 083</td>
+<td>58 107</td>
+<td>52 000</td>
+<td>73 500</td>
+<td>85 881</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2124&lang=0" target="_blank" class="job">Помощник лесничего</a></td>
+<td>17 535</td>
+<td>19 079</td>
+<td>20 882</td>
+<td>20 585</td>
+<td>23 230</td>
+<td>26 007</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2627&lang=0" target="_blank" class="job">Помощник офис-менеджера</a></td>
+<td>13 500</td>
+<td>18 900</td>
+<td>22 866</td>
+<td>23 450</td>
+<td>26 917</td>
+<td>31 589</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2001&lang=0" target="_blank" class="job">Помощник секретаря</a></td>
+<td>12 000</td>
+<td>14 773</td>
+<td>18 192</td>
+<td>18 900</td>
+<td>22 749</td>
+<td>24 800</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2168&lang=0" target="_blank" class="job">Посудомойщица</a></td>
+<td>17 409</td>
+<td>19 644</td>
+<td>21 702</td>
+<td>20 650</td>
+<td>25 890</td>
+<td>27 832</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2206&lang=0" target="_blank" class="job">Промышленный альпинист</a></td>
+<td>32 950</td>
+<td>43 000</td>
+<td>54 473</td>
+<td>54 584</td>
+<td>66 467</td>
+<td>79 848</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2605&lang=0" target="_blank" class="job">Референт</a></td>
+<td>32 500</td>
+<td>38 065</td>
+<td>48 753</td>
+<td>47 200</td>
+<td>53 734</td>
+<td>71 642</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>42 225</td>
+<td>52 436</td>
+<td>67 307</td>
+<td>66 409</td>
+<td>82 818</td>
+<td>96 071</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1770&lang=0" target="_blank" class="job">Руководитель дирекции</a></td>
+<td>71 980</td>
+<td>79 833</td>
+<td>105 776</td>
+<td>94 009</td>
+<td>131 498</td>
+<td>159 802</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2114&lang=0" target="_blank" class="job">Сборщик мебели</a></td>
+<td>27 000</td>
+<td>35 379</td>
+<td>45 875</td>
+<td>46 420</td>
+<td>55 887</td>
+<td>66 240</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1240&lang=0" target="_blank" class="job">Секретарь генерального директора</a></td>
+<td>30 000</td>
+<td>32 551</td>
+<td>38 226</td>
+<td>38 050</td>
+<td>44 246</td>
+<td>47 890</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1241&lang=0" target="_blank" class="job">Секретарь отдела</a></td>
+<td>22 000</td>
+<td>26 102</td>
+<td>32 501</td>
+<td>32 500</td>
+<td>40 195</td>
+<td>45 100</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1242&lang=0" target="_blank" class="job">Секретарь-ресепшионист</a></td>
+<td>24 850</td>
+<td>27 583</td>
+<td>31 648</td>
+<td>31 050</td>
+<td>36 425</td>
+<td>42 920</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>27 600</td>
+<td>33 320</td>
+<td>41 801</td>
+<td>41 400</td>
+<td>47 940</td>
+<td>59 958</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1507&lang=0" target="_blank" class="job">Советник генерального директора</a></td>
+<td>57 920</td>
+<td>85 525</td>
+<td>178 526</td>
+<td>169 000</td>
+<td>228 375</td>
+<td>339 133</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2607&lang=0" target="_blank" class="job">Советник президента</a></td>
+<td>187 740</td>
+<td>252 500</td>
+<td>393 013</td>
+<td>412 000</td>
+<td>493 480</td>
+<td>574 855</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1689&lang=0" target="_blank" class="job">Специалист</a></td>
+<td>23 000</td>
+<td>24 000</td>
+<td>27 762</td>
+<td>27 000</td>
+<td>30 029</td>
+<td>35 400</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>32 920</td>
+<td>36 686</td>
+<td>44 118</td>
+<td>45 017</td>
+<td>52 800</td>
+<td>59 823</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2271&lang=0" target="_blank" class="job">Специалист по взысканию задолженности</a></td>
+<td>37 624</td>
+<td>47 091</td>
+<td>51 074</td>
+<td>52 750</td>
+<td>58 367</td>
+<td>63 427</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2304&lang=0" target="_blank" class="job">Специалист по сопровождению договоров</a></td>
+<td>30 815</td>
+<td>34 837</td>
+<td>40 330</td>
+<td>42 700</td>
+<td>47 025</td>
+<td>51 115</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2224&lang=0" target="_blank" class="job">Старший помощник директора</a></td>
+<td>48 840</td>
+<td>54 300</td>
+<td>69 228</td>
+<td>67 200</td>
+<td>85 978</td>
+<td>102 876</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2055&lang=0" target="_blank" class="job">Стилист</a></td>
+<td>31 560</td>
+<td>35 725</td>
+<td>47 163</td>
+<td>46 500</td>
+<td>56 559</td>
+<td>69 306</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1359&lang=0" target="_blank" class="job">Уборщик</a></td>
+<td>16 496</td>
+<td>23 167</td>
+<td>30 120</td>
+<td>27 100</td>
+<td>36 691</td>
+<td>45 459</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1357&lang=0" target="_blank" class="job">Уборщик территории</a></td>
+<td>18 380</td>
+<td>21 904</td>
+<td>26 405</td>
+<td>24 033</td>
+<td>31 426</td>
+<td>36 782</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2222&lang=0" target="_blank" class="job">Управляющий</a></td>
+<td>40 340</td>
+<td>45 048</td>
+<td>54 875</td>
+<td>54 200</td>
+<td>64 663</td>
+<td>75 020</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2268&lang=0" target="_blank" class="job">Фитнес-тренер</a></td>
+<td>30 000</td>
+<td>35 751</td>
+<td>44 259</td>
+<td>39 545</td>
+<td>51 898</td>
+<td>70 174</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2236&lang=0" target="_blank" class="job">Экскурсовод</a></td>
+<td>20 800</td>
+<td>24 914</td>
+<td>31 187</td>
+<td>34 111</td>
+<td>37 321</td>
+<td>45 236</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 15.12.2017)</p>
+</div>

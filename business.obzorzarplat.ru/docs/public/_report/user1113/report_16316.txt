@@ -1,0 +1,608 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Сфера деятельности компании: Производство</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1335&lang=0" target="_blank" class="job">Бригадир на производстве</a></td>
+<td>20 585</td>
+<td>24 601</td>
+<td>27 039</td>
+<td>27 000</td>
+<td>32 503</td>
+<td>34 777</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>18 058</td>
+<td>18 971</td>
+<td>20 533</td>
+<td>20 268</td>
+<td>22 827</td>
+<td>25 042</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1546&lang=0" target="_blank" class="job">Газорезчик </a></td>
+<td>25 000</td>
+<td>27 232</td>
+<td>31 700</td>
+<td>30 000</td>
+<td>39 926</td>
+<td>40 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>17 473</td>
+<td>19 400</td>
+<td>21 243</td>
+<td>21 000</td>
+<td>24 286</td>
+<td>27 863</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1657&lang=0" target="_blank" class="job">Лаборант химического анализа</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1567&lang=0" target="_blank" class="job">Маляр</a></td>
+<td>18 872</td>
+<td>21 665</td>
+<td>24 440</td>
+<td>23 620</td>
+<td>28 845</td>
+<td>33 620</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1329&lang=0" target="_blank" class="job">Маркировщик</a></td>
+<td>16 258</td>
+<td>20 916</td>
+<td>23 016</td>
+<td>24 000</td>
+<td>25 740</td>
+<td>30 298</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>22 232</td>
+<td>28 609</td>
+<td>37 007</td>
+<td>39 000</td>
+<td>47 293</td>
+<td>54 500</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1864&lang=0" target="_blank" class="job">Монтажник радиоэлектронной аппаратуры и приборов</a></td>
+<td>13 000</td>
+<td>14 420</td>
+<td>15 879</td>
+<td>16 784</td>
+<td>17 335</td>
+<td>18 400</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>34 040</td>
+<td>39 500</td>
+<td>59 671</td>
+<td>48 080</td>
+<td>69 970</td>
+<td>101 531</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>18 011</td>
+<td>18 600</td>
+<td>22 260</td>
+<td>23 530</td>
+<td>24 803</td>
+<td>28 588</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1788&lang=0" target="_blank" class="job">Оператор станков с ЧПУ</a></td>
+<td>20 982</td>
+<td>21 365</td>
+<td>25 960</td>
+<td>24 287</td>
+<td>29 840</td>
+<td>34 086</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1809&lang=0" target="_blank" class="job">Распределитель работ</a></td>
+<td>8 972</td>
+<td>9 500</td>
+<td>10 468</td>
+<td>10 800</td>
+<td>11 300</td>
+<td>12 086</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1877&lang=0" target="_blank" class="job">Регулировщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>13 948</td>
+<td>15 200</td>
+<td>16 413</td>
+<td>16 800</td>
+<td>18 114</td>
+<td>19 406</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1878&lang=0" target="_blank" class="job">Резчик на пилах, ножовках и станках</a></td>
+<td>11 441</td>
+<td>27 343</td>
+<td>33 235</td>
+<td>37 168</td>
+<td>45 000</td>
+<td>47 398</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1881&lang=0" target="_blank" class="job">Слесарь механосборочных работ</a></td>
+<td>12 161</td>
+<td>13 768</td>
+<td>15 630</td>
+<td>16 350</td>
+<td>16 800</td>
+<td>18 986</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1779&lang=0" target="_blank" class="job">Слесарь-инструментальщик</a></td>
+<td>10 249</td>
+<td>11 630</td>
+<td>14 515</td>
+<td>14 124</td>
+<td>16 800</td>
+<td>20 090</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>9 694</td>
+<td>12 200</td>
+<td>15 409</td>
+<td>15 593</td>
+<td>17 914</td>
+<td>21 971</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1885&lang=0" target="_blank" class="job">Слесарь-сборщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>11 922</td>
+<td>14 700</td>
+<td>16 878</td>
+<td>15 338</td>
+<td>21 384</td>
+<td>23 831</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1373&lang=0" target="_blank" class="job">Столяр</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>24 689</td>
+<td>25 166</td>
+<td>28 438</td>
+<td>27 298</td>
+<td>33 202</td>
+<td>35 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1775&lang=0" target="_blank" class="job">Токарь-расточник</a></td>
+<td>14 117</td>
+<td>16 568</td>
+<td>18 808</td>
+<td>18 567</td>
+<td>20 394</td>
+<td>25 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1889&lang=0" target="_blank" class="job">Транспортировщик</a></td>
+<td>10 240</td>
+<td>10 800</td>
+<td>14 790</td>
+<td>16 000</td>
+<td>19 000</td>
+<td>21 000</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1375&lang=0" target="_blank" class="job">Фрезеровщик</a></td>
+<td>13 353</td>
+<td>14 849</td>
+<td>18 049</td>
+<td>17 200</td>
+<td>20 067</td>
+<td>23 462</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1774&lang=0" target="_blank" class="job">Шлифовщик</a></td>
+<td>12 151</td>
+<td>14 630</td>
+<td>15 559</td>
+<td>15 400</td>
+<td>17 544</td>
+<td>18 074</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>13 794</td>
+<td>15 807</td>
+<td>18 100</td>
+<td>17 647</td>
+<td>20 122</td>
+<td>24 549</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1601&lang=0" target="_blank" class="job">Электросварщик ручной сварки </a></td>
+<td>18 628</td>
+<td>19 969</td>
+<td>22 877</td>
+<td>24 500</td>
+<td>26 155</td>
+<td>28 609</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1335&lang=0" target="_blank" class="job">Бригадир на производстве</a></td>
+<td>23 163</td>
+<td>32 071</td>
+<td>37 741</td>
+<td>37 403</td>
+<td>47 127</td>
+<td>53 031</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>18 058</td>
+<td>28 093</td>
+<td>31 070</td>
+<td>30 768</td>
+<td>37 684</td>
+<td>41 908</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1546&lang=0" target="_blank" class="job">Газорезчик </a></td>
+<td>25 500</td>
+<td>30 037</td>
+<td>36 515</td>
+<td>34 793</td>
+<td>46 217</td>
+<td>47 986</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>17 473</td>
+<td>20 266</td>
+<td>24 839</td>
+<td>24 973</td>
+<td>29 827</td>
+<td>35 004</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1657&lang=0" target="_blank" class="job">Лаборант химического анализа</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1567&lang=0" target="_blank" class="job">Маляр</a></td>
+<td>19 060</td>
+<td>25 292</td>
+<td>35 544</td>
+<td>31 007</td>
+<td>46 820</td>
+<td>59 828</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1329&lang=0" target="_blank" class="job">Маркировщик</a></td>
+<td>16 258</td>
+<td>22 533</td>
+<td>28 173</td>
+<td>30 101</td>
+<td>33 248</td>
+<td>39 134</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>22 232</td>
+<td>28 609</td>
+<td>64 093</td>
+<td>70 933</td>
+<td>93 946</td>
+<td>108 195</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1864&lang=0" target="_blank" class="job">Монтажник радиоэлектронной аппаратуры и приборов</a></td>
+<td>17 000</td>
+<td>21 420</td>
+<td>29 579</td>
+<td>29 884</td>
+<td>37 685</td>
+<td>42 240</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>34 040</td>
+<td>40 250</td>
+<td>69 655</td>
+<td>56 304</td>
+<td>87 625</td>
+<td>122 395</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>18 011</td>
+<td>18 600</td>
+<td>25 283</td>
+<td>25 575</td>
+<td>30 546</td>
+<td>35 005</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1788&lang=0" target="_blank" class="job">Оператор станков с ЧПУ</a></td>
+<td>27 738</td>
+<td>29 590</td>
+<td>36 620</td>
+<td>34 102</td>
+<td>43 979</td>
+<td>49 784</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1809&lang=0" target="_blank" class="job">Распределитель работ</a></td>
+<td>10 961</td>
+<td>11 800</td>
+<td>13 959</td>
+<td>13 100</td>
+<td>16 415</td>
+<td>18 154</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1877&lang=0" target="_blank" class="job">Регулировщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>19 795</td>
+<td>23 325</td>
+<td>27 606</td>
+<td>28 946</td>
+<td>32 616</td>
+<td>36 484</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1878&lang=0" target="_blank" class="job">Резчик на пилах, ножовках и станках</a></td>
+<td>11 441</td>
+<td>27 875</td>
+<td>34 929</td>
+<td>39 173</td>
+<td>47 467</td>
+<td>50 301</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1881&lang=0" target="_blank" class="job">Слесарь механосборочных работ</a></td>
+<td>12 161</td>
+<td>14 268</td>
+<td>24 358</td>
+<td>21 150</td>
+<td>31 100</td>
+<td>40 227</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1779&lang=0" target="_blank" class="job">Слесарь-инструментальщик</a></td>
+<td>10 249</td>
+<td>15 695</td>
+<td>22 731</td>
+<td>21 504</td>
+<td>27 713</td>
+<td>38 249</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>9 694</td>
+<td>13 325</td>
+<td>23 373</td>
+<td>22 393</td>
+<td>27 164</td>
+<td>43 238</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1885&lang=0" target="_blank" class="job">Слесарь-сборщик радиоэлектронной аппаратуры и приборов</a></td>
+<td>21 502</td>
+<td>25 600</td>
+<td>34 716</td>
+<td>31 548</td>
+<td>43 983</td>
+<td>52 237</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1373&lang=0" target="_blank" class="job">Столяр</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>24 689</td>
+<td>28 592</td>
+<td>39 285</td>
+<td>39 298</td>
+<td>49 001</td>
+<td>54 019</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1775&lang=0" target="_blank" class="job">Токарь-расточник</a></td>
+<td>15 617</td>
+<td>25 568</td>
+<td>29 137</td>
+<td>29 667</td>
+<td>32 994</td>
+<td>40 200</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1889&lang=0" target="_blank" class="job">Транспортировщик</a></td>
+<td>10 240</td>
+<td>10 800</td>
+<td>21 913</td>
+<td>18 300</td>
+<td>33 547</td>
+<td>39 826</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1375&lang=0" target="_blank" class="job">Фрезеровщик</a></td>
+<td>13 353</td>
+<td>20 354</td>
+<td>26 560</td>
+<td>26 450</td>
+<td>30 867</td>
+<td>38 531</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1774&lang=0" target="_blank" class="job">Шлифовщик</a></td>
+<td>12 151</td>
+<td>20 830</td>
+<td>24 322</td>
+<td>24 025</td>
+<td>29 065</td>
+<td>34 896</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>15 554</td>
+<td>23 907</td>
+<td>29 331</td>
+<td>28 397</td>
+<td>32 922</td>
+<td>41 149</td>
+<td>3 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1601&lang=0" target="_blank" class="job">Электросварщик ручной сварки </a></td>
+<td>18 628</td>
+<td>20 582</td>
+<td>30 785</td>
+<td>32 388</td>
+<td>40 340</td>
+<td>45 318</td>
+<td>3 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.11.2014)</p>
+</div>

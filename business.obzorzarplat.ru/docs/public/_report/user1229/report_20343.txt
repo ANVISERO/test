@@ -1,0 +1,308 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Оборот компании (млн. руб. в год): > 3 200</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>32 291</td>
+<td>36 630</td>
+<td>45 443</td>
+<td>43 800</td>
+<td>53 287</td>
+<td>65 701</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>89 936</td>
+<td>91 906</td>
+<td>121 893</td>
+<td>132 180</td>
+<td>149 470</td>
+<td>159 958</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>21 428</td>
+<td>27 568</td>
+<td>30 336</td>
+<td>29 200</td>
+<td>36 500</td>
+<td>39 934</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>29 050</td>
+<td>32 046</td>
+<td>35 727</td>
+<td>36 500</td>
+<td>40 150</td>
+<td>44 502</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>47 304</td>
+<td>67 525</td>
+<td>92 843</td>
+<td>85 351</td>
+<td>112 461</td>
+<td>159 578</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2749&lang=0" target="_blank" class="job">Начальник клиентского отдела</a></td>
+<td>64 240</td>
+<td>87 600</td>
+<td>163 134</td>
+<td>146 325</td>
+<td>203 999</td>
+<td>294 038</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>76 796</td>
+<td>101 996</td>
+<td>125 603</td>
+<td>116 800</td>
+<td>157 066</td>
+<td>181 332</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2738&lang=0" target="_blank" class="job">Руководитель группы по работе с рекламациями </a></td>
+<td>61 320</td>
+<td>73 000</td>
+<td>106 931</td>
+<td>95 913</td>
+<td>133 716</td>
+<td>160 440</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>38 690</td>
+<td>42 061</td>
+<td>53 742</td>
+<td>47 764</td>
+<td>65 700</td>
+<td>80 015</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2739&lang=0" target="_blank" class="job">Специалист по работе с рекламациями</a></td>
+<td>42 048</td>
+<td>45 260</td>
+<td>62 015</td>
+<td>58 400</td>
+<td>67 986</td>
+<td>97 040</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2741&lang=0" target="_blank" class="job">Старший специалист по информационной безопасности</a></td>
+<td>36 500</td>
+<td>41 610</td>
+<td>77 739</td>
+<td>65 894</td>
+<td>94 223</td>
+<td>142 785</td>
+<td>4 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2744&lang=0" target="_blank" class="job">Ведущий оператор Call центра</a></td>
+<td>32 291</td>
+<td>36 630</td>
+<td>45 443</td>
+<td>43 800</td>
+<td>53 287</td>
+<td>65 701</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>91 396</td>
+<td>94 971</td>
+<td>125 616</td>
+<td>135 830</td>
+<td>153 120</td>
+<td>164 505</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2030&lang=0" target="_blank" class="job">Менеджер по продажам</a></td>
+<td>23 452</td>
+<td>34 868</td>
+<td>39 621</td>
+<td>38 743</td>
+<td>49 804</td>
+<td>54 794</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>29 050</td>
+<td>32 046</td>
+<td>40 013</td>
+<td>42 260</td>
+<td>47 450</td>
+<td>53 163</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2160&lang=0" target="_blank" class="job">Менеджер по работе с поставщиками</a></td>
+<td>47 304</td>
+<td>67 525</td>
+<td>100 277</td>
+<td>88 210</td>
+<td>127 390</td>
+<td>177 630</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2749&lang=0" target="_blank" class="job">Начальник клиентского отдела</a></td>
+<td>64 786</td>
+<td>90 666</td>
+<td>172 805</td>
+<td>156 631</td>
+<td>218 367</td>
+<td>311 488</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>79 716</td>
+<td>105 740</td>
+<td>140 103</td>
+<td>130 924</td>
+<td>176 046</td>
+<td>204 095</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2738&lang=0" target="_blank" class="job">Руководитель группы по работе с рекламациями </a></td>
+<td>61 320</td>
+<td>73 000</td>
+<td>109 502</td>
+<td>99 368</td>
+<td>138 096</td>
+<td>165 637</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>39 624</td>
+<td>46 705</td>
+<td>61 712</td>
+<td>55 064</td>
+<td>76 341</td>
+<td>93 511</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2739&lang=0" target="_blank" class="job">Специалист по работе с рекламациями</a></td>
+<td>42 048</td>
+<td>45 260</td>
+<td>65 257</td>
+<td>62 050</td>
+<td>74 118</td>
+<td>104 536</td>
+<td>4 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2741&lang=0" target="_blank" class="job">Старший специалист по информационной безопасности</a></td>
+<td>36 500</td>
+<td>41 610</td>
+<td>81 625</td>
+<td>66 765</td>
+<td>101 962</td>
+<td>153 300</td>
+<td>4 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 30.03.2015)</p>
+</div>

@@ -1,0 +1,468 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2076&lang=0" target="_blank" class="job">Генерал армии</a></td>
+<td>91 878</td>
+<td>96 679</td>
+<td>105 550</td>
+<td>104 445</td>
+<td>115 469</td>
+<td>123 760</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2074&lang=0" target="_blank" class="job">Генерал-лейтенант</a></td>
+<td>74 572</td>
+<td>78 422</td>
+<td>85 511</td>
+<td>84 383</td>
+<td>92 813</td>
+<td>99 028</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2073&lang=0" target="_blank" class="job">Генерал-майор</a></td>
+<td>67 275</td>
+<td>71 085</td>
+<td>77 555</td>
+<td>77 105</td>
+<td>85 596</td>
+<td>92 365</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2075&lang=0" target="_blank" class="job">Генерал-полковник</a></td>
+<td>81 575</td>
+<td>86 599</td>
+<td>94 389</td>
+<td>94 045</td>
+<td>104 835</td>
+<td>113 295</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2060&lang=0" target="_blank" class="job">Ефрейтор</a></td>
+<td>16 941</td>
+<td>18 305</td>
+<td>20 285</td>
+<td>20 607</td>
+<td>22 838</td>
+<td>25 127</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2069&lang=0" target="_blank" class="job">Капитан</a></td>
+<td>21 925</td>
+<td>32 875</td>
+<td>39 958</td>
+<td>40 000</td>
+<td>50 625</td>
+<td>60 100</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2215&lang=0" target="_blank" class="job">Командир взвода</a></td>
+<td>33 725</td>
+<td>35 000</td>
+<td>40 642</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>50 375</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2067&lang=0" target="_blank" class="job">Лейтенант</a></td>
+<td>35 152</td>
+<td>37 838</td>
+<td>41 923</td>
+<td>41 786</td>
+<td>45 712</td>
+<td>50 550</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2070&lang=0" target="_blank" class="job">Майор</a></td>
+<td>46 557</td>
+<td>48 650</td>
+<td>52 452</td>
+<td>52 500</td>
+<td>56 865</td>
+<td>61 334</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2061&lang=0" target="_blank" class="job">Младший сержант </a></td>
+<td>18 393</td>
+<td>19 874</td>
+<td>22 024</td>
+<td>22 373</td>
+<td>24 795</td>
+<td>27 280</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2203&lang=0" target="_blank" class="job">Пилот</a></td>
+<td>39 761</td>
+<td>42 750</td>
+<td>64 839</td>
+<td>54 844</td>
+<td>73 200</td>
+<td>104 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2071&lang=0" target="_blank" class="job">Подполковник</a></td>
+<td>47 450</td>
+<td>49 875</td>
+<td>54 799</td>
+<td>54 340</td>
+<td>59 313</td>
+<td>63 840</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2072&lang=0" target="_blank" class="job">Полковник</a></td>
+<td>52 888</td>
+<td>55 811</td>
+<td>61 193</td>
+<td>60 510</td>
+<td>66 345</td>
+<td>71 613</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2065&lang=0" target="_blank" class="job">Прапорщик</a></td>
+<td>31 298</td>
+<td>33 803</td>
+<td>37 419</td>
+<td>37 070</td>
+<td>40 560</td>
+<td>44 720</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2059&lang=0" target="_blank" class="job">Рядовой</a></td>
+<td>15 375</td>
+<td>16 500</td>
+<td>18 130</td>
+<td>18 075</td>
+<td>19 781</td>
+<td>21 897</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2062&lang=0" target="_blank" class="job">Сержант</a></td>
+<td>22 538</td>
+<td>24 456</td>
+<td>26 656</td>
+<td>26 508</td>
+<td>29 355</td>
+<td>32 159</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2068&lang=0" target="_blank" class="job">Старший лейтенант</a></td>
+<td>39 654</td>
+<td>41 875</td>
+<td>45 912</td>
+<td>45 375</td>
+<td>49 396</td>
+<td>53 888</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2066&lang=0" target="_blank" class="job">Старший прапорщик</a></td>
+<td>31 900</td>
+<td>34 423</td>
+<td>38 112</td>
+<td>37 758</td>
+<td>41 340</td>
+<td>45 549</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2063&lang=0" target="_blank" class="job">Старший сержант</a></td>
+<td>24 850</td>
+<td>26 813</td>
+<td>29 382</td>
+<td>29 220</td>
+<td>31 973</td>
+<td>35 458</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2064&lang=0" target="_blank" class="job">Старшина </a></td>
+<td>26 138</td>
+<td>28 369</td>
+<td>31 602</td>
+<td>31 493</td>
+<td>34 988</td>
+<td>38 536</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2076&lang=0" target="_blank" class="job">Генерал армии</a></td>
+<td>91 878</td>
+<td>96 679</td>
+<td>105 550</td>
+<td>104 445</td>
+<td>115 469</td>
+<td>123 760</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2074&lang=0" target="_blank" class="job">Генерал-лейтенант</a></td>
+<td>74 572</td>
+<td>78 422</td>
+<td>85 511</td>
+<td>84 383</td>
+<td>92 813</td>
+<td>99 028</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2073&lang=0" target="_blank" class="job">Генерал-майор</a></td>
+<td>67 275</td>
+<td>71 085</td>
+<td>77 555</td>
+<td>77 105</td>
+<td>85 596</td>
+<td>92 365</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2075&lang=0" target="_blank" class="job">Генерал-полковник</a></td>
+<td>81 575</td>
+<td>86 599</td>
+<td>94 389</td>
+<td>94 045</td>
+<td>104 835</td>
+<td>113 295</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2060&lang=0" target="_blank" class="job">Ефрейтор</a></td>
+<td>16 941</td>
+<td>18 305</td>
+<td>20 285</td>
+<td>20 607</td>
+<td>22 838</td>
+<td>25 127</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2069&lang=0" target="_blank" class="job">Капитан</a></td>
+<td>27 007</td>
+<td>55 497</td>
+<td>66 222</td>
+<td>68 486</td>
+<td>84 915</td>
+<td>99 866</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2215&lang=0" target="_blank" class="job">Командир взвода</a></td>
+<td>41 325</td>
+<td>43 087</td>
+<td>51 241</td>
+<td>50 000</td>
+<td>64 102</td>
+<td>65 375</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2067&lang=0" target="_blank" class="job">Лейтенант</a></td>
+<td>35 152</td>
+<td>37 838</td>
+<td>41 923</td>
+<td>41 786</td>
+<td>45 712</td>
+<td>50 550</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2070&lang=0" target="_blank" class="job">Майор</a></td>
+<td>46 557</td>
+<td>48 650</td>
+<td>52 452</td>
+<td>52 500</td>
+<td>56 865</td>
+<td>61 334</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2061&lang=0" target="_blank" class="job">Младший сержант </a></td>
+<td>18 393</td>
+<td>19 874</td>
+<td>22 024</td>
+<td>22 373</td>
+<td>24 795</td>
+<td>27 280</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2203&lang=0" target="_blank" class="job">Пилот</a></td>
+<td>56 249</td>
+<td>81 325</td>
+<td>196 583</td>
+<td>155 144</td>
+<td>304 245</td>
+<td>379 079</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2071&lang=0" target="_blank" class="job">Подполковник</a></td>
+<td>47 450</td>
+<td>49 875</td>
+<td>54 799</td>
+<td>54 340</td>
+<td>59 313</td>
+<td>63 840</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2072&lang=0" target="_blank" class="job">Полковник</a></td>
+<td>52 888</td>
+<td>55 811</td>
+<td>61 193</td>
+<td>60 510</td>
+<td>66 345</td>
+<td>71 613</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2065&lang=0" target="_blank" class="job">Прапорщик</a></td>
+<td>31 298</td>
+<td>33 803</td>
+<td>37 419</td>
+<td>37 070</td>
+<td>40 560</td>
+<td>44 720</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2059&lang=0" target="_blank" class="job">Рядовой</a></td>
+<td>15 375</td>
+<td>16 500</td>
+<td>18 130</td>
+<td>18 075</td>
+<td>19 781</td>
+<td>21 897</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2062&lang=0" target="_blank" class="job">Сержант</a></td>
+<td>22 538</td>
+<td>24 456</td>
+<td>26 656</td>
+<td>26 508</td>
+<td>29 355</td>
+<td>32 159</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2068&lang=0" target="_blank" class="job">Старший лейтенант</a></td>
+<td>39 654</td>
+<td>41 875</td>
+<td>45 912</td>
+<td>45 375</td>
+<td>49 396</td>
+<td>53 888</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2066&lang=0" target="_blank" class="job">Старший прапорщик</a></td>
+<td>31 900</td>
+<td>34 423</td>
+<td>38 112</td>
+<td>37 758</td>
+<td>41 340</td>
+<td>45 549</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2063&lang=0" target="_blank" class="job">Старший сержант</a></td>
+<td>24 850</td>
+<td>26 813</td>
+<td>29 382</td>
+<td>29 220</td>
+<td>31 973</td>
+<td>35 458</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2064&lang=0" target="_blank" class="job">Старшина </a></td>
+<td>26 138</td>
+<td>28 369</td>
+<td>31 602</td>
+<td>31 493</td>
+<td>34 988</td>
+<td>38 536</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.09.2014)</p>
+</div>

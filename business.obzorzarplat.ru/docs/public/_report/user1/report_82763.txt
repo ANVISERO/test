@@ -1,0 +1,608 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>27 700</td>
+<td>30 000</td>
+<td>39 285</td>
+<td>32 000</td>
+<td>45 750</td>
+<td>70 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт-директор</a></td>
+<td>68 000</td>
+<td>75 000</td>
+<td>92 857</td>
+<td>90 000</td>
+<td>107 500</td>
+<td>121 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2212&lang=0" target="_blank" class="job">Артист балета</a></td>
+<td>18 000</td>
+<td>20 000</td>
+<td>26 681</td>
+<td>25 800</td>
+<td>32 000</td>
+<td>35 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2642&lang=0" target="_blank" class="job">Ассистент графического дизайнера</a></td>
+<td>23 250</td>
+<td>26 125</td>
+<td>30 419</td>
+<td>29 800</td>
+<td>34 475</td>
+<td>38 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>40 000</td>
+<td>57 118</td>
+<td>82 579</td>
+<td>82 500</td>
+<td>103 750</td>
+<td>140 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2636&lang=0" target="_blank" class="job">Ведущий графический дизайнер</a></td>
+<td>73 420</td>
+<td>81 750</td>
+<td>96 727</td>
+<td>95 600</td>
+<td>114 000</td>
+<td>120 460</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1274&lang=0" target="_blank" class="job">Верстальщик</a></td>
+<td>29 550</td>
+<td>33 750</td>
+<td>43 925</td>
+<td>46 500</td>
+<td>55 000</td>
+<td>55 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td>44 400</td>
+<td>54 600</td>
+<td>65 477</td>
+<td>68 750</td>
+<td>76 700</td>
+<td>84 440</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2635&lang=0" target="_blank" class="job">Дизайнер-оформитель</a></td>
+<td>27 950</td>
+<td>33 000</td>
+<td>38 275</td>
+<td>39 000</td>
+<td>41 250</td>
+<td>50 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2439&lang=0" target="_blank" class="job">Звукорежиссер</a></td>
+<td>29 950</td>
+<td>32 325</td>
+<td>45 290</td>
+<td>36 750</td>
+<td>46 250</td>
+<td>80 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>26 500</td>
+<td>28 750</td>
+<td>35 000</td>
+<td>32 500</td>
+<td>40 000</td>
+<td>45 200</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2190&lang=0" target="_blank" class="job">Корреспондент</a></td>
+<td>20 800</td>
+<td>25 000</td>
+<td>34 820</td>
+<td>32 000</td>
+<td>40 000</td>
+<td>53 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1432&lang=0" target="_blank" class="job">Креативный директор</a></td>
+<td>50 000</td>
+<td>58 000</td>
+<td>91 929</td>
+<td>72 500</td>
+<td>135 000</td>
+<td>155 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1435&lang=0" target="_blank" class="job">Медиа-байер</a></td>
+<td>33 000</td>
+<td>37 500</td>
+<td>45 000</td>
+<td>45 000</td>
+<td>52 500</td>
+<td>57 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1436&lang=0" target="_blank" class="job">Медиа-планер</a></td>
+<td>31 500</td>
+<td>35 250</td>
+<td>41 514</td>
+<td>42 500</td>
+<td>47 500</td>
+<td>51 040</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2379&lang=0" target="_blank" class="job">Музыкант</a></td>
+<td>17 800</td>
+<td>19 250</td>
+<td>26 474</td>
+<td>25 000</td>
+<td>30 000</td>
+<td>37 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2378&lang=0" target="_blank" class="job">Певец</a></td>
+<td>15 300</td>
+<td>20 750</td>
+<td>29 205</td>
+<td>27 250</td>
+<td>34 250</td>
+<td>45 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1691&lang=0" target="_blank" class="job">Пресс-секретарь</a></td>
+<td>32 640</td>
+<td>37 200</td>
+<td>46 371</td>
+<td>45 800</td>
+<td>56 050</td>
+<td>60 920</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2098&lang=0" target="_blank" class="job">Продюсер</a></td>
+<td>35 000</td>
+<td>38 000</td>
+<td>47 119</td>
+<td>45 000</td>
+<td>54 000</td>
+<td>65 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2208&lang=0" target="_blank" class="job">Редактор радиовещания</a></td>
+<td>25 000</td>
+<td>28 275</td>
+<td>40 650</td>
+<td>36 500</td>
+<td>50 250</td>
+<td>62 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2657&lang=0" target="_blank" class="job">Ретушер</a></td>
+<td>17 900</td>
+<td>19 750</td>
+<td>27 050</td>
+<td>25 250</td>
+<td>31 250</td>
+<td>40 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2333&lang=0" target="_blank" class="job">Солист оперы</a></td>
+<td>56 000</td>
+<td>95 000</td>
+<td>119 346</td>
+<td>135 000</td>
+<td>151 500</td>
+<td>160 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2300&lang=0" target="_blank" class="job">Специалист по GR</a></td>
+<td>47 600</td>
+<td>53 400</td>
+<td>64 829</td>
+<td>65 000</td>
+<td>76 000</td>
+<td>82 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2240&lang=0" target="_blank" class="job">Телеоператор</a></td>
+<td>25 450</td>
+<td>29 750</td>
+<td>35 385</td>
+<td>34 000</td>
+<td>42 375</td>
+<td>45 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2332&lang=0" target="_blank" class="job">Фотограф</a></td>
+<td>25 000</td>
+<td>27 250</td>
+<td>38 709</td>
+<td>32 800</td>
+<td>46 500</td>
+<td>59 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2665&lang=0" target="_blank" class="job">Фотограф-стилист</a></td>
+<td>29 800</td>
+<td>34 625</td>
+<td>41 615</td>
+<td>40 500</td>
+<td>50 000</td>
+<td>55 300</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2299&lang=0" target="_blank" class="job">Шеф-редактор</a></td>
+<td>43 000</td>
+<td>49 000</td>
+<td>56 643</td>
+<td>60 000</td>
+<td>64 250</td>
+<td>67 600</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>29 650</td>
+<td>34 925</td>
+<td>45 056</td>
+<td>37 150</td>
+<td>58 063</td>
+<td>73 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт-директор</a></td>
+<td>111 600</td>
+<td>126 433</td>
+<td>164 931</td>
+<td>159 000</td>
+<td>186 325</td>
+<td>225 890</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2212&lang=0" target="_blank" class="job">Артист балета</a></td>
+<td>20 800</td>
+<td>25 800</td>
+<td>30 178</td>
+<td>28 800</td>
+<td>34 500</td>
+<td>40 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2642&lang=0" target="_blank" class="job">Ассистент графического дизайнера</a></td>
+<td>24 661</td>
+<td>27 990</td>
+<td>35 606</td>
+<td>34 984</td>
+<td>39 667</td>
+<td>50 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>52 700</td>
+<td>69 525</td>
+<td>100 250</td>
+<td>97 850</td>
+<td>121 031</td>
+<td>143 850</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2636&lang=0" target="_blank" class="job">Ведущий графический дизайнер</a></td>
+<td>88 347</td>
+<td>103 184</td>
+<td>122 252</td>
+<td>111 683</td>
+<td>148 942</td>
+<td>163 317</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1274&lang=0" target="_blank" class="job">Верстальщик</a></td>
+<td>30 450</td>
+<td>36 000</td>
+<td>47 303</td>
+<td>48 550</td>
+<td>60 000</td>
+<td>60 050</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td>51 980</td>
+<td>65 602</td>
+<td>86 895</td>
+<td>93 400</td>
+<td>109 392</td>
+<td>112 623</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2635&lang=0" target="_blank" class="job">Дизайнер-оформитель</a></td>
+<td>30 135</td>
+<td>37 250</td>
+<td>40 782</td>
+<td>40 500</td>
+<td>44 250</td>
+<td>52 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2439&lang=0" target="_blank" class="job">Звукорежиссер</a></td>
+<td>33 205</td>
+<td>34 860</td>
+<td>50 412</td>
+<td>40 375</td>
+<td>51 050</td>
+<td>88 560</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>38 153</td>
+<td>44 084</td>
+<td>54 847</td>
+<td>53 542</td>
+<td>63 334</td>
+<td>74 467</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2190&lang=0" target="_blank" class="job">Корреспондент</a></td>
+<td>23 480</td>
+<td>29 000</td>
+<td>40 295</td>
+<td>37 375</td>
+<td>48 500</td>
+<td>60 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1432&lang=0" target="_blank" class="job">Креативный директор</a></td>
+<td>80 000</td>
+<td>83 000</td>
+<td>108 988</td>
+<td>90 000</td>
+<td>144 000</td>
+<td>165 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1435&lang=0" target="_blank" class="job">Медиа-байер</a></td>
+<td>45 880</td>
+<td>50 942</td>
+<td>73 919</td>
+<td>58 500</td>
+<td>93 775</td>
+<td>119 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1436&lang=0" target="_blank" class="job">Медиа-планер</a></td>
+<td>39 895</td>
+<td>45 763</td>
+<td>54 363</td>
+<td>57 450</td>
+<td>62 892</td>
+<td>68 383</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2379&lang=0" target="_blank" class="job">Музыкант</a></td>
+<td>19 600</td>
+<td>21 325</td>
+<td>30 560</td>
+<td>27 500</td>
+<td>35 750</td>
+<td>45 880</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2378&lang=0" target="_blank" class="job">Певец</a></td>
+<td>17 515</td>
+<td>26 338</td>
+<td>33 725</td>
+<td>31 750</td>
+<td>36 990</td>
+<td>53 730</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1691&lang=0" target="_blank" class="job">Пресс-секретарь</a></td>
+<td>42 880</td>
+<td>48 717</td>
+<td>57 869</td>
+<td>53 100</td>
+<td>59 696</td>
+<td>76 173</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2098&lang=0" target="_blank" class="job">Продюсер</a></td>
+<td>35 900</td>
+<td>41 100</td>
+<td>54 859</td>
+<td>47 040</td>
+<td>69 000</td>
+<td>84 750</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2208&lang=0" target="_blank" class="job">Редактор радиовещания</a></td>
+<td>26 990</td>
+<td>31 413</td>
+<td>46 483</td>
+<td>39 950</td>
+<td>59 363</td>
+<td>70 320</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2657&lang=0" target="_blank" class="job">Ретушер</a></td>
+<td>19 367</td>
+<td>21 725</td>
+<td>29 595</td>
+<td>27 375</td>
+<td>35 850</td>
+<td>46 200</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2333&lang=0" target="_blank" class="job">Солист оперы</a></td>
+<td>85 000</td>
+<td>135 000</td>
+<td>154 523</td>
+<td>173 200</td>
+<td>188 500</td>
+<td>194 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2300&lang=0" target="_blank" class="job">Специалист по GR</a></td>
+<td>60 267</td>
+<td>70 717</td>
+<td>88 279</td>
+<td>82 650</td>
+<td>107 917</td>
+<td>122 847</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2240&lang=0" target="_blank" class="job">Телеоператор</a></td>
+<td>28 410</td>
+<td>33 700</td>
+<td>41 625</td>
+<td>45 400</td>
+<td>50 025</td>
+<td>52 120</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2332&lang=0" target="_blank" class="job">Фотограф</a></td>
+<td>30 000</td>
+<td>34 850</td>
+<td>52 480</td>
+<td>43 030</td>
+<td>63 448</td>
+<td>82 740</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2665&lang=0" target="_blank" class="job">Фотограф-стилист</a></td>
+<td>31 930</td>
+<td>38 500</td>
+<td>47 494</td>
+<td>42 600</td>
+<td>58 550</td>
+<td>67 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2299&lang=0" target="_blank" class="job">Шеф-редактор</a></td>
+<td>53 057</td>
+<td>60 575</td>
+<td>77 450</td>
+<td>73 600</td>
+<td>96 017</td>
+<td>106 800</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 25.11.2019)</p>
+</div>

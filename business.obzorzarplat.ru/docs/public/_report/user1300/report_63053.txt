@@ -1,0 +1,448 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>132 000</td>
+<td>200 300</td>
+<td>326 294</td>
+<td>300 360</td>
+<td>450 000</td>
+<td>569 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>52 120</td>
+<td>60 000</td>
+<td>83 767</td>
+<td>80 000</td>
+<td>95 000</td>
+<td>133 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2678&lang=0" target="_blank" class="job">Директор по закупкам и логистике</a></td>
+<td>118 000</td>
+<td>130 000</td>
+<td>177 750</td>
+<td>190 000</td>
+<td>213 750</td>
+<td>242 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>100 000</td>
+<td>130 000</td>
+<td>166 176</td>
+<td>150 000</td>
+<td>200 000</td>
+<td>258 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>80 000</td>
+<td>87 500</td>
+<td>143 040</td>
+<td>122 500</td>
+<td>185 000</td>
+<td>263 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>90 200</td>
+<td>98 000</td>
+<td>164 990</td>
+<td>170 000</td>
+<td>197 500</td>
+<td>260 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>90 000</td>
+<td>115 000</td>
+<td>170 142</td>
+<td>165 000</td>
+<td>215 000</td>
+<td>280 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>90 000</td>
+<td>107 500</td>
+<td>172 273</td>
+<td>180 000</td>
+<td>225 000</td>
+<td>270 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>28 000</td>
+<td>35 000</td>
+<td>42 201</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>60 500</td>
+<td>68 750</td>
+<td>94 588</td>
+<td>77 500</td>
+<td>122 545</td>
+<td>130 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>27 800</td>
+<td>29 475</td>
+<td>50 645</td>
+<td>37 450</td>
+<td>74 688</td>
+<td>89 400</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>66 268</td>
+<td>66 670</td>
+<td>67 347</td>
+<td>67 340</td>
+<td>68 020</td>
+<td>68 428</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>52 900</td>
+<td>55 750</td>
+<td>69 237</td>
+<td>69 500</td>
+<td>74 125</td>
+<td>95 400</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>55 400</td>
+<td>59 650</td>
+<td>80 077</td>
+<td>83 750</td>
+<td>94 750</td>
+<td>103 300</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>35 000</td>
+<td>39 500</td>
+<td>68 004</td>
+<td>43 065</td>
+<td>87 181</td>
+<td>133 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2686&lang=0" target="_blank" class="job">Региональный менеджер по развитию</a></td>
+<td>50 000</td>
+<td>75 000</td>
+<td>85 309</td>
+<td>90 000</td>
+<td>100 000</td>
+<td>115 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2727&lang=0" target="_blank" class="job">Руководитель группы подбора персонала</a></td>
+<td>36 776</td>
+<td>43 950</td>
+<td>56 089</td>
+<td>57 600</td>
+<td>63 100</td>
+<td>80 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>74 000</td>
+<td>87 500</td>
+<td>117 500</td>
+<td>115 000</td>
+<td>152 500</td>
+<td>163 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>124 500</td>
+<td>145 500</td>
+<td>220 700</td>
+<td>205 000</td>
+<td>285 000</td>
+<td>360 000</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>202 350</td>
+<td>426 240</td>
+<td>654 832</td>
+<td>639 500</td>
+<td>841 000</td>
+<td>1 085 460</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>60 282</td>
+<td>68 100</td>
+<td>95 440</td>
+<td>84 580</td>
+<td>107 050</td>
+<td>160 724</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2678&lang=0" target="_blank" class="job">Директор по закупкам и логистике</a></td>
+<td>148 823</td>
+<td>206 700</td>
+<td>305 380</td>
+<td>303 650</td>
+<td>421 292</td>
+<td>463 487</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>157 400</td>
+<td>200 900</td>
+<td>260 926</td>
+<td>251 100</td>
+<td>315 000</td>
+<td>360 680</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>100 525</td>
+<td>110 438</td>
+<td>184 495</td>
+<td>157 050</td>
+<td>215 150</td>
+<td>338 660</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>112 000</td>
+<td>127 500</td>
+<td>194 704</td>
+<td>186 300</td>
+<td>235 958</td>
+<td>289 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>150 175</td>
+<td>193 834</td>
+<td>317 326</td>
+<td>297 300</td>
+<td>386 334</td>
+<td>525 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>141 000</td>
+<td>186 750</td>
+<td>311 770</td>
+<td>291 500</td>
+<td>346 124</td>
+<td>594 850</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1288&lang=0" target="_blank" class="job">Менеджер проекта</a></td>
+<td>32 000</td>
+<td>39 025</td>
+<td>68 334</td>
+<td>65 000</td>
+<td>77 850</td>
+<td>124 460</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1247&lang=0" target="_blank" class="job">Начальник отдела информационных технологий</a></td>
+<td>90 870</td>
+<td>94 500</td>
+<td>128 462</td>
+<td>118 020</td>
+<td>155 025</td>
+<td>188 400</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>43 100</td>
+<td>47 675</td>
+<td>69 365</td>
+<td>55 750</td>
+<td>87 875</td>
+<td>121 375</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1306&lang=0" target="_blank" class="job">Начальник отдела продаж</a></td>
+<td>145 068</td>
+<td>145 920</td>
+<td>146 513</td>
+<td>147 340</td>
+<td>147 520</td>
+<td>147 628</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>55 716</td>
+<td>70 000</td>
+<td>82 069</td>
+<td>76 396</td>
+<td>91 469</td>
+<td>111 120</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>67 000</td>
+<td>75 750</td>
+<td>92 540</td>
+<td>92 000</td>
+<td>100 900</td>
+<td>129 800</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>40 000</td>
+<td>42 533</td>
+<td>74 851</td>
+<td>60 000</td>
+<td>100 100</td>
+<td>142 039</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2686&lang=0" target="_blank" class="job">Региональный менеджер по развитию</a></td>
+<td>62 570</td>
+<td>81 782</td>
+<td>97 329</td>
+<td>98 721</td>
+<td>114 947</td>
+<td>129 280</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2727&lang=0" target="_blank" class="job">Руководитель группы подбора персонала</a></td>
+<td>46 720</td>
+<td>54 760</td>
+<td>66 618</td>
+<td>65 000</td>
+<td>80 375</td>
+<td>86 780</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>133 890</td>
+<td>151 800</td>
+<td>189 079</td>
+<td>195 900</td>
+<td>215 333</td>
+<td>238 523</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>155 685</td>
+<td>194 529</td>
+<td>286 865</td>
+<td>270 850</td>
+<td>422 312</td>
+<td>439 481</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 08.12.2016)</p>
+</div>

@@ -1,0 +1,748 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2116&lang=0" target="_blank" class="job">Агент по недвижимости</a></td>
+<td>45 100</td>
+<td>51 425</td>
+<td>64 778</td>
+<td>60 950</td>
+<td>79 188</td>
+<td>86 950</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2736&lang=0" target="_blank" class="job">Бухгалтер по аренде</a></td>
+<td>36 750</td>
+<td>40 950</td>
+<td>47 288</td>
+<td>44 950</td>
+<td>51 625</td>
+<td>61 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>39 000</td>
+<td>43 575</td>
+<td>55 394</td>
+<td>53 700</td>
+<td>64 000</td>
+<td>77 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>43 140</td>
+<td>44 100</td>
+<td>48 075</td>
+<td>44 750</td>
+<td>48 475</td>
+<td>58 960</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>42 400</td>
+<td>58 750</td>
+<td>69 250</td>
+<td>67 500</td>
+<td>85 000</td>
+<td>94 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>31 350</td>
+<td>34 625</td>
+<td>41 213</td>
+<td>40 500</td>
+<td>46 525</td>
+<td>53 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1465&lang=0" target="_blank" class="job">Главный инженер по эксплуатации недвижимости</a></td>
+<td>59 150</td>
+<td>65 875</td>
+<td>78 028</td>
+<td>75 550</td>
+<td>87 500</td>
+<td>103 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>35 300</td>
+<td>41 500</td>
+<td>53 156</td>
+<td>51 500</td>
+<td>65 500</td>
+<td>73 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>45 750</td>
+<td>51 750</td>
+<td>55 800</td>
+<td>56 700</td>
+<td>61 875</td>
+<td>64 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>32 500</td>
+<td>37 100</td>
+<td>43 694</td>
+<td>44 750</td>
+<td>50 975</td>
+<td>54 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>39 550</td>
+<td>51 250</td>
+<td>56 438</td>
+<td>57 500</td>
+<td>63 500</td>
+<td>68 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>38 000</td>
+<td>45 000</td>
+<td>51 429</td>
+<td>55 000</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2230&lang=0" target="_blank" class="job">Инженер по слаботочным сетям</a></td>
+<td>40 500</td>
+<td>48 750</td>
+<td>54 167</td>
+<td>52 500</td>
+<td>61 250</td>
+<td>65 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2227&lang=0" target="_blank" class="job">Инженер по техническому надзору</a></td>
+<td>39 500</td>
+<td>41 250</td>
+<td>48 700</td>
+<td>50 000</td>
+<td>51 500</td>
+<td>60 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>43 000</td>
+<td>44 000</td>
+<td>49 727</td>
+<td>50 000</td>
+<td>55 000</td>
+<td>55 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>34 400</td>
+<td>38 750</td>
+<td>48 500</td>
+<td>55 000</td>
+<td>55 000</td>
+<td>56 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2722&lang=0" target="_blank" class="job">Менеджер отдела аренды</a></td>
+<td>33 800</td>
+<td>35 000</td>
+<td>44 747</td>
+<td>40 500</td>
+<td>54 000</td>
+<td>57 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>32 950</td>
+<td>38 025</td>
+<td>51 879</td>
+<td>49 345</td>
+<td>65 000</td>
+<td>74 220</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2715&lang=0" target="_blank" class="job">Менеджер по эксплуатации электрохозяйства</a></td>
+<td>39 200</td>
+<td>41 000</td>
+<td>45 000</td>
+<td>45 000</td>
+<td>47 500</td>
+<td>52 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1460&lang=0" target="_blank" class="job">Начальник отдела жилой недвижимости</a></td>
+<td>54 200</td>
+<td>67 500</td>
+<td>95 429</td>
+<td>90 000</td>
+<td>127 500</td>
+<td>132 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1457&lang=0" target="_blank" class="job">Начальник отдела консалтинга</a></td>
+<td>55 000</td>
+<td>57 500</td>
+<td>64 143</td>
+<td>65 000</td>
+<td>70 000</td>
+<td>71 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1461&lang=0" target="_blank" class="job">Начальник отдела оценки</a></td>
+<td>49 200</td>
+<td>50 000</td>
+<td>56 571</td>
+<td>55 000</td>
+<td>61 500</td>
+<td>65 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1459&lang=0" target="_blank" class="job">Начальник отдела технического аудита</a></td>
+<td>57 600</td>
+<td>58 000</td>
+<td>60 857</td>
+<td>60 000</td>
+<td>64 000</td>
+<td>65 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2115&lang=0" target="_blank" class="job">Оценщик недвижимости</a></td>
+<td>41 120</td>
+<td>44 600</td>
+<td>54 233</td>
+<td>53 800</td>
+<td>62 300</td>
+<td>68 560</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1648&lang=0" target="_blank" class="job">Рабочий по комплексному обслуживанию и ремонту зданий и сооружений </a></td>
+<td>10 140</td>
+<td>14 550</td>
+<td>21 025</td>
+<td>22 500</td>
+<td>27 750</td>
+<td>30 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2713&lang=0" target="_blank" class="job">Руководитель отдела аренды</a></td>
+<td>57 500</td>
+<td>63 375</td>
+<td>71 775</td>
+<td>74 500</td>
+<td>80 600</td>
+<td>84 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>60 750</td>
+<td>68 250</td>
+<td>77 833</td>
+<td>77 750</td>
+<td>88 000</td>
+<td>95 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1463&lang=0" target="_blank" class="job">Руководитель службы эксплуатации недвижимости</a></td>
+<td>55 000</td>
+<td>58 750</td>
+<td>81 500</td>
+<td>72 500</td>
+<td>102 000</td>
+<td>118 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1458&lang=0" target="_blank" class="job">Специалист отдела консалтинга</a></td>
+<td>29 200</td>
+<td>32 500</td>
+<td>39 000</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>47 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1453&lang=0" target="_blank" class="job">Специалист отдела управления</a></td>
+<td>34 200</td>
+<td>35 000</td>
+<td>41 857</td>
+<td>40 000</td>
+<td>47 500</td>
+<td>52 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2226&lang=0" target="_blank" class="job">Специалист по регистрационной работе</a></td>
+<td>43 400</td>
+<td>45 000</td>
+<td>52 286</td>
+<td>50 000</td>
+<td>57 500</td>
+<td>64 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1468&lang=0" target="_blank" class="job">Техник по эксплуатации недвижимости</a></td>
+<td>33 200</td>
+<td>36 925</td>
+<td>42 588</td>
+<td>42 950</td>
+<td>47 975</td>
+<td>52 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>30 960</td>
+<td>34 000</td>
+<td>38 733</td>
+<td>38 000</td>
+<td>44 000</td>
+<td>48 820</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1452&lang=0" target="_blank" class="job">Управляющий торговым центром</a></td>
+<td>75 000</td>
+<td>77 500</td>
+<td>100 909</td>
+<td>90 000</td>
+<td>120 000</td>
+<td>140 000</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2116&lang=0" target="_blank" class="job">Агент по недвижимости</a></td>
+<td>73 384</td>
+<td>101 136</td>
+<td>149 930</td>
+<td>155 613</td>
+<td>198 963</td>
+<td>229 750</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2736&lang=0" target="_blank" class="job">Бухгалтер по аренде</a></td>
+<td>41 688</td>
+<td>47 775</td>
+<td>56 350</td>
+<td>54 708</td>
+<td>64 386</td>
+<td>72 875</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>52 350</td>
+<td>61 050</td>
+<td>83 444</td>
+<td>81 150</td>
+<td>100 867</td>
+<td>121 659</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>53 760</td>
+<td>55 725</td>
+<td>63 425</td>
+<td>59 950</td>
+<td>72 750</td>
+<td>75 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>59 100</td>
+<td>74 325</td>
+<td>79 642</td>
+<td>78 750</td>
+<td>91 125</td>
+<td>96 450</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>38 896</td>
+<td>41 160</td>
+<td>49 041</td>
+<td>48 177</td>
+<td>54 571</td>
+<td>63 967</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1465&lang=0" target="_blank" class="job">Главный инженер по эксплуатации недвижимости</a></td>
+<td>68 950</td>
+<td>84 725</td>
+<td>103 926</td>
+<td>101 709</td>
+<td>129 092</td>
+<td>141 167</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>44 184</td>
+<td>54 333</td>
+<td>74 169</td>
+<td>72 217</td>
+<td>88 908</td>
+<td>105 833</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>57 479</td>
+<td>69 346</td>
+<td>75 285</td>
+<td>76 204</td>
+<td>84 500</td>
+<td>90 609</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>41 908</td>
+<td>44 100</td>
+<td>55 071</td>
+<td>51 900</td>
+<td>68 231</td>
+<td>71 634</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>54 450</td>
+<td>64 875</td>
+<td>70 063</td>
+<td>72 000</td>
+<td>77 750</td>
+<td>80 450</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>52 600</td>
+<td>61 917</td>
+<td>69 417</td>
+<td>72 000</td>
+<td>79 042</td>
+<td>87 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2230&lang=0" target="_blank" class="job">Инженер по слаботочным сетям</a></td>
+<td>54 150</td>
+<td>56 025</td>
+<td>64 933</td>
+<td>68 000</td>
+<td>71 275</td>
+<td>73 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2227&lang=0" target="_blank" class="job">Инженер по техническому надзору</a></td>
+<td>55 100</td>
+<td>58 500</td>
+<td>63 580</td>
+<td>61 000</td>
+<td>70 875</td>
+<td>71 770</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>53 000</td>
+<td>55 000</td>
+<td>58 109</td>
+<td>59 000</td>
+<td>61 250</td>
+<td>61 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>42 000</td>
+<td>48 750</td>
+<td>63 313</td>
+<td>65 750</td>
+<td>77 375</td>
+<td>82 550</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2722&lang=0" target="_blank" class="job">Менеджер отдела аренды</a></td>
+<td>44 140</td>
+<td>61 500</td>
+<td>72 721</td>
+<td>78 000</td>
+<td>85 500</td>
+<td>90 792</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>44 735</td>
+<td>54 152</td>
+<td>69 922</td>
+<td>67 742</td>
+<td>81 884</td>
+<td>100 462</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2715&lang=0" target="_blank" class="job">Менеджер по эксплуатации электрохозяйства</a></td>
+<td>58 500</td>
+<td>60 000</td>
+<td>60 643</td>
+<td>60 500</td>
+<td>61 750</td>
+<td>62 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1460&lang=0" target="_blank" class="job">Начальник отдела жилой недвижимости</a></td>
+<td>87 100</td>
+<td>91 000</td>
+<td>125 929</td>
+<td>110 500</td>
+<td>166 500</td>
+<td>171 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1457&lang=0" target="_blank" class="job">Начальник отдела консалтинга</a></td>
+<td>74 920</td>
+<td>75 750</td>
+<td>80 943</td>
+<td>82 500</td>
+<td>85 650</td>
+<td>86 080</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1461&lang=0" target="_blank" class="job">Начальник отдела оценки</a></td>
+<td>67 300</td>
+<td>68 500</td>
+<td>71 143</td>
+<td>70 500</td>
+<td>72 500</td>
+<td>75 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1459&lang=0" target="_blank" class="job">Начальник отдела технического аудита</a></td>
+<td>71 920</td>
+<td>72 750</td>
+<td>74 071</td>
+<td>74 000</td>
+<td>75 500</td>
+<td>76 080</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2115&lang=0" target="_blank" class="job">Оценщик недвижимости</a></td>
+<td>48 097</td>
+<td>60 775</td>
+<td>72 136</td>
+<td>74 367</td>
+<td>82 892</td>
+<td>89 903</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1648&lang=0" target="_blank" class="job">Рабочий по комплексному обслуживанию и ремонту зданий и сооружений </a></td>
+<td>22 900</td>
+<td>23 650</td>
+<td>28 573</td>
+<td>28 500</td>
+<td>32 000</td>
+<td>34 814</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2713&lang=0" target="_blank" class="job">Руководитель отдела аренды</a></td>
+<td>82 384</td>
+<td>87 446</td>
+<td>91 618</td>
+<td>91 184</td>
+<td>95 600</td>
+<td>101 279</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>100 709</td>
+<td>106 427</td>
+<td>139 313</td>
+<td>122 729</td>
+<td>170 875</td>
+<td>194 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1463&lang=0" target="_blank" class="job">Руководитель службы эксплуатации недвижимости</a></td>
+<td>75 600</td>
+<td>76 500</td>
+<td>103 239</td>
+<td>93 750</td>
+<td>134 000</td>
+<td>135 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1458&lang=0" target="_blank" class="job">Специалист отдела консалтинга</a></td>
+<td>49 720</td>
+<td>55 750</td>
+<td>59 471</td>
+<td>60 500</td>
+<td>67 000</td>
+<td>68 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1453&lang=0" target="_blank" class="job">Специалист отдела управления</a></td>
+<td>41 500</td>
+<td>41 750</td>
+<td>50 929</td>
+<td>52 000</td>
+<td>58 750</td>
+<td>62 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2226&lang=0" target="_blank" class="job">Специалист по регистрационной работе</a></td>
+<td>52 500</td>
+<td>58 850</td>
+<td>76 286</td>
+<td>76 500</td>
+<td>94 150</td>
+<td>102 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1468&lang=0" target="_blank" class="job">Техник по эксплуатации недвижимости</a></td>
+<td>39 784</td>
+<td>45 410</td>
+<td>56 431</td>
+<td>53 871</td>
+<td>63 639</td>
+<td>78 892</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>37 210</td>
+<td>40 959</td>
+<td>52 424</td>
+<td>53 017</td>
+<td>60 050</td>
+<td>66 953</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1452&lang=0" target="_blank" class="job">Управляющий торговым центром</a></td>
+<td>112 000</td>
+<td>119 750</td>
+<td>147 813</td>
+<td>140 500</td>
+<td>164 223</td>
+<td>205 500</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 15.08.2019)</p>
+</div>

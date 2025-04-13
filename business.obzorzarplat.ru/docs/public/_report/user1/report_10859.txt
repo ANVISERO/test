@@ -1,0 +1,488 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>13 066</td>
+<td>19 309</td>
+<td>36 297</td>
+<td>33 355</td>
+<td>47 121</td>
+<td>59 483</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт-директор</a></td>
+<td>45 977</td>
+<td>50 287</td>
+<td>65 129</td>
+<td>57 471</td>
+<td>83 739</td>
+<td>100 124</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2212&lang=0" target="_blank" class="job">Артист балета</a></td>
+<td>14 368</td>
+<td>17 962</td>
+<td>22 645</td>
+<td>22 989</td>
+<td>28 207</td>
+<td>33 597</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Брэнд-менеджер</a></td>
+<td>34 272</td>
+<td>45 337</td>
+<td>50 412</td>
+<td>51 724</td>
+<td>61 549</td>
+<td>63 218</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1274&lang=0" target="_blank" class="job">Верстальщик</a></td>
+<td>20 888</td>
+<td>24 450</td>
+<td>27 852</td>
+<td>29 777</td>
+<td>32 184</td>
+<td>34 641</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td>23 138</td>
+<td>24 483</td>
+<td>34 296</td>
+<td>32 441</td>
+<td>34 483</td>
+<td>49 820</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>22 255</td>
+<td>23 515</td>
+<td>26 908</td>
+<td>28 736</td>
+<td>29 885</td>
+<td>32 064</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2190&lang=0" target="_blank" class="job">Корреспондент</a></td>
+<td>17 026</td>
+<td>17 241</td>
+<td>20 900</td>
+<td>22 989</td>
+<td>25 287</td>
+<td>27 296</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1432&lang=0" target="_blank" class="job">Креативный директор</a></td>
+<td>13 356</td>
+<td>27 977</td>
+<td>51 869</td>
+<td>57 471</td>
+<td>67 087</td>
+<td>77 927</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2379&lang=0" target="_blank" class="job">Музыкант</a></td>
+<td>12 681</td>
+<td>17 684</td>
+<td>21 462</td>
+<td>22 989</td>
+<td>23 690</td>
+<td>31 026</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2378&lang=0" target="_blank" class="job">Певец</a></td>
+<td>12 732</td>
+<td>20 469</td>
+<td>26 228</td>
+<td>23 525</td>
+<td>32 798</td>
+<td>38 370</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1438&lang=0" target="_blank" class="job">Представитель клиентской службы</a></td>
+<td>20 072</td>
+<td>28 718</td>
+<td>34 906</td>
+<td>39 037</td>
+<td>44 224</td>
+<td>47 352</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1691&lang=0" target="_blank" class="job">Пресс-секретарь</a></td>
+<td>29 113</td>
+<td>32 184</td>
+<td>34 833</td>
+<td>36 207</td>
+<td>38 903</td>
+<td>42 152</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2098&lang=0" target="_blank" class="job">Продюсер</a></td>
+<td>37 924</td>
+<td>46 739</td>
+<td>49 816</td>
+<td>51 724</td>
+<td>54 537</td>
+<td>64 071</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2208&lang=0" target="_blank" class="job">Редактор радиовещания</a></td>
+<td>36 575</td>
+<td>47 877</td>
+<td>57 576</td>
+<td>57 299</td>
+<td>71 128</td>
+<td>82 519</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1437&lang=0" target="_blank" class="job">Руководитель клиентской службы</a></td>
+<td>64 031</td>
+<td>69 832</td>
+<td>77 986</td>
+<td>80 460</td>
+<td>87 708</td>
+<td>97 178</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2333&lang=0" target="_blank" class="job">Солист оперы</a></td>
+<td>75 057</td>
+<td>101 916</td>
+<td>125 505</td>
+<td>114 948</td>
+<td>156 943</td>
+<td>189 236</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2300&lang=0" target="_blank" class="job">Специалист по GR</a></td>
+<td>36 676</td>
+<td>40 387</td>
+<td>45 026</td>
+<td>47 778</td>
+<td>49 701</td>
+<td>55 031</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2240&lang=0" target="_blank" class="job">Телеоператор</a></td>
+<td>24 724</td>
+<td>29 655</td>
+<td>32 476</td>
+<td>33 820</td>
+<td>36 627</td>
+<td>41 769</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2332&lang=0" target="_blank" class="job">Фотограф</a></td>
+<td>22 989</td>
+<td>26 002</td>
+<td>32 020</td>
+<td>30 460</td>
+<td>35 862</td>
+<td>46 290</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2299&lang=0" target="_blank" class="job">Шеф-редактор</a></td>
+<td>42 938</td>
+<td>46 475</td>
+<td>51 813</td>
+<td>52 376</td>
+<td>58 621</td>
+<td>64 110</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>13 066</td>
+<td>19 309</td>
+<td>47 045</td>
+<td>37 766</td>
+<td>69 655</td>
+<td>87 457</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт-директор</a></td>
+<td>60 705</td>
+<td>77 586</td>
+<td>122 992</td>
+<td>105 341</td>
+<td>165 681</td>
+<td>217 177</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2212&lang=0" target="_blank" class="job">Артист балета</a></td>
+<td>14 368</td>
+<td>17 962</td>
+<td>22 645</td>
+<td>22 989</td>
+<td>28 207</td>
+<td>33 597</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Брэнд-менеджер</a></td>
+<td>41 513</td>
+<td>55 693</td>
+<td>62 866</td>
+<td>63 218</td>
+<td>76 635</td>
+<td>81 392</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1274&lang=0" target="_blank" class="job">Верстальщик</a></td>
+<td>20 888</td>
+<td>26 110</td>
+<td>34 741</td>
+<td>36 430</td>
+<td>42 798</td>
+<td>48 322</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td>23 138</td>
+<td>24 483</td>
+<td>48 229</td>
+<td>38 533</td>
+<td>61 528</td>
+<td>86 900</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>22 255</td>
+<td>23 515</td>
+<td>32 627</td>
+<td>35 764</td>
+<td>38 685</td>
+<td>44 154</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2190&lang=0" target="_blank" class="job">Корреспондент</a></td>
+<td>17 323</td>
+<td>19 540</td>
+<td>26 164</td>
+<td>25 287</td>
+<td>32 191</td>
+<td>36 337</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1432&lang=0" target="_blank" class="job">Креативный директор</a></td>
+<td>13 356</td>
+<td>51 529</td>
+<td>94 124</td>
+<td>105 085</td>
+<td>128 702</td>
+<td>144 308</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2379&lang=0" target="_blank" class="job">Музыкант</a></td>
+<td>13 202</td>
+<td>20 833</td>
+<td>30 692</td>
+<td>32 825</td>
+<td>37 404</td>
+<td>48 537</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2378&lang=0" target="_blank" class="job">Певец</a></td>
+<td>13 360</td>
+<td>23 618</td>
+<td>37 338</td>
+<td>35 314</td>
+<td>49 305</td>
+<td>60 706</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1438&lang=0" target="_blank" class="job">Представитель клиентской службы</a></td>
+<td>22 728</td>
+<td>50 675</td>
+<td>80 963</td>
+<td>91 628</td>
+<td>110 776</td>
+<td>123 531</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1691&lang=0" target="_blank" class="job">Пресс-секретарь</a></td>
+<td>29 361</td>
+<td>32 951</td>
+<td>37 966</td>
+<td>39 883</td>
+<td>43 954</td>
+<td>47 611</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2098&lang=0" target="_blank" class="job">Продюсер</a></td>
+<td>37 924</td>
+<td>46 739</td>
+<td>49 816</td>
+<td>51 724</td>
+<td>54 537</td>
+<td>64 071</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2208&lang=0" target="_blank" class="job">Редактор радиовещания</a></td>
+<td>73 598</td>
+<td>89 067</td>
+<td>115 361</td>
+<td>109 195</td>
+<td>134 491</td>
+<td>164 474</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1437&lang=0" target="_blank" class="job">Руководитель клиентской службы</a></td>
+<td>64 031</td>
+<td>71 556</td>
+<td>88 182</td>
+<td>92 230</td>
+<td>104 937</td>
+<td>117 428</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2333&lang=0" target="_blank" class="job">Солист оперы</a></td>
+<td>91 073</td>
+<td>147 893</td>
+<td>184 123</td>
+<td>172 047</td>
+<td>237 403</td>
+<td>283 731</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2300&lang=0" target="_blank" class="job">Специалист по GR</a></td>
+<td>42 423</td>
+<td>46 411</td>
+<td>52 445</td>
+<td>54 675</td>
+<td>58 979</td>
+<td>65 970</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2240&lang=0" target="_blank" class="job">Телеоператор</a></td>
+<td>27 972</td>
+<td>34 720</td>
+<td>38 500</td>
+<td>40 490</td>
+<td>44 052</td>
+<td>49 919</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2332&lang=0" target="_blank" class="job">Фотограф</a></td>
+<td>34 943</td>
+<td>41 519</td>
+<td>51 245</td>
+<td>51 681</td>
+<td>58 851</td>
+<td>74 082</td>
+<td>4 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2299&lang=0" target="_blank" class="job">Шеф-редактор</a></td>
+<td>56 042</td>
+<td>61 503</td>
+<td>70 320</td>
+<td>69 617</td>
+<td>81 764</td>
+<td>89 167</td>
+<td>4 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 25.03.2014)</p>
+</div>

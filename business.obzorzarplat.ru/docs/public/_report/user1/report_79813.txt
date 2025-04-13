@@ -1,0 +1,748 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2103&lang=0" target="_blank" class="job">Боец (вневедомственная охрана)</a></td>
+<td>30 780</td>
+<td>33 722</td>
+<td>41 088</td>
+<td>42 500</td>
+<td>50 955</td>
+<td>52 700</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1917&lang=0" target="_blank" class="job">Вахтер</a></td>
+<td>16 450</td>
+<td>18 225</td>
+<td>22 418</td>
+<td>21 950</td>
+<td>27 332</td>
+<td>32 100</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1403&lang=0" target="_blank" class="job">Водитель-телохранитель</a></td>
+<td>29 860</td>
+<td>34 125</td>
+<td>41 915</td>
+<td>42 150</td>
+<td>51 604</td>
+<td>58 860</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1762&lang=0" target="_blank" class="job">Дежурный бюро пропусков</a></td>
+<td>13 950</td>
+<td>15 516</td>
+<td>18 743</td>
+<td>17 750</td>
+<td>22 792</td>
+<td>26 750</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1928&lang=0" target="_blank" class="job">Директор по предотвращению потерь</a></td>
+<td>107 685</td>
+<td>116 250</td>
+<td>140 618</td>
+<td>142 700</td>
+<td>172 857</td>
+<td>183 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1448&lang=0" target="_blank" class="job">Инкассатор</a></td>
+<td>24 806</td>
+<td>26 947</td>
+<td>30 086</td>
+<td>30 600</td>
+<td>34 950</td>
+<td>37 140</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1741&lang=0" target="_blank" class="job">Инспектор отдела внутреннего контроля</a></td>
+<td>26 411</td>
+<td>29 650</td>
+<td>35 266</td>
+<td>34 800</td>
+<td>38 888</td>
+<td>49 070</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>25 355</td>
+<td>27 625</td>
+<td>32 313</td>
+<td>31 250</td>
+<td>39 141</td>
+<td>44 250</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2449&lang=0" target="_blank" class="job">Комендант</a></td>
+<td>27 920</td>
+<td>30 967</td>
+<td>37 790</td>
+<td>38 613</td>
+<td>46 625</td>
+<td>49 147</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1353&lang=0" target="_blank" class="job">Контролер (охранник)</a></td>
+<td>17 550</td>
+<td>22 366</td>
+<td>26 897</td>
+<td>28 564</td>
+<td>32 798</td>
+<td>36 050</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1538&lang=0" target="_blank" class="job">Контролер КПП</a></td>
+<td>12 900</td>
+<td>15 433</td>
+<td>18 560</td>
+<td>19 222</td>
+<td>22 671</td>
+<td>24 550</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1354&lang=0" target="_blank" class="job">Контролер торгового зала</a></td>
+<td>22 438</td>
+<td>24 500</td>
+<td>29 787</td>
+<td>31 000</td>
+<td>36 100</td>
+<td>37 850</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2872&lang=0" target="_blank" class="job">Личный охранник</a></td>
+<td>40 274</td>
+<td>46 089</td>
+<td>52 501</td>
+<td>52 500</td>
+<td>61 453</td>
+<td>69 581</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1742&lang=0" target="_blank" class="job">Начальник гарантийного отдела</a></td>
+<td>44 500</td>
+<td>49 828</td>
+<td>60 390</td>
+<td>60 500</td>
+<td>74 320</td>
+<td>81 150</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1706&lang=0" target="_blank" class="job">Начальник оперативной службы</a></td>
+<td>39 730</td>
+<td>43 882</td>
+<td>52 771</td>
+<td>55 215</td>
+<td>63 700</td>
+<td>65 597</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1739&lang=0" target="_blank" class="job">Начальник отдела внутреннего контроля</a></td>
+<td>31 935</td>
+<td>35 992</td>
+<td>41 526</td>
+<td>41 300</td>
+<td>50 315</td>
+<td>54 540</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>70 400</td>
+<td>78 828</td>
+<td>97 740</td>
+<td>93 000</td>
+<td>121 390</td>
+<td>139 027</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1738&lang=0" target="_blank" class="job">Начальник отдела кассовых операций</a></td>
+<td>41 006</td>
+<td>45 000</td>
+<td>50 524</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>64 636</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1351&lang=0" target="_blank" class="job">Начальник службы безопасности</a></td>
+<td>47 420</td>
+<td>62 909</td>
+<td>78 400</td>
+<td>75 200</td>
+<td>95 130</td>
+<td>117 783</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2155&lang=0" target="_blank" class="job">Оперативный дежурный</a></td>
+<td>25 600</td>
+<td>28 871</td>
+<td>35 039</td>
+<td>35 300</td>
+<td>42 794</td>
+<td>48 500</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1756&lang=0" target="_blank" class="job">Оператор пульта технических средств охраны и пожарной сигнализации</a></td>
+<td>21 277</td>
+<td>23 754</td>
+<td>27 055</td>
+<td>27 750</td>
+<td>31 200</td>
+<td>34 629</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2253&lang=0" target="_blank" class="job">Охранник</a></td>
+<td>22 830</td>
+<td>25 207</td>
+<td>31 875</td>
+<td>30 265</td>
+<td>39 457</td>
+<td>46 084</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2198&lang=0" target="_blank" class="job">Пожарный</a></td>
+<td>21 300</td>
+<td>25 088</td>
+<td>30 378</td>
+<td>31 250</td>
+<td>37 331</td>
+<td>40 840</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1743&lang=0" target="_blank" class="job">Сервисный консультант</a></td>
+<td>26 719</td>
+<td>28 875</td>
+<td>33 603</td>
+<td>34 700</td>
+<td>39 625</td>
+<td>42 820</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1402&lang=0" target="_blank" class="job">Сотрудник службы безопасности</a></td>
+<td>31 620</td>
+<td>36 684</td>
+<td>44 116</td>
+<td>44 620</td>
+<td>54 039</td>
+<td>59 628</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2237&lang=0" target="_blank" class="job">Спасатель</a></td>
+<td>20 750</td>
+<td>23 588</td>
+<td>28 528</td>
+<td>30 600</td>
+<td>34 875</td>
+<td>36 020</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>28 250</td>
+<td>30 718</td>
+<td>37 132</td>
+<td>38 750</td>
+<td>44 375</td>
+<td>48 901</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2165&lang=0" target="_blank" class="job">Специалист по безопасности</a></td>
+<td>34 200</td>
+<td>37 857</td>
+<td>45 834</td>
+<td>47 600</td>
+<td>56 297</td>
+<td>59 340</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1740&lang=0" target="_blank" class="job">Старший инспектор отдела внутреннего контроля</a></td>
+<td>30 900</td>
+<td>34 409</td>
+<td>41 380</td>
+<td>43 541</td>
+<td>49 625</td>
+<td>51 891</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1539&lang=0" target="_blank" class="job">Старший контролер</a></td>
+<td>22 386</td>
+<td>24 387</td>
+<td>27 871</td>
+<td>27 500</td>
+<td>33 550</td>
+<td>36 684</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2113&lang=0" target="_blank" class="job">Старший охранник</a></td>
+<td>28 000</td>
+<td>33 961</td>
+<td>41 821</td>
+<td>44 000</td>
+<td>52 297</td>
+<td>59 080</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2741&lang=0" target="_blank" class="job">Старший специалист по информационной безопасности</a></td>
+<td>55 735</td>
+<td>60 864</td>
+<td>70 893</td>
+<td>72 750</td>
+<td>83 750</td>
+<td>90 940</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1620&lang=0" target="_blank" class="job">Сторож</a></td>
+<td>15 600</td>
+<td>18 282</td>
+<td>22 514</td>
+<td>23 600</td>
+<td>28 153</td>
+<td>30 200</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2117&lang=0" target="_blank" class="job">Стрелок (охранник)</a></td>
+<td>19 458</td>
+<td>22 000</td>
+<td>26 220</td>
+<td>28 000</td>
+<td>32 500</td>
+<td>32 958</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2103&lang=0" target="_blank" class="job">Боец (вневедомственная охрана)</a></td>
+<td>37 583</td>
+<td>40 419</td>
+<td>49 591</td>
+<td>50 313</td>
+<td>60 913</td>
+<td>64 922</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1917&lang=0" target="_blank" class="job">Вахтер</a></td>
+<td>18 010</td>
+<td>21 314</td>
+<td>25 814</td>
+<td>24 575</td>
+<td>31 435</td>
+<td>37 275</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1403&lang=0" target="_blank" class="job">Водитель-телохранитель</a></td>
+<td>34 540</td>
+<td>42 567</td>
+<td>55 740</td>
+<td>54 030</td>
+<td>69 174</td>
+<td>83 668</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1762&lang=0" target="_blank" class="job">Дежурный бюро пропусков</a></td>
+<td>15 050</td>
+<td>17 912</td>
+<td>21 656</td>
+<td>21 765</td>
+<td>26 356</td>
+<td>30 250</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1928&lang=0" target="_blank" class="job">Директор по предотвращению потерь</a></td>
+<td>132 535</td>
+<td>170 067</td>
+<td>227 883</td>
+<td>227 499</td>
+<td>299 104</td>
+<td>319 867</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1448&lang=0" target="_blank" class="job">Инкассатор</a></td>
+<td>34 930</td>
+<td>35 763</td>
+<td>43 102</td>
+<td>39 950</td>
+<td>52 209</td>
+<td>61 387</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1741&lang=0" target="_blank" class="job">Инспектор отдела внутреннего контроля</a></td>
+<td>31 892</td>
+<td>36 413</td>
+<td>42 008</td>
+<td>41 000</td>
+<td>47 720</td>
+<td>58 451</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>29 860</td>
+<td>34 484</td>
+<td>42 218</td>
+<td>42 146</td>
+<td>51 614</td>
+<td>59 275</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2449&lang=0" target="_blank" class="job">Комендант</a></td>
+<td>33 620</td>
+<td>35 800</td>
+<td>44 669</td>
+<td>45 186</td>
+<td>55 786</td>
+<td>57 623</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1353&lang=0" target="_blank" class="job">Контролер (охранник)</a></td>
+<td>22 350</td>
+<td>25 657</td>
+<td>30 854</td>
+<td>32 250</td>
+<td>36 888</td>
+<td>40 951</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1538&lang=0" target="_blank" class="job">Контролер КПП</a></td>
+<td>14 806</td>
+<td>18 580</td>
+<td>22 032</td>
+<td>23 284</td>
+<td>25 907</td>
+<td>29 563</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1354&lang=0" target="_blank" class="job">Контролер торгового зала</a></td>
+<td>29 181</td>
+<td>31 300</td>
+<td>36 825</td>
+<td>38 017</td>
+<td>42 880</td>
+<td>47 824</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2872&lang=0" target="_blank" class="job">Личный охранник</a></td>
+<td>59 975</td>
+<td>70 015</td>
+<td>72 915</td>
+<td>74 409</td>
+<td>80 020</td>
+<td>90 330</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1742&lang=0" target="_blank" class="job">Начальник гарантийного отдела</a></td>
+<td>45 790</td>
+<td>59 487</td>
+<td>72 991</td>
+<td>74 563</td>
+<td>90 147</td>
+<td>106 163</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1706&lang=0" target="_blank" class="job">Начальник оперативной службы</a></td>
+<td>43 649</td>
+<td>50 016</td>
+<td>58 611</td>
+<td>61 531</td>
+<td>70 846</td>
+<td>72 978</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1739&lang=0" target="_blank" class="job">Начальник отдела внутреннего контроля</a></td>
+<td>39 563</td>
+<td>43 888</td>
+<td>53 323</td>
+<td>53 125</td>
+<td>64 591</td>
+<td>75 600</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2740&lang=0" target="_blank" class="job">Начальник отдела информационной безопасности</a></td>
+<td>107 301</td>
+<td>121 074</td>
+<td>135 910</td>
+<td>138 217</td>
+<td>152 667</td>
+<td>171 577</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1738&lang=0" target="_blank" class="job">Начальник отдела кассовых операций</a></td>
+<td>46 400</td>
+<td>53 130</td>
+<td>65 427</td>
+<td>66 000</td>
+<td>81 816</td>
+<td>94 293</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1351&lang=0" target="_blank" class="job">Начальник службы безопасности</a></td>
+<td>59 520</td>
+<td>81 149</td>
+<td>102 481</td>
+<td>102 100</td>
+<td>137 294</td>
+<td>152 859</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2155&lang=0" target="_blank" class="job">Оперативный дежурный</a></td>
+<td>30 013</td>
+<td>34 827</td>
+<td>42 362</td>
+<td>42 638</td>
+<td>52 322</td>
+<td>58 937</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1756&lang=0" target="_blank" class="job">Оператор пульта технических средств охраны и пожарной сигнализации</a></td>
+<td>22 393</td>
+<td>26 109</td>
+<td>30 205</td>
+<td>31 109</td>
+<td>34 925</td>
+<td>38 690</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2253&lang=0" target="_blank" class="job">Охранник</a></td>
+<td>26 867</td>
+<td>31 339</td>
+<td>38 524</td>
+<td>37 434</td>
+<td>47 032</td>
+<td>56 056</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2198&lang=0" target="_blank" class="job">Пожарный</a></td>
+<td>26 630</td>
+<td>31 014</td>
+<td>37 619</td>
+<td>40 400</td>
+<td>46 033</td>
+<td>48 810</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1743&lang=0" target="_blank" class="job">Сервисный консультант</a></td>
+<td>30 243</td>
+<td>34 510</td>
+<td>42 262</td>
+<td>43 071</td>
+<td>52 128</td>
+<td>57 663</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1402&lang=0" target="_blank" class="job">Сотрудник службы безопасности</a></td>
+<td>35 705</td>
+<td>43 222</td>
+<td>51 978</td>
+<td>51 850</td>
+<td>63 785</td>
+<td>70 788</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2237&lang=0" target="_blank" class="job">Спасатель</a></td>
+<td>25 295</td>
+<td>30 009</td>
+<td>35 233</td>
+<td>37 850</td>
+<td>41 203</td>
+<td>44 842</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>32 920</td>
+<td>36 686</td>
+<td>44 118</td>
+<td>45 017</td>
+<td>52 800</td>
+<td>59 823</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2165&lang=0" target="_blank" class="job">Специалист по безопасности</a></td>
+<td>38 913</td>
+<td>46 491</td>
+<td>57 368</td>
+<td>61 796</td>
+<td>70 467</td>
+<td>78 580</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1740&lang=0" target="_blank" class="job">Старший инспектор отдела внутреннего контроля</a></td>
+<td>37 805</td>
+<td>43 487</td>
+<td>52 297</td>
+<td>56 425</td>
+<td>60 742</td>
+<td>64 982</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1539&lang=0" target="_blank" class="job">Старший контролер</a></td>
+<td>28 715</td>
+<td>29 436</td>
+<td>36 383</td>
+<td>37 817</td>
+<td>42 781</td>
+<td>49 601</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2113&lang=0" target="_blank" class="job">Старший охранник</a></td>
+<td>33 593</td>
+<td>39 117</td>
+<td>48 171</td>
+<td>47 000</td>
+<td>60 238</td>
+<td>68 093</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2741&lang=0" target="_blank" class="job">Старший специалист по информационной безопасности</a></td>
+<td>64 096</td>
+<td>75 560</td>
+<td>83 693</td>
+<td>86 375</td>
+<td>98 229</td>
+<td>103 908</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1620&lang=0" target="_blank" class="job">Сторож</a></td>
+<td>18 020</td>
+<td>22 600</td>
+<td>26 724</td>
+<td>27 000</td>
+<td>33 418</td>
+<td>38 380</td>
+<td>3 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2117&lang=0" target="_blank" class="job">Стрелок (охранник)</a></td>
+<td>31 373</td>
+<td>33 100</td>
+<td>43 705</td>
+<td>43 833</td>
+<td>54 653</td>
+<td>64 295</td>
+<td>3 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.12.2017)</p>
+</div>

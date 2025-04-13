@@ -1,0 +1,488 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Краснодар</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1986&lang=0" target="_blank" class="job">Воспитатель</a></td>
+<td>14 830</td>
+<td>18 400</td>
+<td>26 952</td>
+<td>24 117</td>
+<td>34 888</td>
+<td>40 580</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2049&lang=0" target="_blank" class="job">Доцент в ВУЗе</a></td>
+<td>21 687</td>
+<td>27 538</td>
+<td>45 292</td>
+<td>36 680</td>
+<td>53 584</td>
+<td>77 945</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2441&lang=0" target="_blank" class="job">Заведующий детским садом</a></td>
+<td>26 363</td>
+<td>32 763</td>
+<td>46 919</td>
+<td>43 806</td>
+<td>57 400</td>
+<td>69 079</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2390&lang=0" target="_blank" class="job">Заместитель директора школы</a></td>
+<td>22 207</td>
+<td>30 611</td>
+<td>39 368</td>
+<td>35 817</td>
+<td>50 535</td>
+<td>62 036</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2182&lang=0" target="_blank" class="job">Инструктор по вождению</a></td>
+<td>27 877</td>
+<td>30 813</td>
+<td>36 280</td>
+<td>36 818</td>
+<td>42 604</td>
+<td>45 939</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1990&lang=0" target="_blank" class="job">Инструктор по физической культуре</a></td>
+<td>19 074</td>
+<td>21 704</td>
+<td>25 111</td>
+<td>27 465</td>
+<td>29 166</td>
+<td>32 353</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2257&lang=0" target="_blank" class="job">Концертмейстер</a></td>
+<td>17 761</td>
+<td>18 340</td>
+<td>22 091</td>
+<td>22 925</td>
+<td>26 593</td>
+<td>27 635</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>19 660</td>
+<td>22 925</td>
+<td>26 851</td>
+<td>24 759</td>
+<td>32 095</td>
+<td>36 680</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2255&lang=0" target="_blank" class="job">Методист</a></td>
+<td>18 340</td>
+<td>18 799</td>
+<td>25 419</td>
+<td>25 126</td>
+<td>30 237</td>
+<td>36 976</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1991&lang=0" target="_blank" class="job">Музыкальный руководитель</a></td>
+<td>18 510</td>
+<td>21 601</td>
+<td>25 512</td>
+<td>23 475</td>
+<td>32 128</td>
+<td>35 506</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1989&lang=0" target="_blank" class="job">Педагог дополнительного образования</a></td>
+<td>9 124</td>
+<td>13 136</td>
+<td>18 258</td>
+<td>18 395</td>
+<td>24 152</td>
+<td>27 708</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1988&lang=0" target="_blank" class="job">Педагог-психолог</a></td>
+<td>18 554</td>
+<td>19 742</td>
+<td>22 758</td>
+<td>23 209</td>
+<td>26 132</td>
+<td>28 363</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2252&lang=0" target="_blank" class="job">Помощник воспитателя</a></td>
+<td>15 222</td>
+<td>16 506</td>
+<td>18 503</td>
+<td>18 799</td>
+<td>20 174</td>
+<td>22 381</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1985&lang=0" target="_blank" class="job">Преподаватель</a></td>
+<td>19 074</td>
+<td>27 923</td>
+<td>39 125</td>
+<td>36 680</td>
+<td>46 712</td>
+<td>57 826</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2381&lang=0" target="_blank" class="job">Проректор</a></td>
+<td>164 937</td>
+<td>174 230</td>
+<td>211 542</td>
+<td>189 745</td>
+<td>264 532</td>
+<td>307 562</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2380&lang=0" target="_blank" class="job">Ректор</a></td>
+<td>177 623</td>
+<td>187 025</td>
+<td>231 237</td>
+<td>213 540</td>
+<td>298 554</td>
+<td>328 745</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1981&lang=0" target="_blank" class="job">Руководитель (Директор школы)</a></td>
+<td>31 111</td>
+<td>33 012</td>
+<td>38 108</td>
+<td>41 265</td>
+<td>44 933</td>
+<td>47 909</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1982&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Завуч)</a></td>
+<td>27 435</td>
+<td>27 969</td>
+<td>33 855</td>
+<td>36 680</td>
+<td>38 881</td>
+<td>42 287</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1987&lang=0" target="_blank" class="job">Социальный педагог</a></td>
+<td>13 828</td>
+<td>15 524</td>
+<td>18 238</td>
+<td>18 340</td>
+<td>22 459</td>
+<td>23 255</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1983&lang=0" target="_blank" class="job">Учитель</a></td>
+<td>23 008</td>
+<td>28 299</td>
+<td>36 290</td>
+<td>38 043</td>
+<td>45 146</td>
+<td>46 473</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1984&lang=0" target="_blank" class="job">Учитель-дефектолог</a></td>
+<td>16 452</td>
+<td>17 882</td>
+<td>21 028</td>
+<td>18 689</td>
+<td>24 769</td>
+<td>28 235</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1986&lang=0" target="_blank" class="job">Воспитатель</a></td>
+<td>14 830</td>
+<td>18 400</td>
+<td>30 122</td>
+<td>24 117</td>
+<td>42 224</td>
+<td>49 573</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2049&lang=0" target="_blank" class="job">Доцент в ВУЗе</a></td>
+<td>21 687</td>
+<td>29 570</td>
+<td>70 510</td>
+<td>65 898</td>
+<td>94 849</td>
+<td>123 291</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2441&lang=0" target="_blank" class="job">Заведующий детским садом</a></td>
+<td>26 363</td>
+<td>32 763</td>
+<td>59 595</td>
+<td>58 960</td>
+<td>78 908</td>
+<td>93 497</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2390&lang=0" target="_blank" class="job">Заместитель директора школы</a></td>
+<td>22 207</td>
+<td>30 611</td>
+<td>59 526</td>
+<td>53 951</td>
+<td>82 578</td>
+<td>105 270</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2182&lang=0" target="_blank" class="job">Инструктор по вождению</a></td>
+<td>27 877</td>
+<td>30 813</td>
+<td>39 578</td>
+<td>41 294</td>
+<td>47 879</td>
+<td>52 067</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1990&lang=0" target="_blank" class="job">Инструктор по физической культуре</a></td>
+<td>19 074</td>
+<td>21 704</td>
+<td>27 470</td>
+<td>28 540</td>
+<td>33 705</td>
+<td>37 592</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2257&lang=0" target="_blank" class="job">Концертмейстер</a></td>
+<td>17 761</td>
+<td>18 340</td>
+<td>23 102</td>
+<td>24 209</td>
+<td>28 226</td>
+<td>29 482</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>19 660</td>
+<td>22 925</td>
+<td>29 792</td>
+<td>24 759</td>
+<td>38 577</td>
+<td>45 850</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2255&lang=0" target="_blank" class="job">Методист</a></td>
+<td>18 340</td>
+<td>18 799</td>
+<td>25 867</td>
+<td>25 126</td>
+<td>31 282</td>
+<td>38 258</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1991&lang=0" target="_blank" class="job">Музыкальный руководитель</a></td>
+<td>18 510</td>
+<td>21 601</td>
+<td>26 068</td>
+<td>23 475</td>
+<td>33 303</td>
+<td>36 904</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1989&lang=0" target="_blank" class="job">Педагог дополнительного образования</a></td>
+<td>9 124</td>
+<td>13 136</td>
+<td>19 053</td>
+<td>18 586</td>
+<td>25 544</td>
+<td>29 752</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1988&lang=0" target="_blank" class="job">Педагог-психолог</a></td>
+<td>18 554</td>
+<td>19 742</td>
+<td>24 685</td>
+<td>25 685</td>
+<td>29 379</td>
+<td>32 956</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2252&lang=0" target="_blank" class="job">Помощник воспитателя</a></td>
+<td>15 222</td>
+<td>16 506</td>
+<td>18 981</td>
+<td>18 799</td>
+<td>20 593</td>
+<td>24 380</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1985&lang=0" target="_blank" class="job">Преподаватель</a></td>
+<td>19 074</td>
+<td>27 923</td>
+<td>43 842</td>
+<td>38 832</td>
+<td>54 832</td>
+<td>70 206</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2381&lang=0" target="_blank" class="job">Проректор</a></td>
+<td>195 932</td>
+<td>215 915</td>
+<td>262 875</td>
+<td>246 408</td>
+<td>328 539</td>
+<td>381 770</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2380&lang=0" target="_blank" class="job">Ректор</a></td>
+<td>194 850</td>
+<td>228 244</td>
+<td>287 844</td>
+<td>271 552</td>
+<td>378 329</td>
+<td>419 894</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1981&lang=0" target="_blank" class="job">Руководитель (Директор школы)</a></td>
+<td>31 111</td>
+<td>36 261</td>
+<td>44 608</td>
+<td>48 484</td>
+<td>54 407</td>
+<td>59 922</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1982&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Завуч)</a></td>
+<td>27 435</td>
+<td>27 969</td>
+<td>35 253</td>
+<td>37 597</td>
+<td>41 372</td>
+<td>45 285</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1987&lang=0" target="_blank" class="job">Социальный педагог</a></td>
+<td>13 828</td>
+<td>15 524</td>
+<td>21 737</td>
+<td>19 929</td>
+<td>29 144</td>
+<td>32 099</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1983&lang=0" target="_blank" class="job">Учитель</a></td>
+<td>23 008</td>
+<td>28 299</td>
+<td>38 915</td>
+<td>40 656</td>
+<td>49 300</td>
+<td>52 007</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1984&lang=0" target="_blank" class="job">Учитель-дефектолог</a></td>
+<td>16 452</td>
+<td>17 882</td>
+<td>24 373</td>
+<td>23 406</td>
+<td>31 185</td>
+<td>34 897</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.11.2015)</p>
+</div>

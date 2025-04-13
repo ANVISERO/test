@@ -1,0 +1,648 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2640&lang=0" target="_blank" class="job">Аналитик отдела маркетинга</a></td>
+<td>33 985</td>
+<td>39 213</td>
+<td>44 475</td>
+<td>47 926</td>
+<td>51 463</td>
+<td>53 585</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>27 400</td>
+<td>33 250</td>
+<td>40 266</td>
+<td>40 000</td>
+<td>47 000</td>
+<td>55 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>40 000</td>
+<td>51 750</td>
+<td>82 136</td>
+<td>82 500</td>
+<td>107 500</td>
+<td>140 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>27 000</td>
+<td>30 000</td>
+<td>40 009</td>
+<td>37 400</td>
+<td>47 200</td>
+<td>55 600</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>29 700</td>
+<td>33 784</td>
+<td>43 146</td>
+<td>44 393</td>
+<td>48 500</td>
+<td>64 100</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2234&lang=0" target="_blank" class="job">Бухгалтер-кассир</a></td>
+<td>24 130</td>
+<td>26 575</td>
+<td>31 587</td>
+<td>29 010</td>
+<td>37 000</td>
+<td>41 350</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1503&lang=0" target="_blank" class="job">Ведущий программист 1С</a></td>
+<td>60 000</td>
+<td>77 500</td>
+<td>97 727</td>
+<td>100 000</td>
+<td>122 500</td>
+<td>130 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1790&lang=0" target="_blank" class="job">Ведущий юрист</a></td>
+<td>38 000</td>
+<td>45 000</td>
+<td>55 000</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>74 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1265&lang=0" target="_blank" class="job">Водитель легкового автомобиля</a></td>
+<td>26 400</td>
+<td>30 000</td>
+<td>35 278</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>40 000</td>
+<td>50 000</td>
+<td>63 171</td>
+<td>55 000</td>
+<td>70 000</td>
+<td>96 300</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1448&lang=0" target="_blank" class="job">Инкассатор</a></td>
+<td>12 150</td>
+<td>13 000</td>
+<td>16 217</td>
+<td>15 000</td>
+<td>19 250</td>
+<td>21 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2876&lang=0" target="_blank" class="job">Маркетолог</a></td>
+<td>28 000</td>
+<td>28 000</td>
+<td>35 714</td>
+<td>32 500</td>
+<td>40 000</td>
+<td>48 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>20 000</td>
+<td>21 675</td>
+<td>24 964</td>
+<td>25 000</td>
+<td>27 750</td>
+<td>30 450</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>21 600</td>
+<td>25 000</td>
+<td>31 611</td>
+<td>30 000</td>
+<td>37 500</td>
+<td>46 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>61 818</td>
+<td>60 000</td>
+<td>75 000</td>
+<td>90 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2605&lang=0" target="_blank" class="job">Референт</a></td>
+<td>25 000</td>
+<td>28 500</td>
+<td>39 610</td>
+<td>40 100</td>
+<td>45 000</td>
+<td>61 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>36 000</td>
+<td>45 000</td>
+<td>56 189</td>
+<td>60 000</td>
+<td>68 500</td>
+<td>70 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>37 670</td>
+<td>40 000</td>
+<td>44 100</td>
+<td>50 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>21 000</td>
+<td>25 000</td>
+<td>39 500</td>
+<td>37 500</td>
+<td>50 250</td>
+<td>56 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2877&lang=0" target="_blank" class="job">Специалист по воинскому учету</a></td>
+<td>21 400</td>
+<td>27 000</td>
+<td>31 056</td>
+<td>30 000</td>
+<td>36 000</td>
+<td>46 800</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>35 000</td>
+<td>40 000</td>
+<td>44 700</td>
+<td>44 000</td>
+<td>49 250</td>
+<td>55 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>29 200</td>
+<td>35 000</td>
+<td>45 500</td>
+<td>47 500</td>
+<td>55 000</td>
+<td>61 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>27 730</td>
+<td>30 683</td>
+<td>42 670</td>
+<td>35 250</td>
+<td>48 000</td>
+<td>77 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1304&lang=0" target="_blank" class="job">Старший кассир</a></td>
+<td>25 820</td>
+<td>27 250</td>
+<td>30 690</td>
+<td>30 000</td>
+<td>35 205</td>
+<td>35 664</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>35 000</td>
+<td>40 500</td>
+<td>51 882</td>
+<td>45 000</td>
+<td>55 250</td>
+<td>76 540</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>29 120</td>
+<td>35 100</td>
+<td>40 453</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>56 144</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>29 500</td>
+<td>34 500</td>
+<td>52 668</td>
+<td>45 355</td>
+<td>53 738</td>
+<td>100 400</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>22 600</td>
+<td>29 500</td>
+<td>38 500</td>
+<td>40 000</td>
+<td>47 500</td>
+<td>56 500</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>28 500</td>
+<td>30 000</td>
+<td>38 000</td>
+<td>34 500</td>
+<td>42 500</td>
+<td>53 000</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2640&lang=0" target="_blank" class="job">Аналитик отдела маркетинга</a></td>
+<td>39 189</td>
+<td>45 186</td>
+<td>63 224</td>
+<td>55 180</td>
+<td>77 240</td>
+<td>90 476</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>29 640</td>
+<td>37 434</td>
+<td>54 716</td>
+<td>52 800</td>
+<td>69 150</td>
+<td>87 940</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>47 300</td>
+<td>66 400</td>
+<td>92 564</td>
+<td>89 000</td>
+<td>113 500</td>
+<td>141 350</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>27 790</td>
+<td>32 500</td>
+<td>44 846</td>
+<td>41 540</td>
+<td>51 500</td>
+<td>69 248</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>32 822</td>
+<td>37 280</td>
+<td>45 988</td>
+<td>45 500</td>
+<td>54 850</td>
+<td>66 363</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2234&lang=0" target="_blank" class="job">Бухгалтер-кассир</a></td>
+<td>26 303</td>
+<td>27 158</td>
+<td>33 085</td>
+<td>32 140</td>
+<td>38 500</td>
+<td>41 350</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1503&lang=0" target="_blank" class="job">Ведущий программист 1С</a></td>
+<td>100 000</td>
+<td>107 750</td>
+<td>129 882</td>
+<td>120 000</td>
+<td>159 600</td>
+<td>160 000</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1790&lang=0" target="_blank" class="job">Ведущий юрист</a></td>
+<td>58 600</td>
+<td>69 584</td>
+<td>86 573</td>
+<td>95 500</td>
+<td>100 174</td>
+<td>108 728</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1265&lang=0" target="_blank" class="job">Водитель легкового автомобиля</a></td>
+<td>31 036</td>
+<td>35 000</td>
+<td>43 622</td>
+<td>40 705</td>
+<td>48 000</td>
+<td>62 315</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>46 078</td>
+<td>55 925</td>
+<td>73 100</td>
+<td>65 500</td>
+<td>82 135</td>
+<td>113 700</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1448&lang=0" target="_blank" class="job">Инкассатор</a></td>
+<td>18 000</td>
+<td>24 000</td>
+<td>31 400</td>
+<td>31 000</td>
+<td>35 975</td>
+<td>45 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2876&lang=0" target="_blank" class="job">Маркетолог</a></td>
+<td>42 520</td>
+<td>46 590</td>
+<td>54 362</td>
+<td>54 180</td>
+<td>61 050</td>
+<td>69 150</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2111&lang=0" target="_blank" class="job">Оператор базы данных</a></td>
+<td>24 100</td>
+<td>25 125</td>
+<td>32 928</td>
+<td>29 400</td>
+<td>37 500</td>
+<td>47 738</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>25 480</td>
+<td>27 842</td>
+<td>41 628</td>
+<td>37 500</td>
+<td>44 750</td>
+<td>72 892</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>60 500</td>
+<td>74 000</td>
+<td>85 027</td>
+<td>90 500</td>
+<td>100 550</td>
+<td>101 200</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2605&lang=0" target="_blank" class="job">Референт</a></td>
+<td>31 226</td>
+<td>35 550</td>
+<td>48 390</td>
+<td>46 350</td>
+<td>53 100</td>
+<td>73 425</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1687&lang=0" target="_blank" class="job">Руководитель группы</a></td>
+<td>40 934</td>
+<td>53 000</td>
+<td>68 891</td>
+<td>70 417</td>
+<td>84 710</td>
+<td>93 970</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>28 000</td>
+<td>34 160</td>
+<td>42 184</td>
+<td>41 400</td>
+<td>47 875</td>
+<td>58 720</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>35 375</td>
+<td>44 100</td>
+<td>55 584</td>
+<td>56 500</td>
+<td>63 750</td>
+<td>78 850</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2877&lang=0" target="_blank" class="job">Специалист по воинскому учету</a></td>
+<td>30 650</td>
+<td>35 800</td>
+<td>42 283</td>
+<td>41 200</td>
+<td>50 800</td>
+<td>61 900</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>45 630</td>
+<td>51 317</td>
+<td>55 857</td>
+<td>56 750</td>
+<td>62 250</td>
+<td>64 350</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>40 800</td>
+<td>49 250</td>
+<td>64 270</td>
+<td>70 500</td>
+<td>77 945</td>
+<td>83 600</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>30 273</td>
+<td>37 188</td>
+<td>49 082</td>
+<td>42 050</td>
+<td>55 338</td>
+<td>78 602</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1304&lang=0" target="_blank" class="job">Старший кассир</a></td>
+<td>26 416</td>
+<td>29 455</td>
+<td>32 710</td>
+<td>32 200</td>
+<td>36 455</td>
+<td>38 480</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>38 324</td>
+<td>41 750</td>
+<td>55 319</td>
+<td>53 000</td>
+<td>61 750</td>
+<td>81 548</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>30 000</td>
+<td>36 050</td>
+<td>42 771</td>
+<td>43 600</td>
+<td>46 583</td>
+<td>56 844</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>31 325</td>
+<td>36 768</td>
+<td>59 215</td>
+<td>51 035</td>
+<td>64 000</td>
+<td>114 040</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>27 325</td>
+<td>40 938</td>
+<td>51 213</td>
+<td>59 625</td>
+<td>60 675</td>
+<td>67 140</td>
+<td>3 квартал 2016</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>36 975</td>
+<td>39 375</td>
+<td>47 317</td>
+<td>45 292</td>
+<td>51 125</td>
+<td>58 460</td>
+<td>3 квартал 2016</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.12.2016)</p>
+</div>

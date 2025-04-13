@@ -1,0 +1,868 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Брянск</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2106&lang=0" target="_blank" class="job">Авиационный техник</a></td>
+<td>16 000</td>
+<td>19 200</td>
+<td>25 232</td>
+<td>25 600</td>
+<td>30 585</td>
+<td>35 200</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>22 300</td>
+<td>24 859</td>
+<td>28 312</td>
+<td>28 803</td>
+<td>31 510</td>
+<td>38 221</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1827&lang=0" target="_blank" class="job">Ведущий инженер по ремонту электрического оборудования</a></td>
+<td>12 725</td>
+<td>13 120</td>
+<td>15 587</td>
+<td>17 280</td>
+<td>18 560</td>
+<td>19 596</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1545&lang=0" target="_blank" class="job">Водолаз</a></td>
+<td>14 238</td>
+<td>15 563</td>
+<td>19 149</td>
+<td>18 238</td>
+<td>19 569</td>
+<td>26 903</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>35 456</td>
+<td>43 520</td>
+<td>50 945</td>
+<td>51 200</td>
+<td>60 800</td>
+<td>64 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1552&lang=0" target="_blank" class="job">Изолировщик на термоизоляции </a></td>
+<td>19 200</td>
+<td>22 400</td>
+<td>26 251</td>
+<td>24 000</td>
+<td>32 000</td>
+<td>37 504</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1784&lang=0" target="_blank" class="job">Инженер по газовому хозяйству</a></td>
+<td>15 433</td>
+<td>17 546</td>
+<td>20 273</td>
+<td>20 659</td>
+<td>24 825</td>
+<td>26 096</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1714&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту</a></td>
+<td>14 848</td>
+<td>16 498</td>
+<td>20 471</td>
+<td>20 800</td>
+<td>25 615</td>
+<td>28 486</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1576&lang=0" target="_blank" class="job">Котлочист </a></td>
+<td>9 256</td>
+<td>10 709</td>
+<td>12 909</td>
+<td>12 800</td>
+<td>16 114</td>
+<td>17 850</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1565&lang=0" target="_blank" class="job">Кровельщик</a></td>
+<td>14 227</td>
+<td>15 125</td>
+<td>17 578</td>
+<td>16 800</td>
+<td>18 441</td>
+<td>22 565</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1567&lang=0" target="_blank" class="job">Маляр</a></td>
+<td>12 507</td>
+<td>14 096</td>
+<td>16 609</td>
+<td>15 490</td>
+<td>20 153</td>
+<td>22 290</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>17 920</td>
+<td>19 200</td>
+<td>24 596</td>
+<td>25 600</td>
+<td>30 674</td>
+<td>32 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1760&lang=0" target="_blank" class="job">Слесарь аварийно-восстановительных работ</a></td>
+<td>13 460</td>
+<td>14 290</td>
+<td>16 669</td>
+<td>16 000</td>
+<td>20 191</td>
+<td>23 296</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1645&lang=0" target="_blank" class="job">Слесарь по контрольно-измерительным приборам и автоматике </a></td>
+<td>7 240</td>
+<td>7 690</td>
+<td>8 448</td>
+<td>8 346</td>
+<td>9 133</td>
+<td>9 934</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1644&lang=0" target="_blank" class="job">Слесарь по обслуживанию оборудования электростанции </a></td>
+<td>5 600</td>
+<td>5 843</td>
+<td>6 590</td>
+<td>6 016</td>
+<td>6 419</td>
+<td>7 515</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1643&lang=0" target="_blank" class="job">Слесарь по обслуживанию тепловых сетей </a></td>
+<td>6 314</td>
+<td>7 136</td>
+<td>8 966</td>
+<td>7 578</td>
+<td>9 788</td>
+<td>14 720</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1642&lang=0" target="_blank" class="job">Слесарь по ремонту гидротурбинного оборудования</a></td>
+<td>10 838</td>
+<td>13 440</td>
+<td>15 344</td>
+<td>16 640</td>
+<td>17 920</td>
+<td>20 198</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1640&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования котельных и пылеприготовительных цехов</a></td>
+<td>5 593</td>
+<td>7 667</td>
+<td>8 794</td>
+<td>9 235</td>
+<td>10 256</td>
+<td>11 339</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1730&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования тепловых сетей</a></td>
+<td>15 687</td>
+<td>18 240</td>
+<td>18 922</td>
+<td>19 200</td>
+<td>20 886</td>
+<td>23 281</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1639&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования топливоподачи </a></td>
+<td>10 694</td>
+<td>13 758</td>
+<td>15 139</td>
+<td>16 000</td>
+<td>17 280</td>
+<td>19 929</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1638&lang=0" target="_blank" class="job">Слесарь по ремонту парогазотурбинного оборудования</a></td>
+<td>7 190</td>
+<td>7 881</td>
+<td>9 023</td>
+<td>9 010</td>
+<td>10 000</td>
+<td>10 904</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1630&lang=0" target="_blank" class="job">Старший мастер по ремонту приборов и аппаратуры</a></td>
+<td>12 196</td>
+<td>13 909</td>
+<td>15 363</td>
+<td>15 825</td>
+<td>16 818</td>
+<td>18 576</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2028&lang=0" target="_blank" class="job">Электромонтер</a></td>
+<td>14 266</td>
+<td>17 683</td>
+<td>19 861</td>
+<td>20 480</td>
+<td>22 880</td>
+<td>24 320</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1612&lang=0" target="_blank" class="job">Электромонтер диспетчерского оборудования и телеавтоматики</a></td>
+<td>8 909</td>
+<td>9 600</td>
+<td>10 929</td>
+<td>10 657</td>
+<td>11 335</td>
+<td>14 191</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1611&lang=0" target="_blank" class="job">Электромонтер линейных сооружений телефонной связи</a></td>
+<td>5 955</td>
+<td>6 553</td>
+<td>8 098</td>
+<td>7 371</td>
+<td>9 126</td>
+<td>9 834</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1610&lang=0" target="_blank" class="job">Электромонтер по испытаниям и измерениям</a></td>
+<td>7 468</td>
+<td>8 317</td>
+<td>10 580</td>
+<td>9 281</td>
+<td>12 798</td>
+<td>16 384</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1609&lang=0" target="_blank" class="job">Электромонтер по обслуживанию подстанций</a></td>
+<td>6 671</td>
+<td>7 426</td>
+<td>9 881</td>
+<td>8 802</td>
+<td>12 280</td>
+<td>13 828</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1608&lang=0" target="_blank" class="job">Электромонтер по обслуживанию электрооборудования</a></td>
+<td>5 984</td>
+<td>6 941</td>
+<td>9 720</td>
+<td>8 130</td>
+<td>10 466</td>
+<td>15 816</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1607&lang=0" target="_blank" class="job">Электромонтер по ремонту аппаратуры, релейной защиты и автоматики</a></td>
+<td>6 520</td>
+<td>7 982</td>
+<td>10 013</td>
+<td>9 766</td>
+<td>11 735</td>
+<td>12 800</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1606&lang=0" target="_blank" class="job">Электромонтер по ремонту вторичной коммутации и связи</a></td>
+<td>9 050</td>
+<td>10 808</td>
+<td>13 668</td>
+<td>13 706</td>
+<td>17 650</td>
+<td>19 258</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1605&lang=0" target="_blank" class="job">Электромонтер по ремонту и монтажу кабельных линий</a></td>
+<td>8 646</td>
+<td>9 235</td>
+<td>12 331</td>
+<td>11 061</td>
+<td>16 000</td>
+<td>18 275</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1604&lang=0" target="_blank" class="job">Электромонтер по ремонту и обслуживанию электрооборудования</a></td>
+<td>6 783</td>
+<td>7 412</td>
+<td>9 180</td>
+<td>8 736</td>
+<td>10 284</td>
+<td>12 406</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1815&lang=0" target="_blank" class="job">Электромонтер по ремонту обмоток и изоляции электрооборудования</a></td>
+<td>7 648</td>
+<td>10 676</td>
+<td>14 842</td>
+<td>15 744</td>
+<td>18 930</td>
+<td>22 299</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1602&lang=0" target="_blank" class="job">Электромонтер устройств сигнализации, централизации, блокировки</a></td>
+<td>8 640</td>
+<td>11 534</td>
+<td>14 174</td>
+<td>14 720</td>
+<td>18 126</td>
+<td>19 258</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1601&lang=0" target="_blank" class="job">Электросварщик ручной сварки </a></td>
+<td>12 614</td>
+<td>14 080</td>
+<td>17 042</td>
+<td>16 320</td>
+<td>20 288</td>
+<td>23 481</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1600&lang=0" target="_blank" class="job">Электрослесарь по обслуживанию автоматики и средств измерений</a></td>
+<td>6 298</td>
+<td>6 803</td>
+<td>7 960</td>
+<td>7 648</td>
+<td>9 025</td>
+<td>9 673</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1599&lang=0" target="_blank" class="job">Электрослесарь по ремонту и обслуживанию автоматики и средств измерений</a></td>
+<td>6 712</td>
+<td>7 265</td>
+<td>8 397</td>
+<td>8 191</td>
+<td>9 235</td>
+<td>10 228</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1598&lang=0" target="_blank" class="job">Электрослесарь по ремонту оборудования распределительных устройств</a></td>
+<td>7 560</td>
+<td>7 693</td>
+<td>9 794</td>
+<td>9 235</td>
+<td>10 258</td>
+<td>15 374</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1597&lang=0" target="_blank" class="job">Электрослесарь по ремонту электрических машин</a></td>
+<td>7 807</td>
+<td>9 149</td>
+<td>10 987</td>
+<td>9 995</td>
+<td>13 387</td>
+<td>15 998</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1596&lang=0" target="_blank" class="job">Электрослесарь по ремонту электрооборудования</a></td>
+<td>6 978</td>
+<td>7 786</td>
+<td>9 209</td>
+<td>8 960</td>
+<td>9 775</td>
+<td>11 480</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2106&lang=0" target="_blank" class="job">Авиационный техник</a></td>
+<td>16 000</td>
+<td>19 200</td>
+<td>29 326</td>
+<td>28 800</td>
+<td>37 921</td>
+<td>44 800</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>23 828</td>
+<td>31 523</td>
+<td>36 517</td>
+<td>37 827</td>
+<td>43 452</td>
+<td>50 788</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1827&lang=0" target="_blank" class="job">Ведущий инженер по ремонту электрического оборудования</a></td>
+<td>13 877</td>
+<td>15 443</td>
+<td>20 261</td>
+<td>22 277</td>
+<td>24 410</td>
+<td>26 784</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1545&lang=0" target="_blank" class="job">Водолаз</a></td>
+<td>19 362</td>
+<td>23 499</td>
+<td>29 252</td>
+<td>27 561</td>
+<td>31 454</td>
+<td>41 725</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>35 456</td>
+<td>58 480</td>
+<td>68 880</td>
+<td>70 560</td>
+<td>83 520</td>
+<td>96 480</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1552&lang=0" target="_blank" class="job">Изолировщик на термоизоляции </a></td>
+<td>19 200</td>
+<td>22 400</td>
+<td>30 659</td>
+<td>30 172</td>
+<td>39 040</td>
+<td>45 120</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1784&lang=0" target="_blank" class="job">Инженер по газовому хозяйству</a></td>
+<td>16 069</td>
+<td>19 709</td>
+<td>22 910</td>
+<td>23 453</td>
+<td>28 428</td>
+<td>30 284</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1714&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту</a></td>
+<td>16 328</td>
+<td>18 950</td>
+<td>26 424</td>
+<td>26 379</td>
+<td>33 416</td>
+<td>38 084</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1576&lang=0" target="_blank" class="job">Котлочист </a></td>
+<td>9 960</td>
+<td>12 300</td>
+<td>16 896</td>
+<td>17 275</td>
+<td>22 059</td>
+<td>24 904</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1565&lang=0" target="_blank" class="job">Кровельщик</a></td>
+<td>14 227</td>
+<td>22 741</td>
+<td>28 258</td>
+<td>25 248</td>
+<td>32 163</td>
+<td>46 831</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1567&lang=0" target="_blank" class="job">Маляр</a></td>
+<td>12 507</td>
+<td>14 954</td>
+<td>22 009</td>
+<td>19 854</td>
+<td>28 548</td>
+<td>34 131</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>17 920</td>
+<td>19 200</td>
+<td>30 537</td>
+<td>30 080</td>
+<td>40 274</td>
+<td>48 942</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1760&lang=0" target="_blank" class="job">Слесарь аварийно-восстановительных работ</a></td>
+<td>13 460</td>
+<td>15 777</td>
+<td>20 382</td>
+<td>19 849</td>
+<td>25 958</td>
+<td>30 400</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1645&lang=0" target="_blank" class="job">Слесарь по контрольно-измерительным приборам и автоматике </a></td>
+<td>9 797</td>
+<td>11 914</td>
+<td>13 772</td>
+<td>13 274</td>
+<td>15 956</td>
+<td>18 352</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1644&lang=0" target="_blank" class="job">Слесарь по обслуживанию оборудования электростанции </a></td>
+<td>11 145</td>
+<td>11 816</td>
+<td>13 430</td>
+<td>12 979</td>
+<td>14 239</td>
+<td>16 615</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1643&lang=0" target="_blank" class="job">Слесарь по обслуживанию тепловых сетей </a></td>
+<td>6 314</td>
+<td>8 688</td>
+<td>13 853</td>
+<td>12 484</td>
+<td>16 405</td>
+<td>23 341</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1642&lang=0" target="_blank" class="job">Слесарь по ремонту гидротурбинного оборудования</a></td>
+<td>13 366</td>
+<td>17 079</td>
+<td>19 767</td>
+<td>21 312</td>
+<td>23 524</td>
+<td>26 555</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1640&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования котельных и пылеприготовительных цехов</a></td>
+<td>8 903</td>
+<td>12 105</td>
+<td>15 719</td>
+<td>15 935</td>
+<td>19 180</td>
+<td>22 567</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1730&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования тепловых сетей</a></td>
+<td>15 687</td>
+<td>18 240</td>
+<td>19 913</td>
+<td>20 480</td>
+<td>22 488</td>
+<td>25 180</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1639&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования топливоподачи </a></td>
+<td>13 769</td>
+<td>17 739</td>
+<td>19 978</td>
+<td>20 672</td>
+<td>23 410</td>
+<td>26 924</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1638&lang=0" target="_blank" class="job">Слесарь по ремонту парогазотурбинного оборудования</a></td>
+<td>11 014</td>
+<td>13 474</td>
+<td>16 434</td>
+<td>16 337</td>
+<td>18 938</td>
+<td>21 505</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1630&lang=0" target="_blank" class="job">Старший мастер по ремонту приборов и аппаратуры</a></td>
+<td>18 171</td>
+<td>21 261</td>
+<td>26 017</td>
+<td>25 567</td>
+<td>31 672</td>
+<td>35 821</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2028&lang=0" target="_blank" class="job">Электромонтер</a></td>
+<td>14 266</td>
+<td>17 683</td>
+<td>22 391</td>
+<td>22 400</td>
+<td>27 384</td>
+<td>30 720</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1612&lang=0" target="_blank" class="job">Электромонтер диспетчерского оборудования и телеавтоматики</a></td>
+<td>12 525</td>
+<td>15 424</td>
+<td>17 595</td>
+<td>16 980</td>
+<td>18 823</td>
+<td>24 575</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1611&lang=0" target="_blank" class="job">Электромонтер линейных сооружений телефонной связи</a></td>
+<td>7 555</td>
+<td>10 374</td>
+<td>12 584</td>
+<td>11 723</td>
+<td>14 730</td>
+<td>16 660</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1610&lang=0" target="_blank" class="job">Электромонтер по испытаниям и измерениям</a></td>
+<td>8 161</td>
+<td>13 393</td>
+<td>16 525</td>
+<td>16 080</td>
+<td>20 544</td>
+<td>25 442</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1609&lang=0" target="_blank" class="job">Электромонтер по обслуживанию подстанций</a></td>
+<td>10 235</td>
+<td>11 697</td>
+<td>16 031</td>
+<td>13 909</td>
+<td>19 916</td>
+<td>25 125</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1608&lang=0" target="_blank" class="job">Электромонтер по обслуживанию электрооборудования</a></td>
+<td>5 984</td>
+<td>12 036</td>
+<td>17 006</td>
+<td>15 713</td>
+<td>19 584</td>
+<td>27 199</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1607&lang=0" target="_blank" class="job">Электромонтер по ремонту аппаратуры, релейной защиты и автоматики</a></td>
+<td>6 520</td>
+<td>8 112</td>
+<td>15 039</td>
+<td>14 955</td>
+<td>19 939</td>
+<td>22 836</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1606&lang=0" target="_blank" class="job">Электромонтер по ремонту вторичной коммутации и связи</a></td>
+<td>9 988</td>
+<td>13 405</td>
+<td>16 741</td>
+<td>17 078</td>
+<td>21 810</td>
+<td>23 467</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1605&lang=0" target="_blank" class="job">Электромонтер по ремонту и монтажу кабельных линий</a></td>
+<td>9 745</td>
+<td>11 959</td>
+<td>19 225</td>
+<td>18 604</td>
+<td>25 892</td>
+<td>29 560</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1604&lang=0" target="_blank" class="job">Электромонтер по ремонту и обслуживанию электрооборудования</a></td>
+<td>10 623</td>
+<td>11 892</td>
+<td>14 990</td>
+<td>13 984</td>
+<td>16 428</td>
+<td>21 756</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1815&lang=0" target="_blank" class="job">Электромонтер по ремонту обмоток и изоляции электрооборудования</a></td>
+<td>8 327</td>
+<td>13 210</td>
+<td>21 011</td>
+<td>22 129</td>
+<td>28 021</td>
+<td>32 396</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1602&lang=0" target="_blank" class="job">Электромонтер устройств сигнализации, централизации, блокировки</a></td>
+<td>9 022</td>
+<td>13 201</td>
+<td>16 449</td>
+<td>17 215</td>
+<td>20 971</td>
+<td>22 925</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1601&lang=0" target="_blank" class="job">Электросварщик ручной сварки </a></td>
+<td>12 614</td>
+<td>14 400</td>
+<td>20 839</td>
+<td>18 722</td>
+<td>26 933</td>
+<td>32 507</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1600&lang=0" target="_blank" class="job">Электрослесарь по обслуживанию автоматики и средств измерений</a></td>
+<td>10 813</td>
+<td>13 104</td>
+<td>15 568</td>
+<td>15 244</td>
+<td>18 149</td>
+<td>20 052</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1599&lang=0" target="_blank" class="job">Электрослесарь по ремонту и обслуживанию автоматики и средств измерений</a></td>
+<td>10 251</td>
+<td>11 975</td>
+<td>15 253</td>
+<td>14 805</td>
+<td>18 074</td>
+<td>20 669</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1598&lang=0" target="_blank" class="job">Электрослесарь по ремонту оборудования распределительных устройств</a></td>
+<td>8 583</td>
+<td>12 325</td>
+<td>16 340</td>
+<td>16 146</td>
+<td>19 099</td>
+<td>25 426</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1597&lang=0" target="_blank" class="job">Электрослесарь по ремонту электрических машин</a></td>
+<td>11 622</td>
+<td>14 407</td>
+<td>18 894</td>
+<td>17 793</td>
+<td>23 748</td>
+<td>29 192</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1596&lang=0" target="_blank" class="job">Электрослесарь по ремонту электрооборудования</a></td>
+<td>7 618</td>
+<td>11 376</td>
+<td>14 659</td>
+<td>13 952</td>
+<td>16 992</td>
+<td>21 850</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 14.08.2015)</p>
+</div>

@@ -1,0 +1,568 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2859&lang=0" target="_blank" class="job">Менеджер по развитию вендинговой сети</a></td>
+<td>34 500</td>
+<td>40 000</td>
+<td>48 201</td>
+<td>45 000</td>
+<td>56 166</td>
+<td>71 673</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2862&lang=0" target="_blank" class="job">Начальник отдела обслуживания торговых автоматов</a></td>
+<td>45 300</td>
+<td>48 097</td>
+<td>59 124</td>
+<td>65 000</td>
+<td>70 750</td>
+<td>74 004</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2858&lang=0" target="_blank" class="job">Оператор торговых автоматов</a></td>
+<td>25 440</td>
+<td>28 500</td>
+<td>34 017</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>46 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2860&lang=0" target="_blank" class="job">Техник по ремонту торговых автоматов</a></td>
+<td>25 195</td>
+<td>29 059</td>
+<td>33 102</td>
+<td>33 650</td>
+<td>40 374</td>
+<td>42 500</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2861&lang=0" target="_blank" class="job">Техник-оператор обслуживания торговых автоматов</a></td>
+<td>28 851</td>
+<td>31 800</td>
+<td>34 801</td>
+<td>35 000</td>
+<td>38 415</td>
+<td>42 800</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2681&lang=0" target="_blank" class="job">Ассистент менеджера по международным расчетам</a></td>
+<td>19 600</td>
+<td>24 898</td>
+<td>27 900</td>
+<td>28 493</td>
+<td>33 000</td>
+<td>36 160</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2618&lang=0" target="_blank" class="job">Бухгалтер по ВЭД</a></td>
+<td>36 123</td>
+<td>40 150</td>
+<td>42 505</td>
+<td>42 440</td>
+<td>47 122</td>
+<td>51 431</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2013&lang=0" target="_blank" class="job">Водитель международных и междугородных перевозок</a></td>
+<td>24 397</td>
+<td>27 500</td>
+<td>32 970</td>
+<td>30 000</td>
+<td>40 955</td>
+<td>46 189</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1390&lang=0" target="_blank" class="job">Водитель-экспедитор на большегрузных автомобилях</a></td>
+<td>37 462</td>
+<td>41 396</td>
+<td>47 415</td>
+<td>46 800</td>
+<td>50 000</td>
+<td>58 400</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1391&lang=0" target="_blank" class="job">Водитель-экспедитор на легковых и легковесных автомобилях</a></td>
+<td>30 000</td>
+<td>30 000</td>
+<td>37 428</td>
+<td>35 000</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>29 000</td>
+<td>33 675</td>
+<td>40 204</td>
+<td>40 000</td>
+<td>47 408</td>
+<td>59 626</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>127 528</td>
+<td>133 750</td>
+<td>154 845</td>
+<td>155 000</td>
+<td>183 144</td>
+<td>200 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2162&lang=0" target="_blank" class="job">Досмотровый</a></td>
+<td>22 200</td>
+<td>24 750</td>
+<td>78 509</td>
+<td>49 455</td>
+<td>89 758</td>
+<td>115 692</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2680&lang=0" target="_blank" class="job">Менеджер по международным расчетам</a></td>
+<td>27 325</td>
+<td>30 597</td>
+<td>36 646</td>
+<td>34 950</td>
+<td>41 174</td>
+<td>53 706</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>55 500</td>
+<td>84 634</td>
+<td>102 848</td>
+<td>97 500</td>
+<td>125 250</td>
+<td>157 122</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1256&lang=0" target="_blank" class="job">Начальник таможенной группы</a></td>
+<td>35 477</td>
+<td>48 037</td>
+<td>53 793</td>
+<td>52 500</td>
+<td>65 346</td>
+<td>74 896</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1649&lang=0" target="_blank" class="job">Приемосдатчик груза и багажа </a></td>
+<td>20 377</td>
+<td>21 493</td>
+<td>24 658</td>
+<td>25 000</td>
+<td>29 290</td>
+<td>30 539</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2682&lang=0" target="_blank" class="job">Руководитель отдела международной логистики и ВЭД</a></td>
+<td>91 220</td>
+<td>95 500</td>
+<td>111 304</td>
+<td>100 000</td>
+<td>134 323</td>
+<td>159 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>25 706</td>
+<td>47 106</td>
+<td>56 035</td>
+<td>61 200</td>
+<td>69 518</td>
+<td>80 144</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2684&lang=0" target="_blank" class="job">Специалист ВЭД по работе с таможней</a></td>
+<td>26 056</td>
+<td>33 158</td>
+<td>36 888</td>
+<td>36 357</td>
+<td>45 880</td>
+<td>48 558</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>35 000</td>
+<td>38 034</td>
+<td>43 669</td>
+<td>44 000</td>
+<td>51 078</td>
+<td>56 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>29 600</td>
+<td>35 250</td>
+<td>42 023</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>50 309</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>40 000</td>
+<td>41 719</td>
+<td>54 468</td>
+<td>51 500</td>
+<td>66 923</td>
+<td>76 723</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2197&lang=0" target="_blank" class="job">Таможенный брокер</a></td>
+<td>23 803</td>
+<td>25 000</td>
+<td>29 078</td>
+<td>30 000</td>
+<td>33 244</td>
+<td>39 645</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>30 000</td>
+<td>34 466</td>
+<td>42 924</td>
+<td>42 500</td>
+<td>50 000</td>
+<td>60 000</td>
+<td>4 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2859&lang=0" target="_blank" class="job">Менеджер по развитию вендинговой сети</a></td>
+<td>34 500</td>
+<td>45 742</td>
+<td>72 449</td>
+<td>64 000</td>
+<td>92 895</td>
+<td>135 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2862&lang=0" target="_blank" class="job">Начальник отдела обслуживания торговых автоматов</a></td>
+<td>45 300</td>
+<td>50 725</td>
+<td>70 034</td>
+<td>78 109</td>
+<td>87 558</td>
+<td>92 500</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2858&lang=0" target="_blank" class="job">Оператор торговых автоматов</a></td>
+<td>25 440</td>
+<td>28 500</td>
+<td>37 266</td>
+<td>38 000</td>
+<td>46 100</td>
+<td>53 320</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2860&lang=0" target="_blank" class="job">Техник по ремонту торговых автоматов</a></td>
+<td>25 458</td>
+<td>36 470</td>
+<td>42 259</td>
+<td>44 550</td>
+<td>52 386</td>
+<td>56 200</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2861&lang=0" target="_blank" class="job">Техник-оператор обслуживания торговых автоматов</a></td>
+<td>28 851</td>
+<td>33 622</td>
+<td>40 646</td>
+<td>42 800</td>
+<td>46 370</td>
+<td>52 160</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2681&lang=0" target="_blank" class="job">Ассистент менеджера по международным расчетам</a></td>
+<td>19 600</td>
+<td>24 898</td>
+<td>28 321</td>
+<td>28 493</td>
+<td>33 901</td>
+<td>37 344</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2618&lang=0" target="_blank" class="job">Бухгалтер по ВЭД</a></td>
+<td>39 399</td>
+<td>43 878</td>
+<td>46 851</td>
+<td>46 915</td>
+<td>52 047</td>
+<td>57 364</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2013&lang=0" target="_blank" class="job">Водитель международных и междугородных перевозок</a></td>
+<td>24 397</td>
+<td>27 500</td>
+<td>44 691</td>
+<td>30 000</td>
+<td>58 696</td>
+<td>84 920</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1390&lang=0" target="_blank" class="job">Водитель-экспедитор на большегрузных автомобилях</a></td>
+<td>37 462</td>
+<td>41 396</td>
+<td>62 418</td>
+<td>61 800</td>
+<td>77 283</td>
+<td>94 400</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1391&lang=0" target="_blank" class="job">Водитель-экспедитор на легковых и легковесных автомобилях</a></td>
+<td>30 000</td>
+<td>30 000</td>
+<td>43 060</td>
+<td>39 200</td>
+<td>50 000</td>
+<td>65 000</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>33 939</td>
+<td>44 675</td>
+<td>59 072</td>
+<td>60 000</td>
+<td>72 408</td>
+<td>90 245</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>132 654</td>
+<td>165 009</td>
+<td>194 722</td>
+<td>201 296</td>
+<td>237 663</td>
+<td>257 677</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2162&lang=0" target="_blank" class="job">Досмотровый</a></td>
+<td>22 997</td>
+<td>25 718</td>
+<td>81 386</td>
+<td>52 638</td>
+<td>94 101</td>
+<td>120 858</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2680&lang=0" target="_blank" class="job">Менеджер по международным расчетам</a></td>
+<td>27 325</td>
+<td>30 597</td>
+<td>43 098</td>
+<td>41 143</td>
+<td>53 121</td>
+<td>67 631</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>79 300</td>
+<td>115 122</td>
+<td>142 517</td>
+<td>135 148</td>
+<td>173 015</td>
+<td>218 622</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1256&lang=0" target="_blank" class="job">Начальник таможенной группы</a></td>
+<td>36 043</td>
+<td>54 607</td>
+<td>73 255</td>
+<td>71 123</td>
+<td>95 945</td>
+<td>115 271</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1649&lang=0" target="_blank" class="job">Приемосдатчик груза и багажа </a></td>
+<td>20 377</td>
+<td>21 493</td>
+<td>30 795</td>
+<td>30 743</td>
+<td>40 724</td>
+<td>43 769</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2682&lang=0" target="_blank" class="job">Руководитель отдела международной логистики и ВЭД</a></td>
+<td>121 220</td>
+<td>137 636</td>
+<td>166 035</td>
+<td>150 000</td>
+<td>205 910</td>
+<td>239 884</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2683&lang=0" target="_blank" class="job">Руководитель службы ВЭД</a></td>
+<td>32 893</td>
+<td>64 355</td>
+<td>80 338</td>
+<td>85 728</td>
+<td>99 321</td>
+<td>118 120</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2684&lang=0" target="_blank" class="job">Специалист ВЭД по работе с таможней</a></td>
+<td>28 143</td>
+<td>36 727</td>
+<td>41 225</td>
+<td>40 744</td>
+<td>51 375</td>
+<td>55 179</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>39 250</td>
+<td>45 478</td>
+<td>53 894</td>
+<td>54 613</td>
+<td>64 953</td>
+<td>71 099</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>29 600</td>
+<td>35 250</td>
+<td>54 753</td>
+<td>55 000</td>
+<td>70 000</td>
+<td>81 309</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>49 894</td>
+<td>57 219</td>
+<td>75 585</td>
+<td>70 894</td>
+<td>95 971</td>
+<td>109 135</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2197&lang=0" target="_blank" class="job">Таможенный брокер</a></td>
+<td>31 748</td>
+<td>47 094</td>
+<td>56 541</td>
+<td>60 132</td>
+<td>71 493</td>
+<td>79 645</td>
+<td>4 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>30 000</td>
+<td>37 948</td>
+<td>52 642</td>
+<td>52 500</td>
+<td>64 704</td>
+<td>80 000</td>
+<td>4 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 03.02.2016)</p>
+</div>

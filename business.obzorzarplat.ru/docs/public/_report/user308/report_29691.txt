@@ -1,0 +1,768 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Воронеж</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2116&lang=0" target="_blank" class="job">Агент по недвижимости</a></td>
+<td>19 963</td>
+<td>21 702</td>
+<td>29 600</td>
+<td>27 222</td>
+<td>36 428</td>
+<td>43 974</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2736&lang=0" target="_blank" class="job">Бухгалтер по аренде</a></td>
+<td>24 032</td>
+<td>24 430</td>
+<td>29 706</td>
+<td>28 376</td>
+<td>35 075</td>
+<td>39 367</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>24 570</td>
+<td>30 014</td>
+<td>37 218</td>
+<td>34 900</td>
+<td>45 370</td>
+<td>50 144</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>24 321</td>
+<td>27 112</td>
+<td>30 878</td>
+<td>31 414</td>
+<td>34 366</td>
+<td>41 685</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>25 148</td>
+<td>26 524</td>
+<td>32 451</td>
+<td>31 410</td>
+<td>39 394</td>
+<td>43 876</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>17 729</td>
+<td>19 893</td>
+<td>21 614</td>
+<td>22 336</td>
+<td>24 081</td>
+<td>24 988</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1465&lang=0" target="_blank" class="job">Главный инженер по эксплуатации недвижимости</a></td>
+<td>24 430</td>
+<td>27 920</td>
+<td>32 052</td>
+<td>33 466</td>
+<td>35 138</td>
+<td>41 651</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>20 940</td>
+<td>27 920</td>
+<td>33 137</td>
+<td>31 410</td>
+<td>39 088</td>
+<td>47 464</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>27 920</td>
+<td>31 410</td>
+<td>35 086</td>
+<td>34 202</td>
+<td>38 774</td>
+<td>42 438</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>18 706</td>
+<td>20 940</td>
+<td>26 299</td>
+<td>26 524</td>
+<td>30 084</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>17 865</td>
+<td>19 035</td>
+<td>23 532</td>
+<td>20 423</td>
+<td>26 777</td>
+<td>34 928</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>20 940</td>
+<td>23 732</td>
+<td>28 626</td>
+<td>28 189</td>
+<td>33 843</td>
+<td>38 241</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2230&lang=0" target="_blank" class="job">Инженер по слаботочным сетям</a></td>
+<td>19 823</td>
+<td>26 186</td>
+<td>29 170</td>
+<td>30 682</td>
+<td>33 561</td>
+<td>37 584</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2227&lang=0" target="_blank" class="job">Инженер по техническому надзору</a></td>
+<td>31 410</td>
+<td>33 403</td>
+<td>37 959</td>
+<td>40 135</td>
+<td>41 737</td>
+<td>43 625</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>16 305</td>
+<td>19 544</td>
+<td>24 679</td>
+<td>23 732</td>
+<td>30 521</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>20 940</td>
+<td>20 940</td>
+<td>27 352</td>
+<td>24 366</td>
+<td>29 986</td>
+<td>42 506</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2722&lang=0" target="_blank" class="job">Менеджер отдела аренды</a></td>
+<td>29 289</td>
+<td>37 682</td>
+<td>41 465</td>
+<td>43 717</td>
+<td>47 129</td>
+<td>54 583</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>14 965</td>
+<td>18 084</td>
+<td>21 512</td>
+<td>22 448</td>
+<td>26 461</td>
+<td>28 371</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2715&lang=0" target="_blank" class="job">Менеджер по эксплуатации электрохозяйства</a></td>
+<td>23 336</td>
+<td>30 022</td>
+<td>33 036</td>
+<td>34 244</td>
+<td>37 692</td>
+<td>43 488</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1460&lang=0" target="_blank" class="job">Начальник отдела жилой недвижимости</a></td>
+<td>28 960</td>
+<td>38 602</td>
+<td>53 716</td>
+<td>58 751</td>
+<td>67 162</td>
+<td>80 524</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1454&lang=0" target="_blank" class="job">Начальник отдела клининга</a></td>
+<td>18 986</td>
+<td>27 636</td>
+<td>33 164</td>
+<td>31 941</td>
+<td>37 427</td>
+<td>45 268</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1457&lang=0" target="_blank" class="job">Начальник отдела консалтинга</a></td>
+<td>29 067</td>
+<td>31 720</td>
+<td>36 695</td>
+<td>34 900</td>
+<td>44 826</td>
+<td>48 361</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1461&lang=0" target="_blank" class="job">Начальник отдела оценки</a></td>
+<td>27 920</td>
+<td>30 482</td>
+<td>35 597</td>
+<td>34 900</td>
+<td>42 753</td>
+<td>45 358</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1459&lang=0" target="_blank" class="job">Начальник отдела технического аудита</a></td>
+<td>28 180</td>
+<td>31 318</td>
+<td>35 155</td>
+<td>36 645</td>
+<td>40 254</td>
+<td>43 137</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2115&lang=0" target="_blank" class="job">Оценщик недвижимости</a></td>
+<td>18 427</td>
+<td>23 938</td>
+<td>28 273</td>
+<td>30 712</td>
+<td>33 504</td>
+<td>36 436</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1648&lang=0" target="_blank" class="job">Рабочий по комплексному обслуживанию и ремонту зданий и сооружений </a></td>
+<td>6 375</td>
+<td>7 694</td>
+<td>11 003</td>
+<td>11 313</td>
+<td>13 469</td>
+<td>16 927</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2713&lang=0" target="_blank" class="job">Руководитель отдела аренды</a></td>
+<td>12 342</td>
+<td>29 016</td>
+<td>35 268</td>
+<td>39 442</td>
+<td>44 682</td>
+<td>53 397</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>36 854</td>
+<td>45 718</td>
+<td>51 817</td>
+<td>54 570</td>
+<td>60 377</td>
+<td>65 821</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1463&lang=0" target="_blank" class="job">Руководитель службы эксплуатации недвижимости</a></td>
+<td>28 636</td>
+<td>30 712</td>
+<td>45 097</td>
+<td>42 643</td>
+<td>63 713</td>
+<td>69 800</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1458&lang=0" target="_blank" class="job">Специалист отдела консалтинга</a></td>
+<td>17 493</td>
+<td>19 257</td>
+<td>21 470</td>
+<td>21 778</td>
+<td>25 617</td>
+<td>26 713</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1453&lang=0" target="_blank" class="job">Специалист отдела управления</a></td>
+<td>23 516</td>
+<td>26 947</td>
+<td>28 805</td>
+<td>28 269</td>
+<td>33 433</td>
+<td>36 213</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2226&lang=0" target="_blank" class="job">Специалист по регистрационной работе</a></td>
+<td>20 833</td>
+<td>23 298</td>
+<td>26 520</td>
+<td>24 993</td>
+<td>30 081</td>
+<td>37 178</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1468&lang=0" target="_blank" class="job">Техник по эксплуатации недвижимости</a></td>
+<td>13 147</td>
+<td>13 759</td>
+<td>16 646</td>
+<td>17 862</td>
+<td>19 558</td>
+<td>20 158</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>14 798</td>
+<td>16 054</td>
+<td>20 301</td>
+<td>17 981</td>
+<td>23 598</td>
+<td>29 550</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1452&lang=0" target="_blank" class="job">Управляющий торговым центром</a></td>
+<td>60 810</td>
+<td>76 871</td>
+<td>96 777</td>
+<td>106 411</td>
+<td>119 009</td>
+<td>126 117</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2116&lang=0" target="_blank" class="job">Агент по недвижимости</a></td>
+<td>19 963</td>
+<td>22 861</td>
+<td>43 405</td>
+<td>42 119</td>
+<td>60 095</td>
+<td>71 894</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2736&lang=0" target="_blank" class="job">Бухгалтер по аренде</a></td>
+<td>24 032</td>
+<td>24 430</td>
+<td>31 037</td>
+<td>30 230</td>
+<td>37 535</td>
+<td>42 022</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1713&lang=0" target="_blank" class="job">Ведущий инженер</a></td>
+<td>24 570</td>
+<td>30 014</td>
+<td>48 870</td>
+<td>45 021</td>
+<td>61 145</td>
+<td>79 740</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1724&lang=0" target="_blank" class="job">Ведущий инженер по организации эксплуатации и ремонту</a></td>
+<td>25 987</td>
+<td>34 380</td>
+<td>39 826</td>
+<td>41 255</td>
+<td>47 390</td>
+<td>55 391</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1810&lang=0" target="_blank" class="job">Ведущий инженер по эксплуатации вентиляционных систем</a></td>
+<td>25 148</td>
+<td>26 524</td>
+<td>38 872</td>
+<td>35 326</td>
+<td>51 132</td>
+<td>60 760</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2033&lang=0" target="_blank" class="job">Водитель штабелера</a></td>
+<td>17 729</td>
+<td>19 893</td>
+<td>23 062</td>
+<td>24 430</td>
+<td>26 613</td>
+<td>27 780</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1465&lang=0" target="_blank" class="job">Главный инженер по эксплуатации недвижимости</a></td>
+<td>25 627</td>
+<td>30 712</td>
+<td>39 487</td>
+<td>40 995</td>
+<td>45 635</td>
+<td>54 577</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>20 940</td>
+<td>33 155</td>
+<td>40 707</td>
+<td>39 088</td>
+<td>49 209</td>
+<td>63 867</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1514&lang=0" target="_blank" class="job">Инженер 1-ой категории</a></td>
+<td>27 920</td>
+<td>33 504</td>
+<td>45 235</td>
+<td>42 578</td>
+<td>56 224</td>
+<td>64 076</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1515&lang=0" target="_blank" class="job">Инженер 2-ой категории</a></td>
+<td>18 706</td>
+<td>20 940</td>
+<td>31 291</td>
+<td>29 316</td>
+<td>39 856</td>
+<td>48 162</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1427&lang=0" target="_blank" class="job">Инженер по надзору за строительством</a></td>
+<td>20 763</td>
+<td>27 969</td>
+<td>34 762</td>
+<td>30 753</td>
+<td>39 676</td>
+<td>54 427</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>20 940</td>
+<td>23 732</td>
+<td>31 550</td>
+<td>31 465</td>
+<td>39 027</td>
+<td>44 820</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2230&lang=0" target="_blank" class="job">Инженер по слаботочным сетям</a></td>
+<td>19 823</td>
+<td>26 186</td>
+<td>33 975</td>
+<td>33 474</td>
+<td>40 658</td>
+<td>50 218</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2227&lang=0" target="_blank" class="job">Инженер по техническому надзору</a></td>
+<td>33 679</td>
+<td>35 776</td>
+<td>42 602</td>
+<td>44 685</td>
+<td>48 566</td>
+<td>50 605</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>16 305</td>
+<td>21 015</td>
+<td>31 802</td>
+<td>28 216</td>
+<td>42 873</td>
+<td>49 375</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1456&lang=0" target="_blank" class="job">Менеджер объекта</a></td>
+<td>20 940</td>
+<td>22 853</td>
+<td>34 575</td>
+<td>30 610</td>
+<td>41 304</td>
+<td>57 695</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2722&lang=0" target="_blank" class="job">Менеджер отдела аренды</a></td>
+<td>31 237</td>
+<td>40 188</td>
+<td>44 223</td>
+<td>46 649</td>
+<td>50 213</td>
+<td>58 213</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1455&lang=0" target="_blank" class="job">Менеджер по клинингу</a></td>
+<td>15 381</td>
+<td>19 320</td>
+<td>25 090</td>
+<td>26 685</td>
+<td>31 765</td>
+<td>34 744</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2715&lang=0" target="_blank" class="job">Менеджер по эксплуатации электрохозяйства</a></td>
+<td>26 590</td>
+<td>33 871</td>
+<td>38 164</td>
+<td>38 904</td>
+<td>44 188</td>
+<td>51 385</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1460&lang=0" target="_blank" class="job">Начальник отдела жилой недвижимости</a></td>
+<td>34 513</td>
+<td>53 085</td>
+<td>77 011</td>
+<td>77 299</td>
+<td>97 728</td>
+<td>118 860</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1454&lang=0" target="_blank" class="job">Начальник отдела клининга</a></td>
+<td>18 986</td>
+<td>28 653</td>
+<td>40 742</td>
+<td>35 337</td>
+<td>50 269</td>
+<td>63 164</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1457&lang=0" target="_blank" class="job">Начальник отдела консалтинга</a></td>
+<td>29 067</td>
+<td>31 720</td>
+<td>43 841</td>
+<td>40 310</td>
+<td>57 297</td>
+<td>64 669</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1461&lang=0" target="_blank" class="job">Начальник отдела оценки</a></td>
+<td>27 920</td>
+<td>32 279</td>
+<td>41 378</td>
+<td>40 484</td>
+<td>51 097</td>
+<td>56 273</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1459&lang=0" target="_blank" class="job">Начальник отдела технического аудита</a></td>
+<td>28 180</td>
+<td>31 318</td>
+<td>40 268</td>
+<td>42 229</td>
+<td>49 828</td>
+<td>55 435</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2115&lang=0" target="_blank" class="job">Оценщик недвижимости</a></td>
+<td>18 427</td>
+<td>23 938</td>
+<td>35 438</td>
+<td>37 692</td>
+<td>44 881</td>
+<td>54 444</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1648&lang=0" target="_blank" class="job">Рабочий по комплексному обслуживанию и ремонту зданий и сооружений </a></td>
+<td>6 375</td>
+<td>11 260</td>
+<td>16 434</td>
+<td>16 618</td>
+<td>21 099</td>
+<td>27 155</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2713&lang=0" target="_blank" class="job">Руководитель отдела аренды</a></td>
+<td>15 476</td>
+<td>39 920</td>
+<td>48 522</td>
+<td>54 264</td>
+<td>63 179</td>
+<td>73 465</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2712&lang=0" target="_blank" class="job">Руководитель службы недвижимости</a></td>
+<td>88 851</td>
+<td>124 921</td>
+<td>144 473</td>
+<td>160 387</td>
+<td>174 120</td>
+<td>188 181</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1463&lang=0" target="_blank" class="job">Руководитель службы эксплуатации недвижимости</a></td>
+<td>28 636</td>
+<td>30 712</td>
+<td>57 991</td>
+<td>49 902</td>
+<td>83 178</td>
+<td>101 615</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1458&lang=0" target="_blank" class="job">Специалист отдела консалтинга</a></td>
+<td>19 029</td>
+<td>22 049</td>
+<td>25 200</td>
+<td>25 895</td>
+<td>30 503</td>
+<td>32 295</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1453&lang=0" target="_blank" class="job">Специалист отдела управления</a></td>
+<td>23 516</td>
+<td>29 306</td>
+<td>32 975</td>
+<td>32 462</td>
+<td>39 511</td>
+<td>43 929</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2226&lang=0" target="_blank" class="job">Специалист по регистрационной работе</a></td>
+<td>20 833</td>
+<td>29 803</td>
+<td>43 607</td>
+<td>37 596</td>
+<td>57 288</td>
+<td>71 367</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1468&lang=0" target="_blank" class="job">Техник по эксплуатации недвижимости</a></td>
+<td>13 147</td>
+<td>13 759</td>
+<td>19 788</td>
+<td>18 579</td>
+<td>25 883</td>
+<td>28 509</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>19 823</td>
+<td>22 801</td>
+<td>29 294</td>
+<td>27 783</td>
+<td>34 734</td>
+<td>41 975</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1452&lang=0" target="_blank" class="job">Управляющий торговым центром</a></td>
+<td>65 878</td>
+<td>83 990</td>
+<td>106 606</td>
+<td>117 219</td>
+<td>130 708</td>
+<td>141 191</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.09.2015)</p>
+</div>

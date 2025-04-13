@@ -1,0 +1,1408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2914&lang=0" target="_blank" class="job">Администратор клиники</a></td>
+<td>30 500</td>
+<td>34 250</td>
+<td>40 713</td>
+<td>41 500</td>
+<td>47 300</td>
+<td>50 690</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2921&lang=0" target="_blank" class="job">Акушерка</a></td>
+<td>21 400</td>
+<td>23 500</td>
+<td>28 875</td>
+<td>28 500</td>
+<td>33 500</td>
+<td>36 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2913&lang=0" target="_blank" class="job">Ассистент врача-стомалога</a></td>
+<td>25 500</td>
+<td>29 250</td>
+<td>34 488</td>
+<td>34 200</td>
+<td>40 625</td>
+<td>43 550</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>34 400</td>
+<td>38 750</td>
+<td>49 375</td>
+<td>47 500</td>
+<td>59 000</td>
+<td>66 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2479&lang=0" target="_blank" class="job">Ветеринарный врач (МВД)</a></td>
+<td>24 450</td>
+<td>24 450</td>
+<td>24 736</td>
+<td>24 950</td>
+<td>24 950</td>
+<td>24 950</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2912&lang=0" target="_blank" class="job">Водитель скорой помощи</a></td>
+<td>20 800</td>
+<td>24 250</td>
+<td>30 063</td>
+<td>31 250</td>
+<td>35 750</td>
+<td>38 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2285&lang=0" target="_blank" class="job">Врач акушер-гинеколог</a></td>
+<td>33 500</td>
+<td>39 500</td>
+<td>53 000</td>
+<td>50 500</td>
+<td>65 250</td>
+<td>76 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2923&lang=0" target="_blank" class="job">Врач акушер-гинеколог (родильное отделение)</a></td>
+<td>46 200</td>
+<td>51 000</td>
+<td>58 125</td>
+<td>57 500</td>
+<td>65 750</td>
+<td>70 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2922&lang=0" target="_blank" class="job">Врач акушер-гинеколог (хирург)</a></td>
+<td>54 200</td>
+<td>62 750</td>
+<td>75 750</td>
+<td>75 000</td>
+<td>91 250</td>
+<td>96 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2908&lang=0" target="_blank" class="job">Врач аллерголог-иммунолог</a></td>
+<td>31 680</td>
+<td>34 350</td>
+<td>45 925</td>
+<td>41 000</td>
+<td>53 000</td>
+<td>66 200</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2286&lang=0" target="_blank" class="job">Врач анестезиолог-реаниматолог</a></td>
+<td>34 100</td>
+<td>38 750</td>
+<td>51 500</td>
+<td>49 000</td>
+<td>62 500</td>
+<td>72 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2917&lang=0" target="_blank" class="job">Врач клинической лабораторной диагностики</a></td>
+<td>36 500</td>
+<td>40 250</td>
+<td>47 825</td>
+<td>47 500</td>
+<td>54 900</td>
+<td>59 520</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1994&lang=0" target="_blank" class="job">Врач общей практики </a></td>
+<td>40 400</td>
+<td>50 000</td>
+<td>54 667</td>
+<td>59 000</td>
+<td>63 000</td>
+<td>65 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2915&lang=0" target="_blank" class="job">Врач по лечебной физкультуре</a></td>
+<td>30 800</td>
+<td>34 250</td>
+<td>40 413</td>
+<td>40 150</td>
+<td>46 250</td>
+<td>50 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2928&lang=0" target="_blank" class="job">Врач судебной медицинской экспертизы</a></td>
+<td>31 200</td>
+<td>35 250</td>
+<td>40 125</td>
+<td>40 500</td>
+<td>45 750</td>
+<td>48 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>48 500</td>
+<td>51 725</td>
+<td>61 788</td>
+<td>61 000</td>
+<td>71 250</td>
+<td>76 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2910&lang=0" target="_blank" class="job">Врач ультразвуковой диагностики</a></td>
+<td>33 150</td>
+<td>37 125</td>
+<td>45 900</td>
+<td>45 150</td>
+<td>54 550</td>
+<td>59 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2916&lang=0" target="_blank" class="job">Врач-бактериолог</a></td>
+<td>31 890</td>
+<td>35 775</td>
+<td>43 038</td>
+<td>42 350</td>
+<td>50 675</td>
+<td>54 560</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2289&lang=0" target="_blank" class="job">Врач-гастроэнтеролог</a></td>
+<td>38 500</td>
+<td>41 500</td>
+<td>50 438</td>
+<td>47 500</td>
+<td>56 375</td>
+<td>65 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2902&lang=0" target="_blank" class="job">Врач-дерматолог</a></td>
+<td>39 900</td>
+<td>46 500</td>
+<td>52 750</td>
+<td>55 000</td>
+<td>60 500</td>
+<td>62 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2897&lang=0" target="_blank" class="job">Врач-диетолог</a></td>
+<td>29 100</td>
+<td>36 000</td>
+<td>46 500</td>
+<td>47 500</td>
+<td>57 750</td>
+<td>61 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2918&lang=0" target="_blank" class="job">Врач-иглорефлексотерапевт</a></td>
+<td>43 500</td>
+<td>48 750</td>
+<td>57 550</td>
+<td>57 700</td>
+<td>67 750</td>
+<td>70 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2900&lang=0" target="_blank" class="job">Врач-инфекционист</a></td>
+<td>30 800</td>
+<td>35 750</td>
+<td>40 625</td>
+<td>42 500</td>
+<td>45 750</td>
+<td>48 600</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2290&lang=0" target="_blank" class="job">Врач-кардиолог</a></td>
+<td>36 750</td>
+<td>43 125</td>
+<td>55 438</td>
+<td>54 750</td>
+<td>67 625</td>
+<td>74 150</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2903&lang=0" target="_blank" class="job">Врач-маммолог</a></td>
+<td>37 500</td>
+<td>43 500</td>
+<td>58 500</td>
+<td>58 500</td>
+<td>72 000</td>
+<td>80 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2895&lang=0" target="_blank" class="job">Врач-нарколог</a></td>
+<td>38 500</td>
+<td>43 750</td>
+<td>53 625</td>
+<td>53 500</td>
+<td>61 750</td>
+<td>69 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>33 500</td>
+<td>41 000</td>
+<td>49 938</td>
+<td>51 000</td>
+<td>60 625</td>
+<td>63 850</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2896&lang=0" target="_blank" class="job">Врач-онколог</a></td>
+<td>43 500</td>
+<td>47 250</td>
+<td>59 188</td>
+<td>60 500</td>
+<td>69 750</td>
+<td>75 450</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2904&lang=0" target="_blank" class="job">Врач-ортодонт</a></td>
+<td>40 330</td>
+<td>45 850</td>
+<td>55 488</td>
+<td>53 000</td>
+<td>64 750</td>
+<td>73 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>33 150</td>
+<td>38 625</td>
+<td>47 938</td>
+<td>46 750</td>
+<td>58 125</td>
+<td>62 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2292&lang=0" target="_blank" class="job">Врач-отоларинголог</a></td>
+<td>35 650</td>
+<td>39 250</td>
+<td>53 013</td>
+<td>52 000</td>
+<td>65 900</td>
+<td>72 620</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2293&lang=0" target="_blank" class="job">Врач-офтальмолог</a></td>
+<td>41 550</td>
+<td>48 375</td>
+<td>55 375</td>
+<td>57 000</td>
+<td>63 875</td>
+<td>66 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2927&lang=0" target="_blank" class="job">Врач-офтальмолог (хирург)</a></td>
+<td>63 500</td>
+<td>68 750</td>
+<td>76 125</td>
+<td>77 500</td>
+<td>84 250</td>
+<td>86 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2294&lang=0" target="_blank" class="job">Врач-педиатр</a></td>
+<td>38 800</td>
+<td>43 750</td>
+<td>56 688</td>
+<td>57 500</td>
+<td>67 375</td>
+<td>75 550</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2926&lang=0" target="_blank" class="job">Врач-проктолог</a></td>
+<td>37 100</td>
+<td>39 500</td>
+<td>44 500</td>
+<td>44 000</td>
+<td>48 750</td>
+<td>52 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2899&lang=0" target="_blank" class="job">Врач-психиатр</a></td>
+<td>32 100</td>
+<td>36 750</td>
+<td>44 188</td>
+<td>44 000</td>
+<td>51 125</td>
+<td>56 150</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2288&lang=0" target="_blank" class="job">Врач-рентгенолог</a></td>
+<td>37 500</td>
+<td>44 250</td>
+<td>55 863</td>
+<td>56 200</td>
+<td>68 250</td>
+<td>73 350</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2213&lang=0" target="_blank" class="job">Врач-стоматолог</a></td>
+<td>38 450</td>
+<td>47 750</td>
+<td>66 850</td>
+<td>68 150</td>
+<td>86 250</td>
+<td>93 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2295&lang=0" target="_blank" class="job">Врач-терапевт</a></td>
+<td>35 500</td>
+<td>41 500</td>
+<td>53 563</td>
+<td>54 000</td>
+<td>65 125</td>
+<td>71 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2334&lang=0" target="_blank" class="job">Врач-травматолог</a></td>
+<td>40 950</td>
+<td>48 375</td>
+<td>56 763</td>
+<td>56 300</td>
+<td>66 750</td>
+<td>73 200</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2925&lang=0" target="_blank" class="job">Врач-уролог</a></td>
+<td>33 500</td>
+<td>35 750</td>
+<td>42 325</td>
+<td>41 300</td>
+<td>46 250</td>
+<td>53 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2909&lang=0" target="_blank" class="job">Врач-физиотерапевт</a></td>
+<td>26 960</td>
+<td>29 450</td>
+<td>37 475</td>
+<td>37 500</td>
+<td>43 500</td>
+<td>49 200</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2911&lang=0" target="_blank" class="job">Врач-флеболог</a></td>
+<td>41 150</td>
+<td>44 375</td>
+<td>51 125</td>
+<td>50 500</td>
+<td>58 125</td>
+<td>61 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2386&lang=0" target="_blank" class="job">Врач-хирург</a></td>
+<td>42 900</td>
+<td>52 500</td>
+<td>72 875</td>
+<td>71 500</td>
+<td>94 000</td>
+<td>103 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2296&lang=0" target="_blank" class="job">Врач-эндокринолог</a></td>
+<td>35 800</td>
+<td>40 750</td>
+<td>49 850</td>
+<td>50 250</td>
+<td>58 325</td>
+<td>63 710</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2919&lang=0" target="_blank" class="job">Директор частной клиники</a></td>
+<td>108 000</td>
+<td>142 500</td>
+<td>200 000</td>
+<td>190 000</td>
+<td>262 500</td>
+<td>306 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2239&lang=0" target="_blank" class="job">Заместитель главного врача</a></td>
+<td>61 600</td>
+<td>70 000</td>
+<td>85 375</td>
+<td>82 500</td>
+<td>99 500</td>
+<td>113 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2251&lang=0" target="_blank" class="job">Зубной техник</a></td>
+<td>39 200</td>
+<td>47 750</td>
+<td>58 625</td>
+<td>59 000</td>
+<td>71 250</td>
+<td>76 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2924&lang=0" target="_blank" class="job">Интерн</a></td>
+<td>13 599</td>
+<td>15 570</td>
+<td>18 989</td>
+<td>18 905</td>
+<td>21 313</td>
+<td>24 833</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2167&lang=0" target="_blank" class="job">Косметолог</a></td>
+<td>40 500</td>
+<td>44 968</td>
+<td>61 643</td>
+<td>58 500</td>
+<td>77 500</td>
+<td>86 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>25 000</td>
+<td>27 000</td>
+<td>34 100</td>
+<td>30 000</td>
+<td>40 500</td>
+<td>47 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2898&lang=0" target="_blank" class="job">Мануальный терапевт</a></td>
+<td>42 000</td>
+<td>48 750</td>
+<td>57 375</td>
+<td>57 500</td>
+<td>68 250</td>
+<td>72 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>26 400</td>
+<td>31 875</td>
+<td>40 375</td>
+<td>40 250</td>
+<td>49 250</td>
+<td>53 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2158&lang=0" target="_blank" class="job">Медицинская сестра</a></td>
+<td>24 500</td>
+<td>30 000</td>
+<td>39 978</td>
+<td>42 000</td>
+<td>50 000</td>
+<td>52 840</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2920&lang=0" target="_blank" class="job">Медицинский регистратор</a></td>
+<td>19 100</td>
+<td>23 000</td>
+<td>26 438</td>
+<td>26 750</td>
+<td>30 500</td>
+<td>32 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>63 600</td>
+<td>68 875</td>
+<td>115 829</td>
+<td>94 500</td>
+<td>170 925</td>
+<td>196 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2929&lang=0" target="_blank" class="job">Операционная медицинская сестра</a></td>
+<td>37 100</td>
+<td>41 000</td>
+<td>46 938</td>
+<td>47 500</td>
+<td>52 875</td>
+<td>56 250</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2901&lang=0" target="_blank" class="job">Патологоанатом</a></td>
+<td>26 940</td>
+<td>28 500</td>
+<td>33 538</td>
+<td>32 600</td>
+<td>37 600</td>
+<td>41 050</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2905&lang=0" target="_blank" class="job">Пластический хирург</a></td>
+<td>55 600</td>
+<td>63 250</td>
+<td>87 250</td>
+<td>77 500</td>
+<td>105 000</td>
+<td>129 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1992&lang=0" target="_blank" class="job">Руководитель (Главный врач)</a></td>
+<td>72 000</td>
+<td>80 250</td>
+<td>97 250</td>
+<td>92 500</td>
+<td>113 750</td>
+<td>128 300</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1993&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Заведующий отделением)</a></td>
+<td>57 000</td>
+<td>66 000</td>
+<td>76 250</td>
+<td>77 500</td>
+<td>86 750</td>
+<td>94 400</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1998&lang=0" target="_blank" class="job">Санитар</a></td>
+<td>19 250</td>
+<td>23 000</td>
+<td>26 313</td>
+<td>26 000</td>
+<td>30 500</td>
+<td>32 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1997&lang=0" target="_blank" class="job">Сиделка</a></td>
+<td>20 100</td>
+<td>23 250</td>
+<td>28 313</td>
+<td>28 000</td>
+<td>33 125</td>
+<td>36 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2440&lang=0" target="_blank" class="job">Старшая медицинская сестра</a></td>
+<td>31 150</td>
+<td>34 375</td>
+<td>38 563</td>
+<td>39 000</td>
+<td>42 750</td>
+<td>45 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1404&lang=0" target="_blank" class="job">Фельдшер</a></td>
+<td>27 100</td>
+<td>31 750</td>
+<td>35 813</td>
+<td>36 750</td>
+<td>40 500</td>
+<td>42 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2907&lang=0" target="_blank" class="job">Хирург детский</a></td>
+<td>30 800</td>
+<td>35 750</td>
+<td>44 625</td>
+<td>42 500</td>
+<td>54 000</td>
+<td>60 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2906&lang=0" target="_blank" class="job">Хирург челюстно-лицевой</a></td>
+<td>48 500</td>
+<td>53 750</td>
+<td>62 500</td>
+<td>62 500</td>
+<td>71 250</td>
+<td>76 500</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2914&lang=0" target="_blank" class="job">Администратор клиники</a></td>
+<td>34 857</td>
+<td>40 392</td>
+<td>47 607</td>
+<td>47 390</td>
+<td>54 929</td>
+<td>60 104</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2921&lang=0" target="_blank" class="job">Акушерка</a></td>
+<td>34 990</td>
+<td>35 225</td>
+<td>44 660</td>
+<td>41 375</td>
+<td>50 192</td>
+<td>58 812</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2913&lang=0" target="_blank" class="job">Ассистент врача-стомалога</a></td>
+<td>39 095</td>
+<td>44 613</td>
+<td>54 625</td>
+<td>55 667</td>
+<td>64 687</td>
+<td>70 385</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1996&lang=0" target="_blank" class="job">Ветеринар</a></td>
+<td>43 158</td>
+<td>53 792</td>
+<td>68 559</td>
+<td>64 050</td>
+<td>85 455</td>
+<td>95 797</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2479&lang=0" target="_blank" class="job">Ветеринарный врач (МВД)</a></td>
+<td>39 239</td>
+<td>40 389</td>
+<td>44 446</td>
+<td>41 583</td>
+<td>49 485</td>
+<td>50 584</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2912&lang=0" target="_blank" class="job">Водитель скорой помощи</a></td>
+<td>34 160</td>
+<td>38 938</td>
+<td>47 326</td>
+<td>47 355</td>
+<td>54 104</td>
+<td>61 277</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2285&lang=0" target="_blank" class="job">Врач акушер-гинеколог</a></td>
+<td>48 712</td>
+<td>52 692</td>
+<td>74 729</td>
+<td>68 075</td>
+<td>84 896</td>
+<td>111 058</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2923&lang=0" target="_blank" class="job">Врач акушер-гинеколог (родильное отделение)</a></td>
+<td>72 200</td>
+<td>82 500</td>
+<td>123 577</td>
+<td>107 592</td>
+<td>148 496</td>
+<td>202 198</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2922&lang=0" target="_blank" class="job">Врач акушер-гинеколог (хирург)</a></td>
+<td>96 807</td>
+<td>163 355</td>
+<td>215 027</td>
+<td>208 100</td>
+<td>256 333</td>
+<td>332 123</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2908&lang=0" target="_blank" class="job">Врач аллерголог-иммунолог</a></td>
+<td>55 580</td>
+<td>67 025</td>
+<td>130 202</td>
+<td>89 075</td>
+<td>165 084</td>
+<td>249 533</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2286&lang=0" target="_blank" class="job">Врач анестезиолог-реаниматолог</a></td>
+<td>49 650</td>
+<td>55 825</td>
+<td>74 914</td>
+<td>73 850</td>
+<td>89 507</td>
+<td>105 266</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2917&lang=0" target="_blank" class="job">Врач клинической лабораторной диагностики</a></td>
+<td>49 992</td>
+<td>58 579</td>
+<td>71 879</td>
+<td>67 934</td>
+<td>82 475</td>
+<td>96 620</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1994&lang=0" target="_blank" class="job">Врач общей практики </a></td>
+<td>49 094</td>
+<td>62 667</td>
+<td>72 974</td>
+<td>74 417</td>
+<td>83 600</td>
+<td>92 166</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2915&lang=0" target="_blank" class="job">Врач по лечебной физкультуре</a></td>
+<td>42 300</td>
+<td>49 500</td>
+<td>60 111</td>
+<td>61 788</td>
+<td>70 825</td>
+<td>75 765</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2928&lang=0" target="_blank" class="job">Врач судебной медицинской экспертизы</a></td>
+<td>44 420</td>
+<td>53 563</td>
+<td>68 500</td>
+<td>62 575</td>
+<td>81 538</td>
+<td>97 820</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1995&lang=0" target="_blank" class="job">Врач узкой специализации</a></td>
+<td>59 532</td>
+<td>77 286</td>
+<td>96 724</td>
+<td>94 217</td>
+<td>110 763</td>
+<td>135 490</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2910&lang=0" target="_blank" class="job">Врач ультразвуковой диагностики</a></td>
+<td>53 663</td>
+<td>63 044</td>
+<td>96 690</td>
+<td>75 513</td>
+<td>116 546</td>
+<td>170 253</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2916&lang=0" target="_blank" class="job">Врач-бактериолог</a></td>
+<td>45 298</td>
+<td>52 306</td>
+<td>62 680</td>
+<td>59 896</td>
+<td>76 461</td>
+<td>83 487</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2289&lang=0" target="_blank" class="job">Врач-гастроэнтеролог</a></td>
+<td>74 548</td>
+<td>85 558</td>
+<td>151 579</td>
+<td>125 584</td>
+<td>195 617</td>
+<td>275 472</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2902&lang=0" target="_blank" class="job">Врач-дерматолог</a></td>
+<td>51 675</td>
+<td>84 100</td>
+<td>125 365</td>
+<td>124 184</td>
+<td>161 846</td>
+<td>199 128</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2897&lang=0" target="_blank" class="job">Врач-диетолог</a></td>
+<td>39 985</td>
+<td>53 300</td>
+<td>70 417</td>
+<td>71 392</td>
+<td>87 863</td>
+<td>99 215</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2918&lang=0" target="_blank" class="job">Врач-иглорефлексотерапевт</a></td>
+<td>57 075</td>
+<td>67 912</td>
+<td>87 165</td>
+<td>85 009</td>
+<td>104 163</td>
+<td>116 410</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2900&lang=0" target="_blank" class="job">Врач-инфекционист</a></td>
+<td>41 630</td>
+<td>51 837</td>
+<td>68 800</td>
+<td>72 767</td>
+<td>87 013</td>
+<td>91 940</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2290&lang=0" target="_blank" class="job">Врач-кардиолог</a></td>
+<td>70 114</td>
+<td>85 542</td>
+<td>149 498</td>
+<td>118 542</td>
+<td>208 690</td>
+<td>260 001</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2903&lang=0" target="_blank" class="job">Врач-маммолог</a></td>
+<td>54 585</td>
+<td>60 988</td>
+<td>78 117</td>
+<td>81 475</td>
+<td>91 325</td>
+<td>101 010</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2895&lang=0" target="_blank" class="job">Врач-нарколог</a></td>
+<td>54 577</td>
+<td>59 854</td>
+<td>103 356</td>
+<td>85 892</td>
+<td>105 092</td>
+<td>159 632</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2291&lang=0" target="_blank" class="job">Врач-невролог</a></td>
+<td>52 532</td>
+<td>61 467</td>
+<td>93 837</td>
+<td>78 500</td>
+<td>102 086</td>
+<td>151 184</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2896&lang=0" target="_blank" class="job">Врач-онколог</a></td>
+<td>68 585</td>
+<td>80 438</td>
+<td>136 507</td>
+<td>101 225</td>
+<td>120 738</td>
+<td>240 328</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2904&lang=0" target="_blank" class="job">Врач-ортодонт</a></td>
+<td>54 582</td>
+<td>62 644</td>
+<td>97 374</td>
+<td>82 683</td>
+<td>111 321</td>
+<td>164 373</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2335&lang=0" target="_blank" class="job">Врач-ортопед</a></td>
+<td>44 323</td>
+<td>47 119</td>
+<td>66 320</td>
+<td>65 934</td>
+<td>77 312</td>
+<td>91 950</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2292&lang=0" target="_blank" class="job">Врач-отоларинголог</a></td>
+<td>53 397</td>
+<td>58 587</td>
+<td>73 403</td>
+<td>66 650</td>
+<td>88 450</td>
+<td>100 440</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2293&lang=0" target="_blank" class="job">Врач-офтальмолог</a></td>
+<td>45 310</td>
+<td>63 038</td>
+<td>77 499</td>
+<td>74 600</td>
+<td>89 627</td>
+<td>110 278</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2927&lang=0" target="_blank" class="job">Врач-офтальмолог (хирург)</a></td>
+<td>89 942</td>
+<td>113 567</td>
+<td>153 300</td>
+<td>139 284</td>
+<td>189 292</td>
+<td>234 907</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2294&lang=0" target="_blank" class="job">Врач-педиатр</a></td>
+<td>52 993</td>
+<td>60 921</td>
+<td>76 720</td>
+<td>77 313</td>
+<td>93 354</td>
+<td>99 262</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2926&lang=0" target="_blank" class="job">Врач-проктолог</a></td>
+<td>56 442</td>
+<td>65 417</td>
+<td>86 025</td>
+<td>81 367</td>
+<td>99 063</td>
+<td>121 715</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2899&lang=0" target="_blank" class="job">Врач-психиатр</a></td>
+<td>46 097</td>
+<td>55 188</td>
+<td>79 080</td>
+<td>62 767</td>
+<td>95 613</td>
+<td>129 715</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2288&lang=0" target="_blank" class="job">Врач-рентгенолог</a></td>
+<td>61 125</td>
+<td>70 387</td>
+<td>91 628</td>
+<td>76 000</td>
+<td>99 787</td>
+<td>150 238</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2213&lang=0" target="_blank" class="job">Врач-стоматолог</a></td>
+<td>60 497</td>
+<td>70 688</td>
+<td>135 837</td>
+<td>98 613</td>
+<td>126 912</td>
+<td>249 380</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2295&lang=0" target="_blank" class="job">Врач-терапевт</a></td>
+<td>49 968</td>
+<td>60 633</td>
+<td>74 755</td>
+<td>73 130</td>
+<td>87 400</td>
+<td>101 395</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2334&lang=0" target="_blank" class="job">Врач-травматолог</a></td>
+<td>57 958</td>
+<td>69 669</td>
+<td>93 349</td>
+<td>81 126</td>
+<td>97 913</td>
+<td>137 310</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2925&lang=0" target="_blank" class="job">Врач-уролог</a></td>
+<td>49 912</td>
+<td>58 379</td>
+<td>78 383</td>
+<td>72 292</td>
+<td>91 542</td>
+<td>115 557</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2909&lang=0" target="_blank" class="job">Врач-физиотерапевт</a></td>
+<td>37 472</td>
+<td>42 829</td>
+<td>55 475</td>
+<td>51 225</td>
+<td>68 625</td>
+<td>80 060</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2911&lang=0" target="_blank" class="job">Врач-флеболог</a></td>
+<td>52 600</td>
+<td>63 773</td>
+<td>76 111</td>
+<td>75 746</td>
+<td>83 562</td>
+<td>97 255</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2386&lang=0" target="_blank" class="job">Врач-хирург</a></td>
+<td>87 835</td>
+<td>107 250</td>
+<td>190 540</td>
+<td>153 942</td>
+<td>252 058</td>
+<td>339 613</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2296&lang=0" target="_blank" class="job">Врач-эндокринолог</a></td>
+<td>45 193</td>
+<td>53 271</td>
+<td>66 780</td>
+<td>64 596</td>
+<td>80 058</td>
+<td>91 273</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2919&lang=0" target="_blank" class="job">Директор частной клиники</a></td>
+<td>220 521</td>
+<td>305 528</td>
+<td>496 116</td>
+<td>367 461</td>
+<td>606 382</td>
+<td>851 736</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2239&lang=0" target="_blank" class="job">Заместитель главного врача</a></td>
+<td>100 123</td>
+<td>108 158</td>
+<td>195 015</td>
+<td>145 659</td>
+<td>240 550</td>
+<td>353 050</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2251&lang=0" target="_blank" class="job">Зубной техник</a></td>
+<td>48 915</td>
+<td>57 500</td>
+<td>81 315</td>
+<td>69 684</td>
+<td>95 075</td>
+<td>126 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2924&lang=0" target="_blank" class="job">Интерн</a></td>
+<td>17 432</td>
+<td>19 643</td>
+<td>23 928</td>
+<td>23 231</td>
+<td>27 839</td>
+<td>30 197</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2167&lang=0" target="_blank" class="job">Косметолог</a></td>
+<td>69 809</td>
+<td>82 499</td>
+<td>141 922</td>
+<td>118 192</td>
+<td>177 656</td>
+<td>260 542</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>31 051</td>
+<td>38 358</td>
+<td>47 595</td>
+<td>43 200</td>
+<td>55 354</td>
+<td>65 683</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2898&lang=0" target="_blank" class="job">Мануальный терапевт</a></td>
+<td>70 710</td>
+<td>83 313</td>
+<td>103 842</td>
+<td>95 642</td>
+<td>121 363</td>
+<td>145 130</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2052&lang=0" target="_blank" class="job">Массажист</a></td>
+<td>40 817</td>
+<td>48 623</td>
+<td>64 623</td>
+<td>61 038</td>
+<td>81 304</td>
+<td>90 602</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2158&lang=0" target="_blank" class="job">Медицинская сестра</a></td>
+<td>33 181</td>
+<td>38 000</td>
+<td>51 376</td>
+<td>52 100</td>
+<td>61 667</td>
+<td>71 176</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2920&lang=0" target="_blank" class="job">Медицинский регистратор</a></td>
+<td>24 602</td>
+<td>27 267</td>
+<td>32 841</td>
+<td>31 930</td>
+<td>39 042</td>
+<td>41 102</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>78 850</td>
+<td>95 292</td>
+<td>159 590</td>
+<td>150 967</td>
+<td>212 092</td>
+<td>243 527</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2929&lang=0" target="_blank" class="job">Операционная медицинская сестра</a></td>
+<td>49 622</td>
+<td>55 542</td>
+<td>65 541</td>
+<td>65 225</td>
+<td>75 033</td>
+<td>84 661</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2901&lang=0" target="_blank" class="job">Патологоанатом</a></td>
+<td>45 915</td>
+<td>50 088</td>
+<td>60 702</td>
+<td>53 746</td>
+<td>66 081</td>
+<td>82 455</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2905&lang=0" target="_blank" class="job">Пластический хирург</a></td>
+<td>93 600</td>
+<td>116 988</td>
+<td>205 060</td>
+<td>192 250</td>
+<td>276 875</td>
+<td>337 150</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1992&lang=0" target="_blank" class="job">Руководитель (Главный врач)</a></td>
+<td>132 575</td>
+<td>144 713</td>
+<td>314 037</td>
+<td>238 890</td>
+<td>377 317</td>
+<td>564 677</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1993&lang=0" target="_blank" class="job">Руководитель структурного подразделения (Заведующий отделением)</a></td>
+<td>99 290</td>
+<td>113 900</td>
+<td>197 019</td>
+<td>157 409</td>
+<td>234 725</td>
+<td>336 160</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1998&lang=0" target="_blank" class="job">Санитар</a></td>
+<td>21 324</td>
+<td>24 704</td>
+<td>30 884</td>
+<td>28 150</td>
+<td>37 179</td>
+<td>42 297</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1997&lang=0" target="_blank" class="job">Сиделка</a></td>
+<td>26 047</td>
+<td>28 685</td>
+<td>38 290</td>
+<td>36 017</td>
+<td>45 229</td>
+<td>53 902</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2440&lang=0" target="_blank" class="job">Старшая медицинская сестра</a></td>
+<td>41 919</td>
+<td>44 405</td>
+<td>64 839</td>
+<td>58 134</td>
+<td>78 838</td>
+<td>98 075</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1404&lang=0" target="_blank" class="job">Фельдшер</a></td>
+<td>36 288</td>
+<td>41 746</td>
+<td>54 986</td>
+<td>54 988</td>
+<td>67 725</td>
+<td>74 115</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2907&lang=0" target="_blank" class="job">Хирург детский</a></td>
+<td>45 107</td>
+<td>53 367</td>
+<td>77 302</td>
+<td>74 984</td>
+<td>96 850</td>
+<td>109 875</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2906&lang=0" target="_blank" class="job">Хирург челюстно-лицевой</a></td>
+<td>88 757</td>
+<td>101 730</td>
+<td>171 308</td>
+<td>128 067</td>
+<td>184 487</td>
+<td>327 365</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 30.09.2019)</p>
+</div>

@@ -1,0 +1,328 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>16 960</td>
+<td>19 160</td>
+<td>22 903</td>
+<td>20 862</td>
+<td>24 661</td>
+<td>32 184</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>27 297</td>
+<td>27 759</td>
+<td>33 470</td>
+<td>29 388</td>
+<td>38 568</td>
+<td>42 840</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2047&lang=0" target="_blank" class="job">Бухгалтер по учету себестоимости</a></td>
+<td>38 266</td>
+<td>40 570</td>
+<td>46 068</td>
+<td>46 552</td>
+<td>49 927</td>
+<td>53 907</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>24 025</td>
+<td>30 481</td>
+<td>34 835</td>
+<td>32 184</td>
+<td>37 511</td>
+<td>41 798</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>50 864</td>
+<td>55 710</td>
+<td>63 728</td>
+<td>63 218</td>
+<td>63 218</td>
+<td>87 368</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>26 148</td>
+<td>32 097</td>
+<td>54 943</td>
+<td>48 891</td>
+<td>64 197</td>
+<td>96 552</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>21 504</td>
+<td>27 739</td>
+<td>45 714</td>
+<td>37 011</td>
+<td>65 045</td>
+<td>79 310</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>36 000</td>
+<td>40 682</td>
+<td>75 487</td>
+<td>51 724</td>
+<td>81 353</td>
+<td>131 782</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1296&lang=0" target="_blank" class="job">Старший бухгалтер</a></td>
+<td>20 230</td>
+<td>22 851</td>
+<td>36 949</td>
+<td>27 500</td>
+<td>34 483</td>
+<td>70 443</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>70 115</td>
+<td>83 276</td>
+<td>134 172</td>
+<td>114 943</td>
+<td>163 312</td>
+<td>177 515</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>16 033</td>
+<td>19 138</td>
+<td>29 640</td>
+<td>22 989</td>
+<td>36 580</td>
+<td>50 431</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1694&lang=0" target="_blank" class="job">Экономист по планированию</a></td>
+<td>20 000</td>
+<td>20 000</td>
+<td>30 249</td>
+<td>32 572</td>
+<td>39 310</td>
+<td>39 310</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>36 325</td>
+<td>38 360</td>
+<td>43 000</td>
+<td>42 000</td>
+<td>47 731</td>
+<td>50 454</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>26 196</td>
+<td>29 566</td>
+<td>34 928</td>
+<td>33 135</td>
+<td>36 723</td>
+<td>46 222</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>34 925</td>
+<td>37 977</td>
+<td>41 342</td>
+<td>39 655</td>
+<td>45 158</td>
+<td>47 630</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2047&lang=0" target="_blank" class="job">Бухгалтер по учету себестоимости</a></td>
+<td>38 266</td>
+<td>40 570</td>
+<td>46 068</td>
+<td>46 552</td>
+<td>49 927</td>
+<td>53 907</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1487&lang=0" target="_blank" class="job">Бухгалтер по учету ТМЦ</a></td>
+<td>29 379</td>
+<td>32 184</td>
+<td>36 327</td>
+<td>32 184</td>
+<td>39 117</td>
+<td>43 291</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>53 963</td>
+<td>57 471</td>
+<td>69 586</td>
+<td>63 218</td>
+<td>66 494</td>
+<td>98 248</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>42 489</td>
+<td>57 471</td>
+<td>77 507</td>
+<td>64 368</td>
+<td>94 077</td>
+<td>116 718</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>33 164</td>
+<td>42 414</td>
+<td>60 328</td>
+<td>54 718</td>
+<td>79 310</td>
+<td>91 004</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>53 218</td>
+<td>67 759</td>
+<td>99 130</td>
+<td>81 041</td>
+<td>104 972</td>
+<td>131 782</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1296&lang=0" target="_blank" class="job">Старший бухгалтер</a></td>
+<td>31 061</td>
+<td>33 621</td>
+<td>47 924</td>
+<td>39 543</td>
+<td>42 744</td>
+<td>84 426</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>87 356</td>
+<td>131 782</td>
+<td>178 286</td>
+<td>172 414</td>
+<td>190 402</td>
+<td>226 479</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>22 989</td>
+<td>25 977</td>
+<td>39 016</td>
+<td>33 835</td>
+<td>45 728</td>
+<td>73 195</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1694&lang=0" target="_blank" class="job">Экономист по планированию</a></td>
+<td>24 943</td>
+<td>24 943</td>
+<td>32 182</td>
+<td>34 654</td>
+<td>39 310</td>
+<td>39 310</td>
+<td>3 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>38 671</td>
+<td>41 096</td>
+<td>45 776</td>
+<td>47 356</td>
+<td>49 231</td>
+<td>52 091</td>
+<td>3 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 12.09.2012)</p>
+</div>

@@ -1,0 +1,468 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>7 175</td>
+<td>8 288</td>
+<td>16 116</td>
+<td>14 274</td>
+<td>20 000</td>
+<td>27 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>52 700</td>
+<td>69 300</td>
+<td>92 627</td>
+<td>85 000</td>
+<td>115 038</td>
+<td>142 487</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2343&lang=0" target="_blank" class="job">Заместитель директора по эксплуатации</a></td>
+<td>37 343</td>
+<td>54 797</td>
+<td>62 521</td>
+<td>66 000</td>
+<td>75 488</td>
+<td>86 447</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>28 208</td>
+<td>39 541</td>
+<td>42 983</td>
+<td>45 277</td>
+<td>49 750</td>
+<td>52 121</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>23 215</td>
+<td>25 149</td>
+<td>28 038</td>
+<td>28 000</td>
+<td>32 000</td>
+<td>34 849</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1325&lang=0" target="_blank" class="job">Главный энергетик</a></td>
+<td>34 440</td>
+<td>39 200</td>
+<td>44 641</td>
+<td>42 900</td>
+<td>50 000</td>
+<td>57 907</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1906&lang=0" target="_blank" class="job">Заместитель главного энергетика</a></td>
+<td>30 139</td>
+<td>33 058</td>
+<td>37 640</td>
+<td>39 418</td>
+<td>40 705</td>
+<td>48 406</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2150&lang=0" target="_blank" class="job">Начальник котельной</a></td>
+<td>27 895</td>
+<td>31 373</td>
+<td>37 320</td>
+<td>37 500</td>
+<td>45 701</td>
+<td>50 627</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>19 237</td>
+<td>20 160</td>
+<td>25 035</td>
+<td>23 000</td>
+<td>28 750</td>
+<td>35 906</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1647&lang=0" target="_blank" class="job">Слесарь-сантехник</a></td>
+<td>10 439</td>
+<td>12 370</td>
+<td>14 891</td>
+<td>14 000</td>
+<td>16 475</td>
+<td>22 262</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1618&lang=0" target="_blank" class="job">Техник </a></td>
+<td>10 000</td>
+<td>11 200</td>
+<td>14 588</td>
+<td>12 000</td>
+<td>14 200</td>
+<td>25 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1608&lang=0" target="_blank" class="job">Электромонтер по обслуживанию электрооборудования</a></td>
+<td>9 350</td>
+<td>10 845</td>
+<td>15 187</td>
+<td>12 703</td>
+<td>16 353</td>
+<td>24 713</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1265&lang=0" target="_blank" class="job">Водитель легкового автомобиля</a></td>
+<td>21 095</td>
+<td>23 173</td>
+<td>26 689</td>
+<td>25 000</td>
+<td>29 500</td>
+<td>31 200</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1555&lang=0" target="_blank" class="job">Диспетчер автомобильного транспорта</a></td>
+<td>17 594</td>
+<td>19 395</td>
+<td>21 925</td>
+<td>23 100</td>
+<td>25 000</td>
+<td>26 546</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1417&lang=0" target="_blank" class="job">Инженер отдела безопасности дорожного движения</a></td>
+<td>28 736</td>
+<td>32 200</td>
+<td>34 382</td>
+<td>35 050</td>
+<td>37 654</td>
+<td>42 033</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1479&lang=0" target="_blank" class="job">Менеджер по транспортной логистике</a></td>
+<td>25 000</td>
+<td>29 000</td>
+<td>39 031</td>
+<td>38 900</td>
+<td>51 797</td>
+<td>55 600</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>36 200</td>
+<td>40 000</td>
+<td>47 511</td>
+<td>50 000</td>
+<td>55 000</td>
+<td>69 500</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>18 951</td>
+<td>31 783</td>
+<td>32 979</td>
+<td>34 100</td>
+<td>38 131</td>
+<td>43 432</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>10 771</td>
+<td>12 671</td>
+<td>23 116</td>
+<td>20 169</td>
+<td>30 000</td>
+<td>37 890</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>23 360</td>
+<td>28 000</td>
+<td>35 356</td>
+<td>34 000</td>
+<td>43 726</td>
+<td>50 000</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1662&lang=0" target="_blank" class="job">Делопроизводитель</a></td>
+<td>7 175</td>
+<td>9 950</td>
+<td>22 334</td>
+<td>21 509</td>
+<td>28 968</td>
+<td>38 788</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>52 700</td>
+<td>77 300</td>
+<td>138 993</td>
+<td>135 725</td>
+<td>183 990</td>
+<td>232 231</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2343&lang=0" target="_blank" class="job">Заместитель директора по эксплуатации</a></td>
+<td>39 606</td>
+<td>58 118</td>
+<td>66 310</td>
+<td>70 000</td>
+<td>80 063</td>
+<td>91 686</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>28 208</td>
+<td>39 541</td>
+<td>46 798</td>
+<td>45 277</td>
+<td>58 786</td>
+<td>62 988</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1707&lang=0" target="_blank" class="job">Специалист гражданской обороны</a></td>
+<td>23 215</td>
+<td>25 149</td>
+<td>28 038</td>
+<td>28 000</td>
+<td>32 000</td>
+<td>34 849</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1325&lang=0" target="_blank" class="job">Главный энергетик</a></td>
+<td>34 440</td>
+<td>39 200</td>
+<td>54 479</td>
+<td>46 001</td>
+<td>64 266</td>
+<td>89 026</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1906&lang=0" target="_blank" class="job">Заместитель главного энергетика</a></td>
+<td>30 139</td>
+<td>36 782</td>
+<td>47 384</td>
+<td>44 526</td>
+<td>58 210</td>
+<td>70 189</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2150&lang=0" target="_blank" class="job">Начальник котельной</a></td>
+<td>30 406</td>
+<td>37 641</td>
+<td>45 954</td>
+<td>46 214</td>
+<td>57 649</td>
+<td>63 842</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>19 237</td>
+<td>23 252</td>
+<td>33 368</td>
+<td>31 847</td>
+<td>39 550</td>
+<td>51 995</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1647&lang=0" target="_blank" class="job">Слесарь-сантехник</a></td>
+<td>10 439</td>
+<td>15 970</td>
+<td>22 710</td>
+<td>20 563</td>
+<td>27 757</td>
+<td>36 815</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1618&lang=0" target="_blank" class="job">Техник </a></td>
+<td>10 000</td>
+<td>12 367</td>
+<td>19 648</td>
+<td>16 810</td>
+<td>22 379</td>
+<td>35 176</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1608&lang=0" target="_blank" class="job">Электромонтер по обслуживанию электрооборудования</a></td>
+<td>9 350</td>
+<td>18 805</td>
+<td>26 572</td>
+<td>24 552</td>
+<td>30 600</td>
+<td>42 498</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1265&lang=0" target="_blank" class="job">Водитель легкового автомобиля</a></td>
+<td>21 095</td>
+<td>23 173</td>
+<td>35 776</td>
+<td>35 309</td>
+<td>41 513</td>
+<td>45 200</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1555&lang=0" target="_blank" class="job">Диспетчер автомобильного транспорта</a></td>
+<td>17 594</td>
+<td>19 834</td>
+<td>25 426</td>
+<td>26 467</td>
+<td>30 581</td>
+<td>33 755</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1417&lang=0" target="_blank" class="job">Инженер отдела безопасности дорожного движения</a></td>
+<td>29 192</td>
+<td>35 200</td>
+<td>39 853</td>
+<td>40 820</td>
+<td>44 702</td>
+<td>51 128</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1479&lang=0" target="_blank" class="job">Менеджер по транспортной логистике</a></td>
+<td>25 000</td>
+<td>29 000</td>
+<td>45 500</td>
+<td>39 400</td>
+<td>62 474</td>
+<td>73 329</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>36 200</td>
+<td>40 000</td>
+<td>60 444</td>
+<td>50 000</td>
+<td>83 461</td>
+<td>104 980</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>18 951</td>
+<td>31 783</td>
+<td>36 712</td>
+<td>37 300</td>
+<td>44 265</td>
+<td>51 546</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>10 771</td>
+<td>12 671</td>
+<td>29 884</td>
+<td>25 869</td>
+<td>43 100</td>
+<td>55 794</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1562&lang=0" target="_blank" class="job">Инженер по эксплуатации теплотехнического оборудования</a></td>
+<td>23 360</td>
+<td>30 107</td>
+<td>45 561</td>
+<td>40 424</td>
+<td>61 423</td>
+<td>70 737</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 23.09.2014)</p>
+</div>

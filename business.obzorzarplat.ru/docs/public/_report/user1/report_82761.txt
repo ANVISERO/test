@@ -1,0 +1,508 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>88 000</td>
+<td>100 000</td>
+<td>130 012</td>
+<td>135 000</td>
+<td>142 000</td>
+<td>170 980</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>55 000</td>
+<td>84 625</td>
+<td>116 523</td>
+<td>114 000</td>
+<td>150 000</td>
+<td>178 754</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>55 000</td>
+<td>58 000</td>
+<td>68 068</td>
+<td>68 000</td>
+<td>77 000</td>
+<td>85 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>52 000</td>
+<td>60 000</td>
+<td>83 571</td>
+<td>70 000</td>
+<td>87 500</td>
+<td>129 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>47 830</td>
+<td>54 100</td>
+<td>70 633</td>
+<td>67 150</td>
+<td>82 650</td>
+<td>96 910</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1537&lang=0" target="_blank" class="job">Главный сварщик</a></td>
+<td>54 500</td>
+<td>60 000</td>
+<td>67 500</td>
+<td>65 000</td>
+<td>73 750</td>
+<td>81 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1325&lang=0" target="_blank" class="job">Главный энергетик</a></td>
+<td>45 000</td>
+<td>50 000</td>
+<td>61 246</td>
+<td>60 000</td>
+<td>75 000</td>
+<td>76 145</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2122&lang=0" target="_blank" class="job">Директор по лесозаготовке</a></td>
+<td>72 030</td>
+<td>90 000</td>
+<td>123 661</td>
+<td>109 000</td>
+<td>165 000</td>
+<td>173 900</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>86 990</td>
+<td>101 225</td>
+<td>156 391</td>
+<td>150 000</td>
+<td>190 000</td>
+<td>257 590</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>65 000</td>
+<td>72 500</td>
+<td>105 500</td>
+<td>100 000</td>
+<td>128 750</td>
+<td>160 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>42 400</td>
+<td>46 575</td>
+<td>56 996</td>
+<td>53 600</td>
+<td>66 250</td>
+<td>74 760</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2443&lang=0" target="_blank" class="job">Заместитель начальника производства</a></td>
+<td>39 700</td>
+<td>43 000</td>
+<td>51 944</td>
+<td>50 000</td>
+<td>61 000</td>
+<td>62 200</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2027&lang=0" target="_blank" class="job">Заместитель начальника участка</a></td>
+<td>39 200</td>
+<td>40 000</td>
+<td>49 000</td>
+<td>45 000</td>
+<td>55 000</td>
+<td>64 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1553&lang=0" target="_blank" class="job">Заместитель начальника цеха</a></td>
+<td>40 000</td>
+<td>50 000</td>
+<td>56 007</td>
+<td>55 000</td>
+<td>61 800</td>
+<td>74 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1849&lang=0" target="_blank" class="job">Заместитель технического директора</a></td>
+<td>60 000</td>
+<td>82 500</td>
+<td>89 167</td>
+<td>92 500</td>
+<td>98 750</td>
+<td>115 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1387&lang=0" target="_blank" class="job">Менеджер по подготовке производства</a></td>
+<td>29 200</td>
+<td>32 500</td>
+<td>41 857</td>
+<td>35 000</td>
+<td>45 000</td>
+<td>60 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1510&lang=0" target="_blank" class="job">Начальник отдела контроля качества</a></td>
+<td>45 000</td>
+<td>47 250</td>
+<td>54 013</td>
+<td>51 000</td>
+<td>60 750</td>
+<td>65 911</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1486&lang=0" target="_blank" class="job">Начальник смены</a></td>
+<td>38 000</td>
+<td>39 000</td>
+<td>44 714</td>
+<td>42 000</td>
+<td>50 000</td>
+<td>52 000</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1326&lang=0" target="_blank" class="job">Начальник участка</a></td>
+<td>23 369</td>
+<td>27 945</td>
+<td>35 505</td>
+<td>33 972</td>
+<td>38 910</td>
+<td>48 300</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2698&lang=0" target="_blank" class="job">Начальник экспериментального производства</a></td>
+<td>63 800</td>
+<td>72 950</td>
+<td>79 813</td>
+<td>77 200</td>
+<td>87 000</td>
+<td>97 640</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1671&lang=0" target="_blank" class="job">Начальник электростанции</a></td>
+<td>57 000</td>
+<td>61 200</td>
+<td>69 575</td>
+<td>67 500</td>
+<td>77 500</td>
+<td>86 500</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>53 000</td>
+<td>67 250</td>
+<td>140 214</td>
+<td>110 000</td>
+<td>187 500</td>
+<td>293 000</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>120 000</td>
+<td>139 000</td>
+<td>172 009</td>
+<td>167 617</td>
+<td>206 583</td>
+<td>228 787</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>84 345</td>
+<td>107 313</td>
+<td>167 071</td>
+<td>170 817</td>
+<td>211 758</td>
+<td>243 005</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>62 883</td>
+<td>69 025</td>
+<td>94 008</td>
+<td>77 650</td>
+<td>107 400</td>
+<td>154 340</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>80 767</td>
+<td>98 750</td>
+<td>129 476</td>
+<td>102 000</td>
+<td>131 500</td>
+<td>197 167</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>53 056</td>
+<td>63 217</td>
+<td>85 576</td>
+<td>85 384</td>
+<td>108 225</td>
+<td>118 893</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1537&lang=0" target="_blank" class="job">Главный сварщик</a></td>
+<td>89 050</td>
+<td>92 000</td>
+<td>95 927</td>
+<td>95 750</td>
+<td>98 525</td>
+<td>104 450</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1325&lang=0" target="_blank" class="job">Главный энергетик</a></td>
+<td>59 267</td>
+<td>70 000</td>
+<td>93 452</td>
+<td>84 034</td>
+<td>105 179</td>
+<td>139 101</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2122&lang=0" target="_blank" class="job">Директор по лесозаготовке</a></td>
+<td>82 813</td>
+<td>134 875</td>
+<td>191 154</td>
+<td>182 692</td>
+<td>238 509</td>
+<td>288 760</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>130 683</td>
+<td>173 692</td>
+<td>256 772</td>
+<td>229 200</td>
+<td>349 683</td>
+<td>415 403</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>82 465</td>
+<td>106 817</td>
+<td>170 492</td>
+<td>168 484</td>
+<td>185 750</td>
+<td>300 723</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>47 900</td>
+<td>60 942</td>
+<td>84 485</td>
+<td>85 634</td>
+<td>97 542</td>
+<td>124 497</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2443&lang=0" target="_blank" class="job">Заместитель начальника производства</a></td>
+<td>57 750</td>
+<td>71 000</td>
+<td>77 269</td>
+<td>80 000</td>
+<td>83 500</td>
+<td>89 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2027&lang=0" target="_blank" class="job">Заместитель начальника участка</a></td>
+<td>47 000</td>
+<td>52 167</td>
+<td>60 962</td>
+<td>57 200</td>
+<td>69 250</td>
+<td>79 580</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1553&lang=0" target="_blank" class="job">Заместитель начальника цеха</a></td>
+<td>54 616</td>
+<td>61 057</td>
+<td>71 355</td>
+<td>71 917</td>
+<td>78 544</td>
+<td>97 550</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1849&lang=0" target="_blank" class="job">Заместитель технического директора</a></td>
+<td>86 417</td>
+<td>109 125</td>
+<td>113 172</td>
+<td>117 000</td>
+<td>120 875</td>
+<td>136 100</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1387&lang=0" target="_blank" class="job">Менеджер по подготовке производства</a></td>
+<td>41 800</td>
+<td>44 250</td>
+<td>59 429</td>
+<td>45 700</td>
+<td>70 650</td>
+<td>88 800</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1510&lang=0" target="_blank" class="job">Начальник отдела контроля качества</a></td>
+<td>62 052</td>
+<td>64 420</td>
+<td>75 433</td>
+<td>70 008</td>
+<td>85 746</td>
+<td>91 880</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1486&lang=0" target="_blank" class="job">Начальник смены</a></td>
+<td>51 700</td>
+<td>54 750</td>
+<td>58 362</td>
+<td>56 000</td>
+<td>59 667</td>
+<td>66 780</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1326&lang=0" target="_blank" class="job">Начальник участка</a></td>
+<td>32 000</td>
+<td>44 080</td>
+<td>53 744</td>
+<td>53 677</td>
+<td>64 700</td>
+<td>68 875</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2698&lang=0" target="_blank" class="job">Начальник экспериментального производства</a></td>
+<td>92 650</td>
+<td>108 096</td>
+<td>128 786</td>
+<td>128 833</td>
+<td>144 517</td>
+<td>170 070</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1671&lang=0" target="_blank" class="job">Начальник электростанции</a></td>
+<td>70 400</td>
+<td>71 725</td>
+<td>83 108</td>
+<td>82 000</td>
+<td>90 925</td>
+<td>96 150</td>
+<td>3 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>94 026</td>
+<td>97 975</td>
+<td>208 884</td>
+<td>153 425</td>
+<td>272 883</td>
+<td>396 702</td>
+<td>3 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 20.11.2019)</p>
+</div>

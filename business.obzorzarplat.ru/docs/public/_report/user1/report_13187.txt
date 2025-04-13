@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2080&lang=0" target="_blank" class="job">Заместитель командира взвода </a></td>
+<td>22 850</td>
+<td>24 744</td>
+<td>27 289</td>
+<td>27 550</td>
+<td>29 925</td>
+<td>31 955</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2081&lang=0" target="_blank" class="job">Заместитель начальника отдела в управлении</a></td>
+<td>43 850</td>
+<td>48 263</td>
+<td>52 096</td>
+<td>52 500</td>
+<td>56 367</td>
+<td>61 110</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2082&lang=0" target="_blank" class="job">Заместитель руководителя территориального органа (заместитель начальника отдела), начальник отдела в управлении </a></td>
+<td>38 850</td>
+<td>42 763</td>
+<td>46 143</td>
+<td>46 500</td>
+<td>50 013</td>
+<td>54 110</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2385&lang=0" target="_blank" class="job">Кинолог</a></td>
+<td>11 600</td>
+<td>22 000</td>
+<td>29 565</td>
+<td>28 000</td>
+<td>36 971</td>
+<td>48 836</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2215&lang=0" target="_blank" class="job">Командир взвода</a></td>
+<td>33 725</td>
+<td>35 000</td>
+<td>40 642</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>50 375</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2079&lang=0" target="_blank" class="job">Младший инспектор </a></td>
+<td>21 850</td>
+<td>23 631</td>
+<td>25 999</td>
+<td>26 063</td>
+<td>28 300</td>
+<td>30 625</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2393&lang=0" target="_blank" class="job">Начальник караула</a></td>
+<td>13 862</td>
+<td>16 484</td>
+<td>21 776</td>
+<td>18 919</td>
+<td>25 000</td>
+<td>31 481</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2083&lang=0" target="_blank" class="job">Начальник отделения </a></td>
+<td>32 285</td>
+<td>34 175</td>
+<td>36 276</td>
+<td>36 125</td>
+<td>38 813</td>
+<td>41 510</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2077&lang=0" target="_blank" class="job">Полицейский</a></td>
+<td>19 710</td>
+<td>21 338</td>
+<td>23 419</td>
+<td>23 488</td>
+<td>25 419</td>
+<td>27 510</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2084&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник отдела), заместитель руководителя территориального органа (заместитель начальника управления) </a></td>
+<td>34 850</td>
+<td>38 363</td>
+<td>41 379</td>
+<td>41 638</td>
+<td>44 888</td>
+<td>48 510</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2085&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник управления) </a></td>
+<td>30 350</td>
+<td>33 263</td>
+<td>36 021</td>
+<td>36 238</td>
+<td>39 094</td>
+<td>42 210</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2086&lang=0" target="_blank" class="job">Следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>28 350</td>
+<td>30 988</td>
+<td>33 639</td>
+<td>33 838</td>
+<td>36 519</td>
+<td>39 410</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2078&lang=0" target="_blank" class="job">Старший полицейский</a></td>
+<td>20 245</td>
+<td>21 875</td>
+<td>24 014</td>
+<td>24 100</td>
+<td>26 063</td>
+<td>28 210</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2087&lang=0" target="_blank" class="job">Старший: следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>27 757</td>
+<td>30 163</td>
+<td>35 048</td>
+<td>32 638</td>
+<td>35 913</td>
+<td>52 818</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2080&lang=0" target="_blank" class="job">Заместитель командира взвода </a></td>
+<td>22 850</td>
+<td>24 744</td>
+<td>27 289</td>
+<td>27 550</td>
+<td>29 925</td>
+<td>31 955</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2081&lang=0" target="_blank" class="job">Заместитель начальника отдела в управлении</a></td>
+<td>43 850</td>
+<td>48 263</td>
+<td>52 096</td>
+<td>52 500</td>
+<td>56 367</td>
+<td>61 110</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2082&lang=0" target="_blank" class="job">Заместитель руководителя территориального органа (заместитель начальника отдела), начальник отдела в управлении </a></td>
+<td>38 850</td>
+<td>42 763</td>
+<td>46 143</td>
+<td>46 500</td>
+<td>50 013</td>
+<td>54 110</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2385&lang=0" target="_blank" class="job">Кинолог</a></td>
+<td>11 766</td>
+<td>24 000</td>
+<td>32 509</td>
+<td>31 000</td>
+<td>41 345</td>
+<td>53 836</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2215&lang=0" target="_blank" class="job">Командир взвода</a></td>
+<td>41 325</td>
+<td>43 087</td>
+<td>51 241</td>
+<td>50 000</td>
+<td>64 102</td>
+<td>65 375</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2079&lang=0" target="_blank" class="job">Младший инспектор </a></td>
+<td>21 850</td>
+<td>23 631</td>
+<td>25 999</td>
+<td>26 063</td>
+<td>28 300</td>
+<td>30 625</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2393&lang=0" target="_blank" class="job">Начальник караула</a></td>
+<td>16 156</td>
+<td>19 439</td>
+<td>25 071</td>
+<td>22 044</td>
+<td>29 054</td>
+<td>35 805</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2083&lang=0" target="_blank" class="job">Начальник отделения </a></td>
+<td>32 285</td>
+<td>34 175</td>
+<td>36 276</td>
+<td>36 125</td>
+<td>38 813</td>
+<td>41 510</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2077&lang=0" target="_blank" class="job">Полицейский</a></td>
+<td>19 710</td>
+<td>21 338</td>
+<td>23 419</td>
+<td>23 488</td>
+<td>25 419</td>
+<td>27 510</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2084&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник отдела), заместитель руководителя территориального органа (заместитель начальника управления) </a></td>
+<td>34 850</td>
+<td>38 363</td>
+<td>41 379</td>
+<td>41 638</td>
+<td>44 888</td>
+<td>48 510</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2085&lang=0" target="_blank" class="job">Руководитель территориального органа (начальник управления) </a></td>
+<td>30 350</td>
+<td>33 263</td>
+<td>36 021</td>
+<td>36 238</td>
+<td>39 094</td>
+<td>42 210</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2086&lang=0" target="_blank" class="job">Следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>28 350</td>
+<td>30 988</td>
+<td>33 639</td>
+<td>33 838</td>
+<td>36 519</td>
+<td>39 410</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2078&lang=0" target="_blank" class="job">Старший полицейский</a></td>
+<td>20 245</td>
+<td>21 875</td>
+<td>24 014</td>
+<td>24 100</td>
+<td>26 063</td>
+<td>28 210</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2087&lang=0" target="_blank" class="job">Старший: следователь, оперуполномоченный, эксперт, специалист, инспектор </a></td>
+<td>27 757</td>
+<td>30 163</td>
+<td>35 048</td>
+<td>32 638</td>
+<td>35 913</td>
+<td>52 818</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.09.2014)</p>
+</div>

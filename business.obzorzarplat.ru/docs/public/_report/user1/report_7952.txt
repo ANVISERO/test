@@ -1,0 +1,728 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2000&lang=0" target="_blank" class="job">Административный директор</a></td>
+<td>66 667</td>
+<td>68 999</td>
+<td>88 183</td>
+<td>78 790</td>
+<td>100 000</td>
+<td>122 701</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт директор</a></td>
+<td>54 167</td>
+<td>66 667</td>
+<td>91 181</td>
+<td>82 337</td>
+<td>118 383</td>
+<td>142 760</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>173 958</td>
+<td>195 857</td>
+<td>366 918</td>
+<td>375 192</td>
+<td>448 169</td>
+<td>666 667</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2152&lang=0" target="_blank" class="job">Глава администрации</a></td>
+<td>126 240</td>
+<td>136 387</td>
+<td>154 633</td>
+<td>166 667</td>
+<td>177 467</td>
+<td>194 400</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1313&lang=0" target="_blank" class="job">Директор магазина</a></td>
+<td>50 000</td>
+<td>66 667</td>
+<td>98 191</td>
+<td>83 333</td>
+<td>133 333</td>
+<td>150 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>93 583</td>
+<td>138 179</td>
+<td>194 627</td>
+<td>207 194</td>
+<td>239 655</td>
+<td>278 174</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2122&lang=0" target="_blank" class="job">Директор по лесозаготовке</a></td>
+<td>106 667</td>
+<td>135 257</td>
+<td>166 563</td>
+<td>166 667</td>
+<td>208 286</td>
+<td>242 465</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>93 583</td>
+<td>110 833</td>
+<td>196 030</td>
+<td>154 219</td>
+<td>309 440</td>
+<td>333 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>73 611</td>
+<td>99 833</td>
+<td>153 766</td>
+<td>133 333</td>
+<td>191 191</td>
+<td>223 285</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>73 844</td>
+<td>118 486</td>
+<td>158 216</td>
+<td>155 000</td>
+<td>199 064</td>
+<td>250 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>100 000</td>
+<td>159 679</td>
+<td>196 636</td>
+<td>216 667</td>
+<td>245 893</td>
+<td>285 086</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1928&lang=0" target="_blank" class="job">Директор по предотвращению потерь</a></td>
+<td>66 667</td>
+<td>80 331</td>
+<td>94 721</td>
+<td>85 415</td>
+<td>112 896</td>
+<td>142 309</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>148 667</td>
+<td>172 838</td>
+<td>214 850</td>
+<td>235 535</td>
+<td>266 667</td>
+<td>269 059</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>125 000</td>
+<td>175 348</td>
+<td>284 920</td>
+<td>234 221</td>
+<td>323 180</td>
+<td>576 751</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>85 894</td>
+<td>179 720</td>
+<td>216 128</td>
+<td>244 036</td>
+<td>265 820</td>
+<td>300 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>57 052</td>
+<td>121 000</td>
+<td>207 252</td>
+<td>200 583</td>
+<td>235 119</td>
+<td>280 349</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1843&lang=0" target="_blank" class="job">Директор по сервису</a></td>
+<td>79 218</td>
+<td>100 833</td>
+<td>112 150</td>
+<td>116 667</td>
+<td>133 333</td>
+<td>147 631</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1462&lang=0" target="_blank" class="job">Директор по строительству</a></td>
+<td>120 000</td>
+<td>147 917</td>
+<td>202 024</td>
+<td>179 551</td>
+<td>250 161</td>
+<td>333 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2017&lang=0" target="_blank" class="job">Директор по учету и комплектации</a></td>
+<td>86 211</td>
+<td>106 077</td>
+<td>128 932</td>
+<td>133 333</td>
+<td>163 350</td>
+<td>175 043</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2187&lang=0" target="_blank" class="job">Директор по экономической безопасности</a></td>
+<td>196 144</td>
+<td>212 135</td>
+<td>240 428</td>
+<td>241 667</td>
+<td>287 500</td>
+<td>299 999</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>87 833</td>
+<td>111 034</td>
+<td>137 673</td>
+<td>133 333</td>
+<td>166 667</td>
+<td>184 325</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>73 333</td>
+<td>112 339</td>
+<td>138 340</td>
+<td>146 667</td>
+<td>172 993</td>
+<td>200 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>54 200</td>
+<td>58 717</td>
+<td>94 864</td>
+<td>95 900</td>
+<td>117 712</td>
+<td>130 013</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>36 667</td>
+<td>75 000</td>
+<td>133 485</td>
+<td>125 000</td>
+<td>166 667</td>
+<td>250 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>48 671</td>
+<td>106 250</td>
+<td>144 138</td>
+<td>161 834</td>
+<td>179 230</td>
+<td>238 767</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2153&lang=0" target="_blank" class="job">Заместитель главы администрации</a></td>
+<td>83 897</td>
+<td>89 167</td>
+<td>102 766</td>
+<td>96 667</td>
+<td>121 619</td>
+<td>150 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1799&lang=0" target="_blank" class="job">Заместитель директора по капитальному строительству</a></td>
+<td>71 478</td>
+<td>105 655</td>
+<td>149 206</td>
+<td>150 000</td>
+<td>203 583</td>
+<td>219 477</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1947&lang=0" target="_blank" class="job">Заместитель коммерческого директора</a></td>
+<td>63 480</td>
+<td>101 532</td>
+<td>129 449</td>
+<td>138 703</td>
+<td>163 361</td>
+<td>191 194</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>64 333</td>
+<td>143 333</td>
+<td>224 940</td>
+<td>180 420</td>
+<td>257 792</td>
+<td>416 667</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>94 133</td>
+<td>133 750</td>
+<td>210 538</td>
+<td>178 567</td>
+<td>310 840</td>
+<td>383 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1369&lang=0" target="_blank" class="job">Операционный директор розничной сети </a></td>
+<td>93 590</td>
+<td>105 656</td>
+<td>149 682</td>
+<td>151 065</td>
+<td>184 540</td>
+<td>228 099</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>66 667</td>
+<td>101 250</td>
+<td>158 623</td>
+<td>155 000</td>
+<td>197 263</td>
+<td>263 243</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>91 667</td>
+<td>120 088</td>
+<td>189 843</td>
+<td>158 832</td>
+<td>233 131</td>
+<td>310 158</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2000&lang=0" target="_blank" class="job">Административный директор</a></td>
+<td>66 667</td>
+<td>74 000</td>
+<td>101 460</td>
+<td>90 652</td>
+<td>119 025</td>
+<td>165 414</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт директор</a></td>
+<td>70 833</td>
+<td>83 333</td>
+<td>136 771</td>
+<td>105 230</td>
+<td>178 395</td>
+<td>266 667</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>225 000</td>
+<td>250 000</td>
+<td>1 118 452</td>
+<td>383 333</td>
+<td>754 167</td>
+<td>1 898 463</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2152&lang=0" target="_blank" class="job">Глава администрации</a></td>
+<td>170 950</td>
+<td>194 413</td>
+<td>209 398</td>
+<td>200 000</td>
+<td>247 813</td>
+<td>266 667</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1313&lang=0" target="_blank" class="job">Директор магазина</a></td>
+<td>55 440</td>
+<td>80 000</td>
+<td>153 850</td>
+<td>150 000</td>
+<td>178 316</td>
+<td>240 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>107 450</td>
+<td>155 825</td>
+<td>281 728</td>
+<td>275 000</td>
+<td>349 091</td>
+<td>481 876</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2122&lang=0" target="_blank" class="job">Директор по лесозаготовке</a></td>
+<td>140 000</td>
+<td>183 333</td>
+<td>263 724</td>
+<td>250 000</td>
+<td>333 333</td>
+<td>398 823</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>100 000</td>
+<td>110 833</td>
+<td>315 272</td>
+<td>259 073</td>
+<td>386 277</td>
+<td>708 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1231&lang=0" target="_blank" class="job">Директор по маркетингу</a></td>
+<td>99 833</td>
+<td>132 208</td>
+<td>207 722</td>
+<td>185 738</td>
+<td>269 525</td>
+<td>330 513</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>108 517</td>
+<td>156 739</td>
+<td>219 680</td>
+<td>200 000</td>
+<td>306 874</td>
+<td>355 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2186&lang=0" target="_blank" class="job">Директор по правовым вопросам</a></td>
+<td>108 333</td>
+<td>183 161</td>
+<td>225 554</td>
+<td>248 973</td>
+<td>282 054</td>
+<td>333 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1928&lang=0" target="_blank" class="job">Директор по предотвращению потерь</a></td>
+<td>83 333</td>
+<td>107 523</td>
+<td>154 319</td>
+<td>133 333</td>
+<td>182 629</td>
+<td>231 849</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>218 256</td>
+<td>283 152</td>
+<td>322 545</td>
+<td>308 333</td>
+<td>368 759</td>
+<td>475 307</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>134 028</td>
+<td>216 667</td>
+<td>317 419</td>
+<td>269 758</td>
+<td>360 043</td>
+<td>600 903</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>116 797</td>
+<td>251 836</td>
+<td>302 854</td>
+<td>300 000</td>
+<td>366 847</td>
+<td>453 994</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>121 500</td>
+<td>128 625</td>
+<td>292 308</td>
+<td>268 500</td>
+<td>412 973</td>
+<td>514 833</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1843&lang=0" target="_blank" class="job">Директор по сервису</a></td>
+<td>102 645</td>
+<td>154 667</td>
+<td>193 292</td>
+<td>175 656</td>
+<td>244 890</td>
+<td>300 794</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1462&lang=0" target="_blank" class="job">Директор по строительству</a></td>
+<td>130 000</td>
+<td>155 833</td>
+<td>274 520</td>
+<td>243 983</td>
+<td>345 074</td>
+<td>483 333</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2017&lang=0" target="_blank" class="job">Директор по учету и комплектации</a></td>
+<td>130 260</td>
+<td>175 224</td>
+<td>212 978</td>
+<td>216 250</td>
+<td>269 831</td>
+<td>304 493</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2187&lang=0" target="_blank" class="job">Директор по экономической безопасности</a></td>
+<td>237 514</td>
+<td>271 159</td>
+<td>288 756</td>
+<td>287 500</td>
+<td>330 129</td>
+<td>366 197</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>133 333</td>
+<td>141 667</td>
+<td>198 105</td>
+<td>216 667</td>
+<td>246 038</td>
+<td>287 612</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1980&lang=0" target="_blank" class="job">Директор сетевого ресторана</a></td>
+<td>90 667</td>
+<td>124 737</td>
+<td>153 608</td>
+<td>169 557</td>
+<td>192 086</td>
+<td>200 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1312&lang=0" target="_blank" class="job">Директор супермаркета</a></td>
+<td>122 840</td>
+<td>137 111</td>
+<td>169 905</td>
+<td>152 833</td>
+<td>180 085</td>
+<td>201 360</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>70 000</td>
+<td>83 333</td>
+<td>192 954</td>
+<td>171 167</td>
+<td>285 180</td>
+<td>350 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>78 947</td>
+<td>118 333</td>
+<td>304 140</td>
+<td>300 240</td>
+<td>448 880</td>
+<td>590 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2153&lang=0" target="_blank" class="job">Заместитель главы администрации</a></td>
+<td>111 667</td>
+<td>115 141</td>
+<td>139 169</td>
+<td>123 333</td>
+<td>164 700</td>
+<td>209 088</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1799&lang=0" target="_blank" class="job">Заместитель директора по капитальному строительству</a></td>
+<td>121 515</td>
+<td>144 167</td>
+<td>265 808</td>
+<td>203 583</td>
+<td>308 975</td>
+<td>490 000</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1947&lang=0" target="_blank" class="job">Заместитель коммерческого директора</a></td>
+<td>90 920</td>
+<td>145 566</td>
+<td>197 808</td>
+<td>195 833</td>
+<td>259 379</td>
+<td>296 059</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>103 256</td>
+<td>175 000</td>
+<td>299 386</td>
+<td>250 000</td>
+<td>404 978</td>
+<td>606 667</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1229&lang=0" target="_blank" class="job">Коммерческий директор</a></td>
+<td>130 700</td>
+<td>165 321</td>
+<td>318 725</td>
+<td>253 651</td>
+<td>365 000</td>
+<td>494 692</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1369&lang=0" target="_blank" class="job">Операционный директор розничной сети </a></td>
+<td>96 381</td>
+<td>117 917</td>
+<td>266 056</td>
+<td>229 357</td>
+<td>325 802</td>
+<td>434 337</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>81 667</td>
+<td>137 542</td>
+<td>248 503</td>
+<td>210 000</td>
+<td>253 940</td>
+<td>352 316</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>112 500</td>
+<td>150 000</td>
+<td>265 614</td>
+<td>233 344</td>
+<td>287 127</td>
+<td>443 500</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 28.06.2013)</p>
+</div>

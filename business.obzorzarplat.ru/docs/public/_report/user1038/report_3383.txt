@@ -1,0 +1,538 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></td>
+<td>24 609</td>
+<td>31 397</td>
+<td>36 126</td>
+<td>35 763</td>
+<td>35 981</td>
+<td>43 204</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></td>
+<td>19 920</td>
+<td>19 999</td>
+<td>26 870</td>
+<td>26 118</td>
+<td>35 792</td>
+<td>35 996</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></td>
+<td>30 876</td>
+<td>32 274</td>
+<td>37 153</td>
+<td>36 504</td>
+<td>41 966</td>
+<td>44 079</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></td>
+<td>28 092</td>
+<td>29 195</td>
+<td>31 010</td>
+<td>31 034</td>
+<td>32 874</td>
+<td>33 862</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></td>
+<td>18 609</td>
+<td>19 856</td>
+<td>22 112</td>
+<td>22 126</td>
+<td>24 282</td>
+<td>25 644</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></td>
+<td>26 531</td>
+<td>30 000</td>
+<td>29 870</td>
+<td>30 000</td>
+<td>30 000</td>
+<td>31 958</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>24 479</td>
+<td>25 000</td>
+<td>37 975</td>
+<td>35 644</td>
+<td>46 109</td>
+<td>60 129</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></td>
+<td>24 194</td>
+<td>24 646</td>
+<td>28 552</td>
+<td>25 856</td>
+<td>35 728</td>
+<td>35 923</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></td>
+<td>31 770</td>
+<td>33 218</td>
+<td>35 610</td>
+<td>35 632</td>
+<td>38 046</td>
+<td>39 379</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></th>
+<td>22 989</td>
+<td>30 947</td>
+<td>35 497</td>
+<td>35 246</td>
+<td>35 446</td>
+<td>42 469</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></th>
+<td>19 920</td>
+<td>19 999</td>
+<td>26 558</td>
+<td>25 659</td>
+<td>35 255</td>
+<td>35 503</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></th>
+<td>30 465</td>
+<td>31 829</td>
+<td>36 774</td>
+<td>36 057</td>
+<td>41 843</td>
+<td>43 800</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></th>
+<td>28 092</td>
+<td>29 195</td>
+<td>31 010</td>
+<td>31 034</td>
+<td>32 874</td>
+<td>33 862</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></th>
+<td>18 609</td>
+<td>19 856</td>
+<td>22 112</td>
+<td>22 126</td>
+<td>24 282</td>
+<td>25 644</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></th>
+<td>26 531</td>
+<td>30 000</td>
+<td>29 870</td>
+<td>30 000</td>
+<td>30 000</td>
+<td>31 958</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></th>
+<td>22 989</td>
+<td>25 000</td>
+<td>37 579</td>
+<td>35 128</td>
+<td>46 109</td>
+<td>60 129</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></th>
+<td>23 412</td>
+<td>23 499</td>
+<td>27 807</td>
+<td>25 397</td>
+<td>35 212</td>
+<td>35 386</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></th>
+<td>31 770</td>
+<td>33 218</td>
+<td>35 610</td>
+<td>35 632</td>
+<td>38 046</td>
+<td>39 379</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<h3>3.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></td>
+<td>20 589</td>
+<td>21 398</td>
+<td>26 785</td>
+<td>22 989</td>
+<td>24 611</td>
+<td>32 194</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></td>
+<td>11 176</td>
+<td>12 167</td>
+<td>15 894</td>
+<td>13 792</td>
+<td>20 402</td>
+<td>23 729</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></td>
+<td>15 226</td>
+<td>16 240</td>
+<td>18 180</td>
+<td>18 339</td>
+<td>19 668</td>
+<td>20 975</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></td>
+<td>28 092</td>
+<td>29 195</td>
+<td>31 010</td>
+<td>31 034</td>
+<td>32 874</td>
+<td>33 862</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></td>
+<td>18 609</td>
+<td>19 856</td>
+<td>22 112</td>
+<td>22 126</td>
+<td>24 282</td>
+<td>25 644</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></td>
+<td>26 531</td>
+<td>30 000</td>
+<td>29 870</td>
+<td>30 000</td>
+<td>30 000</td>
+<td>31 958</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>18 046</td>
+<td>20 338</td>
+<td>31 860</td>
+<td>25 000</td>
+<td>40 913</td>
+<td>57 347</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></td>
+<td>12 585</td>
+<td>14 408</td>
+<td>17 108</td>
+<td>16 414</td>
+<td>20 771</td>
+<td>23 245</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></td>
+<td>31 770</td>
+<td>33 218</td>
+<td>35 610</td>
+<td>35 632</td>
+<td>38 046</td>
+<td>39 379</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<h3>4.	Среднемесячные значения премиальной части компенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></td>
+<td>11 034</td>
+<td>11 897</td>
+<td>13 324</td>
+<td>13 448</td>
+<td>14 483</td>
+<td>16 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></td>
+<td>6 156</td>
+<td>6 801</td>
+<td>9 102</td>
+<td>8 814</td>
+<td>11 034</td>
+<td>13 310</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></td>
+<td>9 851</td>
+<td>10 286</td>
+<td>11 906</td>
+<td>11 673</td>
+<td>13 565</td>
+<td>14 192</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>2 299</td>
+<td>6 214</td>
+<td>10 341</td>
+<td>12 069</td>
+<td>14 655</td>
+<td>15 517</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></td>
+<td>6 849</td>
+<td>8 022</td>
+<td>10 149</td>
+<td>10 230</td>
+<td>13 017</td>
+<td>15 000</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<h3>5.	Среднемесячные значения бонусной части копенсационного пакета (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>10 020</td>
+<td>10 906</td>
+<td>11 964</td>
+<td>12 069</td>
+<td>12 725</td>
+<td>13 804</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 27.04.2011)</p>
+</div>

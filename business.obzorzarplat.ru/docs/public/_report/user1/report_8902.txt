@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2050&lang=0" target="_blank" class="job">Web-администратор</a></td>
+<td>29 708</td>
+<td>33 330</td>
+<td>37 148</td>
+<td>37 552</td>
+<td>40 747</td>
+<td>47 544</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>45 609</td>
+<td>45 977</td>
+<td>66 909</td>
+<td>59 063</td>
+<td>77 586</td>
+<td>99 413</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>39 310</td>
+<td>49 962</td>
+<td>73 045</td>
+<td>79 892</td>
+<td>91 978</td>
+<td>101 149</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2039&lang=0" target="_blank" class="job">Инженер-программист php</a></td>
+<td>35 172</td>
+<td>40 230</td>
+<td>54 375</td>
+<td>58 851</td>
+<td>67 471</td>
+<td>73 793</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2036&lang=0" target="_blank" class="job">Менеджер сайта</a></td>
+<td>17 241</td>
+<td>21 185</td>
+<td>27 860</td>
+<td>29 828</td>
+<td>34 952</td>
+<td>38 908</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1747&lang=0" target="_blank" class="job">Начальник отдела сборки ПК</a></td>
+<td>25 287</td>
+<td>34 483</td>
+<td>48 245</td>
+<td>52 414</td>
+<td>59 918</td>
+<td>70 849</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>28 506</td>
+<td>32 184</td>
+<td>60 718</td>
+<td>58 908</td>
+<td>76 352</td>
+<td>100 791</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1504&lang=0" target="_blank" class="job">Программист-стажер</a></td>
+<td>21 777</td>
+<td>22 989</td>
+<td>25 625</td>
+<td>24 845</td>
+<td>28 282</td>
+<td>34 307</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2175&lang=0" target="_blank" class="job">Руководитель отдела разработки</a></td>
+<td>48 975</td>
+<td>69 373</td>
+<td>78 585</td>
+<td>84 073</td>
+<td>92 660</td>
+<td>99 155</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2176&lang=0" target="_blank" class="job">Руководитель отдела тестирования</a></td>
+<td>55 172</td>
+<td>66 253</td>
+<td>76 271</td>
+<td>75 862</td>
+<td>91 954</td>
+<td>99 609</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1746&lang=0" target="_blank" class="job">Сборщик ПК</a></td>
+<td>21 266</td>
+<td>23 818</td>
+<td>25 623</td>
+<td>25 718</td>
+<td>28 971</td>
+<td>31 186</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1922&lang=0" target="_blank" class="job">Специалист по поддержке пользователей</a></td>
+<td>28 206</td>
+<td>30 101</td>
+<td>33 481</td>
+<td>33 805</td>
+<td>38 359</td>
+<td>40 620</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1249&lang=0" target="_blank" class="job">Старший web-программист</a></td>
+<td>40 230</td>
+<td>45 977</td>
+<td>59 430</td>
+<td>57 471</td>
+<td>77 379</td>
+<td>84 552</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1496&lang=0" target="_blank" class="job">Тестировщик</a></td>
+<td>36 972</td>
+<td>40 230</td>
+<td>48 860</td>
+<td>51 678</td>
+<td>59 330</td>
+<td>61 149</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2050&lang=0" target="_blank" class="job">Web-администратор</a></td>
+<td>30 425</td>
+<td>34 413</td>
+<td>38 630</td>
+<td>40 425</td>
+<td>43 678</td>
+<td>48 648</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>57 011</td>
+<td>63 218</td>
+<td>93 730</td>
+<td>86 207</td>
+<td>114 943</td>
+<td>140 233</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1829&lang=0" target="_blank" class="job">Ведущий инженер-программист</a></td>
+<td>48 621</td>
+<td>61 744</td>
+<td>80 189</td>
+<td>86 207</td>
+<td>100 139</td>
+<td>104 736</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2039&lang=0" target="_blank" class="job">Инженер-программист php</a></td>
+<td>56 546</td>
+<td>63 667</td>
+<td>68 392</td>
+<td>70 844</td>
+<td>75 172</td>
+<td>80 459</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2036&lang=0" target="_blank" class="job">Менеджер сайта</a></td>
+<td>22 989</td>
+<td>24 062</td>
+<td>30 237</td>
+<td>30 213</td>
+<td>37 744</td>
+<td>39 195</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1747&lang=0" target="_blank" class="job">Начальник отдела сборки ПК</a></td>
+<td>34 483</td>
+<td>47 126</td>
+<td>56 679</td>
+<td>57 471</td>
+<td>70 393</td>
+<td>78 460</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1497&lang=0" target="_blank" class="job">Программист 1С</a></td>
+<td>32 184</td>
+<td>54 999</td>
+<td>72 424</td>
+<td>67 221</td>
+<td>92 463</td>
+<td>109 756</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1504&lang=0" target="_blank" class="job">Программист-стажер</a></td>
+<td>22 047</td>
+<td>22 989</td>
+<td>26 133</td>
+<td>24 845</td>
+<td>28 701</td>
+<td>35 672</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2175&lang=0" target="_blank" class="job">Руководитель отдела разработки</a></td>
+<td>58 151</td>
+<td>76 492</td>
+<td>87 077</td>
+<td>92 293</td>
+<td>101 338</td>
+<td>111 619</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2176&lang=0" target="_blank" class="job">Руководитель отдела тестирования</a></td>
+<td>62 800</td>
+<td>73 291</td>
+<td>82 272</td>
+<td>85 000</td>
+<td>98 851</td>
+<td>102 686</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1746&lang=0" target="_blank" class="job">Сборщик ПК</a></td>
+<td>22 539</td>
+<td>24 138</td>
+<td>26 521</td>
+<td>27 730</td>
+<td>29 440</td>
+<td>31 745</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1922&lang=0" target="_blank" class="job">Специалист по поддержке пользователей</a></td>
+<td>28 405</td>
+<td>30 652</td>
+<td>34 307</td>
+<td>36 276</td>
+<td>39 006</td>
+<td>42 094</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1249&lang=0" target="_blank" class="job">Старший web-программист</a></td>
+<td>56 092</td>
+<td>62 409</td>
+<td>70 353</td>
+<td>72 103</td>
+<td>80 460</td>
+<td>86 897</td>
+<td>1 квартал 2013</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1496&lang=0" target="_blank" class="job">Тестировщик</a></td>
+<td>43 413</td>
+<td>49 124</td>
+<td>56 272</td>
+<td>56 782</td>
+<td>63 828</td>
+<td>74 713</td>
+<td>1 квартал 2013</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 23.09.2013)</p>
+</div>

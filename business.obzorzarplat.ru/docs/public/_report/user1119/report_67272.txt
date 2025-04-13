@@ -1,0 +1,508 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1791&lang=0" target="_blank" class="job">Главный специалист отдела стратегического планирования</a></td>
+<td>53 600</td>
+<td>61 250</td>
+<td>81 200</td>
+<td>79 000</td>
+<td>97 500</td>
+<td>115 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>21 240</td>
+<td>25 900</td>
+<td>32 096</td>
+<td>30 000</td>
+<td>37 525</td>
+<td>41 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>32 150</td>
+<td>36 650</td>
+<td>43 943</td>
+<td>41 050</td>
+<td>46 688</td>
+<td>60 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>90 200</td>
+<td>98 000</td>
+<td>164 990</td>
+<td>170 000</td>
+<td>197 500</td>
+<td>260 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>22 500</td>
+<td>23 700</td>
+<td>28 659</td>
+<td>25 160</td>
+<td>32 850</td>
+<td>38 900</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>26 600</td>
+<td>33 875</td>
+<td>44 933</td>
+<td>42 000</td>
+<td>52 900</td>
+<td>65 880</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>27 800</td>
+<td>29 475</td>
+<td>50 645</td>
+<td>37 450</td>
+<td>74 688</td>
+<td>89 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>55 400</td>
+<td>59 650</td>
+<td>80 077</td>
+<td>83 750</td>
+<td>94 750</td>
+<td>103 300</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2877&lang=0" target="_blank" class="job">Специалист по воинскому учету</a></td>
+<td>21 400</td>
+<td>27 000</td>
+<td>31 056</td>
+<td>30 000</td>
+<td>36 000</td>
+<td>46 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>21 600</td>
+<td>24 480</td>
+<td>30 269</td>
+<td>28 050</td>
+<td>36 000</td>
+<td>40 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>23 560</td>
+<td>28 000</td>
+<td>35 384</td>
+<td>32 750</td>
+<td>39 425</td>
+<td>52 450</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>21 600</td>
+<td>23 250</td>
+<td>33 907</td>
+<td>28 000</td>
+<td>35 500</td>
+<td>54 375</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2279&lang=0" target="_blank" class="job">Тренинг-менеджер</a></td>
+<td>24 800</td>
+<td>26 625</td>
+<td>39 790</td>
+<td>34 500</td>
+<td>48 000</td>
+<td>66 240</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>32 480</td>
+<td>40 000</td>
+<td>46 400</td>
+<td>45 000</td>
+<td>50 000</td>
+<td>61 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2873&lang=0" target="_blank" class="job">Заведующий аптечным складом</a></td>
+<td>45 000</td>
+<td>45 000</td>
+<td>51 000</td>
+<td>50 000</td>
+<td>55 000</td>
+<td>58 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>26 000</td>
+<td>35 000</td>
+<td>40 714</td>
+<td>45 000</td>
+<td>47 500</td>
+<td>52 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>92 124</td>
+<td>94 270</td>
+<td>139 781</td>
+<td>154 500</td>
+<td>175 056</td>
+<td>193 006</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>23 650</td>
+<td>23 975</td>
+<td>26 800</td>
+<td>25 750</td>
+<td>29 250</td>
+<td>31 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>38 000</td>
+<td>45 000</td>
+<td>51 429</td>
+<td>55 000</td>
+<td>60 000</td>
+<td>60 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>74 000</td>
+<td>80 000</td>
+<td>100 000</td>
+<td>100 000</td>
+<td>120 000</td>
+<td>126 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>22 600</td>
+<td>29 500</td>
+<td>38 500</td>
+<td>40 000</td>
+<td>47 500</td>
+<td>56 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>28 500</td>
+<td>30 000</td>
+<td>38 000</td>
+<td>34 500</td>
+<td>42 500</td>
+<td>53 000</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1791&lang=0" target="_blank" class="job">Главный специалист отдела стратегического планирования</a></td>
+<td>66 595</td>
+<td>76 913</td>
+<td>106 624</td>
+<td>98 000</td>
+<td>114 625</td>
+<td>171 471</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>28 760</td>
+<td>36 300</td>
+<td>42 060</td>
+<td>40 500</td>
+<td>46 375</td>
+<td>54 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>40 150</td>
+<td>44 380</td>
+<td>52 385</td>
+<td>50 075</td>
+<td>64 250</td>
+<td>68 700</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>112 000</td>
+<td>127 500</td>
+<td>194 704</td>
+<td>186 300</td>
+<td>235 958</td>
+<td>289 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>30 000</td>
+<td>31 500</td>
+<td>39 517</td>
+<td>36 000</td>
+<td>45 200</td>
+<td>49 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>36 000</td>
+<td>48 500</td>
+<td>64 500</td>
+<td>52 800</td>
+<td>91 600</td>
+<td>104 420</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>43 100</td>
+<td>47 675</td>
+<td>69 365</td>
+<td>55 750</td>
+<td>87 875</td>
+<td>121 375</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>67 000</td>
+<td>75 750</td>
+<td>92 540</td>
+<td>92 000</td>
+<td>100 900</td>
+<td>129 800</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2877&lang=0" target="_blank" class="job">Специалист по воинскому учету</a></td>
+<td>30 650</td>
+<td>35 800</td>
+<td>42 283</td>
+<td>41 200</td>
+<td>50 800</td>
+<td>61 900</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>25 280</td>
+<td>30 700</td>
+<td>38 862</td>
+<td>38 500</td>
+<td>43 000</td>
+<td>56 450</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>27 475</td>
+<td>38 000</td>
+<td>48 143</td>
+<td>48 090</td>
+<td>60 500</td>
+<td>68 750</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>28 000</td>
+<td>29 813</td>
+<td>44 786</td>
+<td>37 500</td>
+<td>55 125</td>
+<td>70 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2279&lang=0" target="_blank" class="job">Тренинг-менеджер</a></td>
+<td>30 250</td>
+<td>39 800</td>
+<td>50 841</td>
+<td>47 740</td>
+<td>60 000</td>
+<td>75 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>34 910</td>
+<td>44 500</td>
+<td>48 786</td>
+<td>45 900</td>
+<td>55 500</td>
+<td>64 200</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2873&lang=0" target="_blank" class="job">Заведующий аптечным складом</a></td>
+<td>50 783</td>
+<td>57 713</td>
+<td>69 625</td>
+<td>70 000</td>
+<td>83 000</td>
+<td>87 950</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>47 233</td>
+<td>54 417</td>
+<td>81 500</td>
+<td>79 625</td>
+<td>95 021</td>
+<td>123 067</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>102 988</td>
+<td>109 014</td>
+<td>165 179</td>
+<td>172 381</td>
+<td>210 040</td>
+<td>233 632</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>26 313</td>
+<td>29 779</td>
+<td>39 950</td>
+<td>39 421</td>
+<td>49 388</td>
+<td>54 117</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1467&lang=0" target="_blank" class="job">Инженер по организации эксплуатации и ремонту зданий и сооружений</a></td>
+<td>52 600</td>
+<td>61 917</td>
+<td>69 119</td>
+<td>72 000</td>
+<td>78 000</td>
+<td>86 150</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>103 600</td>
+<td>131 500</td>
+<td>214 483</td>
+<td>142 167</td>
+<td>163 250</td>
+<td>395 600</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1944&lang=0" target="_blank" class="job">Юрисконсульт</a></td>
+<td>27 325</td>
+<td>40 938</td>
+<td>51 213</td>
+<td>59 625</td>
+<td>60 675</td>
+<td>67 140</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>36 975</td>
+<td>39 375</td>
+<td>47 317</td>
+<td>45 292</td>
+<td>51 125</td>
+<td>58 460</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.03.2017)</p>
+</div>

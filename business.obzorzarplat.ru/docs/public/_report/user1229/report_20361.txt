@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>42 048</td>
+<td>48 180</td>
+<td>60 864</td>
+<td>57 670</td>
+<td>70 080</td>
+<td>84 945</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2008&lang=0" target="_blank" class="job">Бухгалтер 3 категории</a></td>
+<td>30 143</td>
+<td>32 900</td>
+<td>36 924</td>
+<td>37 230</td>
+<td>43 910</td>
+<td>45 482</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2260&lang=0" target="_blank" class="job">Бухгалтер на первичную документацию</a></td>
+<td>35 040</td>
+<td>36 500</td>
+<td>42 074</td>
+<td>43 800</td>
+<td>45 932</td>
+<td>54 020</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>41 610</td>
+<td>50 051</td>
+<td>62 099</td>
+<td>64 814</td>
+<td>72 270</td>
+<td>92 453</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>51 392</td>
+<td>66 963</td>
+<td>89 488</td>
+<td>79 810</td>
+<td>97 300</td>
+<td>152 499</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2742&lang=0" target="_blank" class="job">Ведущий финансовый аналитик</a></td>
+<td>84 096</td>
+<td>87 600</td>
+<td>135 730</td>
+<td>127 020</td>
+<td>179 431</td>
+<td>205 915</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>71 890</td>
+<td>87 600</td>
+<td>130 306</td>
+<td>116 800</td>
+<td>147 460</td>
+<td>218 952</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>58 400</td>
+<td>73 000</td>
+<td>91 763</td>
+<td>80 602</td>
+<td>102 791</td>
+<td>134 455</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2719&lang=0" target="_blank" class="job">Менеджер по документообороту</a></td>
+<td>28 324</td>
+<td>36 500</td>
+<td>40 675</td>
+<td>41 464</td>
+<td>44 720</td>
+<td>54 896</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2308&lang=0" target="_blank" class="job">Менеджер по сопровождению клиентов (юридические лица)</a></td>
+<td>46 720</td>
+<td>59 028</td>
+<td>73 749</td>
+<td>81 059</td>
+<td>90 141</td>
+<td>99 280</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1886&lang=0" target="_blank" class="job">Специалист по автоматизированному документообороту</a></td>
+<td>40 880</td>
+<td>51 765</td>
+<td>60 420</td>
+<td>57 816</td>
+<td>74 460</td>
+<td>83 080</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2275&lang=0" target="_blank" class="job">Финансовый аналитик</a></td>
+<td>50 866</td>
+<td>73 000</td>
+<td>89 260</td>
+<td>88 257</td>
+<td>109 678</td>
+<td>131 400</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>175 200</td>
+<td>202 200</td>
+<td>303 070</td>
+<td>272 027</td>
+<td>388 068</td>
+<td>503 700</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>40 150</td>
+<td>51 232</td>
+<td>75 804</td>
+<td>66 875</td>
+<td>89 602</td>
+<td>136 670</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>42 048</td>
+<td>48 180</td>
+<td>66 135</td>
+<td>57 670</td>
+<td>74 460</td>
+<td>103 019</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2008&lang=0" target="_blank" class="job">Бухгалтер 3 категории</a></td>
+<td>30 143</td>
+<td>32 900</td>
+<td>37 615</td>
+<td>37 399</td>
+<td>45 323</td>
+<td>47 193</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2260&lang=0" target="_blank" class="job">Бухгалтер на первичную документацию</a></td>
+<td>35 040</td>
+<td>36 500</td>
+<td>43 692</td>
+<td>43 800</td>
+<td>49 445</td>
+<td>59 430</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1445&lang=0" target="_blank" class="job">Бухгалтер по учету заработной платы</a></td>
+<td>41 610</td>
+<td>50 051</td>
+<td>65 279</td>
+<td>66 997</td>
+<td>77 971</td>
+<td>99 568</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>51 392</td>
+<td>66 963</td>
+<td>92 248</td>
+<td>79 810</td>
+<td>103 797</td>
+<td>161 762</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2742&lang=0" target="_blank" class="job">Ведущий финансовый аналитик</a></td>
+<td>84 096</td>
+<td>87 600</td>
+<td>142 530</td>
+<td>131 400</td>
+<td>192 286</td>
+<td>224 559</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>71 890</td>
+<td>87 600</td>
+<td>148 544</td>
+<td>129 089</td>
+<td>177 162</td>
+<td>271 072</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>58 400</td>
+<td>73 000</td>
+<td>107 760</td>
+<td>93 012</td>
+<td>124 010</td>
+<td>167 354</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2719&lang=0" target="_blank" class="job">Менеджер по документообороту</a></td>
+<td>28 324</td>
+<td>36 500</td>
+<td>45 364</td>
+<td>41 464</td>
+<td>52 020</td>
+<td>73 349</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2308&lang=0" target="_blank" class="job">Менеджер по сопровождению клиентов (юридические лица)</a></td>
+<td>46 720</td>
+<td>59 028</td>
+<td>82 911</td>
+<td>88 359</td>
+<td>107 001</td>
+<td>119 784</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1886&lang=0" target="_blank" class="job">Специалист по автоматизированному документообороту</a></td>
+<td>48 282</td>
+<td>60 160</td>
+<td>70 814</td>
+<td>67 039</td>
+<td>88 152</td>
+<td>97 922</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2275&lang=0" target="_blank" class="job">Финансовый аналитик</a></td>
+<td>50 866</td>
+<td>73 000</td>
+<td>97 624</td>
+<td>88 257</td>
+<td>125 008</td>
+<td>153 345</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>175 200</td>
+<td>202 200</td>
+<td>366 395</td>
+<td>291 493</td>
+<td>490 257</td>
+<td>675 108</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>40 150</td>
+<td>51 232</td>
+<td>85 473</td>
+<td>77 621</td>
+<td>104 750</td>
+<td>158 570</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 03.04.2015)</p>
+</div>

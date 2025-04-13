@@ -1,0 +1,568 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Москва</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>151 804</td>
+<td>177 000</td>
+<td>215 137</td>
+<td>232 000</td>
+<td>264 205</td>
+<td>283 201</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>88 640</td>
+<td>108 800</td>
+<td>127 362</td>
+<td>128 000</td>
+<td>152 000</td>
+<td>160 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>88 000</td>
+<td>92 800</td>
+<td>108 363</td>
+<td>108 800</td>
+<td>123 200</td>
+<td>136 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>64 911</td>
+<td>78 848</td>
+<td>89 817</td>
+<td>95 920</td>
+<td>102 686</td>
+<td>115 803</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>63 072</td>
+<td>79 366</td>
+<td>98 641</td>
+<td>93 316</td>
+<td>121 660</td>
+<td>145 503</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1537&lang=0" target="_blank" class="job">Главный сварщик</a></td>
+<td>54 400</td>
+<td>73 636</td>
+<td>87 596</td>
+<td>93 610</td>
+<td>111 200</td>
+<td>111 200</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1325&lang=0" target="_blank" class="job">Главный энергетик</a></td>
+<td>55 552</td>
+<td>62 977</td>
+<td>71 341</td>
+<td>68 200</td>
+<td>79 800</td>
+<td>92 326</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2122&lang=0" target="_blank" class="job">Директор по лесозаготовке</a></td>
+<td>112 000</td>
+<td>144 504</td>
+<td>181 273</td>
+<td>175 200</td>
+<td>236 214</td>
+<td>269 702</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>128 000</td>
+<td>160 000</td>
+<td>247 622</td>
+<td>240 000</td>
+<td>304 000</td>
+<td>403 200</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>104 000</td>
+<td>124 000</td>
+<td>164 907</td>
+<td>160 000</td>
+<td>205 819</td>
+<td>250 549</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>56 000</td>
+<td>60 960</td>
+<td>73 390</td>
+<td>67 200</td>
+<td>80 000</td>
+<td>104 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2443&lang=0" target="_blank" class="job">Заместитель начальника производства</a></td>
+<td>51 864</td>
+<td>73 280</td>
+<td>82 904</td>
+<td>91 512</td>
+<td>98 000</td>
+<td>102 585</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2027&lang=0" target="_blank" class="job">Заместитель начальника участка</a></td>
+<td>29 621</td>
+<td>34 002</td>
+<td>38 909</td>
+<td>41 665</td>
+<td>44 000</td>
+<td>50 043</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1553&lang=0" target="_blank" class="job">Заместитель начальника цеха</a></td>
+<td>53 151</td>
+<td>67 926</td>
+<td>86 594</td>
+<td>88 000</td>
+<td>99 600</td>
+<td>122 224</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1849&lang=0" target="_blank" class="job">Заместитель технического директора</a></td>
+<td>56 000</td>
+<td>80 000</td>
+<td>125 855</td>
+<td>131 648</td>
+<td>184 080</td>
+<td>195 440</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1387&lang=0" target="_blank" class="job">Менеджер по подготовке производства</a></td>
+<td>25 290</td>
+<td>32 000</td>
+<td>35 803</td>
+<td>40 000</td>
+<td>40 040</td>
+<td>47 130</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1510&lang=0" target="_blank" class="job">Начальник отдела контроля качества</a></td>
+<td>45 760</td>
+<td>56 000</td>
+<td>66 250</td>
+<td>62 400</td>
+<td>79 200</td>
+<td>97 252</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2660&lang=0" target="_blank" class="job">Начальник отдела создания продукта</a></td>
+<td>72 977</td>
+<td>93 594</td>
+<td>103 314</td>
+<td>107 200</td>
+<td>122 400</td>
+<td>136 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1321&lang=0" target="_blank" class="job">Начальник производства</a></td>
+<td>80 640</td>
+<td>96 850</td>
+<td>121 641</td>
+<td>112 000</td>
+<td>146 400</td>
+<td>163 360</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1486&lang=0" target="_blank" class="job">Начальник смены</a></td>
+<td>23 544</td>
+<td>25 578</td>
+<td>31 560</td>
+<td>29 472</td>
+<td>35 272</td>
+<td>45 162</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1671&lang=0" target="_blank" class="job">Начальник станции</a></td>
+<td>56 282</td>
+<td>80 000</td>
+<td>112 390</td>
+<td>102 135</td>
+<td>142 392</td>
+<td>177 733</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1326&lang=0" target="_blank" class="job">Начальник участка</a></td>
+<td>37 390</td>
+<td>44 800</td>
+<td>56 654</td>
+<td>54 355</td>
+<td>64 000</td>
+<td>77 280</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2698&lang=0" target="_blank" class="job">Начальник экспериментального производства</a></td>
+<td>77 675</td>
+<td>96 000</td>
+<td>109 965</td>
+<td>116 000</td>
+<td>132 000</td>
+<td>144 755</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1718&lang=0" target="_blank" class="job">Старший начальник смены</a></td>
+<td>33 218</td>
+<td>47 046</td>
+<td>54 278</td>
+<td>54 432</td>
+<td>65 010</td>
+<td>78 804</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>113 600</td>
+<td>160 000</td>
+<td>248 140</td>
+<td>230 390</td>
+<td>316 950</td>
+<td>411 200</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2661&lang=0" target="_blank" class="job">Главный дизайнер</a></td>
+<td>186 082</td>
+<td>218 546</td>
+<td>265 634</td>
+<td>281 760</td>
+<td>328 182</td>
+<td>353 213</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1322&lang=0" target="_blank" class="job">Главный инженер</a></td>
+<td>88 640</td>
+<td>146 200</td>
+<td>172 199</td>
+<td>176 400</td>
+<td>208 800</td>
+<td>241 200</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1528&lang=0" target="_blank" class="job">Главный инженер проекта (строительство)</a></td>
+<td>88 000</td>
+<td>103 645</td>
+<td>147 286</td>
+<td>131 200</td>
+<td>172 800</td>
+<td>244 800</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>67 330</td>
+<td>88 613</td>
+<td>130 676</td>
+<td>136 621</td>
+<td>167 779</td>
+<td>197 799</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1324&lang=0" target="_blank" class="job">Главный механик</a></td>
+<td>63 072</td>
+<td>80 589</td>
+<td>113 681</td>
+<td>113 716</td>
+<td>144 060</td>
+<td>168 847</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1537&lang=0" target="_blank" class="job">Главный сварщик</a></td>
+<td>54 400</td>
+<td>73 636</td>
+<td>102 869</td>
+<td>93 610</td>
+<td>141 575</td>
+<td>156 077</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1325&lang=0" target="_blank" class="job">Главный энергетик</a></td>
+<td>55 552</td>
+<td>62 977</td>
+<td>86 768</td>
+<td>70 681</td>
+<td>102 263</td>
+<td>141 861</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2122&lang=0" target="_blank" class="job">Директор по лесозаготовке</a></td>
+<td>112 000</td>
+<td>163 203</td>
+<td>290 189</td>
+<td>265 274</td>
+<td>418 701</td>
+<td>497 298</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1842&lang=0" target="_blank" class="job">Директор по производству</a></td>
+<td>144 000</td>
+<td>192 000</td>
+<td>437 214</td>
+<td>348 800</td>
+<td>617 173</td>
+<td>852 839</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1471&lang=0" target="_blank" class="job">Директор по эксплуатации</a></td>
+<td>126 400</td>
+<td>159 600</td>
+<td>245 094</td>
+<td>236 800</td>
+<td>303 951</td>
+<td>398 139</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1450&lang=0" target="_blank" class="job">Заместитель главного инженера</a></td>
+<td>56 000</td>
+<td>60 960</td>
+<td>98 656</td>
+<td>91 200</td>
+<td>120 000</td>
+<td>164 240</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2443&lang=0" target="_blank" class="job">Заместитель начальника производства</a></td>
+<td>58 904</td>
+<td>89 280</td>
+<td>103 224</td>
+<td>111 512</td>
+<td>121 200</td>
+<td>131 961</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2027&lang=0" target="_blank" class="job">Заместитель начальника участка</a></td>
+<td>29 621</td>
+<td>38 620</td>
+<td>48 677</td>
+<td>52 292</td>
+<td>59 096</td>
+<td>66 302</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1553&lang=0" target="_blank" class="job">Заместитель начальника цеха</a></td>
+<td>53 151</td>
+<td>72 585</td>
+<td>104 312</td>
+<td>106 975</td>
+<td>128 109</td>
+<td>156 513</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1849&lang=0" target="_blank" class="job">Заместитель технического директора</a></td>
+<td>56 000</td>
+<td>80 000</td>
+<td>169 602</td>
+<td>169 779</td>
+<td>256 209</td>
+<td>288 178</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1387&lang=0" target="_blank" class="job">Менеджер по подготовке производства</a></td>
+<td>25 290</td>
+<td>35 696</td>
+<td>47 591</td>
+<td>53 944</td>
+<td>57 200</td>
+<td>67 328</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1510&lang=0" target="_blank" class="job">Начальник отдела контроля качества</a></td>
+<td>45 760</td>
+<td>56 000</td>
+<td>96 183</td>
+<td>62 400</td>
+<td>141 016</td>
+<td>189 056</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2660&lang=0" target="_blank" class="job">Начальник отдела создания продукта</a></td>
+<td>121 414</td>
+<td>154 074</td>
+<td>171 887</td>
+<td>169 516</td>
+<td>209 277</td>
+<td>230 668</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1321&lang=0" target="_blank" class="job">Начальник производства</a></td>
+<td>80 640</td>
+<td>96 850</td>
+<td>156 287</td>
+<td>152 000</td>
+<td>205 370</td>
+<td>232 321</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1486&lang=0" target="_blank" class="job">Начальник смены</a></td>
+<td>37 539</td>
+<td>50 107</td>
+<td>62 616</td>
+<td>61 326</td>
+<td>72 687</td>
+<td>88 972</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1671&lang=0" target="_blank" class="job">Начальник станции</a></td>
+<td>60 707</td>
+<td>103 240</td>
+<td>156 119</td>
+<td>150 713</td>
+<td>205 585</td>
+<td>250 422</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1326&lang=0" target="_blank" class="job">Начальник участка</a></td>
+<td>37 390</td>
+<td>47 200</td>
+<td>86 489</td>
+<td>76 302</td>
+<td>107 480</td>
+<td>153 866</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2698&lang=0" target="_blank" class="job">Начальник экспериментального производства</a></td>
+<td>97 320</td>
+<td>125 824</td>
+<td>146 216</td>
+<td>156 541</td>
+<td>177 927</td>
+<td>195 946</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1718&lang=0" target="_blank" class="job">Старший начальник смены</a></td>
+<td>33 865</td>
+<td>60 663</td>
+<td>76 750</td>
+<td>81 648</td>
+<td>97 010</td>
+<td>112 622</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1235&lang=0" target="_blank" class="job">Технический директор</a></td>
+<td>113 600</td>
+<td>204 766</td>
+<td>421 146</td>
+<td>342 390</td>
+<td>606 964</td>
+<td>799 724</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 11.08.2015)</p>
+</div>

@@ -1,0 +1,102 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Выборгский район (Ленинградская область)</p>
+<p>Сфера деятельности компании: Производство</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1364&lang=0" target="_blank" class="job">Геодезист</a></td>
+<td>53 292</td>
+<td>59 218</td>
+<td>59 237</td>
+<td>59 532</td>
+<td>59 578</td>
+<td>62 970</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></td>
+<td>53 384</td>
+<td>59 282</td>
+<td>59 331</td>
+<td>59 454</td>
+<td>59 993</td>
+<td>63 114</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1907&lang=0" target="_blank" class="job">Маркшейдер</a></td>
+<td>36 860</td>
+<td>42 138</td>
+<td>42 095</td>
+<td>42 189</td>
+<td>42 529</td>
+<td>45 361</td>
+<td>октябрь 2010</td>
+</tr>
+</table>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1364&lang=0" target="_blank" class="job">Геодезист</a></th>
+<td>52 787</td>
+<td>58 667</td>
+<td>58 655</td>
+<td>58 934</td>
+<td>59 023</td>
+<td>62 353</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1484&lang=0" target="_blank" class="job">Инженер ПТО</a></th>
+<td>52 770</td>
+<td>58 593</td>
+<td>58 656</td>
+<td>58 761</td>
+<td>59 292</td>
+<td>62 401</td>
+<td>октябрь 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1907&lang=0" target="_blank" class="job">Маркшейдер</a></th>
+<td>35 918</td>
+<td>41 051</td>
+<td>41 020</td>
+<td>41 108</td>
+<td>41 477</td>
+<td>44 202</td>
+<td>октябрь 2010</td>
+</tr>
+</table>
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 02.12.2010)</p>
+</div>

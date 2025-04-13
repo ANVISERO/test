@@ -1,0 +1,548 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Энгельс</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1750&lang=0" target="_blank" class="job">Аппаратчик воздухоразделения</a></td>
+<td>9 979</td>
+<td>10 080</td>
+<td>15 842</td>
+<td>16 506</td>
+<td>17 136</td>
+<td>24 293</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1543&lang=0" target="_blank" class="job">Аппаратчик химводоочистки (аппаратчик водоподготовительных установок)</a></td>
+<td>7 121</td>
+<td>7 825</td>
+<td>9 910</td>
+<td>8 354</td>
+<td>12 823</td>
+<td>14 391</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1544&lang=0" target="_blank" class="job">Аппаратчик электролиза </a></td>
+<td>5 564</td>
+<td>5 897</td>
+<td>8 306</td>
+<td>8 165</td>
+<td>10 433</td>
+<td>11 189</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>24 656</td>
+<td>29 182</td>
+<td>35 311</td>
+<td>35 381</td>
+<td>42 538</td>
+<td>45 542</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>8 820</td>
+<td>15 120</td>
+<td>16 864</td>
+<td>15 120</td>
+<td>19 530</td>
+<td>24 515</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>10 295</td>
+<td>12 600</td>
+<td>15 027</td>
+<td>15 120</td>
+<td>17 640</td>
+<td>20 684</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1389&lang=0" target="_blank" class="job">Грузчик-комплектовщик</a></td>
+<td>12 600</td>
+<td>12 600</td>
+<td>13 518</td>
+<td>12 600</td>
+<td>12 600</td>
+<td>17 942</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2696&lang=0" target="_blank" class="job">Грузчик-упаковщик</a></td>
+<td>13 810</td>
+<td>14 868</td>
+<td>16 727</td>
+<td>17 010</td>
+<td>18 396</td>
+<td>19 454</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>16 632</td>
+<td>18 900</td>
+<td>23 256</td>
+<td>22 680</td>
+<td>28 476</td>
+<td>29 635</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>24 066</td>
+<td>27 733</td>
+<td>33 768</td>
+<td>32 987</td>
+<td>39 009</td>
+<td>44 710</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>15 120</td>
+<td>15 120</td>
+<td>16 758</td>
+<td>15 120</td>
+<td>18 094</td>
+<td>20 664</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>12 398</td>
+<td>15 435</td>
+<td>16 914</td>
+<td>17 791</td>
+<td>19 782</td>
+<td>21 546</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>12 751</td>
+<td>14 825</td>
+<td>18 684</td>
+<td>17 136</td>
+<td>22 932</td>
+<td>26 404</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1524&lang=0" target="_blank" class="job">Механик по производственному оборудованию</a></td>
+<td>14 717</td>
+<td>15 120</td>
+<td>16 903</td>
+<td>17 136</td>
+<td>19 152</td>
+<td>20 059</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1486&lang=0" target="_blank" class="job">Начальник смены</a></td>
+<td>19 152</td>
+<td>19 656</td>
+<td>22 536</td>
+<td>21 168</td>
+<td>25 200</td>
+<td>26 208</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2354&lang=0" target="_blank" class="job">Слесарь</a></td>
+<td>12 600</td>
+<td>15 120</td>
+<td>17 140</td>
+<td>17 640</td>
+<td>20 160</td>
+<td>20 160</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1882&lang=0" target="_blank" class="job">Слесарь по изготовлению и ремонту трубопроводов</a></td>
+<td>12 348</td>
+<td>12 726</td>
+<td>14 314</td>
+<td>13 356</td>
+<td>16 758</td>
+<td>17 741</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1642&lang=0" target="_blank" class="job">Слесарь по ремонту гидротурбинного оборудования</a></td>
+<td>7 191</td>
+<td>10 058</td>
+<td>14 449</td>
+<td>15 360</td>
+<td>17 766</td>
+<td>19 550</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1640&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования котельных и пылеприготовительных цехов</a></td>
+<td>8 418</td>
+<td>9 546</td>
+<td>11 026</td>
+<td>10 206</td>
+<td>12 345</td>
+<td>14 563</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1638&lang=0" target="_blank" class="job">Слесарь по ремонту парогазотурбинного оборудования</a></td>
+<td>8 140</td>
+<td>11 088</td>
+<td>12 146</td>
+<td>11 340</td>
+<td>15 120</td>
+<td>15 523</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1898&lang=0" target="_blank" class="job">Строгальщик</a></td>
+<td>11 491</td>
+<td>12 348</td>
+<td>15 053</td>
+<td>15 120</td>
+<td>17 640</td>
+<td>18 547</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>15 130</td>
+<td>17 678</td>
+<td>20 277</td>
+<td>20 190</td>
+<td>22 378</td>
+<td>25 542</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>15 120</td>
+<td>16 884</td>
+<td>25 941</td>
+<td>22 859</td>
+<td>25 505</td>
+<td>49 756</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1894&lang=0" target="_blank" class="job">Энергетик</a></td>
+<td>14 868</td>
+<td>18 396</td>
+<td>20 853</td>
+<td>20 160</td>
+<td>23 310</td>
+<td>26 712</td>
+<td>2 квартал 2018</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1750&lang=0" target="_blank" class="job">Аппаратчик воздухоразделения</a></td>
+<td>12 378</td>
+<td>13 608</td>
+<td>23 400</td>
+<td>22 932</td>
+<td>32 004</td>
+<td>37 054</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1543&lang=0" target="_blank" class="job">Аппаратчик химводоочистки (аппаратчик водоподготовительных установок)</a></td>
+<td>7 957</td>
+<td>8 631</td>
+<td>12 111</td>
+<td>9 423</td>
+<td>16 710</td>
+<td>18 308</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1544&lang=0" target="_blank" class="job">Аппаратчик электролиза </a></td>
+<td>6 401</td>
+<td>6 779</td>
+<td>9 581</td>
+<td>9 072</td>
+<td>12 096</td>
+<td>13 124</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>28 960</td>
+<td>36 742</td>
+<td>45 180</td>
+<td>45 259</td>
+<td>54 348</td>
+<td>60 191</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>17 700</td>
+<td>18 732</td>
+<td>22 553</td>
+<td>21 672</td>
+<td>24 423</td>
+<td>29 262</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1261&lang=0" target="_blank" class="job">Грузчик</a></td>
+<td>14 621</td>
+<td>16 380</td>
+<td>19 229</td>
+<td>17 640</td>
+<td>21 874</td>
+<td>24 509</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1389&lang=0" target="_blank" class="job">Грузчик-комплектовщик</a></td>
+<td>15 782</td>
+<td>16 120</td>
+<td>21 499</td>
+<td>19 289</td>
+<td>25 334</td>
+<td>31 201</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2696&lang=0" target="_blank" class="job">Грузчик-упаковщик</a></td>
+<td>17 101</td>
+<td>18 598</td>
+<td>19 952</td>
+<td>20 009</td>
+<td>21 496</td>
+<td>23 053</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1966&lang=0" target="_blank" class="job">Инженер 1-ой категории КИПиА</a></td>
+<td>23 275</td>
+<td>23 638</td>
+<td>30 744</td>
+<td>30 845</td>
+<td>36 540</td>
+<td>38 858</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1245&lang=0" target="_blank" class="job">Инженер-конструктор</a></td>
+<td>31 112</td>
+<td>36 296</td>
+<td>45 714</td>
+<td>42 307</td>
+<td>52 857</td>
+<td>62 190</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>17 237</td>
+<td>19 459</td>
+<td>23 225</td>
+<td>22 660</td>
+<td>26 938</td>
+<td>30 216</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2724&lang=0" target="_blank" class="job">Кладовщик-комплектовщик</a></td>
+<td>15 876</td>
+<td>18 648</td>
+<td>21 183</td>
+<td>20 236</td>
+<td>23 549</td>
+<td>26 434</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>17 309</td>
+<td>19 334</td>
+<td>25 071</td>
+<td>25 446</td>
+<td>29 974</td>
+<td>33 188</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1524&lang=0" target="_blank" class="job">Механик по производственному оборудованию</a></td>
+<td>20 936</td>
+<td>21 672</td>
+<td>24 178</td>
+<td>24 797</td>
+<td>26 178</td>
+<td>26 994</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1486&lang=0" target="_blank" class="job">Начальник смены</a></td>
+<td>26 057</td>
+<td>27 594</td>
+<td>29 414</td>
+<td>28 224</td>
+<td>30 072</td>
+<td>33 657</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2354&lang=0" target="_blank" class="job">Слесарь</a></td>
+<td>13 474</td>
+<td>15 527</td>
+<td>19 228</td>
+<td>19 647</td>
+<td>21 541</td>
+<td>25 215</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1882&lang=0" target="_blank" class="job">Слесарь по изготовлению и ремонту трубопроводов</a></td>
+<td>13 936</td>
+<td>14 671</td>
+<td>18 541</td>
+<td>16 859</td>
+<td>20 891</td>
+<td>26 344</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1642&lang=0" target="_blank" class="job">Слесарь по ремонту гидротурбинного оборудования</a></td>
+<td>10 871</td>
+<td>15 271</td>
+<td>18 774</td>
+<td>19 152</td>
+<td>22 718</td>
+<td>24 328</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1640&lang=0" target="_blank" class="job">Слесарь по ремонту оборудования котельных и пылеприготовительных цехов</a></td>
+<td>9 989</td>
+<td>12 096</td>
+<td>13 630</td>
+<td>13 104</td>
+<td>14 613</td>
+<td>18 547</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1638&lang=0" target="_blank" class="job">Слесарь по ремонту парогазотурбинного оборудования</a></td>
+<td>10 685</td>
+<td>13 104</td>
+<td>15 837</td>
+<td>15 120</td>
+<td>19 656</td>
+<td>20 160</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1898&lang=0" target="_blank" class="job">Строгальщик</a></td>
+<td>12 408</td>
+<td>15 448</td>
+<td>18 651</td>
+<td>18 396</td>
+<td>23 449</td>
+<td>24 820</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>17 106</td>
+<td>20 572</td>
+<td>23 275</td>
+<td>22 584</td>
+<td>26 729</td>
+<td>30 486</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2613&lang=0" target="_blank" class="job">Экономист-аналитик</a></td>
+<td>16 110</td>
+<td>18 647</td>
+<td>29 170</td>
+<td>24 560</td>
+<td>30 543</td>
+<td>57 011</td>
+<td>2 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1894&lang=0" target="_blank" class="job">Энергетик</a></td>
+<td>17 833</td>
+<td>19 974</td>
+<td>22 760</td>
+<td>22 260</td>
+<td>26 249</td>
+<td>28 023</td>
+<td>2 квартал 2018</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.08.2018)</p>
+</div>

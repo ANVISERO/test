@@ -1,0 +1,408 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Сфера деятельности компании: Информационные технологии</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1507&lang=0" target="_blank" class="job">Советник генерального директора</a></td>
+<td>195 560</td>
+<td>215 225</td>
+<td>252 425</td>
+<td>256 350</td>
+<td>285 600</td>
+<td>306 120</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=3001&lang=0" target="_blank" class="job">Старший администратор</a></td>
+<td>84 027</td>
+<td>88 185</td>
+<td>92 745</td>
+<td>92 040</td>
+<td>98 244</td>
+<td>101 500</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>70 650</td>
+<td>78 225</td>
+<td>89 950</td>
+<td>87 900</td>
+<td>99 300</td>
+<td>111 300</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2177&lang=0" target="_blank" class="job">Web-разработчик</a></td>
+<td>70 900</td>
+<td>77 450</td>
+<td>101 757</td>
+<td>91 200</td>
+<td>122 950</td>
+<td>141 360</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2996&lang=0" target="_blank" class="job">Аналитик по обработке информации 1 категории</a></td>
+<td>85 280</td>
+<td>89 435</td>
+<td>94 309</td>
+<td>96 020</td>
+<td>98 100</td>
+<td>101 385</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2997&lang=0" target="_blank" class="job">Аналитик по обработке информации 2 категории</a></td>
+<td>83 843</td>
+<td>84 875</td>
+<td>87 258</td>
+<td>86 250</td>
+<td>88 803</td>
+<td>91 610</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2998&lang=0" target="_blank" class="job">Аналитик по обработке информации 3 категории</a></td>
+<td>71 493</td>
+<td>73 380</td>
+<td>75 817</td>
+<td>75 335</td>
+<td>77 853</td>
+<td>81 129</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>68 850</td>
+<td>75 375</td>
+<td>86 325</td>
+<td>85 000</td>
+<td>94 675</td>
+<td>104 560</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2993&lang=0" target="_blank" class="job">Ведущий аналитик по обработке информации</a></td>
+<td>98 040</td>
+<td>99 743</td>
+<td>102 806</td>
+<td>101 400</td>
+<td>106 235</td>
+<td>108 463</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2601&lang=0" target="_blank" class="job">Ведущий программист C++</a></td>
+<td>107 560</td>
+<td>121 050</td>
+<td>130 171</td>
+<td>130 600</td>
+<td>142 800</td>
+<td>150 440</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2585&lang=0" target="_blank" class="job">Программист JavaScript</a></td>
+<td>65 800</td>
+<td>73 000</td>
+<td>85 963</td>
+<td>84 000</td>
+<td>97 775</td>
+<td>107 300</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2265&lang=0" target="_blank" class="job">Программист С++</a></td>
+<td>67 000</td>
+<td>73 750</td>
+<td>80 688</td>
+<td>79 250</td>
+<td>89 000</td>
+<td>96 500</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2596&lang=0" target="_blank" class="job">Старший программист C++</a></td>
+<td>84 910</td>
+<td>94 000</td>
+<td>111 744</td>
+<td>115 250</td>
+<td>129 488</td>
+<td>136 980</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2584&lang=0" target="_blank" class="job">Старший программист PHP</a></td>
+<td>80 000</td>
+<td>90 000</td>
+<td>103 000</td>
+<td>105 000</td>
+<td>111 000</td>
+<td>126 000</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2987&lang=0" target="_blank" class="job">Старший специалист технической поддержки</a></td>
+<td>53 500</td>
+<td>58 750</td>
+<td>72 088</td>
+<td>70 750</td>
+<td>85 675</td>
+<td>91 840</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом</a></td>
+<td>92 570</td>
+<td>101 300</td>
+<td>118 438</td>
+<td>116 200</td>
+<td>134 150</td>
+<td>147 980</td>
+<td>1 квартал 2018</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1236&lang=0" target="_blank" class="job">Офис-менеджер</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1507&lang=0" target="_blank" class="job">Советник генерального директора</a></td>
+<td>234 720</td>
+<td>262 642</td>
+<td>340 312</td>
+<td>364 221</td>
+<td>403 900</td>
+<td>433 530</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=3001&lang=0" target="_blank" class="job">Старший администратор</a></td>
+<td>98 805</td>
+<td>108 593</td>
+<td>140 596</td>
+<td>122 731</td>
+<td>175 562</td>
+<td>191 263</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2038&lang=0" target="_blank" class="job">Web-программист </a></td>
+<td>89 238</td>
+<td>101 971</td>
+<td>122 511</td>
+<td>122 229</td>
+<td>146 506</td>
+<td>156 067</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2177&lang=0" target="_blank" class="job">Web-разработчик</a></td>
+<td>99 290</td>
+<td>116 709</td>
+<td>139 839</td>
+<td>134 592</td>
+<td>163 821</td>
+<td>183 030</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2996&lang=0" target="_blank" class="job">Аналитик по обработке информации 1 категории</a></td>
+<td>98 546</td>
+<td>101 483</td>
+<td>109 077</td>
+<td>106 571</td>
+<td>116 894</td>
+<td>120 451</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2997&lang=0" target="_blank" class="job">Аналитик по обработке информации 2 категории</a></td>
+<td>88 707</td>
+<td>94 028</td>
+<td>100 177</td>
+<td>97 361</td>
+<td>105 510</td>
+<td>113 262</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2998&lang=0" target="_blank" class="job">Аналитик по обработке информации 3 категории</a></td>
+<td>85 715</td>
+<td>91 369</td>
+<td>94 627</td>
+<td>92 975</td>
+<td>97 795</td>
+<td>106 347</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1499&lang=0" target="_blank" class="job">Бизнес-аналитик</a></td>
+<td>83 596</td>
+<td>90 927</td>
+<td>121 398</td>
+<td>124 334</td>
+<td>141 048</td>
+<td>163 307</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2993&lang=0" target="_blank" class="job">Ведущий аналитик по обработке информации</a></td>
+<td>125 155</td>
+<td>130 128</td>
+<td>134 502</td>
+<td>133 336</td>
+<td>141 655</td>
+<td>145 765</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2601&lang=0" target="_blank" class="job">Ведущий программист C++</a></td>
+<td>131 459</td>
+<td>147 117</td>
+<td>160 257</td>
+<td>153 800</td>
+<td>167 084</td>
+<td>196 700</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2585&lang=0" target="_blank" class="job">Программист JavaScript</a></td>
+<td>92 271</td>
+<td>96 052</td>
+<td>112 669</td>
+<td>109 000</td>
+<td>120 987</td>
+<td>137 310</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2265&lang=0" target="_blank" class="job">Программист С++</a></td>
+<td>81 775</td>
+<td>86 625</td>
+<td>107 469</td>
+<td>102 375</td>
+<td>114 104</td>
+<td>141 892</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2596&lang=0" target="_blank" class="job">Старший программист C++</a></td>
+<td>121 480</td>
+<td>132 762</td>
+<td>141 038</td>
+<td>142 292</td>
+<td>156 351</td>
+<td>160 990</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2584&lang=0" target="_blank" class="job">Старший программист PHP</a></td>
+<td>105 967</td>
+<td>117 500</td>
+<td>126 027</td>
+<td>122 500</td>
+<td>135 000</td>
+<td>145 000</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2987&lang=0" target="_blank" class="job">Старший специалист технической поддержки</a></td>
+<td>59 609</td>
+<td>71 234</td>
+<td>91 734</td>
+<td>92 917</td>
+<td>106 362</td>
+<td>126 020</td>
+<td>1 квартал 2018</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом</a></td>
+<td>121 232</td>
+<td>141 022</td>
+<td>153 680</td>
+<td>155 492</td>
+<td>168 600</td>
+<td>181 725</td>
+<td>1 квартал 2018</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 06.06.2018)</p>
+</div>

@@ -1,0 +1,668 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Воронеж</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера </a></td>
+<td>13 037</td>
+<td>13 960</td>
+<td>16 692</td>
+<td>17 450</td>
+<td>18 847</td>
+<td>20 713</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1837&lang=0" target="_blank" class="job">Ведущий cпециалист по компенсациям и льготам</a></td>
+<td>19 544</td>
+<td>21 760</td>
+<td>26 307</td>
+<td>24 853</td>
+<td>31 410</td>
+<td>33 392</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>13 611</td>
+<td>16 879</td>
+<td>20 075</td>
+<td>21 464</td>
+<td>24 564</td>
+<td>25 128</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>17 450</td>
+<td>19 544</td>
+<td>22 323</td>
+<td>21 638</td>
+<td>26 664</td>
+<td>30 189</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>14 658</td>
+<td>17 676</td>
+<td>22 009</td>
+<td>20 940</td>
+<td>26 699</td>
+<td>29 316</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>22 301</td>
+<td>24 814</td>
+<td>30 295</td>
+<td>28 653</td>
+<td>33 352</td>
+<td>42 146</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>62 848</td>
+<td>71 196</td>
+<td>113 835</td>
+<td>118 660</td>
+<td>139 681</td>
+<td>174 500</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>40 528</td>
+<td>43 058</td>
+<td>49 891</td>
+<td>50 256</td>
+<td>59 330</td>
+<td>61 737</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>14 518</td>
+<td>16 626</td>
+<td>19 261</td>
+<td>19 021</td>
+<td>22 249</td>
+<td>24 779</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>13 402</td>
+<td>16 752</td>
+<td>20 203</td>
+<td>19 544</td>
+<td>22 894</td>
+<td>26 384</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>13 329</td>
+<td>14 882</td>
+<td>16 826</td>
+<td>16 019</td>
+<td>18 820</td>
+<td>23 279</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>15 561</td>
+<td>16 107</td>
+<td>19 200</td>
+<td>18 724</td>
+<td>23 257</td>
+<td>25 896</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2729&lang=0" target="_blank" class="job">Менеджер по корпоративной культуре</a></td>
+<td>15 635</td>
+<td>18 949</td>
+<td>21 756</td>
+<td>22 371</td>
+<td>25 872</td>
+<td>28 758</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>23 313</td>
+<td>26 524</td>
+<td>30 403</td>
+<td>29 316</td>
+<td>34 900</td>
+<td>41 182</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>13 960</td>
+<td>16 283</td>
+<td>22 511</td>
+<td>21 080</td>
+<td>28 400</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2728&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>14 536</td>
+<td>16 760</td>
+<td>20 971</td>
+<td>21 028</td>
+<td>24 989</td>
+<td>29 247</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>17 101</td>
+<td>23 732</td>
+<td>30 812</td>
+<td>29 316</td>
+<td>38 107</td>
+<td>45 540</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1844&lang=0" target="_blank" class="job">Начальник отдела обучения</a></td>
+<td>27 048</td>
+<td>28 231</td>
+<td>35 084</td>
+<td>33 155</td>
+<td>44 067</td>
+<td>48 162</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1523&lang=0" target="_blank" class="job">Начальник отдела охраны труда</a></td>
+<td>34 900</td>
+<td>36 992</td>
+<td>41 396</td>
+<td>41 531</td>
+<td>45 894</td>
+<td>49 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>18 846</td>
+<td>21 516</td>
+<td>34 535</td>
+<td>30 236</td>
+<td>45 045</td>
+<td>60 116</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1446&lang=0" target="_blank" class="job">Начальник отдела труда и заработной платы</a></td>
+<td>35 431</td>
+<td>41 357</td>
+<td>54 887</td>
+<td>49 209</td>
+<td>67 622</td>
+<td>84 633</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>38 390</td>
+<td>42 927</td>
+<td>54 911</td>
+<td>58 458</td>
+<td>67 911</td>
+<td>73 639</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2727&lang=0" target="_blank" class="job">Руководитель группы подбора персонала</a></td>
+<td>24 430</td>
+<td>30 890</td>
+<td>38 462</td>
+<td>40 205</td>
+<td>45 370</td>
+<td>56 846</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>14 484</td>
+<td>15 967</td>
+<td>19 085</td>
+<td>19 544</td>
+<td>22 318</td>
+<td>25 826</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>16 132</td>
+<td>19 544</td>
+<td>24 284</td>
+<td>22 860</td>
+<td>29 128</td>
+<td>36 504</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>14 909</td>
+<td>17 031</td>
+<td>23 701</td>
+<td>20 102</td>
+<td>27 484</td>
+<td>36 291</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1636&lang=0" target="_blank" class="job">Специалист по социальной работе</a></td>
+<td>11 444</td>
+<td>13 524</td>
+<td>15 107</td>
+<td>14 985</td>
+<td>17 206</td>
+<td>19 265</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1633&lang=0" target="_blank" class="job">Старший инспектор по охране труда и технике безопасности</a></td>
+<td>17 485</td>
+<td>20 511</td>
+<td>25 382</td>
+<td>26 298</td>
+<td>30 468</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2279&lang=0" target="_blank" class="job">Тренинг-менеджер</a></td>
+<td>16 822</td>
+<td>18 824</td>
+<td>27 561</td>
+<td>24 516</td>
+<td>33 853</td>
+<td>46 152</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>21 806</td>
+<td>26 737</td>
+<td>31 590</td>
+<td>31 410</td>
+<td>37 125</td>
+<td>44 253</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера </a></td>
+<td>13 037</td>
+<td>15 130</td>
+<td>18 327</td>
+<td>19 060</td>
+<td>21 291</td>
+<td>23 505</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1837&lang=0" target="_blank" class="job">Ведущий cпециалист по компенсациям и льготам</a></td>
+<td>19 544</td>
+<td>21 760</td>
+<td>31 997</td>
+<td>31 833</td>
+<td>41 296</td>
+<td>46 123</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1826&lang=0" target="_blank" class="job">Ведущий инженер по организации (нормированию) труда</a></td>
+<td>15 692</td>
+<td>20 805</td>
+<td>26 189</td>
+<td>27 962</td>
+<td>32 838</td>
+<td>35 217</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1712&lang=0" target="_blank" class="job">Ведущий инженер по охране труда</a></td>
+<td>17 450</td>
+<td>21 638</td>
+<td>26 678</td>
+<td>27 222</td>
+<td>32 946</td>
+<td>36 870</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1833&lang=0" target="_blank" class="job">Ведущий специалист по кадрам</a></td>
+<td>14 658</td>
+<td>20 817</td>
+<td>27 638</td>
+<td>27 222</td>
+<td>34 844</td>
+<td>39 050</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1836&lang=0" target="_blank" class="job">Ведущий экономист по труду</a></td>
+<td>22 301</td>
+<td>26 123</td>
+<td>35 636</td>
+<td>33 365</td>
+<td>41 532</td>
+<td>53 593</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>62 848</td>
+<td>75 649</td>
+<td>133 466</td>
+<td>128 258</td>
+<td>157 732</td>
+<td>233 186</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>41 518</td>
+<td>47 115</td>
+<td>57 191</td>
+<td>59 330</td>
+<td>69 755</td>
+<td>73 237</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1559&lang=0" target="_blank" class="job">Инженер по организации (нормированию) труда</a></td>
+<td>14 518</td>
+<td>19 244</td>
+<td>25 989</td>
+<td>26 001</td>
+<td>31 693</td>
+<td>39 367</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1349&lang=0" target="_blank" class="job">Инженер по охране труда и по технике безопасности</a></td>
+<td>13 402</td>
+<td>21 987</td>
+<td>27 482</td>
+<td>27 920</td>
+<td>33 224</td>
+<td>37 552</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>15 982</td>
+<td>18 860</td>
+<td>22 243</td>
+<td>21 128</td>
+<td>25 792</td>
+<td>31 829</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1659&lang=0" target="_blank" class="job">Инспектор по охране труда и технике безопасности</a></td>
+<td>17 243</td>
+<td>19 387</td>
+<td>23 680</td>
+<td>23 551</td>
+<td>29 195</td>
+<td>32 855</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2729&lang=0" target="_blank" class="job">Менеджер по корпоративной культуре</a></td>
+<td>16 570</td>
+<td>22 875</td>
+<td>28 653</td>
+<td>29 093</td>
+<td>36 538</td>
+<td>40 568</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2743&lang=0" target="_blank" class="job">Менеджер по мотивации персонала</a></td>
+<td>23 313</td>
+<td>26 524</td>
+<td>35 013</td>
+<td>32 806</td>
+<td>42 104</td>
+<td>53 831</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>13 960</td>
+<td>18 970</td>
+<td>30 291</td>
+<td>26 926</td>
+<td>39 428</td>
+<td>54 933</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2728&lang=0" target="_blank" class="job">Менеджер по работе с персоналом</a></td>
+<td>14 536</td>
+<td>19 823</td>
+<td>26 503</td>
+<td>26 612</td>
+<td>33 395</td>
+<td>39 717</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1688&lang=0" target="_blank" class="job">Начальник отдела кадров</a></td>
+<td>20 591</td>
+<td>29 595</td>
+<td>42 797</td>
+<td>39 088</td>
+<td>53 684</td>
+<td>72 064</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1844&lang=0" target="_blank" class="job">Начальник отдела обучения</a></td>
+<td>27 048</td>
+<td>32 747</td>
+<td>43 152</td>
+<td>42 495</td>
+<td>56 071</td>
+<td>62 471</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1523&lang=0" target="_blank" class="job">Начальник отдела охраны труда</a></td>
+<td>34 900</td>
+<td>40 220</td>
+<td>48 629</td>
+<td>49 209</td>
+<td>55 622</td>
+<td>65 054</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>20 417</td>
+<td>29 961</td>
+<td>47 134</td>
+<td>42 614</td>
+<td>63 582</td>
+<td>81 322</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1446&lang=0" target="_blank" class="job">Начальник отдела труда и заработной платы</a></td>
+<td>35 431</td>
+<td>41 357</td>
+<td>59 947</td>
+<td>55 491</td>
+<td>75 300</td>
+<td>95 732</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2730&lang=0" target="_blank" class="job">Начальник отдела управления персоналом</a></td>
+<td>38 390</td>
+<td>45 523</td>
+<td>63 276</td>
+<td>65 438</td>
+<td>79 963</td>
+<td>90 740</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2727&lang=0" target="_blank" class="job">Руководитель группы подбора персонала</a></td>
+<td>24 430</td>
+<td>35 078</td>
+<td>44 582</td>
+<td>46 557</td>
+<td>53 467</td>
+<td>67 429</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>14 484</td>
+<td>17 694</td>
+<td>23 385</td>
+<td>23 732</td>
+<td>28 090</td>
+<td>34 900</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1291&lang=0" target="_blank" class="job">Специалист по обучению и развитию персонала</a></td>
+<td>16 132</td>
+<td>22 852</td>
+<td>32 628</td>
+<td>30 189</td>
+<td>41 745</td>
+<td>53 849</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1423&lang=0" target="_blank" class="job">Специалист по подбору персонала</a></td>
+<td>14 909</td>
+<td>18 140</td>
+<td>30 679</td>
+<td>25 686</td>
+<td>38 549</td>
+<td>51 786</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1636&lang=0" target="_blank" class="job">Специалист по социальной работе</a></td>
+<td>11 444</td>
+<td>15 164</td>
+<td>19 484</td>
+<td>19 185</td>
+<td>23 803</td>
+<td>27 920</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1633&lang=0" target="_blank" class="job">Старший инспектор по охране труда и технике безопасности</a></td>
+<td>17 485</td>
+<td>22 386</td>
+<td>31 505</td>
+<td>33 666</td>
+<td>40 021</td>
+<td>46 567</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2279&lang=0" target="_blank" class="job">Тренинг-менеджер</a></td>
+<td>16 822</td>
+<td>21 135</td>
+<td>33 832</td>
+<td>32 323</td>
+<td>43 555</td>
+<td>56 448</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1302&lang=0" target="_blank" class="job">Экономист по труду</a></td>
+<td>21 806</td>
+<td>26 737</td>
+<td>33 439</td>
+<td>33 682</td>
+<td>40 240</td>
+<td>47 748</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.09.2015)</p>
+</div>

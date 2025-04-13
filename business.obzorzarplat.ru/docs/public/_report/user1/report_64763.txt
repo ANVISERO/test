@@ -1,0 +1,448 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1440&lang=0" target="_blank" class="job">Заведующий аптекой</a></td>
+<td>30 000</td>
+<td>39 250</td>
+<td>43 728</td>
+<td>43 500</td>
+<td>50 000</td>
+<td>54 900</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2873&lang=0" target="_blank" class="job">Заведующий аптечным складом</a></td>
+<td>35 536</td>
+<td>36 607</td>
+<td>41 964</td>
+<td>41 072</td>
+<td>47 143</td>
+<td>49 286</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2875&lang=0" target="_blank" class="job">Заведующий приемным отделом (на складе)</a></td>
+<td>39 500</td>
+<td>40 000</td>
+<td>42 667</td>
+<td>40 000</td>
+<td>43 750</td>
+<td>48 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>30 000</td>
+<td>40 000</td>
+<td>40 028</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>45 210</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>22 000</td>
+<td>25 000</td>
+<td>29 576</td>
+<td>27 000</td>
+<td>32 825</td>
+<td>40 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>40 500</td>
+<td>43 000</td>
+<td>51 989</td>
+<td>54 000</td>
+<td>60 000</td>
+<td>61 920</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>59 500</td>
+<td>72 500</td>
+<td>114 395</td>
+<td>100 000</td>
+<td>150 150</td>
+<td>190 500</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2869&lang=0" target="_blank" class="job">Менеджер по продажам медицинских услуг</a></td>
+<td>35 000</td>
+<td>36 250</td>
+<td>39 726</td>
+<td>40 000</td>
+<td>43 000</td>
+<td>44 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2870&lang=0" target="_blank" class="job">Менеджер по продажам медицинского оборудования</a></td>
+<td>26 800</td>
+<td>35 000</td>
+<td>38 538</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>49 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>88 000</td>
+<td>97 000</td>
+<td>124 733</td>
+<td>122 000</td>
+<td>130 000</td>
+<td>182 674</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2751&lang=0" target="_blank" class="job">Менеджер по регистрации лекарственных препаратов</a></td>
+<td>79 000</td>
+<td>85 000</td>
+<td>111 858</td>
+<td>90 000</td>
+<td>150 000</td>
+<td>169 378</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>35 000</td>
+<td>36 500</td>
+<td>39 733</td>
+<td>40 000</td>
+<td>44 000</td>
+<td>45 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>32 660</td>
+<td>33 000</td>
+<td>35 925</td>
+<td>36 000</td>
+<td>37 000</td>
+<td>40 405</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>34 800</td>
+<td>41 000</td>
+<td>54 100</td>
+<td>55 000</td>
+<td>68 750</td>
+<td>70 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>22 300</td>
+<td>23 500</td>
+<td>25 280</td>
+<td>25 000</td>
+<td>27 500</td>
+<td>29 350</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>28 600</td>
+<td>31 650</td>
+<td>42 586</td>
+<td>36 500</td>
+<td>49 500</td>
+<td>64 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>21 500</td>
+<td>28 750</td>
+<td>32 563</td>
+<td>32 500</td>
+<td>40 000</td>
+<td>42 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2874&lang=0" target="_blank" class="job">Управляющий аптечной сетью</a></td>
+<td>79 425</td>
+<td>88 124</td>
+<td>107 917</td>
+<td>108 169</td>
+<td>119 138</td>
+<td>136 158</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>20 000</td>
+<td>26 925</td>
+<td>31 498</td>
+<td>35 000</td>
+<td>35 000</td>
+<td>39 000</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1440&lang=0" target="_blank" class="job">Заведующий аптекой</a></td>
+<td>34 481</td>
+<td>43 613</td>
+<td>52 805</td>
+<td>51 700</td>
+<td>60 488</td>
+<td>65 944</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2873&lang=0" target="_blank" class="job">Заведующий аптечным складом</a></td>
+<td>44 239</td>
+<td>49 420</td>
+<td>63 186</td>
+<td>61 190</td>
+<td>71 719</td>
+<td>84 131</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2875&lang=0" target="_blank" class="job">Заведующий приемным отделом (на складе)</a></td>
+<td>45 259</td>
+<td>46 875</td>
+<td>53 486</td>
+<td>53 450</td>
+<td>59 988</td>
+<td>61 750</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1441&lang=0" target="_blank" class="job">Заместитель заведующего аптекой</a></td>
+<td>37 940</td>
+<td>40 000</td>
+<td>47 793</td>
+<td>48 000</td>
+<td>54 600</td>
+<td>56 658</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1246&lang=0" target="_blank" class="job">Лаборант</a></td>
+<td>23 985</td>
+<td>26 325</td>
+<td>33 617</td>
+<td>31 100</td>
+<td>39 035</td>
+<td>45 985</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1927&lang=0" target="_blank" class="job">Медицинский представитель</a></td>
+<td>45 398</td>
+<td>54 050</td>
+<td>70 099</td>
+<td>59 360</td>
+<td>75 300</td>
+<td>116 046</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2750&lang=0" target="_blank" class="job">Медицинский советник</a></td>
+<td>70 000</td>
+<td>85 493</td>
+<td>137 198</td>
+<td>128 685</td>
+<td>170 038</td>
+<td>237 310</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2869&lang=0" target="_blank" class="job">Менеджер по продажам медицинских услуг</a></td>
+<td>44 600</td>
+<td>47 275</td>
+<td>75 144</td>
+<td>69 913</td>
+<td>98 246</td>
+<td>112 580</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2870&lang=0" target="_blank" class="job">Менеджер по продажам медицинского оборудования</a></td>
+<td>43 220</td>
+<td>63 867</td>
+<td>78 301</td>
+<td>73 017</td>
+<td>93 550</td>
+<td>112 120</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2752&lang=0" target="_blank" class="job">Менеджер по работе с аптечными сетями</a></td>
+<td>92 960</td>
+<td>106 690</td>
+<td>152 783</td>
+<td>153 283</td>
+<td>170 000</td>
+<td>227 430</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2751&lang=0" target="_blank" class="job">Менеджер по регистрации лекарственных препаратов</a></td>
+<td>91 240</td>
+<td>95 400</td>
+<td>131 730</td>
+<td>101 167</td>
+<td>190 055</td>
+<td>202 908</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1443&lang=0" target="_blank" class="job">Провизор</a></td>
+<td>38 670</td>
+<td>41 500</td>
+<td>45 248</td>
+<td>42 500</td>
+<td>49 900</td>
+<td>53 400</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1931&lang=0" target="_blank" class="job">Специалист по безопасности лекарственных средств</a></td>
+<td>35 300</td>
+<td>36 000</td>
+<td>41 872</td>
+<td>40 800</td>
+<td>47 027</td>
+<td>49 150</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1929&lang=0" target="_blank" class="job">Специалист по клиническим исследованиям</a></td>
+<td>39 300</td>
+<td>44 375</td>
+<td>77 258</td>
+<td>77 834</td>
+<td>112 604</td>
+<td>120 000</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1444&lang=0" target="_blank" class="job">Специалист по приемке товара</a></td>
+<td>23 600</td>
+<td>25 250</td>
+<td>33 453</td>
+<td>28 417</td>
+<td>41 230</td>
+<td>53 108</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1930&lang=0" target="_blank" class="job">Специалист по регистрации лекарственных препаратов</a></td>
+<td>30 610</td>
+<td>35 938</td>
+<td>56 642</td>
+<td>45 000</td>
+<td>51 450</td>
+<td>115 770</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1923&lang=0" target="_blank" class="job">Специалист по сертификации</a></td>
+<td>24 000</td>
+<td>29 250</td>
+<td>45 240</td>
+<td>42 625</td>
+<td>54 540</td>
+<td>72 834</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2874&lang=0" target="_blank" class="job">Управляющий аптечной сетью</a></td>
+<td>92 957</td>
+<td>107 205</td>
+<td>136 108</td>
+<td>138 332</td>
+<td>151 090</td>
+<td>177 037</td>
+<td>1 квартал 2017</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1442&lang=0" target="_blank" class="job">Фармацевт</a></td>
+<td>23 830</td>
+<td>30 830</td>
+<td>36 866</td>
+<td>37 300</td>
+<td>42 513</td>
+<td>52 610</td>
+<td>1 квартал 2017</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.01.2017)</p>
+</div>

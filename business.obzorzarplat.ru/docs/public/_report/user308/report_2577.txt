@@ -1,0 +1,103 @@
+
+<link href="/_css/summary/summary_print.css" rel="stylesheet" type="text/css">
+<div class="summary">
+<h2>Сводный аналитический обзор заработных плат</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+
+
+<h3>1.	Рыночные значения компенсации труда (руб. в месяц)</h3>
+<p align="right"><em>Таблица 1.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+  <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td class="X1_right">5 230</td>
+<td class="X1_right">29 564</td>
+<td class="X1_right">33 470</td>
+<td class="X1_right">34 483</td>
+<td class="X1_right">39 614</td>
+<td class="X1_right">56 597</td>
+<td class="X1_right">ноябрь 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td class="X1_right">51 724</td>
+<td class="X1_right">68 948</td>
+<td class="X1_right">78 923</td>
+<td class="X1_right">75 816</td>
+<td class="X1_right">85 430</td>
+<td class="X1_right">114 943</td>
+<td class="X1_right">октябрь 2010</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td class="X1_right">17 379</td>
+<td class="X1_right">32 574</td>
+<td class="X1_right">40 265</td>
+<td class="X1_right">39 195</td>
+<td class="X1_right">45 276</td>
+<td class="X1_right">91 391</td>
+<td class="X1_right">ноябрь 2010</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+<br>
+
+<h3>2.	Рыночные значения заработной платы (руб. в месяц)</h3>
+<p align="right"><em>Таблица 2.</em></p>
+<table>
+<tr class="X1_0">
+  <th>Должность</th>
+  <th>Минимум</th>
+  <th>25%</th>
+   <th>Среднее</th>
+  <th>Медиана</th>
+  <th>75%</th>
+  <th>Максимум</th>
+  <th>Обновление</th>
+</tr>
+
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td class="X1_right">3 736</td>
+<td class="X1_right">27 111</td>
+<td class="X1_right">31 303</td>
+<td class="X1_right">34 474</td>
+<td class="X1_right">35 517</td>
+<td class="X1_right">49 544</td>
+<td class="X1_right">ноябрь 2010</td>
+</tr>
+<tr class="X1_0">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1267&lang=0" target="_blank" class="job">Начальник отдела маркетинга и рекламы</a></td>
+<td class="X1_right">51 724</td>
+<td class="X1_right">68 054</td>
+<td class="X1_right">75 066</td>
+<td class="X1_right">73 502</td>
+<td class="X1_right">80 505</td>
+<td class="X1_right">114 943</td>
+<td class="X1_right">октябрь 2010</td>
+</tr>
+<tr class="X1_1">
+<td class="X1_left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td class="X1_right">17 241</td>
+<td class="X1_right">29 885</td>
+<td class="X1_right">37 644</td>
+<td class="X1_right">36 084</td>
+<td class="X1_right">42 816</td>
+<td class="X1_right">89 379</td>
+<td class="X1_right">ноябрь 2010</td>
+</tr>
+</table>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+</div>

@@ -1,0 +1,708 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>33 590</td>
+<td>37 453</td>
+<td>45 929</td>
+<td>45 000</td>
+<td>52 617</td>
+<td>60 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2133&lang=0" target="_blank" class="job">Вальщик леса</a></td>
+<td>30 000</td>
+<td>38 000</td>
+<td>45 268</td>
+<td>41 000</td>
+<td>56 221</td>
+<td>66 400</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>44 000</td>
+<td>46 000</td>
+<td>59 349</td>
+<td>62 000</td>
+<td>72 737</td>
+<td>80 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>28 900</td>
+<td>34 525</td>
+<td>39 570</td>
+<td>35 000</td>
+<td>46 000</td>
+<td>51 625</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2132&lang=0" target="_blank" class="job">Выжигальщик</a></td>
+<td>25 000</td>
+<td>26 375</td>
+<td>30 644</td>
+<td>30 000</td>
+<td>35 250</td>
+<td>40 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2129&lang=0" target="_blank" class="job">Егерь</a></td>
+<td>19 600</td>
+<td>22 553</td>
+<td>27 235</td>
+<td>29 000</td>
+<td>33 375</td>
+<td>34 500</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2126&lang=0" target="_blank" class="job">Инженер лесного хозяйства </a></td>
+<td>20 696</td>
+<td>25 220</td>
+<td>36 893</td>
+<td>34 300</td>
+<td>45 627</td>
+<td>58 688</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>16 710</td>
+<td>22 411</td>
+<td>27 662</td>
+<td>28 188</td>
+<td>35 676</td>
+<td>38 532</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2127&lang=0" target="_blank" class="job">Инженер-таксатор</a></td>
+<td>22 780</td>
+<td>26 401</td>
+<td>33 630</td>
+<td>35 000</td>
+<td>42 115</td>
+<td>44 700</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2142&lang=0" target="_blank" class="job">Копровщик </a></td>
+<td>33 600</td>
+<td>38 922</td>
+<td>47 587</td>
+<td>52 000</td>
+<td>59 287</td>
+<td>60 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2123&lang=0" target="_blank" class="job">Лесничий</a></td>
+<td>25 537</td>
+<td>37 473</td>
+<td>42 755</td>
+<td>45 134</td>
+<td>51 622</td>
+<td>59 117</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2134&lang=0" target="_blank" class="job">Лесоруб </a></td>
+<td>26 817</td>
+<td>29 401</td>
+<td>33 368</td>
+<td>31 500</td>
+<td>38 500</td>
+<td>45 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2128&lang=0" target="_blank" class="job">Мастер леса</a></td>
+<td>18 459</td>
+<td>27 087</td>
+<td>30 905</td>
+<td>32 625</td>
+<td>37 315</td>
+<td>42 732</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2135&lang=0" target="_blank" class="job">Обрубщик сучьев</a></td>
+<td>13 000</td>
+<td>16 121</td>
+<td>20 079</td>
+<td>21 000</td>
+<td>23 545</td>
+<td>30 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2138&lang=0" target="_blank" class="job">Окорщик </a></td>
+<td>22 401</td>
+<td>24 410</td>
+<td>27 301</td>
+<td>29 000</td>
+<td>30 407</td>
+<td>33 900</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2141&lang=0" target="_blank" class="job">Оператор лесозаготовительных машин</a></td>
+<td>33 200</td>
+<td>43 395</td>
+<td>53 806</td>
+<td>59 000</td>
+<td>65 000</td>
+<td>70 800</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>18 160</td>
+<td>18 600</td>
+<td>22 486</td>
+<td>23 292</td>
+<td>25 256</td>
+<td>29 600</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1788&lang=0" target="_blank" class="job">Оператор станков с ЧПУ</a></td>
+<td>21 212</td>
+<td>21 862</td>
+<td>27 796</td>
+<td>27 128</td>
+<td>33 477</td>
+<td>35 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2053&lang=0" target="_blank" class="job">Охотовед</a></td>
+<td>23 495</td>
+<td>26 284</td>
+<td>28 726</td>
+<td>30 000</td>
+<td>31 911</td>
+<td>35 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2145&lang=0" target="_blank" class="job">Плотник</a></td>
+<td>26 901</td>
+<td>29 682</td>
+<td>32 354</td>
+<td>32 500</td>
+<td>37 000</td>
+<td>40 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2124&lang=0" target="_blank" class="job">Помощник лесничего</a></td>
+<td>9 902</td>
+<td>14 529</td>
+<td>16 578</td>
+<td>17 500</td>
+<td>20 016</td>
+<td>22 922</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2139&lang=0" target="_blank" class="job">Раскряжевщик</a></td>
+<td>22 550</td>
+<td>29 118</td>
+<td>40 466</td>
+<td>45 000</td>
+<td>50 751</td>
+<td>55 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2136&lang=0" target="_blank" class="job">Сортировщик </a></td>
+<td>20 325</td>
+<td>20 500</td>
+<td>25 568</td>
+<td>25 000</td>
+<td>30 388</td>
+<td>35 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2143&lang=0" target="_blank" class="job">Сплотчик</a></td>
+<td>28 600</td>
+<td>38 862</td>
+<td>46 735</td>
+<td>49 240</td>
+<td>57 740</td>
+<td>63 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1635&lang=0" target="_blank" class="job">Станочник широкого профиля</a></td>
+<td>19 827</td>
+<td>20 700</td>
+<td>24 461</td>
+<td>22 000</td>
+<td>23 800</td>
+<td>35 224</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1373&lang=0" target="_blank" class="job">Столяр</a></td>
+<td>24 387</td>
+<td>28 050</td>
+<td>29 099</td>
+<td>28 414</td>
+<td>32 885</td>
+<td>35 456</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>24 923</td>
+<td>25 233</td>
+<td>29 306</td>
+<td>28 980</td>
+<td>35 000</td>
+<td>36 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2147&lang=0" target="_blank" class="job">Точковщик</a></td>
+<td>9 053</td>
+<td>13 284</td>
+<td>15 157</td>
+<td>16 000</td>
+<td>18 300</td>
+<td>20 957</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2144&lang=0" target="_blank" class="job">Укладчик</a></td>
+<td>20 000</td>
+<td>22 104</td>
+<td>24 813</td>
+<td>25 000</td>
+<td>28 000</td>
+<td>31 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2146&lang=0" target="_blank" class="job">Формировщик плотов</a></td>
+<td>19 387</td>
+<td>28 449</td>
+<td>32 459</td>
+<td>34 265</td>
+<td>39 191</td>
+<td>44 880</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2140&lang=0" target="_blank" class="job">Чокеровщик</a></td>
+<td>22 000</td>
+<td>25 808</td>
+<td>33 826</td>
+<td>36 000</td>
+<td>44 263</td>
+<td>47 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2137&lang=0" target="_blank" class="job">Штабелевщик</a></td>
+<td>18 094</td>
+<td>21 129</td>
+<td>24 038</td>
+<td>25 500</td>
+<td>28 500</td>
+<td>29 700</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2151&lang=0" target="_blank" class="job">Бригадир</a></td>
+<td>33 590</td>
+<td>37 453</td>
+<td>49 475</td>
+<td>50 000</td>
+<td>59 271</td>
+<td>67 570</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2133&lang=0" target="_blank" class="job">Вальщик леса</a></td>
+<td>30 000</td>
+<td>38 000</td>
+<td>45 268</td>
+<td>41 000</td>
+<td>56 221</td>
+<td>66 400</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2130&lang=0" target="_blank" class="job">Взрывник</a></td>
+<td>44 000</td>
+<td>46 000</td>
+<td>70 750</td>
+<td>74 900</td>
+<td>90 857</td>
+<td>107 600</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>28 900</td>
+<td>34 525</td>
+<td>47 461</td>
+<td>35 000</td>
+<td>56 900</td>
+<td>80 065</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2132&lang=0" target="_blank" class="job">Выжигальщик</a></td>
+<td>25 000</td>
+<td>26 375</td>
+<td>35 386</td>
+<td>36 000</td>
+<td>44 217</td>
+<td>50 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2129&lang=0" target="_blank" class="job">Егерь</a></td>
+<td>19 600</td>
+<td>22 553</td>
+<td>29 076</td>
+<td>31 479</td>
+<td>36 375</td>
+<td>38 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2126&lang=0" target="_blank" class="job">Инженер лесного хозяйства </a></td>
+<td>20 696</td>
+<td>25 220</td>
+<td>46 475</td>
+<td>37 923</td>
+<td>64 132</td>
+<td>82 297</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2125&lang=0" target="_blank" class="job">Инженер по лесопользованию</a></td>
+<td>18 974</td>
+<td>31 504</td>
+<td>39 267</td>
+<td>41 289</td>
+<td>51 190</td>
+<td>56 538</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2127&lang=0" target="_blank" class="job">Инженер-таксатор</a></td>
+<td>22 780</td>
+<td>27 931</td>
+<td>40 376</td>
+<td>38 000</td>
+<td>54 473</td>
+<td>59 754</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2142&lang=0" target="_blank" class="job">Копровщик </a></td>
+<td>33 600</td>
+<td>41 808</td>
+<td>53 662</td>
+<td>58 642</td>
+<td>68 722</td>
+<td>70 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2123&lang=0" target="_blank" class="job">Лесничий</a></td>
+<td>25 537</td>
+<td>37 473</td>
+<td>42 755</td>
+<td>45 134</td>
+<td>51 622</td>
+<td>59 117</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2134&lang=0" target="_blank" class="job">Лесоруб </a></td>
+<td>26 817</td>
+<td>29 401</td>
+<td>37 084</td>
+<td>36 000</td>
+<td>45 125</td>
+<td>54 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2128&lang=0" target="_blank" class="job">Мастер леса</a></td>
+<td>18 459</td>
+<td>27 087</td>
+<td>30 905</td>
+<td>32 625</td>
+<td>37 315</td>
+<td>42 732</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2135&lang=0" target="_blank" class="job">Обрубщик сучьев</a></td>
+<td>13 000</td>
+<td>16 121</td>
+<td>22 798</td>
+<td>24 000</td>
+<td>28 579</td>
+<td>36 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2138&lang=0" target="_blank" class="job">Окорщик </a></td>
+<td>22 401</td>
+<td>24 410</td>
+<td>27 301</td>
+<td>29 000</td>
+<td>30 407</td>
+<td>33 900</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2141&lang=0" target="_blank" class="job">Оператор лесозаготовительных машин</a></td>
+<td>33 200</td>
+<td>43 395</td>
+<td>58 822</td>
+<td>65 985</td>
+<td>74 000</td>
+<td>80 800</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>18 160</td>
+<td>18 600</td>
+<td>26 897</td>
+<td>27 581</td>
+<td>31 627</td>
+<td>38 669</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1788&lang=0" target="_blank" class="job">Оператор станков с ЧПУ</a></td>
+<td>21 212</td>
+<td>27 708</td>
+<td>37 170</td>
+<td>37 291</td>
+<td>47 141</td>
+<td>51 014</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2053&lang=0" target="_blank" class="job">Охотовед</a></td>
+<td>23 495</td>
+<td>26 824</td>
+<td>35 156</td>
+<td>36 687</td>
+<td>42 934</td>
+<td>48 100</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2145&lang=0" target="_blank" class="job">Плотник</a></td>
+<td>26 901</td>
+<td>29 682</td>
+<td>35 812</td>
+<td>34 751</td>
+<td>42 995</td>
+<td>49 500</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2124&lang=0" target="_blank" class="job">Помощник лесничего</a></td>
+<td>9 902</td>
+<td>14 529</td>
+<td>16 578</td>
+<td>17 500</td>
+<td>20 016</td>
+<td>22 922</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2139&lang=0" target="_blank" class="job">Раскряжевщик</a></td>
+<td>22 550</td>
+<td>29 118</td>
+<td>47 049</td>
+<td>53 000</td>
+<td>62 600</td>
+<td>68 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2136&lang=0" target="_blank" class="job">Сортировщик </a></td>
+<td>20 325</td>
+<td>20 500</td>
+<td>31 307</td>
+<td>33 595</td>
+<td>40 813</td>
+<td>46 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2143&lang=0" target="_blank" class="job">Сплотчик</a></td>
+<td>28 600</td>
+<td>38 862</td>
+<td>46 735</td>
+<td>49 240</td>
+<td>57 740</td>
+<td>63 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1635&lang=0" target="_blank" class="job">Станочник широкого профиля</a></td>
+<td>19 827</td>
+<td>24 400</td>
+<td>33 486</td>
+<td>30 100</td>
+<td>36 827</td>
+<td>51 350</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1373&lang=0" target="_blank" class="job">Столяр</a></td>
+<td>24 387</td>
+<td>28 050</td>
+<td>30 580</td>
+<td>28 414</td>
+<td>35 761</td>
+<td>39 582</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>24 923</td>
+<td>25 483</td>
+<td>39 362</td>
+<td>39 738</td>
+<td>51 448</td>
+<td>56 182</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2147&lang=0" target="_blank" class="job">Точковщик</a></td>
+<td>9 053</td>
+<td>13 284</td>
+<td>15 157</td>
+<td>16 000</td>
+<td>18 300</td>
+<td>20 957</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2144&lang=0" target="_blank" class="job">Укладчик</a></td>
+<td>20 000</td>
+<td>22 104</td>
+<td>29 495</td>
+<td>27 000</td>
+<td>36 864</td>
+<td>43 400</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2146&lang=0" target="_blank" class="job">Формировщик плотов</a></td>
+<td>19 387</td>
+<td>28 449</td>
+<td>32 459</td>
+<td>34 265</td>
+<td>39 191</td>
+<td>44 880</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2140&lang=0" target="_blank" class="job">Чокеровщик</a></td>
+<td>22 000</td>
+<td>26 011</td>
+<td>34 532</td>
+<td>36 710</td>
+<td>45 292</td>
+<td>48 307</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2137&lang=0" target="_blank" class="job">Штабелевщик</a></td>
+<td>18 094</td>
+<td>21 129</td>
+<td>26 355</td>
+<td>27 491</td>
+<td>32 845</td>
+<td>35 100</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 20.05.2015)</p>
+</div>

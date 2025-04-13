@@ -1,0 +1,608 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Воронеж</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>13 960</td>
+<td>17 450</td>
+<td>22 241</td>
+<td>23 174</td>
+<td>26 175</td>
+<td>33 225</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт-директор</a></td>
+<td>48 860</td>
+<td>53 896</td>
+<td>64 225</td>
+<td>59 330</td>
+<td>78 391</td>
+<td>87 948</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2212&lang=0" target="_blank" class="job">Артист балета</a></td>
+<td>12 583</td>
+<td>13 960</td>
+<td>15 788</td>
+<td>16 054</td>
+<td>17 450</td>
+<td>20 940</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2642&lang=0" target="_blank" class="job">Ассистент графического дизайнера</a></td>
+<td>11 143</td>
+<td>14 336</td>
+<td>15 775</td>
+<td>16 682</td>
+<td>18 218</td>
+<td>20 766</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>29 176</td>
+<td>36 645</td>
+<td>59 629</td>
+<td>69 800</td>
+<td>78 525</td>
+<td>87 848</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2636&lang=0" target="_blank" class="job">Ведущий графический дизайнер</a></td>
+<td>20 875</td>
+<td>26 857</td>
+<td>29 554</td>
+<td>30 887</td>
+<td>33 644</td>
+<td>38 903</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1274&lang=0" target="_blank" class="job">Верстальщик</a></td>
+<td>13 262</td>
+<td>15 179</td>
+<td>19 298</td>
+<td>18 497</td>
+<td>21 889</td>
+<td>28 301</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td>15 010</td>
+<td>18 489</td>
+<td>22 602</td>
+<td>20 940</td>
+<td>26 450</td>
+<td>35 878</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2635&lang=0" target="_blank" class="job">Дизайнер-оформитель</a></td>
+<td>18 278</td>
+<td>23 515</td>
+<td>25 876</td>
+<td>27 082</td>
+<td>29 190</td>
+<td>34 062</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2439&lang=0" target="_blank" class="job">Звукорежиссер</a></td>
+<td>16 947</td>
+<td>21 778</td>
+<td>28 222</td>
+<td>25 314</td>
+<td>35 292</td>
+<td>41 754</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>13 514</td>
+<td>14 280</td>
+<td>16 340</td>
+<td>17 450</td>
+<td>18 148</td>
+<td>19 471</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2190&lang=0" target="_blank" class="job">Корреспондент</a></td>
+<td>13 960</td>
+<td>16 543</td>
+<td>20 219</td>
+<td>18 846</td>
+<td>25 111</td>
+<td>28 755</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1432&lang=0" target="_blank" class="job">Креативный директор</a></td>
+<td>34 290</td>
+<td>38 390</td>
+<td>60 296</td>
+<td>53 873</td>
+<td>82 432</td>
+<td>93 715</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1435&lang=0" target="_blank" class="job">Медиа-байер</a></td>
+<td>14 756</td>
+<td>19 544</td>
+<td>22 090</td>
+<td>23 732</td>
+<td>24 430</td>
+<td>31 933</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1436&lang=0" target="_blank" class="job">Медиа-планер</a></td>
+<td>16 892</td>
+<td>18 646</td>
+<td>22 961</td>
+<td>25 346</td>
+<td>27 920</td>
+<td>30 871</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2379&lang=0" target="_blank" class="job">Музыкант</a></td>
+<td>7 701</td>
+<td>10 739</td>
+<td>13 033</td>
+<td>13 960</td>
+<td>14 386</td>
+<td>18 841</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2378&lang=0" target="_blank" class="job">Певец</a></td>
+<td>7 732</td>
+<td>12 430</td>
+<td>15 927</td>
+<td>14 286</td>
+<td>19 917</td>
+<td>23 301</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1691&lang=0" target="_blank" class="job">Пресс-секретарь</a></td>
+<td>19 374</td>
+<td>20 242</td>
+<td>23 705</td>
+<td>23 034</td>
+<td>25 987</td>
+<td>31 820</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2098&lang=0" target="_blank" class="job">Продюсер</a></td>
+<td>25 312</td>
+<td>28 111</td>
+<td>30 286</td>
+<td>31 410</td>
+<td>33 440</td>
+<td>36 495</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2208&lang=0" target="_blank" class="job">Редактор радиовещания</a></td>
+<td>16 176</td>
+<td>21 047</td>
+<td>24 327</td>
+<td>24 167</td>
+<td>29 380</td>
+<td>34 475</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2657&lang=0" target="_blank" class="job">Ретушер</a></td>
+<td>11 116</td>
+<td>13 408</td>
+<td>16 297</td>
+<td>16 752</td>
+<td>20 647</td>
+<td>21 988</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2333&lang=0" target="_blank" class="job">Солист оперы</a></td>
+<td>45 579</td>
+<td>61 890</td>
+<td>76 214</td>
+<td>69 803</td>
+<td>95 305</td>
+<td>114 915</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2300&lang=0" target="_blank" class="job">Специалист по GR</a></td>
+<td>26 994</td>
+<td>28 693</td>
+<td>33 285</td>
+<td>29 855</td>
+<td>41 623</td>
+<td>48 837</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2240&lang=0" target="_blank" class="job">Телеоператор</a></td>
+<td>15 014</td>
+<td>18 009</td>
+<td>19 721</td>
+<td>20 538</td>
+<td>22 242</td>
+<td>25 365</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2332&lang=0" target="_blank" class="job">Фотограф</a></td>
+<td>13 960</td>
+<td>17 238</td>
+<td>20 558</td>
+<td>20 242</td>
+<td>23 406</td>
+<td>29 332</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2665&lang=0" target="_blank" class="job">Фотограф-стилист</a></td>
+<td>23 413</td>
+<td>24 991</td>
+<td>28 698</td>
+<td>27 738</td>
+<td>34 122</td>
+<td>39 088</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2299&lang=0" target="_blank" class="job">Шеф-редактор</a></td>
+<td>26 075</td>
+<td>28 222</td>
+<td>31 464</td>
+<td>31 806</td>
+<td>35 598</td>
+<td>38 931</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2048&lang=0" target="_blank" class="job">Актер</a></td>
+<td>13 960</td>
+<td>17 450</td>
+<td>31 481</td>
+<td>33 644</td>
+<td>40 398</td>
+<td>52 481</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1434&lang=0" target="_blank" class="job">Арт-директор</a></td>
+<td>59 330</td>
+<td>65 550</td>
+<td>77 917</td>
+<td>73 290</td>
+<td>93 247</td>
+<td>107 000</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2212&lang=0" target="_blank" class="job">Артист балета</a></td>
+<td>12 583</td>
+<td>13 960</td>
+<td>17 369</td>
+<td>16 054</td>
+<td>20 581</td>
+<td>25 289</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2642&lang=0" target="_blank" class="job">Ассистент графического дизайнера</a></td>
+<td>11 359</td>
+<td>15 257</td>
+<td>16 765</td>
+<td>17 781</td>
+<td>19 470</td>
+<td>22 239</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2045&lang=0" target="_blank" class="job">Бренд-менеджер</a></td>
+<td>29 176</td>
+<td>36 645</td>
+<td>64 311</td>
+<td>72 292</td>
+<td>86 419</td>
+<td>99 495</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2636&lang=0" target="_blank" class="job">Ведущий графический дизайнер</a></td>
+<td>24 403</td>
+<td>31 638</td>
+<td>35 364</td>
+<td>37 361</td>
+<td>41 006</td>
+<td>46 778</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1274&lang=0" target="_blank" class="job">Верстальщик</a></td>
+<td>13 262</td>
+<td>16 715</td>
+<td>22 407</td>
+<td>21 447</td>
+<td>26 700</td>
+<td>34 650</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1272&lang=0" target="_blank" class="job">Дизайнер</a></td>
+<td>15 010</td>
+<td>18 489</td>
+<td>30 791</td>
+<td>26 630</td>
+<td>41 659</td>
+<td>58 705</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2635&lang=0" target="_blank" class="job">Дизайнер-оформитель</a></td>
+<td>18 278</td>
+<td>23 515</td>
+<td>25 876</td>
+<td>27 082</td>
+<td>29 190</td>
+<td>34 062</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2439&lang=0" target="_blank" class="job">Звукорежиссер</a></td>
+<td>19 136</td>
+<td>26 664</td>
+<td>38 173</td>
+<td>34 089</td>
+<td>48 804</td>
+<td>61 735</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>13 514</td>
+<td>14 280</td>
+<td>19 813</td>
+<td>21 718</td>
+<td>23 492</td>
+<td>26 813</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2190&lang=0" target="_blank" class="job">Корреспондент</a></td>
+<td>13 960</td>
+<td>18 408</td>
+<td>26 693</td>
+<td>25 217</td>
+<td>34 922</td>
+<td>41 110</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1432&lang=0" target="_blank" class="job">Креативный директор</a></td>
+<td>36 284</td>
+<td>52 341</td>
+<td>78 461</td>
+<td>72 674</td>
+<td>107 106</td>
+<td>125 091</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1435&lang=0" target="_blank" class="job">Медиа-байер</a></td>
+<td>21 818</td>
+<td>27 222</td>
+<td>31 828</td>
+<td>34 347</td>
+<td>36 342</td>
+<td>44 819</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1436&lang=0" target="_blank" class="job">Медиа-планер</a></td>
+<td>16 892</td>
+<td>20 379</td>
+<td>28 520</td>
+<td>32 326</td>
+<td>35 968</td>
+<td>39 979</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2379&lang=0" target="_blank" class="job">Музыкант</a></td>
+<td>8 017</td>
+<td>12 652</td>
+<td>18 638</td>
+<td>19 934</td>
+<td>22 714</td>
+<td>29 474</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2378&lang=0" target="_blank" class="job">Певец</a></td>
+<td>8 113</td>
+<td>14 343</td>
+<td>22 674</td>
+<td>21 445</td>
+<td>29 941</td>
+<td>36 865</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1691&lang=0" target="_blank" class="job">Пресс-секретарь</a></td>
+<td>19 374</td>
+<td>21 726</td>
+<td>27 698</td>
+<td>27 035</td>
+<td>31 960</td>
+<td>39 197</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2098&lang=0" target="_blank" class="job">Продюсер</a></td>
+<td>26 229</td>
+<td>34 088</td>
+<td>41 281</td>
+<td>42 412</td>
+<td>49 049</td>
+<td>54 967</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2208&lang=0" target="_blank" class="job">Редактор радиовещания</a></td>
+<td>16 176</td>
+<td>24 394</td>
+<td>31 442</td>
+<td>31 110</td>
+<td>38 898</td>
+<td>47 559</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2657&lang=0" target="_blank" class="job">Ретушер</a></td>
+<td>11 805</td>
+<td>14 804</td>
+<td>18 428</td>
+<td>18 689</td>
+<td>23 348</td>
+<td>25 477</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2333&lang=0" target="_blank" class="job">Солист оперы</a></td>
+<td>55 305</td>
+<td>89 810</td>
+<td>111 810</td>
+<td>104 476</td>
+<td>144 165</td>
+<td>172 299</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2300&lang=0" target="_blank" class="job">Специалист по GR</a></td>
+<td>30 554</td>
+<td>32 881</td>
+<td>41 942</td>
+<td>36 885</td>
+<td>52 448</td>
+<td>66 975</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2240&lang=0" target="_blank" class="job">Телеоператор</a></td>
+<td>16 986</td>
+<td>21 084</td>
+<td>23 380</td>
+<td>24 588</td>
+<td>26 751</td>
+<td>30 314</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2332&lang=0" target="_blank" class="job">Фотограф</a></td>
+<td>18 736</td>
+<td>25 856</td>
+<td>31 437</td>
+<td>31 066</td>
+<td>37 366</td>
+<td>45 855</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2665&lang=0" target="_blank" class="job">Фотограф-стилист</a></td>
+<td>25 979</td>
+<td>28 033</td>
+<td>32 595</td>
+<td>32 121</td>
+<td>39 007</td>
+<td>43 974</td>
+<td>3 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2299&lang=0" target="_blank" class="job">Шеф-редактор</a></td>
+<td>34 032</td>
+<td>37 348</td>
+<td>42 703</td>
+<td>42 276</td>
+<td>49 652</td>
+<td>54 148</td>
+<td>3 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 10.08.2015)</p>
+</div>

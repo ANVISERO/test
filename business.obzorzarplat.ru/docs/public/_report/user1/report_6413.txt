@@ -1,0 +1,368 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1695&lang=0" target="_blank" class="job">Ведущий специалист</a></td>
+<td>25 287</td>
+<td>26 437</td>
+<td>29 384</td>
+<td>29 080</td>
+<td>30 115</td>
+<td>34 483</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>41 443</td>
+<td>46 250</td>
+<td>49 058</td>
+<td>49 425</td>
+<td>51 217</td>
+<td>55 826</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>24 057</td>
+<td>27 542</td>
+<td>35 144</td>
+<td>34 383</td>
+<td>43 728</td>
+<td>47 356</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>52 045</td>
+<td>58 081</td>
+<td>61 608</td>
+<td>62 069</td>
+<td>64 319</td>
+<td>70 107</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>34 713</td>
+<td>51 962</td>
+<td>66 517</td>
+<td>63 587</td>
+<td>84 935</td>
+<td>98 908</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1550&lang=0" target="_blank" class="job">Заведующий архивом</a></td>
+<td>12 317</td>
+<td>12 833</td>
+<td>17 691</td>
+<td>15 507</td>
+<td>21 619</td>
+<td>24 322</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2091&lang=0" target="_blank" class="job">Заместитель начальника управления банка</a></td>
+<td>99 410</td>
+<td>103 922</td>
+<td>119 830</td>
+<td>117 493</td>
+<td>136 140</td>
+<td>142 587</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2092&lang=0" target="_blank" class="job">Кассир-контролер</a></td>
+<td>21 020</td>
+<td>22 138</td>
+<td>25 256</td>
+<td>25 287</td>
+<td>28 736</td>
+<td>29 161</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1319&lang=0" target="_blank" class="job">Кассир-операционист</a></td>
+<td>12 644</td>
+<td>15 086</td>
+<td>17 835</td>
+<td>17 241</td>
+<td>17 241</td>
+<td>25 862</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2095&lang=0" target="_blank" class="job">Консультант банка</a></td>
+<td>28 345</td>
+<td>30 052</td>
+<td>34 124</td>
+<td>34 483</td>
+<td>36 983</td>
+<td>39 931</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>25 305</td>
+<td>28 925</td>
+<td>29 691</td>
+<td>29 885</td>
+<td>30 427</td>
+<td>33 329</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1768&lang=0" target="_blank" class="job">Начальник управления</a></td>
+<td>39 935</td>
+<td>42 152</td>
+<td>47 167</td>
+<td>49 310</td>
+<td>50 000</td>
+<td>55 462</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>25 510</td>
+<td>27 047</td>
+<td>30 712</td>
+<td>31 034</td>
+<td>33 284</td>
+<td>35 938</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1689&lang=0" target="_blank" class="job">Специалист</a></td>
+<td>13 745</td>
+<td>16 414</td>
+<td>20 108</td>
+<td>20 690</td>
+<td>22 471</td>
+<td>23 868</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1304&lang=0" target="_blank" class="job">Старший кассир</a></td>
+<td>18 106</td>
+<td>19 659</td>
+<td>23 502</td>
+<td>21 609</td>
+<td>27 082</td>
+<td>30 135</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1695&lang=0" target="_blank" class="job">Ведущий специалист</a></td>
+<td>28 989</td>
+<td>31 149</td>
+<td>37 479</td>
+<td>37 701</td>
+<td>41 034</td>
+<td>53 218</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>41 443</td>
+<td>46 250</td>
+<td>49 058</td>
+<td>49 425</td>
+<td>51 217</td>
+<td>55 826</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1938&lang=0" target="_blank" class="job">Главный специалист</a></td>
+<td>26 437</td>
+<td>28 715</td>
+<td>37 114</td>
+<td>36 310</td>
+<td>45 535</td>
+<td>47 356</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2094&lang=0" target="_blank" class="job">Главный юрисконсульт</a></td>
+<td>52 045</td>
+<td>58 081</td>
+<td>61 608</td>
+<td>62 069</td>
+<td>64 319</td>
+<td>70 107</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1234&lang=0" target="_blank" class="job">Директор филиала</a></td>
+<td>52 138</td>
+<td>61 369</td>
+<td>92 259</td>
+<td>85 632</td>
+<td>110 246</td>
+<td>124 013</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1550&lang=0" target="_blank" class="job">Заведующий архивом</a></td>
+<td>20 185</td>
+<td>20 918</td>
+<td>23 863</td>
+<td>22 457</td>
+<td>27 126</td>
+<td>28 821</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2091&lang=0" target="_blank" class="job">Заместитель начальника управления банка</a></td>
+<td>99 410</td>
+<td>103 922</td>
+<td>119 830</td>
+<td>117 493</td>
+<td>136 140</td>
+<td>142 587</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2092&lang=0" target="_blank" class="job">Кассир-контролер</a></td>
+<td>24 667</td>
+<td>25 287</td>
+<td>28 684</td>
+<td>29 310</td>
+<td>31 034</td>
+<td>31 838</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1319&lang=0" target="_blank" class="job">Кассир-операционист</a></td>
+<td>16 632</td>
+<td>19 540</td>
+<td>23 085</td>
+<td>21 264</td>
+<td>24 759</td>
+<td>29 787</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2095&lang=0" target="_blank" class="job">Консультант банка</a></td>
+<td>28 345</td>
+<td>30 052</td>
+<td>34 124</td>
+<td>34 483</td>
+<td>36 983</td>
+<td>39 931</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1273&lang=0" target="_blank" class="job">Копирайтер</a></td>
+<td>25 305</td>
+<td>28 925</td>
+<td>29 691</td>
+<td>29 885</td>
+<td>30 427</td>
+<td>33 329</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1768&lang=0" target="_blank" class="job">Начальник управления</a></td>
+<td>56 093</td>
+<td>61 726</td>
+<td>70 083</td>
+<td>72 362</td>
+<td>76 346</td>
+<td>83 046</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2097&lang=0" target="_blank" class="job">Секретарь-референт</a></td>
+<td>25 510</td>
+<td>27 047</td>
+<td>30 712</td>
+<td>31 034</td>
+<td>33 284</td>
+<td>35 938</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1689&lang=0" target="_blank" class="job">Специалист</a></td>
+<td>19 328</td>
+<td>22 414</td>
+<td>24 945</td>
+<td>23 513</td>
+<td>27 586</td>
+<td>31 034</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1304&lang=0" target="_blank" class="job">Старший кассир</a></td>
+<td>22 124</td>
+<td>22 997</td>
+<td>26 202</td>
+<td>24 023</td>
+<td>30 193</td>
+<td>32 118</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 26.12.2012)</p>
+</div>

@@ -1,0 +1,666 @@
+# Webalizer V2.21-02 Incremental Data - 07/11/2011 23:27:55
+2011 7 11 23 27 55
+1314 736 74 70 37 46 8601244 547 129 0
+8 2 249 1 11
+29 17 96114 6 9 8
+40 19 148616 12 11 10
+75 9 142234 10 15 14
+81 44 684257 16 31 18
+291 262 3120873 6 225 5
+375 192 2183065 12 122 10
+128 52 446693 8 28 17
+55 23 279822 8 22 12
+69 49 550125 6 13 10
+125 57 670519 9 34 13
+46 12 278926 8 37 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+16 7 148123 13
+11 4 52165 5
+26 18 146139 6
+11 1 32819 11
+41 2 50898 7
+9 2 29412 4
+7 0 9380 4
+12 1 34159 11
+13 5 91419 8
+12 2 17213 3
+9 3 48820 4
+16 7 134292 10
+120 35 481348 34
+60 47 582106 15
+56 38 525403 13
+326 157 1679807 81
+233 185 2232552 119
+129 108 1083778 85
+111 82 776448 72
+15 7 134802 9
+9 2 32081 4
+46 18 134250 9
+21 3 100972 17
+5 2 42858 3
+0
+0
+0
+736
+0
+0
+0
+0
+0
+0
+0
+16
+27
+0
+233
+0
+0
+0
+0
+0
+0
+302
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/_img/ico_map.gif
+1 11 0 2016 0 0
+/
+0 10 0 187024 11 0
+/_img/ico_search.gif
+1 11 0 2028 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.all.css
+0 23 0 611 0 0
+/work/summary//
+0 7 0 131915 0 0
+/_js/jquery-ui-1.7.2.custom/js/jquery-ui-1.7.2.custom.min.js
+0 11 0 318414 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.dialog.css
+0 22 0 13968 0 0
+/_css/header.css
+0 23 0 98910 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.tabs.css
+0 22 0 12432 0 0
+/_report/user1035/report_3679.xls
+0 1 0 6656 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/images/ui-bg_glass_65_ffffff_1x400.png
+1 3 0 315 0 0
+/work/1job-lite/findJobs/
+0 33 0 101892 1 0
+/_img/menu_icons/close_red_mini.png
+1 1 0 0 0 0
+/archive/html.php
+0 3 0 9302 0 0
+/errordocs/logo_p.gif
+1 2 0 5046 0 0
+/_js/lib/jquery-1.4.min.js
+0 12 0 433038 0 0
+/_css/ie.css
+0 1 0 1490 0 0
+/_js/lib/jquery.bgiframe.js
+0 11 0 29274 0 0
+/_css/print.css
+0 1 0 968 0 0
+/_img/logo_ru.jpg
+1 14 0 60496 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/ui/ui.core.js
+0 3 0 41796 0 0
+/_js/lib/jquery.form.js
+0 11 0 186306 0 0
+/_report/user1035/report_3676.xls
+0 1 0 6144 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.base.css
+0 22 0 3000 0 0
+/work/1job-lite/findCities/
+0 47 0 15208 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/jquery-1.3.2.js
+0 11 0 723714 0 0
+/_report/user21/report_3684.xls
+0 1 0 5632 0 0
+/_img/loader.gif
+1 8 0 5547 0 0
+/work/summary/findJobsInGroups/
+0 25 0 58685 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.resizable.css
+0 22 0 11916 0 0
+/_report/user21/report_3683.xls
+0 1 0 5632 0 0
+/work/1job-lite/
+0 113 0 2602095 0 3
+/_img/ico_contacts.gif
+1 11 0 2022 0 0
+/errordocs/style/general.css
+0 14 0 25389 0 0
+/_img/menu_icons/archive2.png
+1 5 0 3398 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 2 0 202 0 0
+/work/summary/selectFactor/
+0 5 0 35355 0 0
+/_img/menu_icons/fileprint_mini.png
+1 1 0 0 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.core.css
+0 22 0 16212 0 0
+/_img/contact_32x32.png
+1 11 0 16464 0 0
+/_css/information_db.css
+0 22 0 7104 0 0
+/work/summary/findJobs/
+0 13 0 52934 0 0
+/_css/footer.css
+0 23 0 5096 0 0
+/work/1job-lite/findJobDescription/
+0 47 0 89704 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.datepicker.css
+0 22 0 47232 0 0
+/_report/user1035/report_3682.xls
+0 1 0 6656 0 0
+/_css/business.css
+0 23 0 75208 0 0
+/_img/ico_home.gif
+1 11 0 2028 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 3 0 330 0 0
+/_css/1job_lite_print.css
+0 2 0 1393 0 0
+/_report/user1/report_3685.xls
+0 1 0 5632 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.theme.css
+0 22 0 221936 0 0
+/_img/business/page_white_excel.png
+1 2 0 1151 0 0
+/_report/user1035/report_3681.xls
+0 1 0 7680 0 0
+/_report/user1035/report_3680.xls
+0 1 0 6656 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/ui/ui.tabs.js
+0 3 0 57207 0 0
+/_js/lib/jquery.example.js
+0 11 0 36366 0 0
+/_img/ico_search_s.gif
+1 1 0 342 0 0
+/work/summary/
+0 16 0 342868 0 1
+/_js/jquery/business.js
+0 11 0 1788 0 0
+/login/
+0 74 0 1437516 36 17
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/images/ui-bg_flat_75_ffffff_40x100.png
+1 3 0 534 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.progressbar.css
+0 22 0 2028 0 0
+/_js/jquery/summary.js
+0 16 0 36102 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.accordion.css
+0 22 0 8772 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/images/ui-bg_glass_75_dadada_1x400.png
+1 3 0 333 0 0
+/_css/print_report.css
+0 7 0 19200 0 0
+/_js/jquery/1job-lite.js
+0 3 0 5664 0 0
+/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.slider.css
+0 22 0 11172 0 0
+/_img/report-excel.png
+1 3 0 1851 0 0
+# End Of Table - urls
+# -sites- (monthly)
+83.167.62.164
+0 2 1 20759 1 1310283753
+/login/
+199.19.249.196
+0 14 7 105451 1 1309969145
+/work/1job-lite/findJobDescription/
+95.133.59.248
+0 4 4 77758 2 1310261872
+/login/
+109.188.193.236
+0 34 2 44240 1 1310040721
+/login/
+213.33.160.82
+0 2 1 3282 0 0
+-
+95.108.158.230
+0 5 0 2680 0 0
+-
+83.149.45.98
+0 10 8 79447 1 1309960750
+/login/
+95.58.246.108
+0 2 2 4899 0 0
+-
+66.249.66.6
+0 2 1 4622 0 0
+-
+207.46.199.37
+0 1 0 1340 1 1309582168
+-
+207.46.199.38
+0 6 0 8040 3 1309816893
+-
+207.46.199.49
+0 2 0 2680 1 1309735417
+-
+66.249.71.27
+0 5 2 61347 2 1310426875
+/login/
+92.82.226.161
+0 1 1 19419 1 1310084243
+/login/
+Invalid
+0 289 263 3141330 3 1309955401
+/work/1job-lite/
+46.166.78.205
+0 4 2 41560 1 1309787366
+-
+208.115.111.68
+0 6 0 8040 2 1310122868
+-
+109.72.121.55
+0 6 6 116640 2 1310408165
+/login/
+77.211.230.81
+0 1 1 19419 1 1310395373
+/login/
+207.46.204.188
+0 2 0 2680 1 1309727898
+-
+212.113.37.106
+0 3 1 40588 1 1310048870
+/login/
+207.46.204.189
+0 2 0 2680 1 1309802698
+-
+65.52.108.59
+0 2 0 2680 1 1309808891
+-
+213.142.193.101
+0 1 1 3282 0 0
+-
+85.65.21.195
+0 4 2 41560 1 1309826580
+-
+89.122.29.82
+0 1 1 19419 1 1309922796
+/login/
+195.190.101.66
+0 287 137 1586047 2 1309966815
+/work/summary/
+207.46.194.39
+0 4 2 48150 1 1310238626
+/login/
+84.204.28.218
+0 1 1 3282 0 0
+-
+157.55.17.104
+0 2 1 20759 1 1309811205
+/login/
+157.55.17.105
+0 2 0 2680 1 1310243944
+-
+207.46.12.236
+0 1 0 1340 1 1309537349
+-
+208.115.111.250
+0 46 0 79212 5 1310385663
+-
+207.46.13.40
+0 3 1 40588 1 1310130212
+/login/
+207.46.13.43
+0 2 0 2680 1 1309602881
+-
+207.46.13.48
+0 2 0 2680 1 1309536659
+-
+85.114.24.70
+0 1 1 3282 0 0
+-
+178.139.188.244
+0 1 1 19419 1 1310413062
+/login/
+184.154.48.82
+0 8 4 100508 2 1309808303
+/login/
+207.46.13.52
+0 2 0 2680 1 1309659417
+-
+93.81.238.12
+0 2 2 6564 0 0
+-
+95.132.160.50
+0 2 2 38885 1 1309998857
+/login/
+207.46.13.97
+0 2 0 2680 1 1309719119
+-
+207.46.13.99
+0 1 0 1340 1 1309788994
+-
+109.188.193.110
+0 36 18 161615 1 1310127234
+/work/1job-lite/
+95.66.177.49
+0 33 29 384174 1 1310224664
+/login/
+173.236.21.106
+0 2 1 20759 1 1310208717
+/login/
+193.164.131.77
+0 1 1 19419 1 1309683140
+/login/
+207.46.204.231
+0 2 0 2680 1 1309624423
+-
+88.131.106.22
+0 2 1 20759 1 1310102421
+/login/
+195.78.71.33
+0 113 66 789819 2 1310042118
+/work/1job-lite/
+83.234.10.95
+0 3 3 12461 0 0
+-
+85.192.189.90
+0 34 31 368821 1 1310306118
+-
+157.55.116.39
+0 2 1 20759 1 1310121669
+/login/
+65.52.110.17
+0 2 0 2680 1 1309788151
+-
+89.123.44.185
+0 1 1 19419 1 1309995702
+/login/
+65.52.110.23
+0 5 2 60430 2 1310423805
+/login/
+65.52.110.32
+0 2 0 2680 1 1309638940
+-
+65.52.110.35
+0 4 0 5360 2 1309817879
+-
+207.46.13.100
+0 2 0 2680 1 1309796893
+-
+65.52.110.45
+0 2 0 2680 1 1309653224
+-
+27.130.171.157
+0 2 2 38880 1 1309786991
+/login/
+77.88.29.248
+0 30 1 94340 25 1310217967
+-
+65.52.110.50
+0 2 0 2680 1 1309671725
+-
+95.133.38.246
+0 2 2 38885 1 1309856253
+/login/
+207.46.195.224
+0 2 0 2680 1 1309708851
+-
+207.46.13.134
+0 2 0 2680 1 1309581815
+-
+207.46.195.227
+0 2 1 20759 1 1309641478
+/login/
+207.46.13.138
+0 2 0 2680 1 1309794028
+-
+65.52.110.80
+0 4 0 5360 2 1310309193
+-
+65.52.110.81
+0 2 0 21169 1 1309595789
+-
+65.52.110.83
+0 2 0 2680 1 1309587993
+-
+207.46.195.239
+0 2 0 2680 1 1309759559
+-
+67.195.114.40
+0 234 118 629958 23 1310424044
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.71.27
+0 2 1 20759 1 1310426875
+/login/
+208.115.111.68
+0 1 0 1340 0 0
+-
+109.72.121.55
+0 6 6 116640 2 1310408165
+/login/
+77.211.230.81
+0 1 1 19419 1 1310395373
+/login/
+208.115.111.250
+0 25 0 51072 3 1310385663
+-
+178.139.188.244
+0 1 1 19419 1 1310413062
+/login/
+65.52.110.23
+0 3 1 39671 1 1310423805
+/login/
+67.195.114.40
+0 7 2 10606 3 1310424044
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 333
+http://business.obzorzarplat.ru/work/summary/?step=2
+0 12
+http://business.obzorzarplat.ru/work/1job-lite/?step=1
+0 170
+http://business.obzorzarplat.ru/work/1job-lite/?step=2
+0 88
+http://obzorzarplat.ru/preds/summary/
+0 1
+http://business.obzorzarplat.ru/isl/struktura/
+0 1
+http://business.obzorzarplat.ru/
+0 26
+http://business.obzorzarplat.ru/hrclub/estimated_meeting/
+0 1
+http://obzorzarplat.ru/preds/summary-analytics/
+0 1
+http://business.obzorzarplat.ru/hrclub/conference/
+0 2
+http://business.obzorzarplat.ru/map/
+0 1
+http://business.obzorzarplat.ru/servis/lgot/
+0 1
+http://business.obzorzarplat.ru/archive/html.php?d=iy6XL28o1W2sOQgybHn2
+0 6
+http://www.obzorzarplat.ru/preds/summary-analytics/
+0 3
+http://www.obzorzarplat.ru/preds/summary-analytics/print/
+0 3
+http://www.obzorzarplat.ru/preds/summary/
+0 4
+http://obzorzarplat.ru/services/zp/
+0 1
+http://business.obzorzarplat.ru/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.base.css
+0 96
+http://obzorzarplat.ru/preds/1job-lite/print/
+0 3
+http://business.obzorzarplat.ru/preds/tarif_unlimited/
+0 1
+http://business.obzorzarplat.ru/servis/gosgarant/
+0 1
+http://www.obzorzarplat.ru/services/otchet/
+0 2
+http://business.obzorzarplat.ru/servis/speed/
+0 1
+http://obzorzarplat.ru/
+0 3
+http://business.obzorzarplat.ru/work/1job-lite/
+0 31
+http://business.obzorzarplat.ru/business/register/
+0 2
+http://business.obzorzarplat.ru/work/summary/
+0 189
+http://business.obzorzarplat.ru/servis/nalog/
+0 1
+http://business.obzorzarplat.ru/servis/million/
+0 1
+http://business.obzorzarplat.ru/_js/jquery-ui-1.7.2.custom/development-bundle/themes/custom-theme-1/ui.all.css
+0 24
+http://business.obzorzarplat.ru/comments/
+0 2
+http://business.obzorzarplat.ru/servis/job_description/
+0 1
+http://business.obzorzarplat.ru/conference/
+0 2
+http://obzorzarplat.ru/preds/summary-analytics/print/
+0 1
+http://business.obzorzarplat.ru/isl/glossary/
+0 1
+http://obzorzarplat.ru/preds/summary/print/
+0 2
+http://business.obzorzarplat.ru/login/
+0 296
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible;)
+0 37
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 3, 0, 301; MRA 5.7 (build 03797); InfoPath.3)
+0 289
+Mozilla/5.0 (compatible; SiteBot/0.1; +http://www.sitebot.org/robot/)
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 30
+Java/1.6.0_04
+0 2
+Java/1.6.0_16
+0 1
+Java/1.6.0_22
+0 1
+Java/1.6.0_24
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRA 5.8 (build 4157); MRSPUTNIK 2, 4, 0, 317; SLCC2; .NET CLR
+0 34
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 5
+Mozilla/5.0 (compatible; Exabot/3.0 (BiggerBetter); +http://www.exabot.com/go/robot)
+0 2
+Mozilla/4.0 (compatible- MSIE 6.0- Windows NT 5.1- SV1- .NET CLR 1.1.4322
+0 2
+Mozilla/4.0 (compatible; MSIE 4.01; Digital AlphaServer 1000A 4/233; Windows NT; Powered By 64-Bit Alpha Processor)
+0 4
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 4
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)._
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 3, 0, 301; GTB7.1; MRA 5.7 (build 03796); .NET C
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 14
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18 sputnik 2.5.0.90
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+0 2
+Java/1.4.1_04
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.0; http://www.majestic12.co.uk/bot.php?+)
+0 10
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 287
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; CEBANK; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .N
+0 2
+Opera/7.60 (Windows NT 5.2; U)  [en] (IBM EVV/3.0/EAK01AG9/LE)
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SOK; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; SOK; SOK)
+0 44
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 6
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 71
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.205 Safari/534.16
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Deepnet Explorer 1.5.0; .NET CLR 1.0.3705)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2) Gecko/20100115 Firefox/3.6
+0 33
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 32
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+0 70
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 234
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; APC; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50215; InfoPath.1)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

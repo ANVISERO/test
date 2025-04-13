@@ -1,0 +1,368 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Великий Новгород</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1388&lang=0" target="_blank" class="job">Администратор</a></td>
+<td>7 861</td>
+<td>8 331</td>
+<td>9 643</td>
+<td>8 998</td>
+<td>10 755</td>
+<td>12 119</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></td>
+<td>13 637</td>
+<td>14 769</td>
+<td>19 698</td>
+<td>17 295</td>
+<td>22 698</td>
+<td>27 421</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></td>
+<td>12 691</td>
+<td>13 733</td>
+<td>18 470</td>
+<td>16 217</td>
+<td>21 283</td>
+<td>25 761</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></td>
+<td>10 771</td>
+<td>11 420</td>
+<td>12 967</td>
+<td>13 103</td>
+<td>14 053</td>
+<td>15 174</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1335&lang=0" target="_blank" class="job">Бригадир на производстве</a></td>
+<td>13 764</td>
+<td>15 730</td>
+<td>17 402</td>
+<td>17 586</td>
+<td>19 100</td>
+<td>21 196</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>8 713</td>
+<td>9 587</td>
+<td>11 027</td>
+<td>10 971</td>
+<td>11 841</td>
+<td>12 692</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></td>
+<td>9 517</td>
+<td>11 075</td>
+<td>12 917</td>
+<td>12 621</td>
+<td>13 734</td>
+<td>16 278</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></td>
+<td>11 500</td>
+<td>12 035</td>
+<td>16 567</td>
+<td>16 188</td>
+<td>20 378</td>
+<td>22 481</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></td>
+<td>72 366</td>
+<td>75 381</td>
+<td>92 299</td>
+<td>90 499</td>
+<td>109 807</td>
+<td>114 033</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></td>
+<td>44 484</td>
+<td>59 406</td>
+<td>71 020</td>
+<td>73 184</td>
+<td>81 837</td>
+<td>98 138</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></td>
+<td>11 654</td>
+<td>12 880</td>
+<td>15 301</td>
+<td>16 505</td>
+<td>17 011</td>
+<td>19 028</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></td>
+<td>12 957</td>
+<td>14 394</td>
+<td>15 337</td>
+<td>15 517</td>
+<td>16 045</td>
+<td>17 453</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></td>
+<td>3 007</td>
+<td>8 745</td>
+<td>11 029</td>
+<td>11 809</td>
+<td>13 914</td>
+<td>14 753</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1372&lang=0" target="_blank" class="job">Наладчик</a></td>
+<td>8 116</td>
+<td>10 467</td>
+<td>11 813</td>
+<td>11 685</td>
+<td>12 989</td>
+<td>15 360</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>15 166</td>
+<td>16 538</td>
+<td>18 867</td>
+<td>16 953</td>
+<td>20 353</td>
+<td>24 208</td>
+<td>4 квартал 2010</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1388&lang=0" target="_blank" class="job">Администратор</a></th>
+<td>10 982</td>
+<td>11 330</td>
+<td>12 933</td>
+<td>13 210</td>
+<td>14 062</td>
+<td>14 799</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1311&lang=0" target="_blank" class="job">Администратор отдела продаж</a></th>
+<td>19 363</td>
+<td>20 162</td>
+<td>25 935</td>
+<td>22 772</td>
+<td>29 885</td>
+<td>34 981</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1419&lang=0" target="_blank" class="job">Аналитик рынка</a></th>
+<td>17 606</td>
+<td>18 883</td>
+<td>24 673</td>
+<td>21 664</td>
+<td>28 431</td>
+<td>33 976</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1488&lang=0" target="_blank" class="job">Бригадир грузчиков</a></th>
+<td>15 788</td>
+<td>16 739</td>
+<td>19 007</td>
+<td>19 207</td>
+<td>20 599</td>
+<td>22 242</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1335&lang=0" target="_blank" class="job">Бригадир на производстве</a></th>
+<td>20 606</td>
+<td>24 054</td>
+<td>26 052</td>
+<td>27 051</td>
+<td>28 817</td>
+<td>31 732</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></th>
+<td>11 417</td>
+<td>12 731</td>
+<td>14 693</td>
+<td>14 507</td>
+<td>16 169</td>
+<td>17 675</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1262&lang=0" target="_blank" class="job">Водитель автопогрузчика</a></th>
+<td>13 611</td>
+<td>15 697</td>
+<td>20 145</td>
+<td>17 570</td>
+<td>21 526</td>
+<td>29 723</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1392&lang=0" target="_blank" class="job">Водитель грузового автомобиля</a></th>
+<td>17 421</td>
+<td>18 945</td>
+<td>23 336</td>
+<td>22 162</td>
+<td>27 666</td>
+<td>30 703</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1226&lang=0" target="_blank" class="job">Генеральный директор</a></th>
+<td>115 026</td>
+<td>118 119</td>
+<td>144 629</td>
+<td>141 808</td>
+<td>171 750</td>
+<td>177 052</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1227&lang=0" target="_blank" class="job">Исполнительный директор</a></th>
+<td>53 138</td>
+<td>69 001</td>
+<td>82 491</td>
+<td>89 134</td>
+<td>100 436</td>
+<td>106 563</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1309&lang=0" target="_blank" class="job">Менеджер по ключевым клиентам</a></th>
+<td>26 334</td>
+<td>28 930</td>
+<td>36 455</td>
+<td>39 325</td>
+<td>44 550</td>
+<td>46 377</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1308&lang=0" target="_blank" class="job">Менеджер по региональным продажам</a></th>
+<td>28 641</td>
+<td>30 700</td>
+<td>36 703</td>
+<td>35 087</td>
+<td>42 293</td>
+<td>46 159</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1340&lang=0" target="_blank" class="job">Механик</a></th>
+<td>5 799</td>
+<td>11 711</td>
+<td>14 579</td>
+<td>14 899</td>
+<td>17 169</td>
+<td>22 440</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1372&lang=0" target="_blank" class="job">Наладчик</a></th>
+<td>10 267</td>
+<td>14 072</td>
+<td>16 888</td>
+<td>16 255</td>
+<td>19 395</td>
+<td>25 781</td>
+<td>4 квартал 2010</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></th>
+<td>18 517</td>
+<td>19 153</td>
+<td>23 198</td>
+<td>19 863</td>
+<td>25 024</td>
+<td>30 545</td>
+<td>4 квартал 2010</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 17.01.2011)</p>
+</div>

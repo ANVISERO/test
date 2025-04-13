@@ -1,0 +1,328 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Оборот компании (млн. руб. в год): < 200</p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>15 118</td>
+<td>16 960</td>
+<td>20 198</td>
+<td>19 259</td>
+<td>21 539</td>
+<td>24 220</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>66 802</td>
+<td>72 705</td>
+<td>79 762</td>
+<td>80 460</td>
+<td>84 835</td>
+<td>92 026</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>28 825</td>
+<td>42 287</td>
+<td>58 158</td>
+<td>50 580</td>
+<td>63 176</td>
+<td>91 724</td>
+<td>2 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>28 103</td>
+<td>30 935</td>
+<td>35 758</td>
+<td>31 920</td>
+<td>35 976</td>
+<td>49 535</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>33 607</td>
+<td>39 190</td>
+<td>62 442</td>
+<td>47 483</td>
+<td>57 743</td>
+<td>95 528</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1296&lang=0" target="_blank" class="job">Старший бухгалтер</a></td>
+<td>19 616</td>
+<td>23 408</td>
+<td>34 333</td>
+<td>26 111</td>
+<td>38 169</td>
+<td>68 966</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>32 853</td>
+<td>122 232</td>
+<td>153 496</td>
+<td>150 287</td>
+<td>187 615</td>
+<td>277 474</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>26 928</td>
+<td>28 549</td>
+<td>32 418</td>
+<td>32 759</td>
+<td>35 134</td>
+<td>37 934</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>16 184</td>
+<td>17 223</td>
+<td>20 573</td>
+<td>19 908</td>
+<td>21 483</td>
+<td>23 408</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>32 853</td>
+<td>122 232</td>
+<td>153 496</td>
+<td>150 287</td>
+<td>187 615</td>
+<td>277 474</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>17 303</td>
+<td>18 156</td>
+<td>20 676</td>
+<td>20 272</td>
+<td>23 265</td>
+<td>24 452</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>15 690</td>
+<td>16 772</td>
+<td>20 106</td>
+<td>21 083</td>
+<td>23 460</td>
+<td>23 770</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>17 618</td>
+<td>20 141</td>
+<td>26 238</td>
+<td>23 108</td>
+<td>27 107</td>
+<td>34 588</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>24 634</td>
+<td>27 124</td>
+<td>31 858</td>
+<td>31 754</td>
+<td>34 653</td>
+<td>38 966</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1823&lang=0" target="_blank" class="job">Ведущий бухгалтер</a></td>
+<td>80 496</td>
+<td>87 610</td>
+<td>96 114</td>
+<td>96 954</td>
+<td>102 226</td>
+<td>110 891</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>57 471</td>
+<td>64 080</td>
+<td>85 695</td>
+<td>78 457</td>
+<td>93 966</td>
+<td>125 039</td>
+<td>2 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>46 651</td>
+<td>50 918</td>
+<td>57 886</td>
+<td>55 809</td>
+<td>62 577</td>
+<td>73 168</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1293&lang=0" target="_blank" class="job">Начальник планово-экономического отдела</a></td>
+<td>56 076</td>
+<td>67 146</td>
+<td>90 190</td>
+<td>71 098</td>
+<td>92 232</td>
+<td>124 222</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1296&lang=0" target="_blank" class="job">Старший бухгалтер</a></td>
+<td>31 482</td>
+<td>34 930</td>
+<td>47 797</td>
+<td>41 266</td>
+<td>53 137</td>
+<td>83 103</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>74 312</td>
+<td>149 891</td>
+<td>200 704</td>
+<td>184 872</td>
+<td>255 527</td>
+<td>307 826</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>32 313</td>
+<td>34 259</td>
+<td>38 902</td>
+<td>39 310</td>
+<td>42 160</td>
+<td>45 521</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1301&lang=0" target="_blank" class="job">Экономист</a></td>
+<td>25 663</td>
+<td>28 871</td>
+<td>33 086</td>
+<td>32 241</td>
+<td>35 200</td>
+<td>40 251</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1228&lang=0" target="_blank" class="job">Финансовый директор</a></td>
+<td>74 312</td>
+<td>149 891</td>
+<td>200 704</td>
+<td>184 872</td>
+<td>255 527</td>
+<td>307 826</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1292&lang=0" target="_blank" class="job">Инспектор по кадрам</a></td>
+<td>21 997</td>
+<td>23 927</td>
+<td>26 265</td>
+<td>26 494</td>
+<td>27 949</td>
+<td>30 303</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1670&lang=0" target="_blank" class="job">Специалист по кадрам</a></td>
+<td>26 672</td>
+<td>28 877</td>
+<td>34 617</td>
+<td>36 064</td>
+<td>39 897</td>
+<td>41 598</td>
+<td>1 квартал 2011</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1238&lang=0" target="_blank" class="job">Юрист</a></td>
+<td>28 906</td>
+<td>31 281</td>
+<td>38 776</td>
+<td>35 248</td>
+<td>41 516</td>
+<td>49 548</td>
+<td>1 квартал 2011</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 27.05.2011)</p>
+</div>

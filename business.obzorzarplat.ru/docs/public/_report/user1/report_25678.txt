@@ -1,0 +1,668 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></td>
+<td>21 929</td>
+<td>32 744</td>
+<td>36 505</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>45 519</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1388&lang=0" target="_blank" class="job">Администратор (салона, магазина, химчистки и т.д.)</a></td>
+<td>22 060</td>
+<td>25 000</td>
+<td>29 034</td>
+<td>27 000</td>
+<td>32 500</td>
+<td>40 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></td>
+<td>20 760</td>
+<td>23 000</td>
+<td>26 458</td>
+<td>28 000</td>
+<td>30 000</td>
+<td>32 400</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1908&lang=0" target="_blank" class="job">Арматурщик</a></td>
+<td>30 000</td>
+<td>30 721</td>
+<td>38 362</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>47 600</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2305&lang=0" target="_blank" class="job">Винильщик / Тонировщик</a></td>
+<td>12 116</td>
+<td>22 734</td>
+<td>25 345</td>
+<td>27 500</td>
+<td>31 000</td>
+<td>32 019</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2444&lang=0" target="_blank" class="job">Диагност</a></td>
+<td>30 709</td>
+<td>37 052</td>
+<td>41 309</td>
+<td>45 300</td>
+<td>46 550</td>
+<td>51 325</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></td>
+<td>28 752</td>
+<td>30 000</td>
+<td>35 872</td>
+<td>39 000</td>
+<td>40 250</td>
+<td>43 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2112&lang=0" target="_blank" class="job">Заведующий автохозяйством</a></td>
+<td>26 000</td>
+<td>30 996</td>
+<td>38 171</td>
+<td>40 000</td>
+<td>47 732</td>
+<td>50 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></td>
+<td>30 158</td>
+<td>33 628</td>
+<td>40 665</td>
+<td>40 115</td>
+<td>47 233</td>
+<td>52 280</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>32 562</td>
+<td>36 625</td>
+<td>43 414</td>
+<td>45 000</td>
+<td>51 250</td>
+<td>58 571</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>28 000</td>
+<td>30 000</td>
+<td>38 431</td>
+<td>40 000</td>
+<td>47 928</td>
+<td>50 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2350&lang=0" target="_blank" class="job">Механик по выпуску транспортных средств</a></td>
+<td>30 763</td>
+<td>35 000</td>
+<td>41 641</td>
+<td>40 000</td>
+<td>52 071</td>
+<td>59 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2353&lang=0" target="_blank" class="job">Механик по ремонту транспортных средств</a></td>
+<td>25 000</td>
+<td>28 179</td>
+<td>34 701</td>
+<td>35 000</td>
+<td>43 393</td>
+<td>49 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1936&lang=0" target="_blank" class="job">Мойщик</a></td>
+<td>18 400</td>
+<td>25 000</td>
+<td>28 588</td>
+<td>28 000</td>
+<td>33 134</td>
+<td>36 804</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2351&lang=0" target="_blank" class="job">Начальник базы ремонта и технического обслуживания</a></td>
+<td>41 393</td>
+<td>45 525</td>
+<td>49 527</td>
+<td>51 300</td>
+<td>54 327</td>
+<td>60 063</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2344&lang=0" target="_blank" class="job">Начальник гаража</a></td>
+<td>24 683</td>
+<td>29 907</td>
+<td>32 423</td>
+<td>34 025</td>
+<td>35 829</td>
+<td>41 701</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1742&lang=0" target="_blank" class="job">Начальник гарантийного отдела</a></td>
+<td>41 769</td>
+<td>45 000</td>
+<td>53 744</td>
+<td>53 400</td>
+<td>65 000</td>
+<td>76 241</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></td>
+<td>18 000</td>
+<td>19 778</td>
+<td>21 784</td>
+<td>22 249</td>
+<td>23 554</td>
+<td>25 015</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>18 160</td>
+<td>18 600</td>
+<td>22 486</td>
+<td>23 292</td>
+<td>25 256</td>
+<td>29 600</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></td>
+<td>26 100</td>
+<td>26 100</td>
+<td>38 984</td>
+<td>35 000</td>
+<td>48 076</td>
+<td>56 472</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2193&lang=0" target="_blank" class="job">Оценщик автомобилей</a></td>
+<td>23 200</td>
+<td>28 601</td>
+<td>33 630</td>
+<td>35 000</td>
+<td>40 945</td>
+<td>44 360</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2159&lang=0" target="_blank" class="job">Парковщик</a></td>
+<td>17 121</td>
+<td>18 912</td>
+<td>21 319</td>
+<td>21 000</td>
+<td>25 000</td>
+<td>26 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2352&lang=0" target="_blank" class="job">Помощник начальника базы ремонта и технического обслуживания</a></td>
+<td>30 810</td>
+<td>32 762</td>
+<td>37 814</td>
+<td>40 250</td>
+<td>42 138</td>
+<td>46 711</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>26 572</td>
+<td>33 478</td>
+<td>35 765</td>
+<td>38 000</td>
+<td>40 000</td>
+<td>43 530</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></td>
+<td>21 243</td>
+<td>21 673</td>
+<td>30 477</td>
+<td>33 412</td>
+<td>40 000</td>
+<td>40 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>23 000</td>
+<td>25 000</td>
+<td>30 867</td>
+<td>30 000</td>
+<td>36 000</td>
+<td>40 500</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2392&lang=0" target="_blank" class="job">Управляющий автосервисом</a></td>
+<td>28 767</td>
+<td>35 059</td>
+<td>43 173</td>
+<td>46 875</td>
+<td>53 987</td>
+<td>60 153</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></td>
+<td>33 837</td>
+<td>38 565</td>
+<td>46 346</td>
+<td>45 390</td>
+<td>52 927</td>
+<td>61 155</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2243&lang=0" target="_blank" class="job">Шиномонтажник</a></td>
+<td>25 000</td>
+<td>29 463</td>
+<td>31 368</td>
+<td>32 000</td>
+<td>35 000</td>
+<td>38 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1901&lang=0" target="_blank" class="job">Электромеханик</a></td>
+<td>24 530</td>
+<td>26 125</td>
+<td>30 933</td>
+<td>30 000</td>
+<td>35 822</td>
+<td>40 500</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1348&lang=0" target="_blank" class="job">Автоэлектрик</a></td>
+<td>22 529</td>
+<td>36 578</td>
+<td>50 080</td>
+<td>54 467</td>
+<td>65 169</td>
+<td>70 340</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1388&lang=0" target="_blank" class="job">Администратор (салона, магазина, химчистки и т.д.)</a></td>
+<td>22 060</td>
+<td>25 000</td>
+<td>38 702</td>
+<td>39 000</td>
+<td>48 500</td>
+<td>60 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1540&lang=0" target="_blank" class="job">Аккумуляторщик</a></td>
+<td>20 760</td>
+<td>23 000</td>
+<td>30 585</td>
+<td>30 000</td>
+<td>38 000</td>
+<td>42 150</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1908&lang=0" target="_blank" class="job">Арматурщик</a></td>
+<td>30 000</td>
+<td>30 721</td>
+<td>44 019</td>
+<td>45 000</td>
+<td>56 127</td>
+<td>62 200</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2305&lang=0" target="_blank" class="job">Винильщик / Тонировщик</a></td>
+<td>16 116</td>
+<td>31 131</td>
+<td>35 686</td>
+<td>38 500</td>
+<td>44 000</td>
+<td>47 182</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2444&lang=0" target="_blank" class="job">Диагност</a></td>
+<td>31 125</td>
+<td>42 052</td>
+<td>48 669</td>
+<td>53 144</td>
+<td>56 550</td>
+<td>63 967</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1549&lang=0" target="_blank" class="job">Жестянщик</a></td>
+<td>28 752</td>
+<td>30 000</td>
+<td>44 086</td>
+<td>42 000</td>
+<td>52 737</td>
+<td>63 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2112&lang=0" target="_blank" class="job">Заведующий автохозяйством</a></td>
+<td>26 000</td>
+<td>30 996</td>
+<td>44 041</td>
+<td>47 890</td>
+<td>57 732</td>
+<td>61 865</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1925&lang=0" target="_blank" class="job">Заместитель управляющего АЗС</a></td>
+<td>30 158</td>
+<td>33 628</td>
+<td>40 665</td>
+<td>40 115</td>
+<td>47 233</td>
+<td>52 280</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>32 562</td>
+<td>36 625</td>
+<td>48 422</td>
+<td>50 100</td>
+<td>60 281</td>
+<td>69 390</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>28 000</td>
+<td>30 000</td>
+<td>47 714</td>
+<td>47 000</td>
+<td>62 928</td>
+<td>76 472</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2350&lang=0" target="_blank" class="job">Механик по выпуску транспортных средств</a></td>
+<td>30 763</td>
+<td>35 000</td>
+<td>56 316</td>
+<td>59 725</td>
+<td>78 884</td>
+<td>89 300</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2353&lang=0" target="_blank" class="job">Механик по ремонту транспортных средств</a></td>
+<td>25 000</td>
+<td>35 686</td>
+<td>58 778</td>
+<td>60 643</td>
+<td>82 880</td>
+<td>94 752</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1936&lang=0" target="_blank" class="job">Мойщик</a></td>
+<td>18 400</td>
+<td>25 000</td>
+<td>34 924</td>
+<td>30 888</td>
+<td>44 581</td>
+<td>52 584</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2351&lang=0" target="_blank" class="job">Начальник базы ремонта и технического обслуживания</a></td>
+<td>44 092</td>
+<td>49 768</td>
+<td>54 445</td>
+<td>56 300</td>
+<td>60 327</td>
+<td>66 931</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2344&lang=0" target="_blank" class="job">Начальник гаража</a></td>
+<td>24 683</td>
+<td>30 003</td>
+<td>33 528</td>
+<td>35 409</td>
+<td>37 587</td>
+<td>43 766</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1742&lang=0" target="_blank" class="job">Начальник гарантийного отдела</a></td>
+<td>43 157</td>
+<td>52 628</td>
+<td>61 890</td>
+<td>62 600</td>
+<td>75 509</td>
+<td>88 252</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1926&lang=0" target="_blank" class="job">Оператор АЗС</a></td>
+<td>18 000</td>
+<td>19 778</td>
+<td>23 534</td>
+<td>22 249</td>
+<td>27 647</td>
+<td>31 359</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1918&lang=0" target="_blank" class="job">Оператор линии</a></td>
+<td>18 160</td>
+<td>18 600</td>
+<td>26 897</td>
+<td>27 581</td>
+<td>31 627</td>
+<td>38 669</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1919&lang=0" target="_blank" class="job">Оператор малярно-кузовных работ</a></td>
+<td>26 100</td>
+<td>26 100</td>
+<td>42 782</td>
+<td>35 000</td>
+<td>56 755</td>
+<td>69 210</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2193&lang=0" target="_blank" class="job">Оценщик автомобилей</a></td>
+<td>23 200</td>
+<td>31 564</td>
+<td>49 298</td>
+<td>50 263</td>
+<td>68 714</td>
+<td>75 670</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2159&lang=0" target="_blank" class="job">Парковщик</a></td>
+<td>17 121</td>
+<td>18 912</td>
+<td>23 962</td>
+<td>23 000</td>
+<td>30 000</td>
+<td>31 800</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2352&lang=0" target="_blank" class="job">Помощник начальника базы ремонта и технического обслуживания</a></td>
+<td>31 356</td>
+<td>36 825</td>
+<td>42 419</td>
+<td>45 179</td>
+<td>48 479</td>
+<td>54 020</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1346&lang=0" target="_blank" class="job">Слесарь по ремонту автомобилей </a></td>
+<td>26 572</td>
+<td>33 478</td>
+<td>47 848</td>
+<td>45 156</td>
+<td>62 416</td>
+<td>71 197</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1641&lang=0" target="_blank" class="job">Слесарь по ремонту дорожно-строительных машин и тракторов</a></td>
+<td>21 243</td>
+<td>21 673</td>
+<td>41 533</td>
+<td>45 213</td>
+<td>60 025</td>
+<td>64 841</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1474&lang=0" target="_blank" class="job">Технический специалист</a></td>
+<td>23 000</td>
+<td>25 000</td>
+<td>38 248</td>
+<td>35 922</td>
+<td>48 471</td>
+<td>59 721</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2392&lang=0" target="_blank" class="job">Управляющий автосервисом</a></td>
+<td>31 440</td>
+<td>39 407</td>
+<td>52 796</td>
+<td>56 248</td>
+<td>67 055</td>
+<td>75 387</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1924&lang=0" target="_blank" class="job">Управляющий АЗС</a></td>
+<td>33 837</td>
+<td>38 565</td>
+<td>46 346</td>
+<td>45 390</td>
+<td>52 927</td>
+<td>61 155</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2243&lang=0" target="_blank" class="job">Шиномонтажник</a></td>
+<td>25 000</td>
+<td>29 463</td>
+<td>41 822</td>
+<td>44 051</td>
+<td>52 302</td>
+<td>57 000</td>
+<td>1 квартал 2015</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1901&lang=0" target="_blank" class="job">Электромеханик</a></td>
+<td>24 530</td>
+<td>26 125</td>
+<td>38 141</td>
+<td>37 200</td>
+<td>48 169</td>
+<td>56 605</td>
+<td>1 квартал 2015</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 05.08.2015)</p>
+</div>

@@ -1,0 +1,348 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2096&lang=0" target="_blank" class="job">Директор дополнительного офиса</a></td>
+<td>41 526</td>
+<td>53 425</td>
+<td>58 789</td>
+<td>57 471</td>
+<td>68 966</td>
+<td>77 389</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>64 540</td>
+<td>95 296</td>
+<td>134 226</td>
+<td>142 893</td>
+<td>165 279</td>
+<td>191 844</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>117 685</td>
+<td>126 005</td>
+<td>155 169</td>
+<td>170 237</td>
+<td>189 080</td>
+<td>193 182</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>65 345</td>
+<td>85 171</td>
+<td>124 076</td>
+<td>114 943</td>
+<td>167 541</td>
+<td>183 908</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>74 713</td>
+<td>90 517</td>
+<td>168 325</td>
+<td>143 051</td>
+<td>260 335</td>
+<td>297 701</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>59 237</td>
+<td>123 945</td>
+<td>149 054</td>
+<td>168 301</td>
+<td>183 324</td>
+<td>206 897</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>44 672</td>
+<td>83 448</td>
+<td>170 684</td>
+<td>147 716</td>
+<td>203 808</td>
+<td>278 218</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>48 434</td>
+<td>77 586</td>
+<td>148 927</td>
+<td>114 943</td>
+<td>172 414</td>
+<td>223 497</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>28 736</td>
+<td>41 330</td>
+<td>49 703</td>
+<td>50 536</td>
+<td>62 920</td>
+<td>68 966</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2387&lang=0" target="_blank" class="job">Заместитель главного механика</a></td>
+<td>28 066</td>
+<td>31 491</td>
+<td>41 601</td>
+<td>37 314</td>
+<td>45 920</td>
+<td>60 139</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1680&lang=0" target="_blank" class="job">Заместитель директора</a></td>
+<td>39 133</td>
+<td>57 471</td>
+<td>79 447</td>
+<td>75 439</td>
+<td>109 195</td>
+<td>125 690</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>56 109</td>
+<td>65 007</td>
+<td>75 672</td>
+<td>83 057</td>
+<td>89 180</td>
+<td>95 133</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1947&lang=0" target="_blank" class="job">Заместитель коммерческого директора</a></td>
+<td>43 779</td>
+<td>70 022</td>
+<td>89 275</td>
+<td>95 657</td>
+<td>112 663</td>
+<td>131 858</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1849&lang=0" target="_blank" class="job">Заместитель технического директора</a></td>
+<td>40 230</td>
+<td>57 471</td>
+<td>90 413</td>
+<td>94 575</td>
+<td>132 241</td>
+<td>140 402</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2096&lang=0" target="_blank" class="job">Директор дополнительного офиса</a></td>
+<td>41 526</td>
+<td>66 701</td>
+<td>101 133</td>
+<td>107 557</td>
+<td>130 603</td>
+<td>149 940</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>66 443</td>
+<td>114 792</td>
+<td>213 589</td>
+<td>238 544</td>
+<td>279 958</td>
+<td>338 030</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2297&lang=0" target="_blank" class="job">Директор по международной деятельности</a></td>
+<td>155 674</td>
+<td>174 281</td>
+<td>210 051</td>
+<td>230 007</td>
+<td>257 217</td>
+<td>264 875</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1428&lang=0" target="_blank" class="job">Директор по персоналу (более 500 сотрудников)</a></td>
+<td>65 345</td>
+<td>85 171</td>
+<td>163 831</td>
+<td>141 253</td>
+<td>238 918</td>
+<td>283 042</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2189&lang=0" target="_blank" class="job">Директор по продажам</a></td>
+<td>81 110</td>
+<td>114 482</td>
+<td>303 476</td>
+<td>241 037</td>
+<td>496 082</td>
+<td>594 721</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1999&lang=0" target="_blank" class="job">Директор по работе с регионами</a></td>
+<td>59 237</td>
+<td>137 365</td>
+<td>227 758</td>
+<td>256 567</td>
+<td>307 785</td>
+<td>355 500</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1286&lang=0" target="_blank" class="job">Директор по развитию</a></td>
+<td>44 672</td>
+<td>83 534</td>
+<td>233 358</td>
+<td>159 210</td>
+<td>312 088</td>
+<td>480 966</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>49 124</td>
+<td>88 128</td>
+<td>254 169</td>
+<td>195 402</td>
+<td>355 017</td>
+<td>460 045</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1939&lang=0" target="_blank" class="job">Заместитель главного инженера проекта</a></td>
+<td>28 736</td>
+<td>44 555</td>
+<td>57 035</td>
+<td>58 409</td>
+<td>74 129</td>
+<td>82 298</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2387&lang=0" target="_blank" class="job">Заместитель главного механика</a></td>
+<td>28 066</td>
+<td>31 491</td>
+<td>45 270</td>
+<td>41 675</td>
+<td>51 848</td>
+<td>67 000</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1680&lang=0" target="_blank" class="job">Заместитель директора</a></td>
+<td>39 133</td>
+<td>57 471</td>
+<td>98 760</td>
+<td>83 122</td>
+<td>146 279</td>
+<td>173 703</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2359&lang=0" target="_blank" class="job">Заместитель директора по персоналу и организационным вопросам</a></td>
+<td>66 494</td>
+<td>78 301</td>
+<td>91 788</td>
+<td>97 590</td>
+<td>108 253</td>
+<td>119 346</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1947&lang=0" target="_blank" class="job">Заместитель коммерческого директора</a></td>
+<td>45 332</td>
+<td>93 903</td>
+<td>155 922</td>
+<td>163 184</td>
+<td>219 212</td>
+<td>256 053</td>
+<td>1 квартал 2014</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1849&lang=0" target="_blank" class="job">Заместитель технического директора</a></td>
+<td>40 230</td>
+<td>57 471</td>
+<td>121 840</td>
+<td>121 967</td>
+<td>184 058</td>
+<td>207 024</td>
+<td>1 квартал 2014</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 24.04.2014)</p>
+</div>

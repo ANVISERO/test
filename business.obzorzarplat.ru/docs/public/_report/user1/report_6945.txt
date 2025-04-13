@@ -1,0 +1,1028 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>до выплаты налогов (gross)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>17 222</td>
+<td>19 451</td>
+<td>24 569</td>
+<td>21 603</td>
+<td>28 736</td>
+<td>35 977</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2006&lang=0" target="_blank" class="job">Бухгалтер 1 категории</a></td>
+<td>40 805</td>
+<td>42 571</td>
+<td>53 739</td>
+<td>47 022</td>
+<td>66 055</td>
+<td>68 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>25 287</td>
+<td>27 011</td>
+<td>31 130</td>
+<td>29 655</td>
+<td>35 571</td>
+<td>39 310</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>21 928</td>
+<td>23 410</td>
+<td>26 076</td>
+<td>25 632</td>
+<td>27 997</td>
+<td>30 067</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1758&lang=0" target="_blank" class="job">Ведущий экономист</a></td>
+<td>22 491</td>
+<td>27 816</td>
+<td>39 835</td>
+<td>28 736</td>
+<td>40 431</td>
+<td>68 448</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>41 443</td>
+<td>46 250</td>
+<td>49 058</td>
+<td>49 425</td>
+<td>51 217</td>
+<td>55 826</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1673&lang=0" target="_blank" class="job">Водитель автомобиля, осуществляющего пассажироперевозки</a></td>
+<td>16 302</td>
+<td>17 615</td>
+<td>20 996</td>
+<td>19 153</td>
+<td>21 948</td>
+<td>24 697</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1265&lang=0" target="_blank" class="job">Водитель легкового автомобиля</a></td>
+<td>17 451</td>
+<td>21 848</td>
+<td>26 708</td>
+<td>27 816</td>
+<td>32 414</td>
+<td>35 000</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1838&lang=0" target="_blank" class="job">Гальваник</a></td>
+<td>15 172</td>
+<td>17 241</td>
+<td>20 080</td>
+<td>17 553</td>
+<td>24 472</td>
+<td>27 356</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>24 605</td>
+<td>30 414</td>
+<td>46 722</td>
+<td>40 331</td>
+<td>55 989</td>
+<td>68 276</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>51 870</td>
+<td>59 173</td>
+<td>66 225</td>
+<td>68 908</td>
+<td>70 933</td>
+<td>81 140</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1389&lang=0" target="_blank" class="job">Грузчик-комплектовщик</a></td>
+<td>7 103</td>
+<td>8 328</td>
+<td>12 387</td>
+<td>12 069</td>
+<td>14 253</td>
+<td>17 701</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>49 620</td>
+<td>56 140</td>
+<td>62 593</td>
+<td>68 966</td>
+<td>75 562</td>
+<td>80 460</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>22 818</td>
+<td>28 513</td>
+<td>46 588</td>
+<td>42 563</td>
+<td>64 368</td>
+<td>79 310</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2034&lang=0" target="_blank" class="job">Заместитель начальника юридического отдела</a></td>
+<td>23 563</td>
+<td>35 053</td>
+<td>43 070</td>
+<td>49 079</td>
+<td>51 724</td>
+<td>53 090</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>15 338</td>
+<td>18 497</td>
+<td>25 585</td>
+<td>23 333</td>
+<td>30 178</td>
+<td>36 986</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>21 241</td>
+<td>22 989</td>
+<td>30 066</td>
+<td>29 074</td>
+<td>36 565</td>
+<td>39 971</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>17 559</td>
+<td>20 920</td>
+<td>22 614</td>
+<td>23 520</td>
+<td>23 977</td>
+<td>25 172</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>12 156</td>
+<td>14 157</td>
+<td>20 755</td>
+<td>17 516</td>
+<td>23 514</td>
+<td>34 483</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1741&lang=0" target="_blank" class="job">Инспектор отдела внутреннего контроля</a></td>
+<td>18 034</td>
+<td>20 420</td>
+<td>22 749</td>
+<td>25 287</td>
+<td>25 287</td>
+<td>25 287</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>9 252</td>
+<td>12 448</td>
+<td>15 601</td>
+<td>15 517</td>
+<td>19 066</td>
+<td>21 629</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1338&lang=0" target="_blank" class="job">Контролер качества</a></td>
+<td>9 812</td>
+<td>10 686</td>
+<td>12 493</td>
+<td>11 834</td>
+<td>12 654</td>
+<td>15 402</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>13 317</td>
+<td>17 622</td>
+<td>24 033</td>
+<td>22 598</td>
+<td>27 310</td>
+<td>36 491</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>18 749</td>
+<td>23 752</td>
+<td>31 840</td>
+<td>30 379</td>
+<td>38 216</td>
+<td>46 374</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>21 552</td>
+<td>25 993</td>
+<td>31 153</td>
+<td>29 655</td>
+<td>35 356</td>
+<td>40 230</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1372&lang=0" target="_blank" class="job">Наладчик</a></td>
+<td>12 790</td>
+<td>15 130</td>
+<td>18 781</td>
+<td>18 413</td>
+<td>22 363</td>
+<td>24 735</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>30 483</td>
+<td>35 632</td>
+<td>53 996</td>
+<td>45 816</td>
+<td>56 487</td>
+<td>68 333</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>40 644</td>
+<td>46 326</td>
+<td>57 855</td>
+<td>57 471</td>
+<td>69 439</td>
+<td>79 885</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>15 811</td>
+<td>18 577</td>
+<td>25 349</td>
+<td>22 102</td>
+<td>27 773</td>
+<td>33 235</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>37 529</td>
+<td>51 256</td>
+<td>66 208</td>
+<td>57 471</td>
+<td>80 460</td>
+<td>96 322</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1866&lang=0" target="_blank" class="job">Опиловщик фасонных отливок</a></td>
+<td>15 572</td>
+<td>16 076</td>
+<td>18 271</td>
+<td>17 908</td>
+<td>20 690</td>
+<td>21 186</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>11 494</td>
+<td>13 793</td>
+<td>18 400</td>
+<td>17 241</td>
+<td>21 839</td>
+<td>24 138</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1379&lang=0" target="_blank" class="job">Продакт-менеджер</a></td>
+<td>35 494</td>
+<td>40 209</td>
+<td>49 012</td>
+<td>45 977</td>
+<td>57 471</td>
+<td>68 966</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1878&lang=0" target="_blank" class="job">Резчик на пилах, ножовках и станках</a></td>
+<td>20 690</td>
+<td>22 681</td>
+<td>28 511</td>
+<td>24 539</td>
+<td>30 203</td>
+<td>46 638</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>18 379</td>
+<td>23 218</td>
+<td>36 291</td>
+<td>34 529</td>
+<td>48 908</td>
+<td>52 069</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1881&lang=0" target="_blank" class="job">Слесарь механосборочных работ</a></td>
+<td>12 636</td>
+<td>14 976</td>
+<td>17 344</td>
+<td>18 613</td>
+<td>19 310</td>
+<td>21 149</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>12 065</td>
+<td>14 027</td>
+<td>19 042</td>
+<td>18 034</td>
+<td>21 517</td>
+<td>27 816</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>31 936</td>
+<td>36 477</td>
+<td>41 613</td>
+<td>42 000</td>
+<td>49 000</td>
+<td>51 028</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>18 367</td>
+<td>22 538</td>
+<td>30 787</td>
+<td>32 755</td>
+<td>37 028</td>
+<td>40 931</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>19 139</td>
+<td>25 862</td>
+<td>36 582</td>
+<td>34 483</td>
+<td>41 236</td>
+<td>51 402</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1635&lang=0" target="_blank" class="job">Станочник широкого профиля</a></td>
+<td>8 665</td>
+<td>20 460</td>
+<td>21 496</td>
+<td>24 138</td>
+<td>25 287</td>
+<td>27 126</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>14 304</td>
+<td>17 258</td>
+<td>21 560</td>
+<td>20 159</td>
+<td>24 691</td>
+<td>29 082</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1421&lang=0" target="_blank" class="job">Торговый супервайзер</a></td>
+<td>21 379</td>
+<td>24 351</td>
+<td>26 358</td>
+<td>25 862</td>
+<td>29 767</td>
+<td>31 322</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>28 161</td>
+<td>33 557</td>
+<td>43 478</td>
+<td>47 414</td>
+<td>51 724</td>
+<td>56 322</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1375&lang=0" target="_blank" class="job">Фрезеровщик</a></td>
+<td>15 348</td>
+<td>16 973</td>
+<td>20 711</td>
+<td>19 770</td>
+<td>23 006</td>
+<td>26 578</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1694&lang=0" target="_blank" class="job">Экономист по планированию</a></td>
+<td>20 000</td>
+<td>21 298</td>
+<td>31 812</td>
+<td>36 521</td>
+<td>39 310</td>
+<td>39 310</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>15 498</td>
+<td>18 103</td>
+<td>23 289</td>
+<td>20 710</td>
+<td>25 116</td>
+<td>31 606</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1761&lang=0" target="_blank" class="job">Электромеханик по лифтам</a></td>
+<td>16 095</td>
+<td>17 962</td>
+<td>19 053</td>
+<td>19 195</td>
+<td>19 891</td>
+<td>21 681</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1297&lang=0" target="_blank" class="job">Бухгалтер</a></td>
+<td>26 437</td>
+<td>30 862</td>
+<td>35 566</td>
+<td>33 333</td>
+<td>39 063</td>
+<td>46 222</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2006&lang=0" target="_blank" class="job">Бухгалтер 1 категории</a></td>
+<td>44 969</td>
+<td>45 977</td>
+<td>56 449</td>
+<td>53 046</td>
+<td>68 861</td>
+<td>68 966</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1243&lang=0" target="_blank" class="job">Ведущий инженер-конструктор</a></td>
+<td>30 805</td>
+<td>37 356</td>
+<td>43 626</td>
+<td>41 389</td>
+<td>52 822</td>
+<td>54 023</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1781&lang=0" target="_blank" class="job">Ведущий инженер-технолог</a></td>
+<td>32 989</td>
+<td>37 471</td>
+<td>39 819</td>
+<td>41 159</td>
+<td>41 341</td>
+<td>42 414</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1758&lang=0" target="_blank" class="job">Ведущий экономист</a></td>
+<td>31 149</td>
+<td>31 149</td>
+<td>45 734</td>
+<td>33 448</td>
+<td>45 031</td>
+<td>68 448</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2093&lang=0" target="_blank" class="job">Ведущий юрисконсульт</a></td>
+<td>41 443</td>
+<td>46 250</td>
+<td>49 058</td>
+<td>49 425</td>
+<td>51 217</td>
+<td>55 826</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1673&lang=0" target="_blank" class="job">Водитель автомобиля, осуществляющего пассажироперевозки</a></td>
+<td>29 375</td>
+<td>29 496</td>
+<td>33 187</td>
+<td>31 773</td>
+<td>35 254</td>
+<td>35 476</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1265&lang=0" target="_blank" class="job">Водитель легкового автомобиля</a></td>
+<td>29 348</td>
+<td>31 350</td>
+<td>37 350</td>
+<td>37 043</td>
+<td>41 205</td>
+<td>46 222</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1838&lang=0" target="_blank" class="job">Гальваник</a></td>
+<td>19 195</td>
+<td>24 598</td>
+<td>28 630</td>
+<td>25 028</td>
+<td>31 034</td>
+<td>37 027</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1294&lang=0" target="_blank" class="job">Главный бухгалтер</a></td>
+<td>36 789</td>
+<td>42 536</td>
+<td>65 121</td>
+<td>58 557</td>
+<td>84 410</td>
+<td>94 503</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1424&lang=0" target="_blank" class="job">Главный конструктор</a></td>
+<td>68 899</td>
+<td>70 586</td>
+<td>86 121</td>
+<td>80 517</td>
+<td>91 992</td>
+<td>107 769</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1389&lang=0" target="_blank" class="job">Грузчик-комплектовщик</a></td>
+<td>11 763</td>
+<td>14 368</td>
+<td>18 038</td>
+<td>17 669</td>
+<td>20 345</td>
+<td>22 989</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2163&lang=0" target="_blank" class="job">Заместитель генерального директора</a></td>
+<td>58 041</td>
+<td>65 389</td>
+<td>73 215</td>
+<td>80 460</td>
+<td>85 494</td>
+<td>91 954</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1295&lang=0" target="_blank" class="job">Заместитель главного бухгалтера</a></td>
+<td>37 264</td>
+<td>43 623</td>
+<td>60 710</td>
+<td>56 318</td>
+<td>79 310</td>
+<td>90 054</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2034&lang=0" target="_blank" class="job">Заместитель начальника юридического отдела</a></td>
+<td>43 900</td>
+<td>46 241</td>
+<td>50 590</td>
+<td>51 724</td>
+<td>53 837</td>
+<td>57 903</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1337&lang=0" target="_blank" class="job">Инженер</a></td>
+<td>23 513</td>
+<td>26 437</td>
+<td>37 548</td>
+<td>38 619</td>
+<td>43 838</td>
+<td>52 874</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1511&lang=0" target="_blank" class="job">Инженер по качеству</a></td>
+<td>25 931</td>
+<td>29 885</td>
+<td>43 290</td>
+<td>44 828</td>
+<td>53 593</td>
+<td>59 330</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1558&lang=0" target="_blank" class="job">Инженер по наладке и испытаниям оборудования</a></td>
+<td>27 191</td>
+<td>32 603</td>
+<td>38 332</td>
+<td>39 562</td>
+<td>41 960</td>
+<td>48 276</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1336&lang=0" target="_blank" class="job">Инженер-технолог</a></td>
+<td>19 894</td>
+<td>23 477</td>
+<td>30 805</td>
+<td>26 155</td>
+<td>33 461</td>
+<td>40 780</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1741&lang=0" target="_blank" class="job">Инспектор отдела внутреннего контроля</a></td>
+<td>19 969</td>
+<td>23 672</td>
+<td>25 190</td>
+<td>25 287</td>
+<td>26 216</td>
+<td>30 751</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1260&lang=0" target="_blank" class="job">Кладовщик</a></td>
+<td>16 556</td>
+<td>19 425</td>
+<td>24 626</td>
+<td>23 298</td>
+<td>29 671</td>
+<td>34 483</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1338&lang=0" target="_blank" class="job">Контролер качества</a></td>
+<td>17 588</td>
+<td>17 648</td>
+<td>18 956</td>
+<td>18 711</td>
+<td>18 900</td>
+<td>21 149</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1339&lang=0" target="_blank" class="job">Мастер</a></td>
+<td>22 371</td>
+<td>23 697</td>
+<td>37 927</td>
+<td>35 387</td>
+<td>44 897</td>
+<td>58 239</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1290&lang=0" target="_blank" class="job">Менеджер по персоналу (до 200 сотрудников)</a></td>
+<td>28 736</td>
+<td>36 920</td>
+<td>45 210</td>
+<td>44 037</td>
+<td>55 392</td>
+<td>60 962</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2032&lang=0" target="_blank" class="job">Менеджер по работе с клиентами</a></td>
+<td>27 901</td>
+<td>30 115</td>
+<td>35 354</td>
+<td>34 483</td>
+<td>39 799</td>
+<td>41 663</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1372&lang=0" target="_blank" class="job">Наладчик</a></td>
+<td>22 358</td>
+<td>23 522</td>
+<td>30 138</td>
+<td>29 345</td>
+<td>35 308</td>
+<td>35 538</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1429&lang=0" target="_blank" class="job">Начальник отдела по работе с персоналом (от 200 до 500 сотрудников)</a></td>
+<td>44 489</td>
+<td>54 422</td>
+<td>73 282</td>
+<td>64 368</td>
+<td>76 371</td>
+<td>91 698</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>47 629</td>
+<td>54 598</td>
+<td>64 194</td>
+<td>59 334</td>
+<td>79 885</td>
+<td>81 034</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1258&lang=0" target="_blank" class="job">Начальник склада</a></td>
+<td>30 435</td>
+<td>30 560</td>
+<td>41 050</td>
+<td>35 793</td>
+<td>47 460</td>
+<td>53 149</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1237&lang=0" target="_blank" class="job">Начальник юридического отдела</a></td>
+<td>53 154</td>
+<td>57 471</td>
+<td>77 636</td>
+<td>74 598</td>
+<td>88 506</td>
+<td>104 974</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1866&lang=0" target="_blank" class="job">Опиловщик фасонных отливок</a></td>
+<td>22 540</td>
+<td>24 641</td>
+<td>31 432</td>
+<td>30 752</td>
+<td>39 204</td>
+<td>41 494</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1370&lang=0" target="_blank" class="job">Повар универсал</a></td>
+<td>17 854</td>
+<td>19 540</td>
+<td>23 736</td>
+<td>23 509</td>
+<td>26 404</td>
+<td>30 874</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1379&lang=0" target="_blank" class="job">Продакт-менеджер</a></td>
+<td>44 368</td>
+<td>52 091</td>
+<td>66 304</td>
+<td>68 966</td>
+<td>78 816</td>
+<td>87 356</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1878&lang=0" target="_blank" class="job">Резчик на пилах, ножовках и станках</a></td>
+<td>24 495</td>
+<td>26 437</td>
+<td>31 980</td>
+<td>28 355</td>
+<td>34 153</td>
+<td>47 907</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1248&lang=0" target="_blank" class="job">Системный администратор</a></td>
+<td>26 437</td>
+<td>32 591</td>
+<td>46 673</td>
+<td>45 977</td>
+<td>59 103</td>
+<td>68 966</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1881&lang=0" target="_blank" class="job">Слесарь механосборочных работ</a></td>
+<td>18 506</td>
+<td>20 156</td>
+<td>26 805</td>
+<td>25 803</td>
+<td>31 724</td>
+<td>40 928</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1342&lang=0" target="_blank" class="job">Слесарь-ремонтник</a></td>
+<td>19 895</td>
+<td>23 418</td>
+<td>28 834</td>
+<td>27 317</td>
+<td>31 526</td>
+<td>42 688</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>35 245</td>
+<td>39 141</td>
+<td>44 653</td>
+<td>47 356</td>
+<td>49 000</td>
+<td>52 293</td>
+<td>1 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>32 162</td>
+<td>33 158</td>
+<td>45 667</td>
+<td>40 230</td>
+<td>61 097</td>
+<td>61 367</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1268&lang=0" target="_blank" class="job">Специалист по маркетингу</a></td>
+<td>23 161</td>
+<td>31 034</td>
+<td>43 348</td>
+<td>41 667</td>
+<td>48 333</td>
+<td>56 920</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1635&lang=0" target="_blank" class="job">Станочник широкого профиля</a></td>
+<td>14 139</td>
+<td>25 811</td>
+<td>31 614</td>
+<td>29 425</td>
+<td>37 701</td>
+<td>43 701</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1374&lang=0" target="_blank" class="job">Токарь</a></td>
+<td>22 989</td>
+<td>23 778</td>
+<td>33 348</td>
+<td>30 779</td>
+<td>40 986</td>
+<td>47 083</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1421&lang=0" target="_blank" class="job">Торговый супервайзер</a></td>
+<td>28 736</td>
+<td>35 869</td>
+<td>48 348</td>
+<td>51 078</td>
+<td>58 897</td>
+<td>64 299</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1300&lang=0" target="_blank" class="job">Финансовый менеджер</a></td>
+<td>40 056</td>
+<td>43 128</td>
+<td>56 465</td>
+<td>57 471</td>
+<td>71 710</td>
+<td>78 161</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1375&lang=0" target="_blank" class="job">Фрезеровщик</a></td>
+<td>22 989</td>
+<td>23 737</td>
+<td>30 293</td>
+<td>29 528</td>
+<td>35 445</td>
+<td>39 039</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1694&lang=0" target="_blank" class="job">Экономист по планированию</a></td>
+<td>24 943</td>
+<td>25 350</td>
+<td>33 553</td>
+<td>37 715</td>
+<td>39 310</td>
+<td>40 436</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1376&lang=0" target="_blank" class="job">Электрогазосварщик</a></td>
+<td>23 621</td>
+<td>29 421</td>
+<td>35 415</td>
+<td>35 201</td>
+<td>41 561</td>
+<td>47 088</td>
+<td>4 квартал 2012</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1761&lang=0" target="_blank" class="job">Электромеханик по лифтам</a></td>
+<td>20 047</td>
+<td>22 372</td>
+<td>23 730</td>
+<td>23 908</td>
+<td>24 775</td>
+<td>27 004</td>
+<td>4 квартал 2012</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 26.02.2013)</p>
+</div>

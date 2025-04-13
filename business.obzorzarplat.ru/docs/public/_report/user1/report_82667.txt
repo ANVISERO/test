@@ -1,0 +1,1268 @@
+
+<link href="/_css/print.css" rel="stylesheet" type="text/css">
+<div class="print">
+<h2>Сводный экспресс отчет о заработной плате</h2>
+<p>Город: Санкт-Петербург</p>
+<p>Фактор не имеет значения </p>
+    <br>
+<p>Все данные представлены в российских рублях <b>после выплаты налогов (net)</b></p>
+
+<h3>1.	Среднемесячные значения должностного оклада (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера </a></td>
+<td>21 200</td>
+<td>23 000</td>
+<td>26 686</td>
+<td>25 800</td>
+<td>30 000</td>
+<td>33 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2663&lang=0" target="_blank" class="job">Байер</a></td>
+<td>35 000</td>
+<td>35 000</td>
+<td>41 636</td>
+<td>40 000</td>
+<td>46 500</td>
+<td>50 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2930&lang=0" target="_blank" class="job">Ведущий менеджер по закупкам</a></td>
+<td>50 420</td>
+<td>55 900</td>
+<td>63 704</td>
+<td>65 000</td>
+<td>70 250</td>
+<td>79 020</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1793&lang=0" target="_blank" class="job">Ведущий менеджер по логистике</a></td>
+<td>50 000</td>
+<td>50 000</td>
+<td>62 583</td>
+<td>57 500</td>
+<td>76 250</td>
+<td>80 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2010&lang=0" target="_blank" class="job">Ведущий специалист по комплектации</a></td>
+<td>41 250</td>
+<td>45 750</td>
+<td>56 719</td>
+<td>56 000</td>
+<td>66 250</td>
+<td>73 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2023&lang=0" target="_blank" class="job">Ведущий специалист по учету</a></td>
+<td>28 200</td>
+<td>29 500</td>
+<td>38 000</td>
+<td>40 000</td>
+<td>42 500</td>
+<td>49 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2347&lang=0" target="_blank" class="job">Водитель автомобиля 4 разряда</a></td>
+<td>19 900</td>
+<td>25 750</td>
+<td>31 650</td>
+<td>31 500</td>
+<td>39 000</td>
+<td>40 950</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2348&lang=0" target="_blank" class="job">Водитель автомобиля 5 разряда</a></td>
+<td>23 100</td>
+<td>23 100</td>
+<td>28 860</td>
+<td>23 100</td>
+<td>35 000</td>
+<td>38 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2349&lang=0" target="_blank" class="job">Водитель автомобиля 6 разряда</a></td>
+<td>25 720</td>
+<td>28 500</td>
+<td>35 980</td>
+<td>34 000</td>
+<td>42 250</td>
+<td>46 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2009&lang=0" target="_blank" class="job">Главный специалист по комплектации</a></td>
+<td>44 500</td>
+<td>48 750</td>
+<td>57 463</td>
+<td>56 000</td>
+<td>66 250</td>
+<td>72 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2019&lang=0" target="_blank" class="job">Главный специалист по логистике</a></td>
+<td>39 100</td>
+<td>47 500</td>
+<td>76 500</td>
+<td>62 500</td>
+<td>92 500</td>
+<td>121 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>34 050</td>
+<td>35 500</td>
+<td>42 890</td>
+<td>42 250</td>
+<td>48 975</td>
+<td>54 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2664&lang=0" target="_blank" class="job">Дизайнер-байер</a></td>
+<td>29 800</td>
+<td>35 000</td>
+<td>39 444</td>
+<td>40 000</td>
+<td>45 000</td>
+<td>48 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2096&lang=0" target="_blank" class="job">Директор дополнительного офиса</a></td>
+<td>50 000</td>
+<td>57 500</td>
+<td>76 364</td>
+<td>80 000</td>
+<td>92 500</td>
+<td>100 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2678&lang=0" target="_blank" class="job">Директор по закупкам и логистике</a></td>
+<td>118 000</td>
+<td>130 000</td>
+<td>177 750</td>
+<td>190 000</td>
+<td>213 750</td>
+<td>242 100</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>90 000</td>
+<td>110 000</td>
+<td>136 147</td>
+<td>142 600</td>
+<td>155 000</td>
+<td>172 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>128 010</td>
+<td>147 750</td>
+<td>194 767</td>
+<td>192 000</td>
+<td>242 500</td>
+<td>263 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2340&lang=0" target="_blank" class="job">Заместитель коммерческого директора по логистике</a></td>
+<td>52 800</td>
+<td>60 000</td>
+<td>73 176</td>
+<td>70 000</td>
+<td>85 000</td>
+<td>96 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2695&lang=0" target="_blank" class="job">Менеджер отдела грузоперевозок</a></td>
+<td>24 036</td>
+<td>26 273</td>
+<td>27 725</td>
+<td>30 000</td>
+<td>30 315</td>
+<td>30 504</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2648&lang=0" target="_blank" class="job">Менеджер по ассортиментной логистике</a></td>
+<td>38 200</td>
+<td>40 000</td>
+<td>44 856</td>
+<td>44 483</td>
+<td>45 996</td>
+<td>52 478</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2691&lang=0" target="_blank" class="job">Менеджер по внутренней логистике</a></td>
+<td>25 810</td>
+<td>27 013</td>
+<td>28 675</td>
+<td>29 018</td>
+<td>30 509</td>
+<td>31 404</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>29 900</td>
+<td>32 300</td>
+<td>39 655</td>
+<td>38 000</td>
+<td>46 000</td>
+<td>49 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2931&lang=0" target="_blank" class="job">Менеджер по закупкам</a></td>
+<td>35 000</td>
+<td>40 000</td>
+<td>49 613</td>
+<td>50 200</td>
+<td>56 200</td>
+<td>65 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2651&lang=0" target="_blank" class="job">Менеджер по логистике</a></td>
+<td>33 600</td>
+<td>40 000</td>
+<td>53 864</td>
+<td>55 000</td>
+<td>65 900</td>
+<td>76 160</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2283&lang=0" target="_blank" class="job">Менеджер по международным перевозкам</a></td>
+<td>33 400</td>
+<td>38 700</td>
+<td>44 032</td>
+<td>40 000</td>
+<td>50 000</td>
+<td>60 320</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1254&lang=0" target="_blank" class="job">Менеджер по складской логистике</a></td>
+<td>40 000</td>
+<td>45 000</td>
+<td>51 276</td>
+<td>50 000</td>
+<td>57 000</td>
+<td>62 280</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1479&lang=0" target="_blank" class="job">Менеджер по транспортной логистике</a></td>
+<td>24 550</td>
+<td>28 750</td>
+<td>36 563</td>
+<td>38 500</td>
+<td>42 750</td>
+<td>46 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2344&lang=0" target="_blank" class="job">Начальник гаража</a></td>
+<td>38 160</td>
+<td>40 750</td>
+<td>46 629</td>
+<td>45 150</td>
+<td>52 250</td>
+<td>56 400</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2692&lang=0" target="_blank" class="job">Начальник отдела грузоперевозок</a></td>
+<td>44 900</td>
+<td>56 250</td>
+<td>64 400</td>
+<td>62 500</td>
+<td>70 000</td>
+<td>81 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1253&lang=0" target="_blank" class="job">Начальник отдела закупок</a></td>
+<td>60 025</td>
+<td>65 900</td>
+<td>93 224</td>
+<td>80 000</td>
+<td>105 265</td>
+<td>143 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2649&lang=0" target="_blank" class="job">Начальник отдела логистики</a></td>
+<td>48 000</td>
+<td>55 600</td>
+<td>77 042</td>
+<td>70 000</td>
+<td>95 400</td>
+<td>111 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>50 000</td>
+<td>57 000</td>
+<td>67 545</td>
+<td>60 000</td>
+<td>82 500</td>
+<td>87 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1252&lang=0" target="_blank" class="job">Начальник отдела складской логистики</a></td>
+<td>57 800</td>
+<td>63 000</td>
+<td>81 152</td>
+<td>79 000</td>
+<td>95 000</td>
+<td>105 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2362&lang=0" target="_blank" class="job">Начальник отдела снабжения управления механизации</a></td>
+<td>45 000</td>
+<td>50 000</td>
+<td>59 091</td>
+<td>60 000</td>
+<td>68 500</td>
+<td>73 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>76 100</td>
+<td>93 500</td>
+<td>116 963</td>
+<td>112 350</td>
+<td>135 250</td>
+<td>167 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>49 117</td>
+<td>55 000</td>
+<td>65 891</td>
+<td>66 739</td>
+<td>70 196</td>
+<td>80 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2977&lang=0" target="_blank" class="job">Начальник отделения почтовой связи</a></td>
+<td>36 050</td>
+<td>37 925</td>
+<td>41 600</td>
+<td>41 150</td>
+<td>44 950</td>
+<td>47 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2102&lang=0" target="_blank" class="job">Начальник снабжения</a></td>
+<td>51 000</td>
+<td>65 000</td>
+<td>82 430</td>
+<td>83 000</td>
+<td>100 000</td>
+<td>109 560</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1256&lang=0" target="_blank" class="job">Начальник таможенной группы</a></td>
+<td>76 400</td>
+<td>90 500</td>
+<td>112 988</td>
+<td>106 450</td>
+<td>129 000</td>
+<td>150 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2254&lang=0" target="_blank" class="job">Оператор логистики</a></td>
+<td>29 600</td>
+<td>33 000</td>
+<td>41 784</td>
+<td>39 000</td>
+<td>49 500</td>
+<td>58 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2976&lang=0" target="_blank" class="job">Оператор связи и ПК</a></td>
+<td>24 400</td>
+<td>26 800</td>
+<td>31 438</td>
+<td>30 800</td>
+<td>36 875</td>
+<td>38 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2693&lang=0" target="_blank" class="job">Ответственный за безопасность дорожного движения</a></td>
+<td>28 564</td>
+<td>33 295</td>
+<td>43 327</td>
+<td>42 500</td>
+<td>54 450</td>
+<td>59 160</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2975&lang=0" target="_blank" class="job">Почтальон отделения почтовой связи</a></td>
+<td>17 900</td>
+<td>19 625</td>
+<td>25 513</td>
+<td>25 050</td>
+<td>30 850</td>
+<td>34 060</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2042&lang=0" target="_blank" class="job">Ревизор</a></td>
+<td>30 000</td>
+<td>30 000</td>
+<td>40 500</td>
+<td>34 000</td>
+<td>48 900</td>
+<td>64 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2688&lang=0" target="_blank" class="job">Региональный менеджер по закупкам</a></td>
+<td>31 600</td>
+<td>35 000</td>
+<td>44 222</td>
+<td>40 000</td>
+<td>57 000</td>
+<td>57 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2658&lang=0" target="_blank" class="job">Руководитель группы закупок</a></td>
+<td>57 600</td>
+<td>60 000</td>
+<td>74 889</td>
+<td>80 000</td>
+<td>85 000</td>
+<td>87 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2647&lang=0" target="_blank" class="job">Руководитель отдела ассортиментной логистики</a></td>
+<td>60 000</td>
+<td>71 250</td>
+<td>79 375</td>
+<td>80 000</td>
+<td>87 500</td>
+<td>96 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2682&lang=0" target="_blank" class="job">Руководитель отдела международной логистики и ВЭД</a></td>
+<td>99 900</td>
+<td>111 750</td>
+<td>126 438</td>
+<td>123 250</td>
+<td>141 000</td>
+<td>154 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>53 000</td>
+<td>59 000</td>
+<td>70 714</td>
+<td>72 000</td>
+<td>82 500</td>
+<td>87 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2690&lang=0" target="_blank" class="job">Руководитель службы внутренней логистики</a></td>
+<td>49 950</td>
+<td>52 500</td>
+<td>67 250</td>
+<td>70 000</td>
+<td>80 000</td>
+<td>80 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2701&lang=0" target="_blank" class="job">Руководитель службы контроля импортных заказов</a></td>
+<td>60 000</td>
+<td>77 500</td>
+<td>88 182</td>
+<td>85 000</td>
+<td>95 000</td>
+<td>120 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1251&lang=0" target="_blank" class="job">Руководитель товарного направления</a></td>
+<td>49 400</td>
+<td>60 000</td>
+<td>73 000</td>
+<td>70 000</td>
+<td>90 000</td>
+<td>101 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>40 230</td>
+<td>42 065</td>
+<td>50 224</td>
+<td>46 000</td>
+<td>54 400</td>
+<td>63 800</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>30 000</td>
+<td>35 000</td>
+<td>41 919</td>
+<td>40 100</td>
+<td>46 875</td>
+<td>56 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>33 250</td>
+<td>38 000</td>
+<td>44 300</td>
+<td>44 400</td>
+<td>50 500</td>
+<td>55 600</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2256&lang=0" target="_blank" class="job">Специалист по логистике</a></td>
+<td>25 000</td>
+<td>30 000</td>
+<td>36 955</td>
+<td>35 000</td>
+<td>44 400</td>
+<td>49 570</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>35 000</td>
+<td>38 125</td>
+<td>44 383</td>
+<td>42 100</td>
+<td>49 625</td>
+<td>55 350</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2022&lang=0" target="_blank" class="job">Специалист по учету</a></td>
+<td>24 440</td>
+<td>25 275</td>
+<td>29 880</td>
+<td>28 750</td>
+<td>31 500</td>
+<td>40 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>40 184</td>
+<td>44 600</td>
+<td>53 626</td>
+<td>55 000</td>
+<td>60 500</td>
+<td>65 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>32 800</td>
+<td>35 375</td>
+<td>47 913</td>
+<td>49 500</td>
+<td>58 000</td>
+<td>61 340</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+
+<h3>2.	Среднемесячные значения заработной платы (руб. в месяц)</h3>
+<table class="business">
+<tr>
+  <th width="20%">Должность</th>
+  <th width="10%">10%</th>
+  <th width="10%">25%</th>
+  <th width="10%">Среднее</th>
+  <th width="10%">50% (Медиана)</th>
+  <th width="10%">75%</th>
+  <th width="10%">90%</th>
+  <th width="10%">Обновление</th>
+</tr>
+
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2119&lang=0" target="_blank" class="job">Ассистент менеджера </a></td>
+<td>23 460</td>
+<td>24 884</td>
+<td>29 871</td>
+<td>29 200</td>
+<td>33 417</td>
+<td>38 520</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2663&lang=0" target="_blank" class="job">Байер</a></td>
+<td>46 000</td>
+<td>50 000</td>
+<td>54 673</td>
+<td>58 500</td>
+<td>59 450</td>
+<td>60 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2930&lang=0" target="_blank" class="job">Ведущий менеджер по закупкам</a></td>
+<td>65 455</td>
+<td>72 350</td>
+<td>92 712</td>
+<td>87 500</td>
+<td>114 421</td>
+<td>119 823</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1793&lang=0" target="_blank" class="job">Ведущий менеджер по логистике</a></td>
+<td>63 119</td>
+<td>65 500</td>
+<td>86 898</td>
+<td>93 500</td>
+<td>105 750</td>
+<td>108 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2010&lang=0" target="_blank" class="job">Ведущий специалист по комплектации</a></td>
+<td>47 200</td>
+<td>52 088</td>
+<td>67 963</td>
+<td>68 600</td>
+<td>82 267</td>
+<td>90 350</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2023&lang=0" target="_blank" class="job">Ведущий специалист по учету</a></td>
+<td>35 900</td>
+<td>42 000</td>
+<td>47 714</td>
+<td>49 500</td>
+<td>52 000</td>
+<td>57 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2347&lang=0" target="_blank" class="job">Водитель автомобиля 4 разряда</a></td>
+<td>35 943</td>
+<td>37 550</td>
+<td>43 391</td>
+<td>43 924</td>
+<td>49 250</td>
+<td>51 116</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2348&lang=0" target="_blank" class="job">Водитель автомобиля 5 разряда</a></td>
+<td>41 397</td>
+<td>43 067</td>
+<td>42 590</td>
+<td>43 200</td>
+<td>43 200</td>
+<td>43 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2349&lang=0" target="_blank" class="job">Водитель автомобиля 6 разряда</a></td>
+<td>33 477</td>
+<td>37 400</td>
+<td>47 027</td>
+<td>45 100</td>
+<td>54 250</td>
+<td>57 650</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2009&lang=0" target="_blank" class="job">Главный специалист по комплектации</a></td>
+<td>54 709</td>
+<td>60 492</td>
+<td>69 820</td>
+<td>64 605</td>
+<td>80 727</td>
+<td>87 275</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2019&lang=0" target="_blank" class="job">Главный специалист по логистике</a></td>
+<td>56 700</td>
+<td>68 250</td>
+<td>102 563</td>
+<td>82 500</td>
+<td>114 875</td>
+<td>156 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1794&lang=0" target="_blank" class="job">Декларант</a></td>
+<td>39 105</td>
+<td>45 623</td>
+<td>63 367</td>
+<td>60 595</td>
+<td>69 237</td>
+<td>101 274</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2664&lang=0" target="_blank" class="job">Дизайнер-байер</a></td>
+<td>47 900</td>
+<td>50 500</td>
+<td>52 043</td>
+<td>52 500</td>
+<td>54 500</td>
+<td>57 278</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2096&lang=0" target="_blank" class="job">Директор дополнительного офиса</a></td>
+<td>83 000</td>
+<td>84 750</td>
+<td>107 773</td>
+<td>112 500</td>
+<td>125 750</td>
+<td>140 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2678&lang=0" target="_blank" class="job">Директор по закупкам и логистике</a></td>
+<td>150 510</td>
+<td>206 700</td>
+<td>298 531</td>
+<td>307 817</td>
+<td>414 417</td>
+<td>431 862</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1233&lang=0" target="_blank" class="job">Директор по качеству</a></td>
+<td>117 120</td>
+<td>133 250</td>
+<td>214 605</td>
+<td>215 300</td>
+<td>270 650</td>
+<td>324 290</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1232&lang=0" target="_blank" class="job">Директор по логистике</a></td>
+<td>175 645</td>
+<td>190 694</td>
+<td>289 043</td>
+<td>271 542</td>
+<td>389 417</td>
+<td>420 967</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2340&lang=0" target="_blank" class="job">Заместитель коммерческого директора по логистике</a></td>
+<td>81 340</td>
+<td>92 650</td>
+<td>116 620</td>
+<td>110 300</td>
+<td>127 850</td>
+<td>164 530</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2695&lang=0" target="_blank" class="job">Менеджер отдела грузоперевозок</a></td>
+<td>25 444</td>
+<td>27 603</td>
+<td>29 259</td>
+<td>31 200</td>
+<td>31 887</td>
+<td>32 298</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2648&lang=0" target="_blank" class="job">Менеджер по ассортиментной логистике</a></td>
+<td>45 890</td>
+<td>48 000</td>
+<td>60 686</td>
+<td>56 007</td>
+<td>70 440</td>
+<td>78 876</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2691&lang=0" target="_blank" class="job">Менеджер по внутренней логистике</a></td>
+<td>25 810</td>
+<td>27 013</td>
+<td>28 675</td>
+<td>29 018</td>
+<td>30 509</td>
+<td>31 404</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1745&lang=0" target="_blank" class="job">Менеджер по доставкам</a></td>
+<td>42 534</td>
+<td>45 000</td>
+<td>52 206</td>
+<td>52 000</td>
+<td>58 907</td>
+<td>63 210</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2931&lang=0" target="_blank" class="job">Менеджер по закупкам</a></td>
+<td>46 133</td>
+<td>53 400</td>
+<td>64 461</td>
+<td>63 100</td>
+<td>71 025</td>
+<td>83 460</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2651&lang=0" target="_blank" class="job">Менеджер по логистике</a></td>
+<td>45 152</td>
+<td>53 266</td>
+<td>71 406</td>
+<td>63 983</td>
+<td>85 259</td>
+<td>106 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2283&lang=0" target="_blank" class="job">Менеджер по международным перевозкам</a></td>
+<td>45 900</td>
+<td>50 500</td>
+<td>64 075</td>
+<td>57 500</td>
+<td>70 900</td>
+<td>79 240</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1254&lang=0" target="_blank" class="job">Менеджер по складской логистике</a></td>
+<td>48 773</td>
+<td>53 033</td>
+<td>64 071</td>
+<td>60 700</td>
+<td>71 900</td>
+<td>85 362</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1479&lang=0" target="_blank" class="job">Менеджер по транспортной логистике</a></td>
+<td>45 500</td>
+<td>49 250</td>
+<td>54 913</td>
+<td>52 650</td>
+<td>59 500</td>
+<td>66 700</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2344&lang=0" target="_blank" class="job">Начальник гаража</a></td>
+<td>46 679</td>
+<td>50 425</td>
+<td>59 980</td>
+<td>55 709</td>
+<td>67 271</td>
+<td>75 678</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2692&lang=0" target="_blank" class="job">Начальник отдела грузоперевозок</a></td>
+<td>75 700</td>
+<td>81 425</td>
+<td>89 859</td>
+<td>91 000</td>
+<td>100 223</td>
+<td>104 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1253&lang=0" target="_blank" class="job">Начальник отдела закупок</a></td>
+<td>98 951</td>
+<td>106 235</td>
+<td>148 878</td>
+<td>141 258</td>
+<td>175 438</td>
+<td>223 850</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2649&lang=0" target="_blank" class="job">Начальник отдела логистики</a></td>
+<td>74 252</td>
+<td>90 500</td>
+<td>105 333</td>
+<td>100 890</td>
+<td>112 500</td>
+<td>143 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1721&lang=0" target="_blank" class="job">Начальник отдела материально-технического снабжения</a></td>
+<td>76 000</td>
+<td>85 800</td>
+<td>90 891</td>
+<td>92 500</td>
+<td>98 750</td>
+<td>100 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1252&lang=0" target="_blank" class="job">Начальник отдела складской логистики</a></td>
+<td>75 650</td>
+<td>85 900</td>
+<td>106 467</td>
+<td>109 500</td>
+<td>127 083</td>
+<td>135 573</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2362&lang=0" target="_blank" class="job">Начальник отдела снабжения управления механизации</a></td>
+<td>69 000</td>
+<td>73 450</td>
+<td>78 099</td>
+<td>76 890</td>
+<td>85 000</td>
+<td>88 500</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1796&lang=0" target="_blank" class="job">Начальник отдела таможенного оформления</a></td>
+<td>104 037</td>
+<td>120 479</td>
+<td>168 165</td>
+<td>170 792</td>
+<td>197 238</td>
+<td>246 130</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1477&lang=0" target="_blank" class="job">Начальник отдела транспортной логистики</a></td>
+<td>54 702</td>
+<td>70 000</td>
+<td>82 199</td>
+<td>76 396</td>
+<td>91 469</td>
+<td>116 004</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2977&lang=0" target="_blank" class="job">Начальник отделения почтовой связи</a></td>
+<td>45 490</td>
+<td>51 779</td>
+<td>59 073</td>
+<td>59 125</td>
+<td>66 100</td>
+<td>72 280</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2102&lang=0" target="_blank" class="job">Начальник снабжения</a></td>
+<td>71 698</td>
+<td>87 750</td>
+<td>109 343</td>
+<td>112 500</td>
+<td>127 592</td>
+<td>144 827</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1256&lang=0" target="_blank" class="job">Начальник таможенной группы</a></td>
+<td>106 267</td>
+<td>112 642</td>
+<td>150 652</td>
+<td>138 917</td>
+<td>169 158</td>
+<td>211 653</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2254&lang=0" target="_blank" class="job">Оператор логистики</a></td>
+<td>34 800</td>
+<td>43 750</td>
+<td>52 376</td>
+<td>50 500</td>
+<td>63 925</td>
+<td>70 003</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2976&lang=0" target="_blank" class="job">Оператор связи и ПК</a></td>
+<td>31 235</td>
+<td>34 682</td>
+<td>41 218</td>
+<td>41 008</td>
+<td>45 392</td>
+<td>50 737</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2693&lang=0" target="_blank" class="job">Ответственный за безопасность дорожного движения</a></td>
+<td>35 464</td>
+<td>40 462</td>
+<td>51 046</td>
+<td>51 500</td>
+<td>60 950</td>
+<td>68 700</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2975&lang=0" target="_blank" class="job">Почтальон отделения почтовой связи</a></td>
+<td>24 742</td>
+<td>27 198</td>
+<td>33 387</td>
+<td>31 763</td>
+<td>37 750</td>
+<td>45 970</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2042&lang=0" target="_blank" class="job">Ревизор</a></td>
+<td>35 656</td>
+<td>39 500</td>
+<td>51 978</td>
+<td>48 100</td>
+<td>54 633</td>
+<td>81 633</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2688&lang=0" target="_blank" class="job">Региональный менеджер по закупкам</a></td>
+<td>44 040</td>
+<td>50 500</td>
+<td>59 689</td>
+<td>60 500</td>
+<td>72 500</td>
+<td>73 300</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2658&lang=0" target="_blank" class="job">Руководитель группы закупок</a></td>
+<td>82 500</td>
+<td>87 500</td>
+<td>97 011</td>
+<td>100 500</td>
+<td>101 500</td>
+<td>113 340</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2647&lang=0" target="_blank" class="job">Руководитель отдела ассортиментной логистики</a></td>
+<td>99 600</td>
+<td>104 250</td>
+<td>108 250</td>
+<td>107 250</td>
+<td>112 125</td>
+<td>118 050</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2682&lang=0" target="_blank" class="job">Руководитель отдела международной логистики и ВЭД</a></td>
+<td>139 318</td>
+<td>146 658</td>
+<td>196 846</td>
+<td>192 875</td>
+<td>214 475</td>
+<td>267 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2685&lang=0" target="_blank" class="job">Руководитель отдела развития производственных ресурсов</a></td>
+<td>70 950</td>
+<td>76 375</td>
+<td>93 810</td>
+<td>89 167</td>
+<td>110 500</td>
+<td>120 100</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2690&lang=0" target="_blank" class="job">Руководитель службы внутренней логистики</a></td>
+<td>89 200</td>
+<td>90 125</td>
+<td>91 480</td>
+<td>91 150</td>
+<td>92 375</td>
+<td>95 150</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2701&lang=0" target="_blank" class="job">Руководитель службы контроля импортных заказов</a></td>
+<td>92 500</td>
+<td>104 250</td>
+<td>115 655</td>
+<td>107 500</td>
+<td>121 600</td>
+<td>155 000</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1251&lang=0" target="_blank" class="job">Руководитель товарного направления</a></td>
+<td>78 700</td>
+<td>97 000</td>
+<td>104 867</td>
+<td>111 800</td>
+<td>121 500</td>
+<td>122 900</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1257&lang=0" target="_blank" class="job">Специалист по ВЭД</a></td>
+<td>48 200</td>
+<td>52 583</td>
+<td>63 565</td>
+<td>62 230</td>
+<td>69 142</td>
+<td>80 217</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1255&lang=0" target="_blank" class="job">Специалист по закупкам</a></td>
+<td>39 306</td>
+<td>43 371</td>
+<td>53 955</td>
+<td>47 750</td>
+<td>60 075</td>
+<td>76 295</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2011&lang=0" target="_blank" class="job">Специалист по комплектации</a></td>
+<td>39 661</td>
+<td>41 825</td>
+<td>51 321</td>
+<td>51 059</td>
+<td>59 196</td>
+<td>62 334</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2256&lang=0" target="_blank" class="job">Специалист по логистике</a></td>
+<td>34 750</td>
+<td>40 755</td>
+<td>57 065</td>
+<td>47 750</td>
+<td>63 371</td>
+<td>94 732</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2020&lang=0" target="_blank" class="job">Специалист по снабжению</a></td>
+<td>44 787</td>
+<td>46 453</td>
+<td>57 934</td>
+<td>55 525</td>
+<td>65 467</td>
+<td>74 200</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2022&lang=0" target="_blank" class="job">Специалист по учету</a></td>
+<td>30 650</td>
+<td>31 250</td>
+<td>35 629</td>
+<td>34 695</td>
+<td>37 250</td>
+<td>43 700</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=1795&lang=0" target="_blank" class="job">Старший декларант</a></td>
+<td>49 751</td>
+<td>58 517</td>
+<td>80 615</td>
+<td>75 450</td>
+<td>89 542</td>
+<td>121 113</td>
+<td>2 квартал 2019</td>
+</tr>
+<tr>
+<td class="left"><a href="/servis/job_description/view/?id=2284&lang=0" target="_blank" class="job">Таможенный декларант</a></td>
+<td>38 420</td>
+<td>41 029</td>
+<td>58 030</td>
+<td>58 584</td>
+<td>67 109</td>
+<td>75 028</td>
+<td>2 квартал 2019</td>
+</tr>
+</table>
+<h3>3. Глоссарий</h3>
+<p><b><i>Должностной оклад</i></b> - ежемесячный размер оплаты труда работника, зависящий от занимаемой должности
+    и требований к квалификации, предъявляемых содержанием выполняемых работ,
+    а также деловых качеств работника. Должностной оклад устанавливается, как правило,
+    в расчете на месяц и используется в организациях для оплаты руководителей, служащих и специалистов.
+    Оклад должностной – основа исчисления общего заработка сотрудников, так как на него начисляется премия,
+    доплаты и надбавки. Должностной оклад зафиксирован в штатном расписании, представляя собой
+    гарантированную сумму выплат в соответствии с Трудовым Кодексом РФ.</p>
+<p><b><i>Заработная плата</i></b> - совокупность вознаграждений, выплачиваемых сотруднику
+    за исполнение трудовых обязанностей и достижение результатов.
+    Включает в себя оклад, надбавки, доплаты, премии и бонусы.</p>
+<p><b><i>10 процентиль</i></b> - значение, ниже которого расположено 10% результатов наблюдений</p>
+<p><b><i>25 процентиль</i></b> - значение, ниже которого расположено 25% результатов наблюдений</p>
+<p><b><i>50 процентиль (медиана)</i></b> - значение, ниже которого расположена половина результатов наблюдений</p>
+<p><b><i>Среднее значение заработной платы</i></b>
+<ol><li>отношение фонда заработной платы к среднесписочной численности в целом по организации и категориям
+работников. Используется как аналитический и динамический показатель организации.
+Может исчисляться как среднемесячная или среднегодовая в зависимости от целевой направленности.</li>
+<li>отношение фактически начисленной работнику заработной платы (в которую включаются все выплаты,
+предусмотренные системой оплаты труда, применяемые в организации независимо от источников этих выплат)
+к фактически отработанному им времени за 12 месяцев, предшествующему моменту выплаты.
+Регулируется статьей 139 Трудового Кодекса РФ.</li></ol>
+</p>
+<p><b><i>75 процентиль</i></b> - значение, выше которого расположено 25% результатов наблюдений</p>
+<p><b><i>90 процентиль</i></b> - значение, выше которого расположено 10% результатов наблюдений</p>
+
+<br>
+<p align="right">Подготовлено порталом <a href="obzorzarplat.ru">obzorzarplat.ru</a></p>
+<p align="right"> (Дата составления отчета: 01.08.2019)</p>
+</div>
